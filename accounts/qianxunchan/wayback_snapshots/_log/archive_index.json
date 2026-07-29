@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T12:52:48",
+  "last_updated": "2026-07-29T12:55:39",
   "html": {
     "https://web.archive.org/web/20260215045030if_/https://twitter.com/qianxunchan/status/2022896278112469355": {
       "status": "done",
@@ -28945,18 +28945,18 @@
       "referenced_by": [
         "20260505182833_twitter_com_qianxunchan_status_2051730785678528813.json"
       ],
-      "last_updated": "2026-07-29T09:22:07",
+      "last_updated": "2026-07-29T12:55:26",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260505182833/https://video.twimg.com/amplify_video/2051580167647281152/vid/avc1/720x1280/exmuN1ns_ErjZCjR.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2051711721451257856/pu/vid/avc1/582x1280/2o0G4sJWLpdUJhq_.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260505211609_twitter_com_qianxunchan_status_2051772965264744477.json"
       ],
-      "last_updated": "2026-07-29T09:22:07",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260505211609/https://video.twimg.com/ext_tw_video/2051711721451257856/pu/vid/avc1/582x1280/2o0G4sJWLpdUJhq_.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-29T12:55:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505211609/https://video.twimg.com/ext_tw_video/2051711721451257856/pu/vid/avc1/582x1280/2o0G4sJWLpdUJhq_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0c70770aa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2052096825784680449/vid/avc1/2160x1724/fCecwjWNjksnKL3Y.mp4": {
       "status": "done",
@@ -28970,9 +28970,9 @@
       "referenced_by": [
         "20260506192639_twitter_com_qianxunchan_status_2052107796469231795.json"
       ],
-      "last_updated": "2026-07-29T09:22:07",
+      "last_updated": "2026-07-29T12:55:37",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260506192639/https://video.twimg.com/amplify_video/2052106201840893952/vid/avc1/1206x2622/WTKG0OD9BXdEehM3.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2052528159015542784/vid/avc1/2160x3840/lnsMW2sMWoDSWMpy.mp4": {
       "status": "done",
@@ -29132,9 +29132,9 @@
         "20260607231733_twitter_com_qianxunchan_status_2063762314822873546.json",
         "20260607233646_twitter_com_qianxunchan_status_2063767149634863495.json"
       ],
-      "last_updated": "2026-07-29T09:22:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260607233646/https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/570x1280/Ht3IL6DcCUI3zWV8.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T12:55:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260607231733/https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/570x1280/Ht3IL6DcCUI3zWV8.mp4",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2067094610112135168/vid/avc1/1280x720/7fmGbqmZOwEtYavB.mp4": {
       "status": "done",
@@ -66367,7 +66367,7 @@
       "miss_count": 2
     },
     "20260505211609_twitter_com_qianxunchan_status_2051772965264744477.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -66378,7 +66378,7 @@
           "https://pbs.twimg.com/profile_images/2040544704404836352/A-REkNUV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:27:17"
+      "last_updated": "2026-07-29T12:55:35"
     },
     "20260505215005_twitter_com_qianxunchan_status_2051781505656209898.json": {
       "status": "done",
