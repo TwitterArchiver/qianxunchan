@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047731796876656640"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2047731851687772598",
+    "created_at": "2026-04-24T17:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047731851687772598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "-, 视频播放量 58821、弹幕量 2、点赞数 407、投硬币枚数 14、收藏人数 438、转发人数 2, 视频作者 刚者2号, 作者简介 爱玩模型，相关视频：战术作弊车 机甲大师 超级好用 下场神器，彩弹枪凭啥能打那么远？！，大疆机甲大师S1被熊孩子弄坏前最后画面，熊孩子玩飞机坠机，后续来了，当你带了发射器去充气城堡时。，大疆机甲大师S1被熊孩子弄翻车怎么办？，可爱的机甲大师S1最后被制裁了。，大疆机甲大师S1水弹暴打大人和小朋友，大疆机甲大师追逐小狗，之后被人拦截，满级年兽击杀秀/手感与强度并存",
+          "display_url": "b23.tv/NdSdldh",
+          "end": 151,
+          "expanded_url": "https://b23.tv/NdSdldh",
+          "start": 128,
+          "status": 200,
+          "title": "大疆机甲大师S1水弹发射（纯享版）_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV12dd6BaEBv/?buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=main.ugc-video-detail-vertical.0.0&is_story_h5=false&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8f621d27-f1e8-4f91-afb9-72a66503ae60&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1777051934&unique_k=NdSdldh&up_id=1344544474",
+          "url": "https://t.co/QMivqMPR6O"
+        },
+        {
+          "display_url": "pic.x.com/Suci9H7OFi",
+          "end": 175,
+          "expanded_url": "https://x.com/qianxunchan/status/2047731851687772598/video/1",
+          "media_key": "13_2047731796876656640",
+          "start": 152,
+          "url": "https://t.co/Suci9H7OFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047731851687772598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的这种神人天天开个大疆机器人跑去路上面射路人，以为自己玩开放世界游戏呢😅😅blbl还有8000多粉丝，大家能不能给他上点课啊，哪有拿机器人射路人的啊，万一射人家眼睛里面怎么办呢😅😅\n\n视频链接在底下：\n\n【大疆机甲大师S1水弹发射（纯享版）-哔哩哔哩】 https://t.co/QMivqMPR6O https://t.co/Suci9H7OFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75566,
+        "height": 590,
+        "media_key": "13_2047731796876656640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047731796876656640/img/YCSBoq5WGXiUGrBJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047731796876656640/vid/avc1/584x270/j0TOMCdLIOdCSY2B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047731796876656640/vid/avc1/780x360/NRCOnF4sjm1xU4qe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047731796876656640/vid/avc1/1280x590/i3vgch6GCAIkZbMT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047731796876656640/pl/A76uZcHWIU6phL8l.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047731796876656640"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2047731851687772598",
+        "created_at": "2026-04-24T17:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047731851687772598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 58821、弹幕量 2、点赞数 407、投硬币枚数 14、收藏人数 438、转发人数 2, 视频作者 刚者2号, 作者简介 爱玩模型，相关视频：战术作弊车 机甲大师 超级好用 下场神器，彩弹枪凭啥能打那么远？！，大疆机甲大师S1被熊孩子弄坏前最后画面，熊孩子玩飞机坠机，后续来了，当你带了发射器去充气城堡时。，大疆机甲大师S1被熊孩子弄翻车怎么办？，可爱的机甲大师S1最后被制裁了。，大疆机甲大师S1水弹暴打大人和小朋友，大疆机甲大师追逐小狗，之后被人拦截，满级年兽击杀秀/手感与强度并存",
+              "display_url": "b23.tv/NdSdldh",
+              "end": 151,
+              "expanded_url": "https://b23.tv/NdSdldh",
+              "start": 128,
+              "status": 200,
+              "title": "大疆机甲大师S1水弹发射（纯享版）_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV12dd6BaEBv/?buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=main.ugc-video-detail-vertical.0.0&is_story_h5=false&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8f621d27-f1e8-4f91-afb9-72a66503ae60&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1777051934&unique_k=NdSdldh&up_id=1344544474",
+              "url": "https://t.co/QMivqMPR6O"
+            },
+            {
+              "display_url": "pic.x.com/Suci9H7OFi",
+              "end": 175,
+              "expanded_url": "https://x.com/qianxunchan/status/2047731851687772598/video/1",
+              "media_key": "13_2047731796876656640",
+              "start": 152,
+              "url": "https://t.co/Suci9H7OFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047731851687772598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的这种神人天天开个大疆机器人跑去路上面射路人，以为自己玩开放世界游戏呢😅😅blbl还有8000多粉丝，大家能不能给他上点课啊，哪有拿机器人射路人的啊，万一射人家眼睛里面怎么办呢😅😅\n\n视频链接在底下：\n\n【大疆机甲大师S1水弹发射（纯享版）-哔哩哔哩】 https://t.co/QMivqMPR6O https://t.co/Suci9H7OFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 955,
+          "like_count": 2063,
+          "listed_count": 5,
+          "media_count": 478,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

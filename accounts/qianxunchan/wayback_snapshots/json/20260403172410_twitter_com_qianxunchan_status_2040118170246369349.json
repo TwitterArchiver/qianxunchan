@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040118166794514432",
+        "3_2040118166786129920"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040118170246369349",
+    "created_at": "2026-04-03T17:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040118170246369349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Maoz4OHnuN",
+          "end": 96,
+          "expanded_url": "https://x.com/qianxunchan/status/2040118170246369349/photo/1",
+          "media_key": "3_2040118166794514432",
+          "start": 73,
+          "url": "https://t.co/Maoz4OHnuN"
+        },
+        {
+          "display_url": "pic.x.com/Maoz4OHnuN",
+          "end": 96,
+          "expanded_url": "https://x.com/qianxunchan/status/2040118170246369349/photo/1",
+          "media_key": "3_2040118166786129920",
+          "start": 73,
+          "url": "https://t.co/Maoz4OHnuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040118170246369349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我美签过了！好开心大家能祝贺我吗喵！\n我终于可以去美国惹🥹😆😋\n美国我来惹！去哪里好呢？\n旧金山吧！☝️🤓就喜欢金门大桥喵\n大家有推荐的地方吗喵 https://t.co/Maoz4OHnuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040118166794514432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_0qeebsAAWexO.jpg",
+        "width": 800
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040118166786129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_0qecbwAA6kK6.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040118166794514432",
+            "3_2040118166786129920"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040118170246369349",
+        "created_at": "2026-04-03T17:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040118170246369349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Maoz4OHnuN",
+              "end": 96,
+              "expanded_url": "https://x.com/qianxunchan/status/2040118170246369349/photo/1",
+              "media_key": "3_2040118166794514432",
+              "start": 73,
+              "url": "https://t.co/Maoz4OHnuN"
+            },
+            {
+              "display_url": "pic.x.com/Maoz4OHnuN",
+              "end": 96,
+              "expanded_url": "https://x.com/qianxunchan/status/2040118170246369349/photo/1",
+              "media_key": "3_2040118166786129920",
+              "start": 73,
+              "url": "https://t.co/Maoz4OHnuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040118170246369349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我美签过了！好开心大家能祝贺我吗喵！\n我终于可以去美国惹🥹😆😋\n美国我来惹！去哪里好呢？\n旧金山吧！☝️🤓就喜欢金门大桥喵\n大家有推荐的地方吗喵 https://t.co/Maoz4OHnuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 836,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 715
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

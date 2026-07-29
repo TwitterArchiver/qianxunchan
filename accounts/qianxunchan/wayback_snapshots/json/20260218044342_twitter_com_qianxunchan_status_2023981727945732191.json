@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023981723575611398",
+        "3_2023981723579805696",
+        "3_2023981723575611392",
+        "3_2023981723563032576"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2023981727945732191",
+    "created_at": "2026-02-18T04:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023981727945732191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/STAAszOuQ9",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+          "media_key": "3_2023981723575611398",
+          "start": 35,
+          "url": "https://t.co/STAAszOuQ9"
+        },
+        {
+          "display_url": "pic.x.com/STAAszOuQ9",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+          "media_key": "3_2023981723579805696",
+          "start": 35,
+          "url": "https://t.co/STAAszOuQ9"
+        },
+        {
+          "display_url": "pic.x.com/STAAszOuQ9",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+          "media_key": "3_2023981723575611392",
+          "start": 35,
+          "url": "https://t.co/STAAszOuQ9"
+        },
+        {
+          "display_url": "pic.x.com/STAAszOuQ9",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+          "media_key": "3_2023981723563032576",
+          "start": 35,
+          "url": "https://t.co/STAAszOuQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023981727945732191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旧金山唐人街新年活动好开心哦今天但是下雨了后面不能游街了好失落www https://t.co/STAAszOuQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2023981723575611398",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBagp3GbcAYW6j6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2023981723579805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBagp3HbcAA4wOY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023981723575611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBagp3GbcAAmjNo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023981723563032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBagp3DbgAAabMi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023981723575611398",
+            "3_2023981723579805696",
+            "3_2023981723575611392",
+            "3_2023981723563032576"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023981727945732191",
+        "created_at": "2026-02-18T04:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023981727945732191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STAAszOuQ9",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+              "media_key": "3_2023981723575611398",
+              "start": 35,
+              "url": "https://t.co/STAAszOuQ9"
+            },
+            {
+              "display_url": "pic.x.com/STAAszOuQ9",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+              "media_key": "3_2023981723579805696",
+              "start": 35,
+              "url": "https://t.co/STAAszOuQ9"
+            },
+            {
+              "display_url": "pic.x.com/STAAszOuQ9",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+              "media_key": "3_2023981723575611392",
+              "start": 35,
+              "url": "https://t.co/STAAszOuQ9"
+            },
+            {
+              "display_url": "pic.x.com/STAAszOuQ9",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2023981727945732191/photo/1",
+              "media_key": "3_2023981723563032576",
+              "start": 35,
+              "url": "https://t.co/STAAszOuQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023981727945732191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旧金山唐人街新年活动好开心哦今天但是下雨了后面不能游街了好失落www https://t.co/STAAszOuQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "是一只不大聪明笨蛋，体重:58kg，身高180 笨蛋现在18岁了喵，中国的家在江門哦，我现在在旧金山还没回国哦，喵喵喵，爱好:漫展，骑车，户外，刷机",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 107,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 90
+        },
+        "username": "qianxunchan",
+        "verified": false
+      }
+    ]
+  }
+}

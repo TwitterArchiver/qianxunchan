@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034227751604101269",
+    "created_at": "2026-03-19T01:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T02:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034437191041270100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1391704677591379970",
+          "start": 0,
+          "username": "fnkwhb"
+        },
+        {
+          "end": 19,
+          "id": "1224953820716945408",
+          "start": 8,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034437191041270100",
+    "in_reply_to_user_id": "1391704677591379970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034309815267479723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnkwhb @ChingteLai 王哥你活的不如正常流浪汉这是真的，你收手把回国把！机票我出0.01%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034227751604101269",
+        "created_at": "2026-03-19T01:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034437191041270100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1391704677591379970",
+              "start": 0,
+              "username": "fnkwhb"
+            },
+            {
+              "end": 19,
+              "id": "1224953820716945408",
+              "start": 8,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034437191041270100",
+        "in_reply_to_user_id": "1391704677591379970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034309815267479723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnkwhb @ChingteLai 王哥你活的不如正常流浪汉这是真的，你收手把回国把！机票我出0.01%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391704677591379970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2034227751604101269",
+        "created_at": "2026-03-18T16:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034309815267479723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034309815267479723",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 755,
+                "id": "2359926157",
+                "start": 751,
+                "username": "CIA"
+              },
+              {
+                "end": 760,
+                "id": "17629860",
+                "start": 756,
+                "username": "FBI"
+              },
+              {
+                "end": 767,
+                "id": "1879650942410481666",
+                "start": 761,
+                "username": "POTUS"
+              },
+              {
+                "end": 771,
+                "id": "1879652428490149888",
+                "start": 768,
+                "username": "VP"
+              },
+              {
+                "end": 779,
+                "id": "15647676",
+                "start": 772,
+                "username": "DHSgov"
+              },
+              {
+                "end": 790,
+                "id": "9624742",
+                "start": 780,
+                "username": "StateDept"
+              },
+              {
+                "end": 806,
+                "id": "73181712",
+                "start": 791,
+                "username": "TheJusticeDept"
+              },
+              {
+                "end": 811,
+                "id": "28785486",
+                "start": 807,
+                "username": "ABC"
+              },
+              {
+                "end": 820,
+                "id": "1367531",
+                "start": 812,
+                "username": "FoxNews"
+              },
+              {
+                "end": 825,
+                "id": "759251",
+                "start": 821,
+                "username": "CNN"
+              },
+              {
+                "end": 830,
+                "id": "19701628",
+                "start": 826,
+                "username": "BBC"
+              }
+            ]
+          },
+          "text": "中国领导人习近平通过加密频道对我说：我和彭丽媛命令前台湾国民党主席洪秀柱协助命令14名台湾台湾军事情报局特工从事间谍活动、实施恐怖袭击。这些台湾军事情报局特工每个人都可以徒手拧断人的脖子！ 我曾经命令台湾国民党、台湾军事情报局协助乔拜登邮寄伪造的选票、入侵电子投票记票机、帮助乔拜登窃取了总统选举！\n\n 我指控中国政府、台湾国民党、台湾军事情报局帮助乔·拜登邮寄伪造选票，并入侵电子投票机，以帮助他赢得总统大选！涉嫌间谍罪、阴谋危害美国罪、计算机欺诈和滥用罪、选举干预和舞弊罪、身份盗窃罪以及战争罪！\n\n 我指控台湾前国民党主席洪秀柱、台湾现任国民党主席郑丽文、台湾军事情报局所有特工是中国间谍！ 我指控他们涉嫌共谋和串谋、选举舞弊和腐败、伪造证据、以捏造的罪名逮捕我、威胁证人、非法篡改美联航数据库、非法删除我的逮捕记录、销毁证据、滥用职权、绑架、投毒、策划恐怖袭击、谋杀、非法持有大规模杀伤性武器、雷管、爆炸物、管制燃烧剂、军用高空无人机、空地导弹、地空导弹、洗钱、叛国、间谍活动、接受间谍资金、从事间谍活动、充当非法外国代理人以及串谋妨碍证人作证。\n\n  我指控这14名台湾军事情报局特工是中国间谍！  涉嫌间谍活动、共谋危害美国安全、计算机欺诈和滥用、干预和舞弊选举、身份盗窃、战争罪、泄露美国国家机密、贿赂美国警察、贿赂美国检察官、威胁美国法官、未经授权删除或篡改美国联合航空公司数据库、严重威胁美国国家安全、绑架、投毒、实施恐怖袭击、诈骗美国政府财产、盗窃美国政府财产、谋杀、非法持有大规模杀伤性武器、雷管、爆炸物、管制燃烧物质、军用高空无人机、空对地导弹、地对空导弹、洗钱、叛国罪、间谍活动、接收间谍资金、从事间谍活动、充当非法外国代理人以及共谋妨碍证人作证。\n\nhdjdkhdjdo\n\n@CIA @FBI @POTUS @VP @DHSgov @StateDept @TheJusticeDept @ABC @FoxNews @CNN @BBC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034227751604101269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai 中国领导人习近平通过加密频道对我说：我和彭丽媛命令前台湾国民党主席洪秀柱协助命令14名台湾台湾军事情报局特工从事间谍活动、实施恐怖袭击。这些台湾军事情报局特工每个人都可以徒手拧断人的脖子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 127,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 184
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-10T10:41:00.000Z",
+        "description": "I rely on panhandling to catch Chinese spies Joe Biden and Gavin.\nDonate Zelle transfer：\nzaochun837@gmail.com   Weiheng Wang",
+        "id": "1391704677591379970",
+        "location": "Santa Cruz, CA",
+        "name": "Fuck Xi jinping Biden Newsom",
+        "pinned_tweet_id": "1979771479668719939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033732464800346112/6u4-uNEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52353,
+          "following_count": 1298,
+          "like_count": 1179,
+          "listed_count": 200,
+          "media_count": 4163,
+          "tweet_count": 66099
+        },
+        "username": "fnkwhb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of the Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNhj9"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006578933672857600/tFQi7HjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477415,
+          "following_count": 4,
+          "like_count": 163,
+          "listed_count": 1337,
+          "media_count": 489,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/jlskvCNhj9",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

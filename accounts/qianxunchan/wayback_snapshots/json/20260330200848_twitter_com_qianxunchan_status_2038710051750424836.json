@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038709589815037952"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2038710051750424836",
+    "created_at": "2026-03-30T20:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038710051750424836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "世界之大无奇不有 911打不了了……. 🫪🫪🫪🫪🫪🫪🫪🫪 🤣 网友投稿：3月28日，广州动漫星城。 一男子与我的英雄学院coser起争执后、大打出手，怒斥对方 “出了我的英雄学院cos就不是中国同胞” 关于我爸往白切鸡里放樱桃炸弹 💣 😗 搞不懂一点………. 啊 🤔 扣了那么多单车！ 好罕见…. 感谢 🙏 sfpd A joint CHP/SFPD operation on Saturday stopped a group of cyclists intending to take over the Bay Bridge. 85 citations were issued and 85 bicycles were seized. Full release here: https:// conta.cc/3NSTj4H @SFPD video here: https:// youtu.be/sCe-D9qqMSY?si =L2RuX6lO56PtTayj … 琶洲充满着我对广州的回忆……. 现在没得玩咯……. 😭",
+          "display_url": "x.com/intent/follow?…",
+          "end": 23,
+          "expanded_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+          "start": 0,
+          "status": 200,
+          "title": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸 (@qianxunchan) / X",
+          "unwound_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+          "url": "https://t.co/uXNE70RXP6"
+        },
+        {
+          "display_url": "pic.x.com/ssCi31gTnk",
+          "end": 89,
+          "expanded_url": "https://x.com/qianxunchan/status/2038710051750424836/photo/1",
+          "media_key": "3_2038709589815037952",
+          "start": 66,
+          "url": "https://t.co/ssCi31gTnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038710051750424836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uXNE70RXP6\n大家我发现这个链接可以直接关注我！\n你们需要这样的链接可以问gork拿\n很方便🫪的 https://t.co/ssCi31gTnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1651,
+        "media_key": "3_2038709589815037952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErzkgUbkAA_3tq.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038709589815037952"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2038710051750424836",
+        "created_at": "2026-03-30T20:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038710051750424836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "世界之大无奇不有 911打不了了……. 🫪🫪🫪🫪🫪🫪🫪🫪 🤣 网友投稿：3月28日，广州动漫星城。 一男子与我的英雄学院coser起争执后、大打出手，怒斥对方 “出了我的英雄学院cos就不是中国同胞” 关于我爸往白切鸡里放樱桃炸弹 💣 😗 搞不懂一点………. 啊 🤔 扣了那么多单车！ 好罕见…. 感谢 🙏 sfpd A joint CHP/SFPD operation on Saturday stopped a group of cyclists intending to take over the Bay Bridge. 85 citations were issued and 85 bicycles were seized. Full release here: https:// conta.cc/3NSTj4H @SFPD video here: https:// youtu.be/sCe-D9qqMSY?si =L2RuX6lO56PtTayj … 琶洲充满着我对广州的回忆……. 现在没得玩咯……. 😭",
+              "display_url": "x.com/intent/follow?…",
+              "end": 23,
+              "expanded_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+              "start": 0,
+              "status": 200,
+              "title": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸 (@qianxunchan) / X",
+              "unwound_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+              "url": "https://t.co/uXNE70RXP6"
+            },
+            {
+              "display_url": "pic.x.com/ssCi31gTnk",
+              "end": 89,
+              "expanded_url": "https://x.com/qianxunchan/status/2038710051750424836/photo/1",
+              "media_key": "3_2038709589815037952",
+              "start": 66,
+              "url": "https://t.co/ssCi31gTnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038710051750424836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uXNE70RXP6\n大家我发现这个链接可以直接关注我！\n你们需要这样的链接可以问gork拿\n很方便🫪的 https://t.co/ssCi31gTnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 785,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 563
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

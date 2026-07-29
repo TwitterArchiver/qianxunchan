@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060504939127095296",
+        "3_2060504939135463424"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2060504941693964545",
+    "created_at": "2026-05-29T23:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T00:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060504941693964545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6kO6Sdk1MW",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2060504941693964545/photo/1",
+          "media_key": "3_2060504939127095296",
+          "start": 35,
+          "url": "https://t.co/6kO6Sdk1MW"
+        },
+        {
+          "display_url": "pic.x.com/6kO6Sdk1MW",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2060504941693964545/photo/1",
+          "media_key": "3_2060504939135463424",
+          "start": 35,
+          "url": "https://t.co/6kO6Sdk1MW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060504941693964545",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 \n我真没作弊啊我问gork的😭😭😭😭😭 https://t.co/6kO6Sdk1MW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2139,
+        "media_key": "3_2060504939127095296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhiUzqbwAAyWWj.jpg",
+        "width": 1320
+      },
+      {
+        "height": 662,
+        "media_key": "3_2060504939135463424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhiUzsbcAAgmXM.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060504939127095296",
+            "3_2060504939135463424"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060504941693964545",
+        "created_at": "2026-05-29T23:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060504941693964545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kO6Sdk1MW",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2060504941693964545/photo/1",
+              "media_key": "3_2060504939127095296",
+              "start": 35,
+              "url": "https://t.co/6kO6Sdk1MW"
+            },
+            {
+              "display_url": "pic.x.com/6kO6Sdk1MW",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2060504941693964545/photo/1",
+              "media_key": "3_2060504939135463424",
+              "start": 35,
+              "url": "https://t.co/6kO6Sdk1MW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060504941693964545",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 \n我真没作弊啊我问gork的😭😭😭😭😭 https://t.co/6kO6Sdk1MW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1147,
+          "like_count": 4542,
+          "listed_count": 9,
+          "media_count": 724,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6221,
+          "following_count": 625,
+          "like_count": 18277,
+          "listed_count": 12,
+          "media_count": 1910,
+          "tweet_count": 5191
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

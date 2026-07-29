@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2065329387948646841",
+    "created_at": "2026-06-12T19:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T20:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065524245174837746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999668646952730625",
+          "start": 0,
+          "username": "LyingOverDuckww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065524245174837746",
+    "in_reply_to_user_id": "1999668646952730625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065329387948646841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyingOverDuckww 我这边都没见过这种稀罕的东西😭😭我也想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065329365416837120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmGHYHagAA9fHl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2065329387948646841",
+        "created_at": "2026-06-12T19:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065524245174837746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999668646952730625",
+              "start": 0,
+              "username": "LyingOverDuckww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065524245174837746",
+        "in_reply_to_user_id": "1999668646952730625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065329387948646841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyingOverDuckww 我这边都没见过这种稀罕的东西😭😭我也想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065329365416837120"
+          ]
+        },
+        "author_id": "1999668646952730625",
+        "conversation_id": "2065329387948646841",
+        "created_at": "2026-06-12T07:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065329387948646841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVkxKG0Vk2",
+              "end": 34,
+              "expanded_url": "https://x.com/LyingOverDuckww/status/2065329387948646841/photo/1",
+              "media_key": "3_2065329365416837120",
+              "start": 11,
+              "url": "https://t.co/DVkxKG0Vk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065329387948646841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1922,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奢侈品 终于可以用了 https://t.co/DVkxKG0Vk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1133,
+          "like_count": 5911,
+          "listed_count": 9,
+          "media_count": 778,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T02:32:23.000Z",
+        "description": "对象你在哪里? | Lie推 @duckinsideduck | 🏳️‍🌈 | 友跨 | Gemini全肯定bot | 数学 | INTJ-T | furry控 | 准美留 | 一个玩具 | 民谣摇滚重金属 | 备用 @LyingOver_Duck | 友链 @Boat_wind_moon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "duckinsideduck"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "LyingOver_Duck"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "Boat_wind_moon"
+              }
+            ]
+          }
+        },
+        "id": "1999668646952730625",
+        "location": "被流放到荒芜之地的人不会有幸福",
+        "name": "摆烂小鸭🦆（二代目）🔜大连",
+        "pinned_tweet_id": "2031716798362697946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999670075301986305/SbikQVqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 1646,
+          "like_count": 5872,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2637
+        },
+        "username": "LyingOverDuckww",
+        "verified": false
+      }
+    ]
+  }
+}

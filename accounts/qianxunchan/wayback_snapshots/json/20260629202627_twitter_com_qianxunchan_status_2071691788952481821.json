@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071616231849996557",
+    "created_at": "2026-06-29T20:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T21:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071691788952481821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "QY404MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071691788952481821",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 274,
+            "id": "1720665183188922368",
+            "start": 269,
+            "username": "grok"
+          }
+        ]
+      },
+      "text": "精神病院如果是和我这种江门市垃圾二甲第三人民医院那真的是比戒网瘾学校还难熬😭(╥╯﹏╰╥)ง戒网瘾学校配合还有奖励，我这真的屁没有，做好心理准备看着吧，不是卖惨而是讲述真实情况，尽量看看能不能搞到三甲的本地的医院看看网上病友的评价，不要笑这个看酒店那种，这对身心发展影响很大，当然我没去过国内好的医院，但是我去过国外好的医院，我无时无刻被国内垃圾医院待遇 ptsd 所以我想劝你如果能主动减少创伤的方式如果家长的态度很明确，尽量看看能不能选到好点的医院待遇好一点，对以后的人生很大帮助！这是没有办法的办法了，只能选一个对未来少点创伤的路了@grok 帮我换更好理解的话给的他们听谢谢 g"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071616231849996557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY404MTF 精神病院如果是和我这种江门市垃圾二甲第三人民医院那真的是比戒网瘾学校还难熬😭(╥╯﹏╰╥)ง戒网瘾学校配合还有奖励，我这真的屁没有，做好心理准备看着吧，不是卖惨而是讲述真实情况，尽量看看能不能搞到三甲的本地的医院看看网上病友的评价，不要笑这个看酒店那种，这对身心发展影响很大，当然我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T20:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071691788952481821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071691788952481821",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 274,
+                "id": "1720665183188922368",
+                "start": 269,
+                "username": "grok"
+              }
+            ]
+          },
+          "text": "精神病院如果是和我这种江门市垃圾二甲第三人民医院那真的是比戒网瘾学校还难熬😭(╥╯﹏╰╥)ง戒网瘾学校配合还有奖励，我这真的屁没有，做好心理准备看着吧，不是卖惨而是讲述真实情况，尽量看看能不能搞到三甲的本地的医院看看网上病友的评价，不要笑这个看酒店那种，这对身心发展影响很大，当然我没去过国内好的医院，但是我去过国外好的医院，我无时无刻被国内垃圾医院待遇 ptsd 所以我想劝你如果能主动减少创伤的方式如果家长的态度很明确，尽量看看能不能选到好点的医院待遇好一点，对以后的人生很大帮助！这是没有办法的办法了，只能选一个对未来少点创伤的路了@grok 帮我换更好理解的话给的他们听谢谢 g"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071616231849996557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404MTF 精神病院如果是和我这种江门市垃圾二甲第三人民医院那真的是比戒网瘾学校还难熬😭(╥╯﹏╰╥)ง戒网瘾学校配合还有奖励，我这真的屁没有，做好心理准备看着吧，不是卖惨而是讲述真实情况，尽量看看能不能搞到三甲的本地的医院看看网上病友的评价，不要笑这个看酒店那种，这对身心发展影响很大，当然我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886641021588611072",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T15:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071616231849996557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071616231849996557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2039,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家长说再这样就给我送精神病院…🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 1161,
+          "like_count": 6824,
+          "listed_count": 9,
+          "media_count": 836,
+          "tweet_count": 2927
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜生产日期：2008.11.25｜hrt起始日：2025.5.31｜常驻长春，偶尔济南｜戒断中｜割腕吞药复活ing",
+        "id": "886641021588611072",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071150905257512960/HWdS-emo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 37,
+          "like_count": 147,
+          "listed_count": 23,
+          "media_count": 17,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "QY404MTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834672,
+          "following_count": 5,
+          "like_count": 109,
+          "listed_count": 7079,
+          "media_count": 9104301,
+          "tweet_count": 130201440
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

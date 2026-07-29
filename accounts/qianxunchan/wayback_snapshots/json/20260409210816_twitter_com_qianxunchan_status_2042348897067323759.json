@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042294872506257444",
+    "created_at": "2026-04-09T21:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042348897067323759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 29,
+          "id": "708541868842356736",
+          "start": 13,
+          "username": "SakanaAndPommes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042348897067323759",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042348788040229006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @SakanaAndPommes 66666666666666羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042294872506257444",
+        "created_at": "2026-04-09T21:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042348897067323759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 29,
+              "id": "708541868842356736",
+              "start": 13,
+              "username": "SakanaAndPommes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042348897067323759",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042348788040229006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @SakanaAndPommes 66666666666666羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2042294872506257444",
+        "created_at": "2026-04-09T21:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042348788040229006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 56,
+              "id": "708541868842356736",
+              "start": 40,
+              "username": "SakanaAndPommes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042348788040229006",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042348298619724125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 草\n我大哥1200块可以从西班牙往返上海\n还是公务舱\n@SakanaAndPommes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 890,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1073
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你们谁来马德里跟我吃拉美菜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2041324756104851672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038314504044335104/MN_aoLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5331,
+          "following_count": 2282,
+          "like_count": 25948,
+          "listed_count": 9,
+          "media_count": 2237,
+          "tweet_count": 21959
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-12T06:35:20.000Z",
+        "description": "把鱼鱼做成鱼排或者鱼板都是可以的———🚎🚎🚎🚈🚋/无能的赛博面点师/鸟厨/IGBTQLA+(学EE学的)/一所G5大学/🦋：https://t.co/RYQutiRY2u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fish-s…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/fish-sakana.bsky.social",
+                "start": 62,
+                "url": "https://t.co/RYQutiRY2u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4VNwm3ZnlCI4Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4VNwm3ZnlCI4ZWM1",
+                "start": 0,
+                "url": "https://t.co/XuRKFIY7VI"
+              }
+            ]
+          }
+        },
+        "id": "708541868842356736",
+        "location": "旧纽约",
+        "name": "雜魚薯條",
+        "pinned_tweet_id": "1852689758939455829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943365713630052352/LBdlYEDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 606,
+          "like_count": 86893,
+          "listed_count": 3,
+          "media_count": 869,
+          "tweet_count": 13063
+        },
+        "url": "https://t.co/XuRKFIY7VI",
+        "username": "SakanaAndPommes",
+        "verified": false
+      }
+    ]
+  }
+}

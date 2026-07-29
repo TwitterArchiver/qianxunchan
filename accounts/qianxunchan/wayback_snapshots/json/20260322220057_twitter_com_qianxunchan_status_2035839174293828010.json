@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035839169428344832"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035839174293828010",
+    "created_at": "2026-03-22T22:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T23:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035839174293828010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcFHUEecDR",
+          "end": 95,
+          "expanded_url": "https://x.com/qianxunchan/status/2035839174293828010/photo/1",
+          "media_key": "3_2035839169428344832",
+          "start": 72,
+          "url": "https://t.co/BcFHUEecDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035839174293828010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家想让千寻酱穿什么呢……\n\n我现在想买女装，但不知道买什么。\n大家可以帮我选一下吗？中国购物平台就行。\n\n发图片可以直接来这个群（宣群嘿嘿😜 https://t.co/BcFHUEecDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035839169428344832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDA8DGaUAAIGXO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035839169428344832"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035839174293828010",
+        "created_at": "2026-03-22T22:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T23:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035839174293828010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcFHUEecDR",
+              "end": 95,
+              "expanded_url": "https://x.com/qianxunchan/status/2035839174293828010/photo/1",
+              "media_key": "3_2035839169428344832",
+              "start": 72,
+              "url": "https://t.co/BcFHUEecDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035839174293828010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家想让千寻酱穿什么呢……\n\n我现在想买女装，但不知道买什么。\n大家可以帮我选一下吗？中国购物平台就行。\n\n发图片可以直接来这个群（宣群嘿嘿😜 https://t.co/BcFHUEecDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 159,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 293
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

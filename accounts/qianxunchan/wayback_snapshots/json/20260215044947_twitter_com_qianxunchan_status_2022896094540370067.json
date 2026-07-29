@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2022892038514184289",
+    "created_at": "2026-02-15T04:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022896094540370067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022896094540370067",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022892038514184289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回来就因为没给你钱你就骂我，我两年好不容易回来一趟TMD还骂我，我爷爷都快死了能不能天天把你那丑b嘴给我闭上，开口就是人身攻击，要不是你是我奶奶我TMD直接给你踹地上，妈的神经病一个带坏一整个家族，家族里面没有一个儿女是TMD嘴甜的，上次我爸的哥哥TMD就因为我发个随手拍直接骂我无所事事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2022892038514184289",
+        "created_at": "2026-02-15T04:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022896094540370067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022896094540370067",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022892038514184289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回来就因为没给你钱你就骂我，我两年好不容易回来一趟TMD还骂我，我爷爷都快死了能不能天天把你那丑b嘴给我闭上，开口就是人身攻击，要不是你是我奶奶我TMD直接给你踹地上，妈的神经病一个带坏一整个家族，家族里面没有一个儿女是TMD嘴甜的，上次我爸的哥哥TMD就因为我发个随手拍直接骂我无所事事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2022892038514184289",
+        "created_at": "2026-02-15T04:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022892038514184289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022892038514184289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想打988了，父亲让我好伤心，我已经没有办法和他交流了，一整个我姓的家族都有问题，我受不了了真的，一个个家教都有问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "是一只不大聪明笨蛋，体重:58kg，身高180 笨蛋现在18岁了喵，中国的家在江門哦，我现在在旧金山还没回国哦，喵喵喵，爱好:漫展，骑车，户外，刷机",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 91,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "username": "qianxunchan",
+        "verified": false
+      }
+    ]
+  }
+}

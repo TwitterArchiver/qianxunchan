@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080289194107355136",
+        "3_2080289194111627264",
+        "3_2080289194128371712"
+      ],
+      "media_source_tweet_id": [
+        "2080289200331735299",
+        "2080289200331735299",
+        "2080289200331735299"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese comic magazine",
+          "id": "1309573767421554688",
+          "name": "Young Magazine"
+        }
+      }
+    ],
+    "conversation_id": "2080461722394181649",
+    "created_at": "2026-07-24T01:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080461722394181649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "ヤンマガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669579351",
+          "start": 3,
+          "username": "kokoro777pp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rLkI23VwPv",
+          "end": 109,
+          "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+          "media_key": "3_2080289194107355136",
+          "start": 86,
+          "url": "https://t.co/rLkI23VwPv"
+        },
+        {
+          "display_url": "pic.x.com/rLkI23VwPv",
+          "end": 109,
+          "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+          "media_key": "3_2080289194111627264",
+          "start": 86,
+          "url": "https://t.co/rLkI23VwPv"
+        },
+        {
+          "display_url": "pic.x.com/rLkI23VwPv",
+          "end": 109,
+          "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+          "media_key": "3_2080289194128371712",
+          "start": 86,
+          "url": "https://t.co/rLkI23VwPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080461722394181649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080289200331735299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokoro777pp: ╭━━━━━━━━━━━━━╮\n　　#ヤニねこ\n　　4話も楽しみにゃ\n╰ｖ━━━━━━━━━━━━╯\n　🚬\n\n#ヤンマガ オフショット📸 https://t.co/rLkI23VwPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080289194107355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6sAAzaQAALGac.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080289194111627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6sAA0bcAAO3GZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080289194128371712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6sAA4a8AALaaG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080289194107355136",
+            "3_2080289194111627264",
+            "3_2080289194128371712"
+          ]
+        },
+        "author_id": "1669579351",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese comic magazine",
+              "id": "1309573767421554688",
+              "name": "Young Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2080289200331735299",
+        "created_at": "2026-07-23T13:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080289200331735299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "ヤンマガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 92,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194107355136",
+              "start": 69,
+              "url": "https://t.co/rLkI23VwPv"
+            },
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 92,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194111627264",
+              "start": 69,
+              "url": "https://t.co/rLkI23VwPv"
+            },
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 92,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194128371712",
+              "start": 69,
+              "url": "https://t.co/rLkI23VwPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080289200331735299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2169,
+          "impression_count": 1018444,
+          "like_count": 17108,
+          "quote_count": 47,
+          "reply_count": 141,
+          "retweet_count": 1137
+        },
+        "reply_settings": "everyone",
+        "text": "╭━━━━━━━━━━━━━╮\n　　#ヤニねこ\n　　4話も楽しみにゃ\n╰ｖ━━━━━━━━━━━━╯\n　🚬\n\n#ヤンマガ オフショット📸 https://t.co/rLkI23VwPv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080289194107355136",
+            "3_2080289194111627264",
+            "3_2080289194128371712"
+          ],
+          "media_source_tweet_id": [
+            "2080289200331735299",
+            "2080289200331735299",
+            "2080289200331735299"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese comic magazine",
+              "id": "1309573767421554688",
+              "name": "Young Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2080461722394181649",
+        "created_at": "2026-07-24T01:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080461722394181649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "ヤンマガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669579351",
+              "start": 3,
+              "username": "kokoro777pp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 109,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194107355136",
+              "start": 86,
+              "url": "https://t.co/rLkI23VwPv"
+            },
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 109,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194111627264",
+              "start": 86,
+              "url": "https://t.co/rLkI23VwPv"
+            },
+            {
+              "display_url": "pic.x.com/rLkI23VwPv",
+              "end": 109,
+              "expanded_url": "https://x.com/kokoro777pp/status/2080289200331735299/photo/1",
+              "media_key": "3_2080289194128371712",
+              "start": 86,
+              "url": "https://t.co/rLkI23VwPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080461722394181649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080289200331735299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokoro777pp: ╭━━━━━━━━━━━━━╮\n　　#ヤニねこ\n　　4話も楽しみにゃ\n╰ｖ━━━━━━━━━━━━╯\n　🚬\n\n#ヤンマガ オフショット📸 https://t.co/rLkI23VwPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 1180,
+          "like_count": 7659,
+          "listed_count": 9,
+          "media_count": 915,
+          "tweet_count": 3229
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-14T05:05:23.000Z",
+        "description": "PPE 所属 /モデル/DJギズモ/コスプレ/グラビア/ などをしています。 お仕事のご依頼はこちらまで☺︎▶︎ https://t.co/NZtxSQQAaS #金髪ショー党 推しマ💙🐾 /\n通販📚▶︎https://t.co/uRSVp0js0Y",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 81,
+                "tag": "金髪ショー党"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ppe.jp/contact/",
+                "end": 80,
+                "expanded_url": "http://ppe.jp/contact/",
+                "start": 57,
+                "url": "https://t.co/NZtxSQQAaS"
+              },
+              {
+                "display_url": "kokoro777pp.booth.pm",
+                "end": 125,
+                "expanded_url": "https://kokoro777pp.booth.pm/",
+                "start": 102,
+                "url": "https://t.co/uRSVp0js0Y"
+              }
+            ]
+          }
+        },
+        "id": "1669579351",
+        "name": "篠崎こころ💙🐾",
+        "pinned_tweet_id": "2079194738302095682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956136988832358404/QRLWvMr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545828,
+          "following_count": 2018,
+          "like_count": 72964,
+          "listed_count": 2728,
+          "media_count": 7740,
+          "tweet_count": 43295
+        },
+        "url": "",
+        "username": "kokoro777pp",
+        "verified": true
+      }
+    ]
+  }
+}

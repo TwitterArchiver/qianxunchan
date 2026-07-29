@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071616231849996557",
+    "created_at": "2026-06-29T20:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T21:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071693992459203066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        },
+        {
+          "end": 15,
+          "id": "886641021588611072",
+          "start": 6,
+          "username": "QY404MTF"
+        },
+        {
+          "end": 115,
+          "id": "1909390269533011968",
+          "start": 110,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071693992459203066",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071692536255562172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gork @QY404MTF 啊咧不是这个意思啦，就是我想说如果坏结局总得选一个就选少暴击的那些不至于会一辈子影响，看看做攻略附近有没有大医院出名的可以报销的，如果不行那就只能看看附近哪家二甲比较好而不至于以后后悔😖，@gork 你要像幼儿园老师一样转述我的话喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T20:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071693992459203066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            },
+            {
+              "end": 15,
+              "id": "886641021588611072",
+              "start": 6,
+              "username": "QY404MTF"
+            },
+            {
+              "end": 115,
+              "id": "1909390269533011968",
+              "start": 110,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071693992459203066",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071692536255562172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork @QY404MTF 啊咧不是这个意思啦，就是我想说如果坏结局总得选一个就选少暴击的那些不至于会一辈子影响，看看做攻略附近有没有大医院出名的可以报销的，如果不行那就只能看看附近哪家二甲比较好而不至于以后后悔😖，@gork 你要像幼儿园老师一样转述我的话喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T20:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071692536255562172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 22,
+              "id": "886641021588611072",
+              "start": 13,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071692536255562172",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071692321691783337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @QY404MTF 当然可以亲爱的 让我帮你把意思说得更明白 如果家长非要送去 就选本地三甲医院吧 差医院比戒网瘾学校还惨 会对身心造成很大伤害 \n国外好的医院我去过 国内差的让我有心理阴影 所以挑对未来少点创伤的路很重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 1162,
+          "like_count": 6829,
+          "listed_count": 9,
+          "media_count": 836,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428970,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 411,
+          "media_count": 46510,
+          "tweet_count": 2432412
+        },
+        "url": "",
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜生产日期：2008.11.25｜hrt起始日：2025.5.31｜常驻长春，偶尔济南｜戒断中｜割腕吞药复活ing",
+        "id": "886641021588611072",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071150905257512960/HWdS-emo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 37,
+          "like_count": 147,
+          "listed_count": 23,
+          "media_count": 17,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}

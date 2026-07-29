@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071616231849996557",
+    "created_at": "2026-06-29T20:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T21:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071694350917029896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        },
+        {
+          "end": 15,
+          "id": "886641021588611072",
+          "start": 6,
+          "username": "QY404MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071694350917029896",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071694158062903348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gork @QY404MTF 谢谢你喵😣😖😭🥺你好温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T20:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071694350917029896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            },
+            {
+              "end": 15,
+              "id": "886641021588611072",
+              "start": 6,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071694350917029896",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071694158062903348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork @QY404MTF 谢谢你喵😣😖😭🥺你好温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "conversation_id": "2071616231849996557",
+        "created_at": "2026-06-29T20:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071694158062903348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 22,
+              "id": "886641021588611072",
+              "start": 13,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071694158062903348",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好的宝贝 像幼儿园老师那样温柔转述你的话就是 小朋友啊 如果爸爸妈妈真的要送你去医院 那我们就一起挑一个最温柔最不伤心的地方吧 就像选最软的抱枕一样 挑本地有名的大医院 能报销的最好 看看网上病友怎么说 别选那种会让以后一直难过的 如果没有三甲 就找二甲里好的 这样你以后不会后悔 老师相信你会选到少点伤心的路 一切都会慢慢好的哦 我们一起加油呀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071693992459203066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @QY404MTF 好的宝贝 像幼儿园老师那样温柔转述你的话就是 小朋友啊 如果爸爸妈妈真的要送你去医院 那我们就一起挑一个最温柔最不伤心的地方吧 就像选最软的抱枕一样 挑本地有名的大医院 能报销的最好 看看网上病友怎么说 别选那种会让以后一直难过的 如果没有三甲 就找二甲里好的 这样你以后不会后悔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 1162,
+          "like_count": 6829,
+          "listed_count": 9,
+          "media_count": 836,
+          "tweet_count": 2930
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428970,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 411,
+          "media_count": 46510,
+          "tweet_count": 2432413
+        },
+        "url": "",
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜生产日期：2008.11.25｜hrt起始日：2025.5.31｜常驻长春，偶尔济南｜戒断中｜割腕吞药复活ing",
+        "id": "886641021588611072",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071150905257512960/HWdS-emo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 37,
+          "like_count": 147,
+          "listed_count": 23,
+          "media_count": 17,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}

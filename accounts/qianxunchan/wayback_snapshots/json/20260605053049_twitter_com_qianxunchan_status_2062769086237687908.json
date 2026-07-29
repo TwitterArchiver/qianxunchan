@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062769023826493440"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2062769086237687908",
+    "created_at": "2026-06-05T05:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062769086237687908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV1SvVz6…",
+          "end": 25,
+          "expanded_url": "https://www.bilibili.com/video/BV1SvVz6fEux",
+          "start": 2,
+          "unwound_url": "https://www.bilibili.com/video/BV1SvVz6fEux/",
+          "url": "https://t.co/frcmJUekmJ"
+        },
+        {
+          "display_url": "pic.x.com/vQQ4WZDgUy",
+          "end": 70,
+          "expanded_url": "https://x.com/qianxunchan/status/2062769086237687908/video/1",
+          "media_key": "13_2062769023826493440",
+          "start": 47,
+          "url": "https://t.co/vQQ4WZDgUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062769086237687908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔗 https://t.co/frcmJUekmJ\n链接在这里了不用谢，我只是搬运工别骂我🥺 https://t.co/vQQ4WZDgUy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179067,
+        "height": 1280,
+        "media_key": "13_2062769023826493440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062769023826493440/img/hH2u3tBTeiAmU4VO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062769023826493440/vid/avc1/320x568/BM4M0uPfC0r7YV9s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062769023826493440/vid/avc1/480x852/KTCxRNGljMsHF_PY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062769023826493440/vid/avc1/720x1280/GghckMHi9V8MKbQO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062769023826493440/pl/0yK1pzIKT3qBV9Y5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062769023826493440"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2062769086237687908",
+        "created_at": "2026-06-05T05:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062769086237687908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1SvVz6…",
+              "end": 25,
+              "expanded_url": "https://www.bilibili.com/video/BV1SvVz6fEux",
+              "start": 2,
+              "unwound_url": "https://www.bilibili.com/video/BV1SvVz6fEux/",
+              "url": "https://t.co/frcmJUekmJ"
+            },
+            {
+              "display_url": "pic.x.com/vQQ4WZDgUy",
+              "end": 70,
+              "expanded_url": "https://x.com/qianxunchan/status/2062769086237687908/video/1",
+              "media_key": "13_2062769023826493440",
+              "start": 47,
+              "url": "https://t.co/vQQ4WZDgUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062769086237687908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔗 https://t.co/frcmJUekmJ\n链接在这里了不用谢，我只是搬运工别骂我🥺 https://t.co/vQQ4WZDgUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 1136,
+          "like_count": 5109,
+          "listed_count": 9,
+          "media_count": 747,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

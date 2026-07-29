@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2048301044367790246",
+    "created_at": "2026-04-26T22:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048524958679404677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1147502320961359873",
+          "start": 0,
+          "username": "1u1iD5DJyXM0zVu"
+        },
+        {
+          "end": 26,
+          "id": "1828632343680294916",
+          "start": 17,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048524958679404677",
+    "in_reply_to_user_id": "1147502320961359873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048394654182514955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1u1iD5DJyXM0zVu @jianlvya 这种人做流量最会了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2048301044367790246",
+        "created_at": "2026-04-26T22:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048524958679404677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1147502320961359873",
+              "start": 0,
+              "username": "1u1iD5DJyXM0zVu"
+            },
+            {
+              "end": 26,
+              "id": "1828632343680294916",
+              "start": 17,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048524958679404677",
+        "in_reply_to_user_id": "1147502320961359873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048394654182514955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1u1iD5DJyXM0zVu @jianlvya 这种人做流量最会了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1147502320961359873",
+        "conversation_id": "2048301044367790246",
+        "created_at": "2026-04-26T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048394654182514955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048394654182514955",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6055,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048301044367790246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 谁信卖谁保健品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1001,
+          "like_count": 2172,
+          "listed_count": 5,
+          "media_count": 502,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-06T13:47:27.000Z",
+        "description": "宜しく",
+        "id": "1147502320961359873",
+        "location": "Japan",
+        "name": "神楽ナナのPEACH単推人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151020515374424064/ImjF1gcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 210,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 229
+        },
+        "username": "1u1iD5DJyXM0zVu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2048301044367790246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 993,
+          "like_count": 21158,
+          "listed_count": 16,
+          "media_count": 855,
+          "tweet_count": 1628
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

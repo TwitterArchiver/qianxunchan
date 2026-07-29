@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058317851271004160"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2058318006426739096",
+    "created_at": "2026-05-23T22:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058318006426739096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3VJivfBRW",
+          "end": 65,
+          "expanded_url": "https://x.com/qianxunchan/status/2058318006426739096/video/1",
+          "media_key": "13_2058317851271004160",
+          "start": 42,
+          "url": "https://t.co/P3VJivfBRW"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2057279961099272687",
+          "start": 66,
+          "url": "https://t.co/FG4d3yre9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058318006426739096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057279961099272687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "音量警报🥵\n我发现了我的转接器可以让我风扇变成非固定\n\n也算是转接器的妙用了🥰😋😋 https://t.co/P3VJivfBRW https://t.co/FG4d3yre9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11605,
+        "height": 3840,
+        "media_key": "13_2058317851271004160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058317851271004160/img/8hv9vv3yvPv5StUv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/vid/avc1/1080x1920/GdrkARFJyOnK2llc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/vid/avc1/720x1280/ZHCWRRyBTgpYdNif.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/vid/avc1/320x568/3geNL0TGbzuNQD0J.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/vid/avc1/2160x3840/YGif1SxzuffgwvDW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/vid/avc1/480x852/emVrkTsXb9ViwloU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058317851271004160/pl/GFBuwZVg44aVxsIq.m3u8"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2057279954627538944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIztOAMbMAAqk7G.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058317851271004160"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2058318006426739096",
+        "created_at": "2026-05-23T22:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058318006426739096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3VJivfBRW",
+              "end": 65,
+              "expanded_url": "https://x.com/qianxunchan/status/2058318006426739096/video/1",
+              "media_key": "13_2058317851271004160",
+              "start": 42,
+              "url": "https://t.co/P3VJivfBRW"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2057279961099272687",
+              "start": 66,
+              "url": "https://t.co/FG4d3yre9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058318006426739096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057279961099272687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "音量警报🥵\n我发现了我的转接器可以让我风扇变成非固定\n\n也算是转接器的妙用了🥰😋😋 https://t.co/P3VJivfBRW https://t.co/FG4d3yre9H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057279954627538944"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2057279961099272687",
+        "created_at": "2026-05-21T01:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057279961099272687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyAZsJHe05",
+              "end": 36,
+              "expanded_url": "https://x.com/qianxunchan/status/2057279961099272687/photo/1",
+              "media_key": "3_2057279954627538944",
+              "start": 13,
+              "url": "https://t.co/gyAZsJHe05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057279961099272687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新转接器和线的收纳方式😋 https://t.co/gyAZsJHe05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 1134,
+          "like_count": 3927,
+          "listed_count": 8,
+          "media_count": 675,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

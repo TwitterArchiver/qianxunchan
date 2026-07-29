@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2066861481237598649",
+    "created_at": "2026-06-17T00:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067037409943195695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045812200556855296",
+          "start": 0,
+          "username": "hnxxwf"
+        },
+        {
+          "end": 20,
+          "id": "1878949635458244608",
+          "start": 8,
+          "username": "Ashen35437A"
+        },
+        {
+          "end": 36,
+          "id": "2066503031680827392",
+          "start": 21,
+          "username": "LoveMikuBXbot3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067037409943195695",
+    "in_reply_to_user_id": "2045812200556855296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066951571775308073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnxxwf @Ashen35437A @LoveMikuBXbot3 一时分不清串的还是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2066861481237598649",
+        "created_at": "2026-06-17T00:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067037409943195695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045812200556855296",
+              "start": 0,
+              "username": "hnxxwf"
+            },
+            {
+              "end": 20,
+              "id": "1878949635458244608",
+              "start": 8,
+              "username": "Ashen35437A"
+            },
+            {
+              "end": 36,
+              "id": "2066503031680827392",
+              "start": 21,
+              "username": "LoveMikuBXbot3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067037409943195695",
+        "in_reply_to_user_id": "2045812200556855296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066951571775308073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnxxwf @Ashen35437A @LoveMikuBXbot3 一时分不清串的还是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045812200556855296",
+        "conversation_id": "2066861481237598649",
+        "created_at": "2026-06-16T18:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066951571775308073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878949635458244608",
+              "start": 0,
+              "username": "Ashen35437A"
+            },
+            {
+              "end": 28,
+              "id": "2066503031680827392",
+              "start": 13,
+              "username": "LoveMikuBXbot3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066951571775308073",
+        "in_reply_to_user_id": "1878949635458244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066924044705026152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashen35437A @LoveMikuBXbot3 你这认知真低，内存和硬盘容量都分不清"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1134,
+          "like_count": 6099,
+          "listed_count": 9,
+          "media_count": 789,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T10:31:05.000Z",
+        "description": "",
+        "id": "2045812200556855296",
+        "name": "Pufferfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045812624873635840/5dvdga04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "hnxxwf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T23:38:17.000Z",
+        "description": "",
+        "id": "1878949635458244608",
+        "name": "Ashen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878950166675247104/iyR13X7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Ashen35437A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T12:49:10.000Z",
+        "description": "此账号仅用于梗图搬运，其他内容见主账号@LoveMikuBX，若有侵权请指出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "LoveMikuBX"
+              }
+            ]
+          }
+        },
+        "id": "2066503031680827392",
+        "location": "中国",
+        "name": "伴下bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066731609399902208/9LFxeTuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "LoveMikuBXbot3",
+        "verified": false
+      }
+    ]
+  }
+}

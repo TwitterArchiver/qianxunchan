@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2070188581092540716",
+    "created_at": "2026-06-25T18:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070209994084200923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1654015674082275328",
+          "start": 0,
+          "username": "liudameier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070209994084200923",
+    "in_reply_to_user_id": "1654015674082275328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070188581092540716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liudameier 开个卖柠檬🍋的在他们旁边😋赚翻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9334,
+        "height": 1280,
+        "media_key": "7_2070188497357451264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070188497357451264/pu/img/t_MpAqzxSFkdxl8o.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070188497357451264/pu/vid/avc1/320x568/tBM37BTTkMdYP9B-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070188497357451264/pu/vid/avc1/480x852/VLulbVPapJGd9Jpe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070188497357451264/pu/vid/avc1/720x1280/1E6lv7m53FhVsB2e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070188497357451264/pu/pl/0VAKG4zJp_6hf3dc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2070188581092540716",
+        "created_at": "2026-06-25T18:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070209994084200923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1654015674082275328",
+              "start": 0,
+              "username": "liudameier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070209994084200923",
+        "in_reply_to_user_id": "1654015674082275328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070188581092540716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liudameier 开个卖柠檬🍋的在他们旁边😋赚翻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070188497357451264"
+          ]
+        },
+        "author_id": "1654015674082275328",
+        "conversation_id": "2070188581092540716",
+        "created_at": "2026-06-25T16:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070188581092540716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yplytkMhPB",
+              "end": 71,
+              "expanded_url": "https://x.com/liudameier/status/2070188581092540716/video/1",
+              "media_key": "7_2070188497357451264",
+              "start": 48,
+              "url": "https://t.co/yplytkMhPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070188581092540716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷! 2块一杯($0.3)的柠檬茶，声称要卷死同行🍋🥤\n共同贫穷，可能就是共产主义的最终形态🤣 https://t.co/yplytkMhPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1147,
+          "like_count": 6445,
+          "listed_count": 9,
+          "media_count": 817,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-04T06:50:57.000Z",
+        "description": "没事儿网上瞎溜达，有事儿📱溜达妹儿 🐾\n废话神待少女，亢奋精神小妹儿，崩老头爱好者\n闲逛全网，奇葩趣事，沙雕视频👀",
+        "id": "1654015674082275328",
+        "name": "溜达妹儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033266586425933824/K6O0vzeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 1821,
+          "like_count": 18419,
+          "listed_count": 7,
+          "media_count": 493,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "liudameier",
+        "verified": true
+      }
+    ]
+  }
+}

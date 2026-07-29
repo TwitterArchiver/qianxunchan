@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040856502823764310",
+    "created_at": "2026-04-05T18:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040856502823764310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drkeithsiau/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/drkeithsiau/status/2040799782961094733",
+          "start": 19,
+          "url": "https://t.co/U4Cbu5dN7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040856502823764310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040799782961094733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当吃下药物发现没有起作用时……🤣🤣🙏 https://t.co/U4Cbu5dN7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2040799777236070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJglbPaMAAOZz2.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040856502823764310",
+        "created_at": "2026-04-05T18:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040856502823764310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drkeithsiau/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/drkeithsiau/status/2040799782961094733",
+              "start": 19,
+              "url": "https://t.co/U4Cbu5dN7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040856502823764310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040799782961094733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当吃下药物发现没有起作用时……🤣🤣🙏 https://t.co/U4Cbu5dN7k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040799777236070400"
+          ]
+        },
+        "author_id": "563168113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040799782961094733",
+        "created_at": "2026-04-05T14:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040799782961094733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxfP9clZJB",
+              "end": 116,
+              "expanded_url": "https://x.com/drkeithsiau/status/2040799782961094733/photo/1",
+              "media_key": "3_2040799777236070400",
+              "start": 93,
+              "url": "https://t.co/MxfP9clZJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040799782961094733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 984,
+          "impression_count": 998618,
+          "like_count": 12595,
+          "quote_count": 196,
+          "reply_count": 229,
+          "retweet_count": 451
+        },
+        "reply_settings": "everyone",
+        "text": "One example why a medication has been taken but doesn’t work. What other examples are there? https://t.co/MxfP9clZJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 862,
+          "like_count": 925,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 822
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-25T20:20:13.000Z",
+        "description": "GI doctor with interests in endoscopy, gut health, liver & medicine. 💜 #GITwitter #LiverTwitter #MedEd. Occasional silliness. Siau rhymes with meow 😺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 71,
+                "tag": "GITwitter"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "tag": "LiverTwitter"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "MedEd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2lnI7Q2",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2lnI7Q2",
+                "start": 0,
+                "url": "https://t.co/Tec79kIogB"
+              }
+            ]
+          }
+        },
+        "id": "563168113",
+        "location": "England, United Kingdom",
+        "name": "Keith Siau",
+        "pinned_tweet_id": "2038607031410540930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1153415249737003008/5tsXb8Eb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210122,
+          "following_count": 4793,
+          "like_count": 173898,
+          "listed_count": 808,
+          "media_count": 16940,
+          "tweet_count": 55776
+        },
+        "url": "https://t.co/Tec79kIogB",
+        "username": "drkeithsiau",
+        "verified": true
+      }
+    ]
+  }
+}

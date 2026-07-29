@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073258005056131072",
+        "13_2073258005077073920",
+        "3_2073258005030977537",
+        "3_2073258005030940672"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2073258948749344818",
+    "created_at": "2026-07-04T04:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073258948749344818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1x7fPBbK1v",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+          "media_key": "13_2073258005056131072",
+          "start": 10,
+          "url": "https://t.co/1x7fPBbK1v"
+        },
+        {
+          "display_url": "pic.x.com/1x7fPBbK1v",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+          "media_key": "13_2073258005077073920",
+          "start": 10,
+          "url": "https://t.co/1x7fPBbK1v"
+        },
+        {
+          "display_url": "pic.x.com/1x7fPBbK1v",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+          "media_key": "3_2073258005030977537",
+          "start": 10,
+          "url": "https://t.co/1x7fPBbK1v"
+        },
+        {
+          "display_url": "pic.x.com/1x7fPBbK1v",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+          "media_key": "3_2073258005030940672",
+          "start": 10,
+          "url": "https://t.co/1x7fPBbK1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073258948749344818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ba 展台又搓碟😝 https://t.co/1x7fPBbK1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138301,
+        "height": 2160,
+        "media_key": "13_2073258005056131072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073258005056131072/img/TqP1jVVpm19XEODD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/pl/7vSIhaYsO0BxH4qL.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/vid/avc1/1920x1080/KG1GLvytBla9UWZU.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/vid/avc1/480x270/0hffA3HopThdS_rP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/vid/avc1/1280x720/YAVO4Pc6H6gVhg7R.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/vid/avc1/3840x2160/S6IkYg_QW1WrJDQa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005056131072/vid/avc1/640x360/f5iPZjn_18z-PBBI.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 43910,
+        "height": 2160,
+        "media_key": "13_2073258005077073920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073258005077073920/img/S-XWo9nWRP1yPjBS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/vid/avc1/1920x1080/aE76RaWBfHLGE2bR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/vid/avc1/1280x720/MbFZFRQhztSgZp1-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/pl/JHc-qw_KAd23lcFV.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/vid/avc1/640x360/rCr4cYERMa1DHVVA.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/vid/avc1/3840x2160/dqdwiJL5UedxqE6Y.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073258005077073920/vid/avc1/480x270/6RQbm5SvtknujpZw.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2073258005030977537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWxK8WbQAE0-3f.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2073258005030940672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWxK8WasAANgrJ.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073258005056131072",
+            "13_2073258005077073920",
+            "3_2073258005030977537",
+            "3_2073258005030940672"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2073258948749344818",
+        "created_at": "2026-07-04T04:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073258948749344818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x7fPBbK1v",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+              "media_key": "13_2073258005056131072",
+              "start": 10,
+              "url": "https://t.co/1x7fPBbK1v"
+            },
+            {
+              "display_url": "pic.x.com/1x7fPBbK1v",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+              "media_key": "13_2073258005077073920",
+              "start": 10,
+              "url": "https://t.co/1x7fPBbK1v"
+            },
+            {
+              "display_url": "pic.x.com/1x7fPBbK1v",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+              "media_key": "3_2073258005030977537",
+              "start": 10,
+              "url": "https://t.co/1x7fPBbK1v"
+            },
+            {
+              "display_url": "pic.x.com/1x7fPBbK1v",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2073258948749344818/video/1",
+              "media_key": "3_2073258005030940672",
+              "start": 10,
+              "url": "https://t.co/1x7fPBbK1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073258948749344818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ba 展台又搓碟😝 https://t.co/1x7fPBbK1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 1172,
+          "like_count": 7123,
+          "listed_count": 9,
+          "media_count": 857,
+          "tweet_count": 3052
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

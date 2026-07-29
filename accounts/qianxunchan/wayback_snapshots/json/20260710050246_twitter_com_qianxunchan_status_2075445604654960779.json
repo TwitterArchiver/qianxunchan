@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075444686194679808",
+        "3_2075444686207307776"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2075445604654960779",
+    "created_at": "2026-07-10T05:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:59:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075444689822695502",
+      "2075445604654960779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/khtj9w119Y",
+          "end": 57,
+          "expanded_url": "https://x.com/qianxunchan/status/2075445604654960779/photo/1",
+          "media_key": "3_2075444686194679808",
+          "start": 34,
+          "url": "https://t.co/khtj9w119Y"
+        },
+        {
+          "display_url": "pic.x.com/khtj9w119Y",
+          "end": 57,
+          "expanded_url": "https://x.com/qianxunchan/status/2075445604654960779/photo/1",
+          "media_key": "3_2075444686207307776",
+          "start": 34,
+          "url": "https://t.co/khtj9w119Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075445604654960779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得这个夏博士和 amber 长得挺像的\n有没有人觉得 nya😝 https://t.co/khtj9w119Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2075444686194679808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM118iebIAAV61W.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2075444686207307776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM118ihb0AAXwKx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075444686194679808",
+            "3_2075444686207307776"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2075444689822695502",
+        "created_at": "2026-07-10T04:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:59:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075444689822695502",
+          "2075445604654960779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkKSvg7vEe",
+              "end": 55,
+              "expanded_url": "https://x.com/qianxunchan/status/2075444689822695502/photo/1",
+              "media_key": "3_2075444686194679808",
+              "start": 32,
+              "url": "https://t.co/wkKSvg7vEe"
+            },
+            {
+              "display_url": "pic.x.com/wkKSvg7vEe",
+              "end": 55,
+              "expanded_url": "https://x.com/qianxunchan/status/2075444689822695502/photo/1",
+              "media_key": "3_2075444686207307776",
+              "start": 32,
+              "url": "https://t.co/wkKSvg7vEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075444689822695502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个夏博士和 amber 挺像的\n有没有人觉得 nya😝 https://t.co/wkKSvg7vEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075444686194679808",
+            "3_2075444686207307776"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2075445604654960779",
+        "created_at": "2026-07-10T05:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:59:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075444689822695502",
+          "2075445604654960779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khtj9w119Y",
+              "end": 57,
+              "expanded_url": "https://x.com/qianxunchan/status/2075445604654960779/photo/1",
+              "media_key": "3_2075444686194679808",
+              "start": 34,
+              "url": "https://t.co/khtj9w119Y"
+            },
+            {
+              "display_url": "pic.x.com/khtj9w119Y",
+              "end": 57,
+              "expanded_url": "https://x.com/qianxunchan/status/2075445604654960779/photo/1",
+              "media_key": "3_2075444686207307776",
+              "start": 34,
+              "url": "https://t.co/khtj9w119Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075445604654960779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个夏博士和 amber 长得挺像的\n有没有人觉得 nya😝 https://t.co/khtj9w119Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 1176,
+          "like_count": 7285,
+          "listed_count": 9,
+          "media_count": 878,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

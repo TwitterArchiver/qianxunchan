@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2058638757428146492",
+    "created_at": "2026-05-24T21:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T22:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058665814061138139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1879105918501367808",
+          "start": 0,
+          "username": "Edonob3"
+        },
+        {
+          "end": 21,
+          "id": "1439593497841987586",
+          "start": 9,
+          "username": "RealHanyaHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058665814061138139",
+    "in_reply_to_user_id": "1879105918501367808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058651336590471288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edonob3 @RealHanyaHu 我全部带证件，银行卡全部不带🥺全部丢苹果钱包，我希望以后电子驾照普及了可以不用证件🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2058638757428146492",
+        "created_at": "2026-05-24T21:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058665814061138139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1879105918501367808",
+              "start": 0,
+              "username": "Edonob3"
+            },
+            {
+              "end": 21,
+              "id": "1439593497841987586",
+              "start": 9,
+              "username": "RealHanyaHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058665814061138139",
+        "in_reply_to_user_id": "1879105918501367808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058651336590471288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edonob3 @RealHanyaHu 我全部带证件，银行卡全部不带🥺全部丢苹果钱包，我希望以后电子驾照普及了可以不用证件🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879105918501367808",
+        "conversation_id": "2058638757428146492",
+        "created_at": "2026-05-24T20:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058651336590471288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1439593497841987586",
+              "start": 0,
+              "username": "RealHanyaHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058651336590471288",
+        "in_reply_to_user_id": "1439593497841987586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058638757428146492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealHanyaHu 1驾照+1信用卡+20保命美钞😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1136,
+          "like_count": 4029,
+          "listed_count": 8,
+          "media_count": 678,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T09:59:19.000Z",
+        "description": "Building & Investing.\nInto US stocks, option, movies. \nPetting 1 Devon Rex and 3 Abyssinians.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "openedon.com",
+                "end": 23,
+                "expanded_url": "http://openedon.com",
+                "start": 0,
+                "url": "https://t.co/YawmONqwB9"
+              }
+            ]
+          }
+        },
+        "id": "1879105918501367808",
+        "name": "Edon",
+        "pinned_tweet_id": "2055398122407575690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011000648071069697/SH2zZRBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 512,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/YawmONqwB9",
+        "username": "Edonob3",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T14:13:49.000Z",
+        "description": "AI时代女性赋能先锋｜硅谷投资人＋网络小说作家｜帮你用AI赚第一桶金  👉关注我  一起飞  🚀 🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "HerPower.ai",
+                "end": 23,
+                "expanded_url": "http://HerPower.ai",
+                "start": 0,
+                "url": "https://t.co/hoXjqu9C76"
+              }
+            ]
+          }
+        },
+        "id": "1439593497841987586",
+        "location": "US",
+        "name": "Hanya Hu",
+        "pinned_tweet_id": "2057332987709341893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056577153224040448/kPjyKFjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19835,
+          "following_count": 3947,
+          "like_count": 48817,
+          "listed_count": 67,
+          "media_count": 1955,
+          "tweet_count": 17419
+        },
+        "url": "https://t.co/hoXjqu9C76",
+        "username": "RealHanyaHu",
+        "verified": true
+      }
+    ]
+  }
+}

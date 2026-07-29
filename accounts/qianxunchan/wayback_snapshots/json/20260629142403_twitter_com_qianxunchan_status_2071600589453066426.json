@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071597631843746169",
+    "created_at": "2026-06-29T14:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071600589453066426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343200220",
+          "start": 0,
+          "username": "3miku9_0miku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071600589453066426",
+    "in_reply_to_user_id": "343200220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071600128302194854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miku9_0miku1 啊咧，以后会发这种，但是我有点怕被封"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071597631843746169",
+        "created_at": "2026-06-29T14:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071600589453066426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343200220",
+              "start": 0,
+              "username": "3miku9_0miku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071600589453066426",
+        "in_reply_to_user_id": "343200220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071600128302194854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miku9_0miku1 啊咧，以后会发这种，但是我有点怕被封"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343200220",
+        "conversation_id": "2071597631843746169",
+        "created_at": "2026-06-29T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071600128302194854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071600128302194854",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071597631843746169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 看你被操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 1159,
+          "like_count": 6798,
+          "listed_count": 9,
+          "media_count": 835,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T06:16:28.000Z",
+        "description": "烂人一个, 这里只有每天说些废话, 漫无目的的过日子, 也许有性瘾, 不强求任何关系.",
+        "id": "343200220",
+        "location": "Honolulu, HI",
+        "name": "𤭢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995346340252192768/fvuy8H1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2054,
+          "like_count": 22338,
+          "listed_count": 14,
+          "media_count": 124,
+          "tweet_count": 1709
+        },
+        "url": "",
+        "username": "3miku9_0miku1",
+        "verified": false
+      }
+    ]
+  }
+}

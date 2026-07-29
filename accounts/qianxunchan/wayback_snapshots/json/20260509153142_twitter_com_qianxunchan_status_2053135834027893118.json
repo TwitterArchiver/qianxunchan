@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053135762179403776"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2053135834027893118",
+    "created_at": "2026-05-09T15:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053135834027893118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "警惕身边的伪健康陷阱，别让看似健康的食品透支了健康, 视频播放量 360563、弹幕量 473、点赞数 7148、投硬币枚数 93、收藏人数 4205、转发人数 4891, 视频作者 多肉小梨, 作者简介 ，相关视频：小物品可能藏着大风险，宁可多疑也别大意！，懂人情，不失礼，人生之路更宽阔，人们改变不了事实，只能讨厌乌鸦。不要当坏消息的传递者，吃着以为健康，其实伤身的5种食物！你常吃几个？，5月审美累积中…，水上乐园保命小知识#保命小知识#科普，你知道什么是“过年杀猪盘”吗？，女人的第六感真的很准，所以老婆的话一定要听，生活想要过得好，老公必须唱白脸，成年人的春节，也是“渡劫“",
+          "display_url": "b23.tv/VfbEWBP",
+          "end": 56,
+          "expanded_url": "https://b23.tv/VfbEWBP",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2053135852012978176/yIXpbWqY?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2053135852012978176/yIXpbWqY?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "警惕身边的伪健康陷阱，别让看似健康的食品透支了健康_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1V1RsBcETo/?-Arouter=story&buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=23eb9f20-23c0-48c6-80e0-e12e76452d3e&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1778340130&unique_k=VfbEWBP&up_id=473982419",
+          "url": "https://t.co/K6KbNy1qKb"
+        },
+        {
+          "display_url": "pic.x.com/X6i95wvY1L",
+          "end": 91,
+          "expanded_url": "https://x.com/qianxunchan/status/2053135834027893118/video/1",
+          "media_key": "13_2053135762179403776",
+          "start": 68,
+          "url": "https://t.co/X6i95wvY1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053135834027893118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【警惕身边的伪健康陷阱，别让看似健康的食品透支了健康-哔哩哔哩】 https://t.co/K6KbNy1qKb\n\n我也想接不回去😋😋 https://t.co/X6i95wvY1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 235969,
+        "height": 1280,
+        "media_key": "13_2053135762179403776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053135762179403776/img/AOf_EwaoCeHv-kzW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053135762179403776/vid/avc1/320x568/ErFOvbv6b5qUSQvq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053135762179403776/vid/avc1/480x852/EndPUswjTqOB_t3s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053135762179403776/vid/avc1/720x1280/nIO9qM7Sfs4RfnxK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053135762179403776/pl/smXc0CkWxe5cuVRL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053135762179403776"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2053135834027893118",
+        "created_at": "2026-05-09T15:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053135834027893118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "警惕身边的伪健康陷阱，别让看似健康的食品透支了健康, 视频播放量 360563、弹幕量 473、点赞数 7148、投硬币枚数 93、收藏人数 4205、转发人数 4891, 视频作者 多肉小梨, 作者简介 ，相关视频：小物品可能藏着大风险，宁可多疑也别大意！，懂人情，不失礼，人生之路更宽阔，人们改变不了事实，只能讨厌乌鸦。不要当坏消息的传递者，吃着以为健康，其实伤身的5种食物！你常吃几个？，5月审美累积中…，水上乐园保命小知识#保命小知识#科普，你知道什么是“过年杀猪盘”吗？，女人的第六感真的很准，所以老婆的话一定要听，生活想要过得好，老公必须唱白脸，成年人的春节，也是“渡劫“",
+              "display_url": "b23.tv/VfbEWBP",
+              "end": 56,
+              "expanded_url": "https://b23.tv/VfbEWBP",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2053135852012978176/yIXpbWqY?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2053135852012978176/yIXpbWqY?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "警惕身边的伪健康陷阱，别让看似健康的食品透支了健康_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1V1RsBcETo/?-Arouter=story&buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=23eb9f20-23c0-48c6-80e0-e12e76452d3e&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1778340130&unique_k=VfbEWBP&up_id=473982419",
+              "url": "https://t.co/K6KbNy1qKb"
+            },
+            {
+              "display_url": "pic.x.com/X6i95wvY1L",
+              "end": 91,
+              "expanded_url": "https://x.com/qianxunchan/status/2053135834027893118/video/1",
+              "media_key": "13_2053135762179403776",
+              "start": 68,
+              "url": "https://t.co/X6i95wvY1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053135834027893118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【警惕身边的伪健康陷阱，别让看似健康的食品透支了健康-哔哩哔哩】 https://t.co/K6KbNy1qKb\n\n我也想接不回去😋😋 https://t.co/X6i95wvY1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1078,
+          "like_count": 3062,
+          "listed_count": 7,
+          "media_count": 616,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035594121231171969",
+    "created_at": "2026-03-22T18:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035780866174238897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1202911371521744898",
+          "start": 0,
+          "username": "HulunSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035780866174238897",
+    "in_reply_to_user_id": "1202911371521744898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035775137182777570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HulunSi 包的！侨乡好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-03-22T18:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035780866174238897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1202911371521744898",
+              "start": 0,
+              "username": "HulunSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035780866174238897",
+        "in_reply_to_user_id": "1202911371521744898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035775137182777570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HulunSi 包的！侨乡好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202911371521744898",
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-03-22T17:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035775137182777570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 23,
+              "id": "1982449259774656512",
+              "start": 13,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035775137182777570",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035594121231171969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @smiroyama 居然是五邑人捏☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 156,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 289
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-06T11:23:42.000Z",
+        "description": "23级计科本科在读/生理男/友跨🏳️‍⚧️/泛性恋🌈/infp 非常社恐不会主动社交如果有事还请积极主动来找我",
+        "id": "1202911371521744898",
+        "location": "🏫海淀 🏠广东",
+        "name": "惠通",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362356059856232448/smupo3Ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 180,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 29
+        },
+        "username": "HulunSi",
+        "verified": false
+      }
+    ]
+  }
+}

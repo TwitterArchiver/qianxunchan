@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2070328263738790124",
+    "created_at": "2026-06-26T03:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070349952589717816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343200220",
+          "start": 0,
+          "username": "3miku9_0miku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070349952589717816",
+    "in_reply_to_user_id": "343200220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070349787065643076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miku9_0miku1 只是过了最佳使用期😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2070328263738790124",
+        "created_at": "2026-06-26T03:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070349952589717816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343200220",
+              "start": 0,
+              "username": "3miku9_0miku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070349952589717816",
+        "in_reply_to_user_id": "343200220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070349787065643076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miku9_0miku1 只是过了最佳使用期😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343200220",
+        "conversation_id": "2070328263738790124",
+        "created_at": "2026-06-26T03:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070349787065643076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070349787065643076",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348928038670835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 过期食品，销毁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 1148,
+          "like_count": 6490,
+          "listed_count": 9,
+          "media_count": 819,
+          "tweet_count": 2831
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T06:16:28.000Z",
+        "description": "烂人一个, 这里只有每天说些废话, 漫无目的的过日子, 也许有性瘾, 不强求任何关系.",
+        "id": "343200220",
+        "location": "Honolulu, HI",
+        "name": "𤭢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995346340252192768/fvuy8H1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2049,
+          "like_count": 22255,
+          "listed_count": 14,
+          "media_count": 122,
+          "tweet_count": 1685
+        },
+        "url": "",
+        "username": "3miku9_0miku1",
+        "verified": false
+      }
+    ]
+  }
+}

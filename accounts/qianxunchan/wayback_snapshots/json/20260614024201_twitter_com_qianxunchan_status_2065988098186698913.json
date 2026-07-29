@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065988093807906816",
+        "3_2065988093799542784"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2065988098186698913",
+    "created_at": "2026-06-14T02:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065988098186698913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iVEysYtv7c",
+          "end": 83,
+          "expanded_url": "https://x.com/qianxunchan/status/2065988098186698913/photo/1",
+          "media_key": "3_2065988093807906816",
+          "start": 60,
+          "url": "https://t.co/iVEysYtv7c"
+        },
+        {
+          "display_url": "pic.x.com/iVEysYtv7c",
+          "end": 83,
+          "expanded_url": "https://x.com/qianxunchan/status/2065988098186698913/photo/1",
+          "media_key": "3_2065988093799542784",
+          "start": 60,
+          "url": "https://t.co/iVEysYtv7c"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2065985905912135829",
+          "start": 84,
+          "url": "https://t.co/RAlWBfmref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065988098186698913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065985905912135829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果轮奸我的话😱  \n我要不要进警察局啊😭  \n岂不是要坐在刑讯逼供的椅子上被拷打啊😰  \n被锁在椅子上四肢都不能动😣 https://t.co/iVEysYtv7c https://t.co/RAlWBfmref"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2065988093807906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvdOambUAAsRPh.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1191,
+        "media_key": "3_2065988093799542784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvdOakbsAAu7Rk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2065985899830378496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvbOtZbAAAg4Bn.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065988093807906816",
+            "3_2065988093799542784"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2065988098186698913",
+        "created_at": "2026-06-14T02:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065988098186698913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVEysYtv7c",
+              "end": 83,
+              "expanded_url": "https://x.com/qianxunchan/status/2065988098186698913/photo/1",
+              "media_key": "3_2065988093807906816",
+              "start": 60,
+              "url": "https://t.co/iVEysYtv7c"
+            },
+            {
+              "display_url": "pic.x.com/iVEysYtv7c",
+              "end": 83,
+              "expanded_url": "https://x.com/qianxunchan/status/2065988098186698913/photo/1",
+              "media_key": "3_2065988093799542784",
+              "start": 60,
+              "url": "https://t.co/iVEysYtv7c"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2065985905912135829",
+              "start": 84,
+              "url": "https://t.co/RAlWBfmref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065988098186698913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065985905912135829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果轮奸我的话😱  \n我要不要进警察局啊😭  \n岂不是要坐在刑讯逼供的椅子上被拷打啊😰  \n被锁在椅子上四肢都不能动😣 https://t.co/iVEysYtv7c https://t.co/RAlWBfmref"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065985899830378496"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2065985905912135829",
+        "created_at": "2026-06-14T02:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065985905912135829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfqQLPwFqc",
+              "end": 35,
+              "expanded_url": "https://x.com/qianxunchan/status/2065985905912135829/photo/1",
+              "media_key": "3_2065985899830378496",
+              "start": 12,
+              "url": "https://t.co/mfqQLPwFqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065985905912135829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轮奸还没轮到我犯法吗🥺 https://t.co/mfqQLPwFqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 1133,
+          "like_count": 5982,
+          "listed_count": 9,
+          "media_count": 785,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

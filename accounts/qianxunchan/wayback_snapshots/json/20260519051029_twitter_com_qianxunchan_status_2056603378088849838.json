@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2056603378088849838",
+    "created_at": "2026-05-19T05:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056603378088849838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2056569792140898762",
+          "start": 28,
+          "url": "https://t.co/DoA25yjUer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056603378088849838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056569792140898762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一个男人吃了三个布林之后的反应\n8.02分胃部不适 https://t.co/DoA25yjUer"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2056569786826657792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpnUy-akAAeud8.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2056603378088849838",
+        "created_at": "2026-05-19T05:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056603378088849838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2056569792140898762",
+              "start": 28,
+              "url": "https://t.co/DoA25yjUer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056603378088849838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056569792140898762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个男人吃了三个布林之后的反应\n8.02分胃部不适 https://t.co/DoA25yjUer"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056569786826657792"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056569792140898762",
+        "created_at": "2026-05-19T02:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056569792140898762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1suz6HISws",
+              "end": 38,
+              "expanded_url": "https://x.com/qianxunchan/status/2056569792140898762/photo/1",
+              "media_key": "3_2056569786826657792",
+              "start": 15,
+              "url": "https://t.co/1suz6HISws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056569792140898762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸到我想现在就去口交涮涮口🥵 https://t.co/1suz6HISws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 1117,
+          "like_count": 3693,
+          "listed_count": 7,
+          "media_count": 658,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

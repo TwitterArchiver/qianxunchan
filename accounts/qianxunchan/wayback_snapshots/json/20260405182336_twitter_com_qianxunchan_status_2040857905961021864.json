@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040857905961021864",
+    "created_at": "2026-04-05T18:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040857905961021864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hacchithemaid/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hacchithemaid/status/2040790427109105858",
+          "start": 31,
+          "url": "https://t.co/7njDAeY7bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040857905961021864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040790427109105858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这档案比美国信用分还长有点意思\n美国的信用分也才10年🤣🤣🫪 https://t.co/7njDAeY7bk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_2040790420884779008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJYE0HbcAA0l7v.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040857905961021864",
+        "created_at": "2026-04-05T18:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040857905961021864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hacchithemaid/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hacchithemaid/status/2040790427109105858",
+              "start": 31,
+              "url": "https://t.co/7njDAeY7bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040857905961021864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040790427109105858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这档案比美国信用分还长有点意思\n美国的信用分也才10年🤣🤣🫪 https://t.co/7njDAeY7bk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040790420884779008"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040790427109105858",
+        "created_at": "2026-04-05T13:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040790427109105858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFtjjNdoLp",
+              "end": 83,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2040790427109105858/photo/1",
+              "media_key": "3_2040790420884779008",
+              "start": 60,
+              "url": "https://t.co/rFtjjNdoLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040790427109105858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9650,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "档案跟你一辈子，走到哪里都需要个人档案，在中国这个人情社会里，你现在还体会不到被人冷眼的悲凉，为了生活低声下气的卑微， https://t.co/rFtjjNdoLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 863,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 827
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10132,
+          "following_count": 1991,
+          "like_count": 52828,
+          "listed_count": 34,
+          "media_count": 1354,
+          "tweet_count": 36727
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

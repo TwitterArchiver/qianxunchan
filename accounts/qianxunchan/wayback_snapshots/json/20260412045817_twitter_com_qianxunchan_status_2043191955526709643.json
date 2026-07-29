@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2043167754832814438",
+    "created_at": "2026-04-12T04:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043191955526709643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237070364523425792",
+          "start": 0,
+          "username": "shishi_zuibang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043191955526709643",
+    "in_reply_to_user_id": "1237070364523425792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043167754832814438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishi_zuibang 我发现一个规律☝️🤓每次视频都会像过人脸验证一样左右摆头😦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9431,
+        "height": 960,
+        "media_key": "13_2043167698813628416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043167698813628416/img/gK-m6Mq9ASIyYXwP.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043167698813628416/vid/avc1/320x426/qKhpHe_YGrZFzP7B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043167698813628416/vid/avc1/480x640/HMjL8s-HYxhv355r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043167698813628416/vid/avc1/720x960/Nnb2QB8z8e4Use1n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043167698813628416/pl/rgvVBcf0Sn1J6oWW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043167754832814438",
+        "created_at": "2026-04-12T04:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043191955526709643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237070364523425792",
+              "start": 0,
+              "username": "shishi_zuibang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043191955526709643",
+        "in_reply_to_user_id": "1237070364523425792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043167754832814438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishi_zuibang 我发现一个规律☝️🤓每次视频都会像过人脸验证一样左右摆头😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043167698813628416"
+          ]
+        },
+        "author_id": "1237070364523425792",
+        "conversation_id": "2043167754832814438",
+        "created_at": "2026-04-12T03:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043167754832814438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYOJkqpYLD",
+              "end": 23,
+              "expanded_url": "https://x.com/shishi_zuibang/status/2043167754832814438/video/1",
+              "media_key": "13_2043167698813628416",
+              "start": 0,
+              "url": "https://t.co/NYOJkqpYLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043167754832814438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NYOJkqpYLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 887,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 1174
+        },
+        "username": "qianxunchan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T17:39:03.000Z",
+        "description": "🌸 Trans female🏳️‍⚧️ 跨女顺男bi | 假dom真sub | 与姐妹见面最快乐了💞 | pre-srs 生活态度：温温暖暖🐴🐴🐯🐯",
+        "id": "1237070364523425792",
+        "location": "Allentown, PA",
+        "name": "Melissa🥰莎莎🇺🇸",
+        "pinned_tweet_id": "2034745941228433490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032153366302724096/ni_ay5Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 517,
+          "like_count": 8299,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1298
+        },
+        "username": "shishi_zuibang",
+        "verified": false
+      }
+    ]
+  }
+}

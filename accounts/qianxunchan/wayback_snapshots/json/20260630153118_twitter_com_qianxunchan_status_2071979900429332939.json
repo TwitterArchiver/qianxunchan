@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071950802025930782",
+    "created_at": "2026-06-30T15:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071979900429332939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817527249907892224",
+          "start": 0,
+          "username": "furan86999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071979900429332939",
+    "in_reply_to_user_id": "1817527249907892224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071979719038501274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furan86999 你留言错帖子了吧😆😆😂🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071950802025930782",
+        "created_at": "2026-06-30T15:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071979900429332939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817527249907892224",
+              "start": 0,
+              "username": "furan86999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071979900429332939",
+        "in_reply_to_user_id": "1817527249907892224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071979719038501274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furan86999 你留言错帖子了吧😆😆😂🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817527249907892224",
+        "conversation_id": "2071950802025930782",
+        "created_at": "2026-06-30T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071979719038501274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071979719038501274",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071950802025930782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan hold on bro，这轮牛市才刚暖身呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 1167,
+          "like_count": 6917,
+          "listed_count": 9,
+          "media_count": 841,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T11:47:28.000Z",
+        "description": "币安 火币 Gate Bitget 认证创作者。一级二级投研。币安永久超级返佣邀请码:FURAN86999 。 WEEX大使 邀请码 ba3p 。发的所有贴子，不是投资建议。交流群：https://t.co/GA3Bg4UFtZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kaiershequ",
+                "end": 114,
+                "expanded_url": "https://t.me/kaiershequ",
+                "start": 91,
+                "url": "https://t.co/GA3Bg4UFtZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furan86999",
+                "end": 23,
+                "expanded_url": "https://t.me/furan86999",
+                "start": 0,
+                "url": "https://t.co/bOUmpnxI6y"
+              }
+            ]
+          }
+        },
+        "id": "1817527249907892224",
+        "location": "商务合作DM👉",
+        "name": "furan 预测世界杯就在Gate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849848274473426944/K0RuI9mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41678,
+          "following_count": 10388,
+          "like_count": 179358,
+          "listed_count": 58,
+          "media_count": 938,
+          "tweet_count": 168349
+        },
+        "url": "https://t.co/bOUmpnxI6y",
+        "username": "furan86999",
+        "verified": true
+      }
+    ]
+  }
+}

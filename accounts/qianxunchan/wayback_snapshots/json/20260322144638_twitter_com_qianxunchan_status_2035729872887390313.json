@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035660691487510999",
+    "created_at": "2026-03-22T14:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035729872887390313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035729872887390313",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035660691487510999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 乌鸡哥！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2035660683304693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAemyea8AAMU_s.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2035660683422105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAemy6agAAWNat.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035660691487510999",
+        "created_at": "2026-03-22T14:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035729872887390313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035729872887390313",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035660691487510999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 乌鸡哥！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035660683304693760",
+            "3_2035660683422105600"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2035660691487510999",
+        "created_at": "2026-03-22T10:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035660691487510999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txSJQFZaxa",
+              "end": 56,
+              "expanded_url": "https://x.com/NagiExpress/status/2035660691487510999/photo/1",
+              "media_key": "3_2035660683304693760",
+              "start": 33,
+              "url": "https://t.co/txSJQFZaxa"
+            },
+            {
+              "display_url": "pic.x.com/txSJQFZaxa",
+              "end": 56,
+              "expanded_url": "https://x.com/NagiExpress/status/2035660691487510999/photo/1",
+              "media_key": "3_2035660683422105600",
+              "start": 33,
+              "url": "https://t.co/txSJQFZaxa"
+            },
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2035630650217091177",
+              "start": 57,
+              "url": "https://t.co/OrJRhpSJB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035660691487510999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1241,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035630650217091177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "误机是吧\n再来一发\n往返38块的last minute票还是不亏 https://t.co/txSJQFZaxa https://t.co/OrJRhpSJB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 153,
+          "like_count": 683,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 282
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你的生活不够甜蜜吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "STN",
+        "name": "Nagi想去拉美",
+        "pinned_tweet_id": "2034457157664416165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032924101828837376/3WGhvK6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 2250,
+          "like_count": 24922,
+          "listed_count": 7,
+          "media_count": 2146,
+          "tweet_count": 21017
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056498704023244800"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2056498707932352919",
+    "created_at": "2026-05-18T22:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T23:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056498707932352919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AweARZCTiX",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2056498707932352919/photo/1",
+          "media_key": "3_2056498704023244800",
+          "start": 18,
+          "url": "https://t.co/AweARZCTiX"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2056494785037513151",
+          "start": 42,
+          "url": "https://t.co/Upo2NCEteA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056498707932352919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056494785037513151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我为我有这样的母亲感到高兴🥹🥹🥹🥺 https://t.co/AweARZCTiX https://t.co/Upo2NCEteA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2056498704023244800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIomrO5bUAA1PW1.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2056494780180492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIojG1cacAAZnEt.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2056494780394450945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIojG2PbMAEJ1vb.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056498704023244800"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2056498707932352919",
+        "created_at": "2026-05-18T22:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056498707932352919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AweARZCTiX",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2056498707932352919/photo/1",
+              "media_key": "3_2056498704023244800",
+              "start": 18,
+              "url": "https://t.co/AweARZCTiX"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2056494785037513151",
+              "start": 42,
+              "url": "https://t.co/Upo2NCEteA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056498707932352919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056494785037513151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为我有这样的母亲感到高兴🥹🥹🥹🥺 https://t.co/AweARZCTiX https://t.co/Upo2NCEteA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056494780180492288",
+            "3_2056494780394450945"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2056494785037513151",
+        "created_at": "2026-05-18T21:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056494785037513151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQRXqHBH4f",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2056494785037513151/photo/1",
+              "media_key": "3_2056494780180492288",
+              "start": 18,
+              "url": "https://t.co/lQRXqHBH4f"
+            },
+            {
+              "display_url": "pic.x.com/lQRXqHBH4f",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2056494785037513151/photo/1",
+              "media_key": "3_2056494780394450945",
+              "start": 18,
+              "url": "https://t.co/lQRXqHBH4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056494785037513151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想退货时候已经退货不了了那就用吧😭 https://t.co/lQRXqHBH4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1117,
+          "like_count": 3665,
+          "listed_count": 7,
+          "media_count": 656,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

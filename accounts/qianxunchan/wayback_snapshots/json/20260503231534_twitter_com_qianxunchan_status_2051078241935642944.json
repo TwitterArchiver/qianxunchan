@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051078237917515776",
+        "3_2051078237909053440"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2051078241935642944",
+    "created_at": "2026-05-03T23:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051078241935642944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7clLKWm4rg",
+          "end": 46,
+          "expanded_url": "https://x.com/qianxunchan/status/2051078241935642944/photo/1",
+          "media_key": "3_2051078237917515776",
+          "start": 23,
+          "url": "https://t.co/7clLKWm4rg"
+        },
+        {
+          "display_url": "pic.x.com/7clLKWm4rg",
+          "end": 46,
+          "expanded_url": "https://x.com/qianxunchan/status/2051078241935642944/photo/1",
+          "media_key": "3_2051078237909053440",
+          "start": 23,
+          "url": "https://t.co/7clLKWm4rg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051078241935642944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正新鸡排在旧金山的分店😆\n评论区惊现大雷😅😅 https://t.co/7clLKWm4rg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2051078237917515776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbkylGbkAAyg46.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2051078237909053440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbkylEacAAR5mA.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051078237917515776",
+            "3_2051078237909053440"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2051078241935642944",
+        "created_at": "2026-05-03T23:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051078241935642944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7clLKWm4rg",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2051078241935642944/photo/1",
+              "media_key": "3_2051078237917515776",
+              "start": 23,
+              "url": "https://t.co/7clLKWm4rg"
+            },
+            {
+              "display_url": "pic.x.com/7clLKWm4rg",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2051078241935642944/photo/1",
+              "media_key": "3_2051078237909053440",
+              "start": 23,
+              "url": "https://t.co/7clLKWm4rg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051078241935642944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正新鸡排在旧金山的分店😆\n评论区惊现大雷😅😅 https://t.co/7clLKWm4rg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/f30ZI26II3",
+                "start": 0,
+                "url": "https://t.co/xUc5LJ0GJ6"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 1061,
+          "like_count": 2746,
+          "listed_count": 5,
+          "media_count": 559,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/xUc5LJ0GJ6",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

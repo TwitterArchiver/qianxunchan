@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2067094672615551160",
+    "created_at": "2026-06-17T15:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067272668727108077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037553285771796480",
+          "start": 0,
+          "username": "ovo_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067272668727108077",
+    "in_reply_to_user_id": "2037553285771796480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067148435787259927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo_yoki 哭哭手下留情主人🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2067094672615551160",
+        "created_at": "2026-06-17T15:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067272668727108077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037553285771796480",
+              "start": 0,
+              "username": "ovo_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067272668727108077",
+        "in_reply_to_user_id": "2037553285771796480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067148435787259927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo_yoki 哭哭手下留情主人🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037553285771796480",
+        "conversation_id": "2067094672615551160",
+        "created_at": "2026-06-17T07:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067148435787259927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148435787259927",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067094672615551160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 拿郊狼电你😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 1137,
+          "like_count": 6116,
+          "listed_count": 9,
+          "media_count": 793,
+          "tweet_count": 2730
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T15:35:26.000Z",
+        "description": "ZH,EN｜💛叫我洋洋就好啦\n泛/表推当里推发/求关注！🔞#NSFW\n瓦/MC/MaiMaiDX/羽毛球🏸\n\n眼熟之后会回follow～😋block看心情！💢\nlxfs）熟免🚪30CNY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "NSFW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/ovo_yoki",
+                "end": 23,
+                "expanded_url": "http://x.com/ovo_yoki",
+                "start": 0,
+                "url": "https://t.co/degIQCFSP8"
+              }
+            ]
+          }
+        },
+        "id": "2037553285771796480",
+        "location": "🌍 / 0.5",
+        "name": "池下停车洋",
+        "pinned_tweet_id": "2065350806212415662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045751504251019264/k3cbONZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 447,
+          "like_count": 3230,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/degIQCFSP8",
+        "username": "ovo_yoki",
+        "verified": true
+      }
+    ]
+  }
+}

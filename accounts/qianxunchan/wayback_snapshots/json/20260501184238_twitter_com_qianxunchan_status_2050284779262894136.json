@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2050284779262894136",
+    "created_at": "2026-05-01T18:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050284779262894136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661349504069804032",
+          "start": 3,
+          "username": "Zhuo2018"
+        },
+        {
+          "end": 30,
+          "id": "995958037708914689",
+          "start": 14,
+          "username": "Ahmadansari2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050284779262894136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050159289369800952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhuo2018: @Ahmadansari2233 跟傻逼一样 你咋不比这两个的性能和散热呢？😅爹妈死完了发这种视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2050284779262894136",
+        "created_at": "2026-05-01T18:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050284779262894136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661349504069804032",
+              "start": 3,
+              "username": "Zhuo2018"
+            },
+            {
+              "end": 30,
+              "id": "995958037708914689",
+              "start": 14,
+              "username": "Ahmadansari2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050284779262894136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050159289369800952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhuo2018: @Ahmadansari2233 跟傻逼一样 你咋不比这两个的性能和散热呢？😅爹妈死完了发这种视频"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661349504069804032",
+        "conversation_id": "2050105084382740919",
+        "created_at": "2026-05-01T10:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050159289369800952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "995958037708914689",
+              "start": 0,
+              "username": "Ahmadansari2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050159289369800952",
+        "in_reply_to_user_id": "995958037708914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050105084382740919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahmadansari2233 跟傻逼一样 你咋不比这两个的性能和散热呢？😅爹妈死完了发这种视频"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 1059,
+          "like_count": 2637,
+          "listed_count": 5,
+          "media_count": 539,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "一个不可理喻的普通人 数码爱好者 乐子人 有点精神病 Never Settle\n你好 交个朋友",
+        "id": "1661349504069804032",
+        "location": "游戏热爱者",
+        "name": "Zhuoc 🔪",
+        "pinned_tweet_id": "2039370831432912975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048286608919859201/L97COj9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 471,
+          "like_count": 1013,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 432
+        },
+        "username": "Zhuo2018",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-14T09:24:34.000Z",
+        "description": "Get My All free & paid works for iOS & Android ⬇️⬇️⬇️\n\nhttps://t.co/EATdW48QMx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bio.link/ahmadansari",
+                "end": 78,
+                "expanded_url": "https://bio.link/ahmadansari",
+                "start": 55,
+                "url": "https://t.co/EATdW48QMx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2PWYdzI",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2PWYdzI",
+                "start": 0,
+                "url": "https://t.co/iAzSviHdii"
+              }
+            ]
+          }
+        },
+        "id": "995958037708914689",
+        "location": "Bhiwandi, India",
+        "name": "AhMad 𝕏 Ansari",
+        "pinned_tweet_id": "2041851917731864607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916731768381562880/tVAovlRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242007,
+          "following_count": 2284,
+          "like_count": 50384,
+          "listed_count": 661,
+          "media_count": 13399,
+          "tweet_count": 48197
+        },
+        "url": "https://t.co/iAzSviHdii",
+        "username": "Ahmadansari2233",
+        "verified": true
+      }
+    ]
+  }
+}

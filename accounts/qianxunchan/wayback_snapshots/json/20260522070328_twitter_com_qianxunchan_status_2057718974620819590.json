@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2057718974620819590",
+    "created_at": "2026-05-22T07:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057718974620819590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1002664853847224320",
+          "start": 3,
+          "username": "CHPAlerts"
+        },
+        {
+          "end": 113,
+          "id": "115705583",
+          "start": 106,
+          "username": "LAPDHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057718974620819590",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1956
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057625644713009491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHPAlerts: Amber Alert – Los Angeles County\nLast seen: Slauson Avenue at Van Ness Avenue, Los Angeles\n@LAPDHQ\n\nIF SEEN, CALL 9-1-1 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2057625643245006848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4nnupacAAdV8O.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2057718974620819590",
+        "created_at": "2026-05-22T07:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057718974620819590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1002664853847224320",
+              "start": 3,
+              "username": "CHPAlerts"
+            },
+            {
+              "end": 113,
+              "id": "115705583",
+              "start": 106,
+              "username": "LAPDHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057718974620819590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1956
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625644713009491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CHPAlerts: Amber Alert – Los Angeles County\nLast seen: Slauson Avenue at Van Ness Avenue, Los Angeles\n@LAPDHQ\n\nIF SEEN, CALL 9-1-1 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057625643245006848"
+          ]
+        },
+        "author_id": "1002664853847224320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2057625644713009491",
+        "created_at": "2026-05-22T00:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057625644713009491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "115705583",
+              "start": 91,
+              "username": "LAPDHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjN4CWRDvF",
+              "end": 143,
+              "expanded_url": "https://x.com/CHPAlerts/status/2057625644713009491/photo/1",
+              "media_key": "3_2057625643245006848",
+              "start": 120,
+              "url": "https://t.co/fjN4CWRDvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057625644713009491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 506597,
+          "like_count": 5334,
+          "quote_count": 48,
+          "reply_count": 850,
+          "retweet_count": 1956
+        },
+        "reply_settings": "everyone",
+        "text": "Amber Alert – Los Angeles County\nLast seen: Slauson Avenue at Van Ness Avenue, Los Angeles\n@LAPDHQ\n\nIF SEEN, CALL 9-1-1 https://t.co/fjN4CWRDvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 1129,
+          "like_count": 3865,
+          "listed_count": 7,
+          "media_count": 671,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-01T21:35:04.000Z",
+        "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chpalerts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chpalerts",
+                "start": 0,
+                "url": "https://t.co/EhMM0DiVha"
+              }
+            ]
+          }
+        },
+        "id": "1002664853847224320",
+        "location": "California, USA",
+        "name": "CHP - Alerts",
+        "pinned_tweet_id": "2056325300250939555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057114232601427968/CrWsG0wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253695,
+          "following_count": 209,
+          "like_count": 7,
+          "listed_count": 359,
+          "media_count": 58,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/EhMM0DiVha",
+        "username": "CHPAlerts",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-19T16:34:43.000Z",
+        "description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. LAPDHQ on Facebook & Instagram",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapdonline.org",
+                "end": 23,
+                "expanded_url": "http://www.lapdonline.org/",
+                "start": 0,
+                "url": "https://t.co/Wog46BysMH"
+              }
+            ]
+          }
+        },
+        "id": "115705583",
+        "location": "Los Angeles, CA",
+        "name": "LAPD HQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822125829746544640/5Z5WX1jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265228,
+          "following_count": 315,
+          "like_count": 9063,
+          "listed_count": 2046,
+          "media_count": 7642,
+          "tweet_count": 21231
+        },
+        "url": "https://t.co/Wog46BysMH",
+        "username": "LAPDHQ",
+        "verified": true
+      }
+    ]
+  }
+}

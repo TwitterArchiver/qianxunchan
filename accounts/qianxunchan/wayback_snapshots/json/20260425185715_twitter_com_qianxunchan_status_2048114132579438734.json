@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048114082331680768"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2048114132579438734",
+    "created_at": "2026-04-25T18:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048114132579438734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xELGoTXOhh",
+          "end": 35,
+          "expanded_url": "https://x.com/qianxunchan/status/2048114132579438734/video/1",
+          "media_key": "13_2048114082331680768",
+          "start": 12,
+          "url": "https://t.co/xELGoTXOhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048114132579438734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家知道发生了什么吗🤔 https://t.co/xELGoTXOhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13233,
+        "height": 1280,
+        "media_key": "13_2048114082331680768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048114082331680768/img/2dPBRg7-9rxGWIi-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048114082331680768/vid/avc1/320x568/EtT-qP6_qezXGEya.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048114082331680768/vid/avc1/480x852/XZiYwuT-p6ncj-0V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048114082331680768/vid/avc1/720x1280/d3vz0OSFGKKeYVZ5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048114082331680768/pl/HreKhfswN6RZpr3v.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048114082331680768"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2048114132579438734",
+        "created_at": "2026-04-25T18:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048114132579438734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xELGoTXOhh",
+              "end": 35,
+              "expanded_url": "https://x.com/qianxunchan/status/2048114132579438734/video/1",
+              "media_key": "13_2048114082331680768",
+              "start": 12,
+              "url": "https://t.co/xELGoTXOhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048114132579438734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家知道发生了什么吗🤔 https://t.co/xELGoTXOhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 976,
+          "like_count": 2105,
+          "listed_count": 5,
+          "media_count": 487,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

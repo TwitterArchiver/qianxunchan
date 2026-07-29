@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043443668288516096",
+        "3_2043443675318169600",
+        "3_2043443681836060672"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2043446061226992044",
+    "created_at": "2026-04-12T21:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T22:47:01.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043445812412453042",
+      "2043446061226992044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1J9kmP4rOO",
+          "end": 146,
+          "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+          "media_key": "3_2043443668288516096",
+          "start": 123,
+          "url": "https://t.co/1J9kmP4rOO"
+        },
+        {
+          "display_url": "pic.x.com/1J9kmP4rOO",
+          "end": 146,
+          "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+          "media_key": "3_2043443675318169600",
+          "start": 123,
+          "url": "https://t.co/1J9kmP4rOO"
+        },
+        {
+          "display_url": "pic.x.com/1J9kmP4rOO",
+          "end": 146,
+          "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+          "media_key": "3_2043443681836060672",
+          "start": 123,
+          "url": "https://t.co/1J9kmP4rOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043446061226992044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "工地有个公认的规矩：\n钢卷掉地上谁拿起来就归谁的\n\n常见的钢卷单卷重量在3-30吨之间浮动：\n\n薄板小卷：约3-10吨（如家电用镀锌板）\n常规卷：10-20吨（建筑用热轧卷）\n超大卷：可达30吨（特厚工业用卷）\n\n老板：那还说啥了？送你得了！😰 https://t.co/1J9kmP4rOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_2043443668288516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvFMI7bsAAshcP.png",
+        "width": 400
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2043443675318169600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvFMjHbsAA1I9Z.jpg",
+        "width": 1136
+      },
+      {
+        "height": 504,
+        "media_key": "3_2043443681836060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvFM7Za0AAAFOb.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043443668288516096",
+            "3_2043443675318169600",
+            "3_2043443681836060672"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043445812412453042",
+        "created_at": "2026-04-12T21:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:47:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043445812412453042",
+          "2043446061226992044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0br0wrfTAA",
+              "end": 149,
+              "expanded_url": "https://x.com/qianxunchan/status/2043445812412453042/photo/1",
+              "media_key": "3_2043443668288516096",
+              "start": 126,
+              "url": "https://t.co/0br0wrfTAA"
+            },
+            {
+              "display_url": "pic.x.com/0br0wrfTAA",
+              "end": 149,
+              "expanded_url": "https://x.com/qianxunchan/status/2043445812412453042/photo/1",
+              "media_key": "3_2043443675318169600",
+              "start": 126,
+              "url": "https://t.co/0br0wrfTAA"
+            },
+            {
+              "display_url": "pic.x.com/0br0wrfTAA",
+              "end": 149,
+              "expanded_url": "https://x.com/qianxunchan/status/2043445812412453042/photo/1",
+              "media_key": "3_2043443681836060672",
+              "start": 126,
+              "url": "https://t.co/0br0wrfTAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043445812412453042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工地有个公认的规矩：\n\n钢卷掉地上谁拿起来就归谁的\n\n常见的钢卷单卷重量在3-30吨之间浮动：\n\n薄板小卷：约3-10吨（如家电用镀锌板）\n\n常规卷：10-20吨（建筑用热轧卷）\n\n超大卷：可达30吨（特厚工业用卷）\n\n老板：那还说啥了？送你得了！😰 https://t.co/0br0wrfTAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043443668288516096",
+            "3_2043443675318169600",
+            "3_2043443681836060672"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043446061226992044",
+        "created_at": "2026-04-12T21:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:47:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043445812412453042",
+          "2043446061226992044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1J9kmP4rOO",
+              "end": 146,
+              "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+              "media_key": "3_2043443668288516096",
+              "start": 123,
+              "url": "https://t.co/1J9kmP4rOO"
+            },
+            {
+              "display_url": "pic.x.com/1J9kmP4rOO",
+              "end": 146,
+              "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+              "media_key": "3_2043443675318169600",
+              "start": 123,
+              "url": "https://t.co/1J9kmP4rOO"
+            },
+            {
+              "display_url": "pic.x.com/1J9kmP4rOO",
+              "end": 146,
+              "expanded_url": "https://x.com/qianxunchan/status/2043446061226992044/photo/1",
+              "media_key": "3_2043443681836060672",
+              "start": 123,
+              "url": "https://t.co/1J9kmP4rOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043446061226992044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工地有个公认的规矩：\n钢卷掉地上谁拿起来就归谁的\n\n常见的钢卷单卷重量在3-30吨之间浮动：\n\n薄板小卷：约3-10吨（如家电用镀锌板）\n常规卷：10-20吨（建筑用热轧卷）\n超大卷：可达30吨（特厚工业用卷）\n\n老板：那还说啥了？送你得了！😰 https://t.co/1J9kmP4rOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 884,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1219
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

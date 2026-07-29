@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2039533534155788583",
+    "created_at": "2026-04-02T03:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039539694338470291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "117969280",
+          "start": 0,
+          "username": "bketck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039539694338470291",
+    "in_reply_to_user_id": "117969280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039533534155788583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bketck 加州没有医保罚款喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2039533534155788583",
+        "created_at": "2026-04-02T03:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039539694338470291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "117969280",
+              "start": 0,
+              "username": "bketck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039539694338470291",
+        "in_reply_to_user_id": "117969280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039533534155788583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bketck 加州没有医保罚款喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "117969280",
+        "conversation_id": "2039533534155788583",
+        "created_at": "2026-04-02T02:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039533534155788583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xie_hanying/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/xie_hanying/status/2039530952095903779",
+              "start": 18,
+              "url": "https://t.co/tMOvzQ6zbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039533534155788583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039530952095903779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国医疗没有保险的话听说很贵很贵？ https://t.co/tMOvzQ6zbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 816,
+          "like_count": 835,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 671
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-27T05:34:59.000Z",
+        "description": "家里养着几只猫，变成了猫奴中，每天分享各类有趣的东西，如果你喜欢我的内容，请多多关注，蓝v必回关",
+        "id": "117969280",
+        "location": "us",
+        "name": "Station Cat",
+        "pinned_tweet_id": "2033722855721209974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892489460589199360/UR_E0ZJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 685,
+          "like_count": 1899,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 7940
+        },
+        "username": "bketck",
+        "verified": true
+      }
+    ]
+  }
+}

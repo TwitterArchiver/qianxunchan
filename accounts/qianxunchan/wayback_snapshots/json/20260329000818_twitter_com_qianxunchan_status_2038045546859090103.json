@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038045383763578880"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2038045546859090103",
+    "created_at": "2026-03-29T00:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038045546859090103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiAfqO8Wnq",
+          "end": 53,
+          "expanded_url": "https://x.com/qianxunchan/status/2038045546859090103/video/1",
+          "media_key": "13_2038045383763578880",
+          "start": 30,
+          "url": "https://t.co/iiAfqO8Wnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038045546859090103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苹果26.4新发现的相机bug\n卡成ppt了都\n重启后解决 https://t.co/iiAfqO8Wnq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13795,
+        "height": 3840,
+        "media_key": "13_2038045383763578880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038045383763578880/img/XzhZWPsraPSDODkC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/pl/drHFBdyy6kg60RYQ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/vid/avc1/480x852/JlHy3CxlBpFcDy83.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/vid/avc1/2160x3840/JvhpywdGxLX6lO__.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/vid/avc1/1080x1920/NjCTPZ7nduVwbr5U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/vid/avc1/720x1280/sxnuXfP6dwh4qThn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038045383763578880/vid/avc1/320x568/TU9yyQm70oEUYxuc.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038045383763578880"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2038045546859090103",
+        "created_at": "2026-03-29T00:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038045546859090103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiAfqO8Wnq",
+              "end": 53,
+              "expanded_url": "https://x.com/qianxunchan/status/2038045546859090103/video/1",
+              "media_key": "13_2038045383763578880",
+              "start": 30,
+              "url": "https://t.co/iiAfqO8Wnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038045546859090103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果26.4新发现的相机bug\n卡成ppt了都\n重启后解决 https://t.co/iiAfqO8Wnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2037918621687750718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 769,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 482
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

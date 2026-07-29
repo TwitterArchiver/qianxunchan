@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2067011044942508221",
+    "created_at": "2026-06-16T22:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T23:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067011180305277227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515451257892315153",
+          "start": 0,
+          "username": "HappierZeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067011180305277227",
+    "in_reply_to_user_id": "1515451257892315153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067011044942508221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappierZeen 哦哦原来大家都是这样啊！学到了学到了抱歉打扰😣🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2067011044942508221",
+        "created_at": "2026-06-16T22:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067011180305277227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515451257892315153",
+              "start": 0,
+              "username": "HappierZeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067011180305277227",
+        "in_reply_to_user_id": "1515451257892315153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067011044942508221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappierZeen 哦哦原来大家都是这样啊！学到了学到了抱歉打扰😣🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515451257892315153",
+        "conversation_id": "2067011044942508221",
+        "created_at": "2026-06-16T22:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067011044942508221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2067010692314775636",
+              "start": 52,
+              "url": "https://t.co/gzbYOT6uO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067011044942508221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067010692314775636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回fo私信t我！如果我没回关哈哈哈哈哈\n我还以为是我私信没回的习惯\n查了所有私信 微信 大小号 和ig https://t.co/gzbYOT6uO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1134,
+          "like_count": 6052,
+          "listed_count": 9,
+          "media_count": 789,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T22:05:24.000Z",
+        "description": "ENTP🏳️‍⚧️｜EdTech Industry｜免费给酷儿做留学/移民申请咨询 (约30min-1h call) | 酷儿艺术家 |",
+        "id": "1515451257892315153",
+        "location": "San Francisco, CA",
+        "name": "Zeen🏳️‍⚧️（queer互fo",
+        "pinned_tweet_id": "1952305468774445198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914626502123274241/yPzpTn8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 852,
+          "like_count": 1123,
+          "listed_count": 9,
+          "media_count": 132,
+          "tweet_count": 793
+        },
+        "username": "HappierZeen",
+        "verified": true
+      }
+    ]
+  }
+}

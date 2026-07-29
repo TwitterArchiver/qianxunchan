@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037713444154351833",
+    "created_at": "2026-03-28T02:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037713444154351833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongffu/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hongffu/status/2037200574114873510",
+          "start": 20,
+          "url": "https://t.co/KPShlyPNV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037713444154351833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037200574114873510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了真的，砍人的到底有多大仇恨啊…… https://t.co/KPShlyPNV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037200453944172544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWXBPGbYAAeQXN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037200453969293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWXBPMasAAYlkP.jpg",
+        "width": 943
+      },
+      {
+        "height": 1946,
+        "media_key": "3_2037200453977710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWXBPObIAAxGuv.jpg",
+        "width": 909
+      },
+      {
+        "height": 1551,
+        "media_key": "3_2037200453872558080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWXBO1WoAAdWNc.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037713444154351833",
+        "created_at": "2026-03-28T02:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037713444154351833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongffu/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hongffu/status/2037200574114873510",
+              "start": 20,
+              "url": "https://t.co/KPShlyPNV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037713444154351833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037200574114873510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了真的，砍人的到底有多大仇恨啊…… https://t.co/KPShlyPNV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037200453944172544",
+            "3_2037200453969293312",
+            "3_2037200453977710592",
+            "3_2037200453872558080"
+          ]
+        },
+        "author_id": "1736452884282097665",
+        "conversation_id": "2037200574114873510",
+        "created_at": "2026-03-26T16:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:10:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037200459958472765",
+          "2037200574114873510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YN3WFs9cGN",
+              "end": 106,
+              "expanded_url": "https://x.com/HONGFFU/status/2037200574114873510/photo/1",
+              "media_key": "3_2037200453944172544",
+              "start": 83,
+              "url": "https://t.co/YN3WFs9cGN"
+            },
+            {
+              "display_url": "pic.x.com/YN3WFs9cGN",
+              "end": 106,
+              "expanded_url": "https://x.com/HONGFFU/status/2037200574114873510/photo/1",
+              "media_key": "3_2037200453969293312",
+              "start": 83,
+              "url": "https://t.co/YN3WFs9cGN"
+            },
+            {
+              "display_url": "pic.x.com/YN3WFs9cGN",
+              "end": 106,
+              "expanded_url": "https://x.com/HONGFFU/status/2037200574114873510/photo/1",
+              "media_key": "3_2037200453977710592",
+              "start": 83,
+              "url": "https://t.co/YN3WFs9cGN"
+            },
+            {
+              "display_url": "pic.x.com/YN3WFs9cGN",
+              "end": 106,
+              "expanded_url": "https://x.com/HONGFFU/status/2037200574114873510/photo/1",
+              "media_key": "3_2037200453872558080",
+              "start": 83,
+              "url": "https://t.co/YN3WFs9cGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037200574114873510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 651679,
+          "like_count": 1489,
+          "quote_count": 11,
+          "reply_count": 178,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "2026/3/26/早上，广东深圳罗湖多名小学生被砍了，具体地点罗湖东门中路，现场当时就被围了，警察不让拍照！\n而且是有组织行凶，国内全部封锁消息！已经开始大乱了！ https://t.co/YN3WFs9cGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 742,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 437
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T18:27:19.000Z",
+        "description": "逆旅门开夜正中，美人慧眼识英雄。 丝萝乔木终身愿，不附越公附卫公！ 💥友情推荐罗翔猛料频道：https://t.co/wSKZ9pTKRR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LUOXIANG_PMTQ",
+                "end": 69,
+                "expanded_url": "https://t.me/LUOXIANG_PMTQ",
+                "start": 46,
+                "url": "https://t.co/wSKZ9pTKRR"
+              }
+            ]
+          }
+        },
+        "id": "1736452884282097665",
+        "location": "加利福尼亚州洛杉矶",
+        "name": "红拂",
+        "pinned_tweet_id": "2036806473460678994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014118840800616448/v_LIS3W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84544,
+          "following_count": 4327,
+          "like_count": 49003,
+          "listed_count": 245,
+          "media_count": 7610,
+          "tweet_count": 19002
+        },
+        "username": "HONGFFU",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053922920528048128",
+        "3_2053922920494460928",
+        "3_2053922920490205184",
+        "3_2053922920519639040"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2053923249025962406",
+    "created_at": "2026-05-11T19:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053923249025962406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SViYi3keJ9",
+          "end": 59,
+          "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+          "media_key": "13_2053922920528048128",
+          "start": 36,
+          "url": "https://t.co/SViYi3keJ9"
+        },
+        {
+          "display_url": "pic.x.com/SViYi3keJ9",
+          "end": 59,
+          "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+          "media_key": "3_2053922920494460928",
+          "start": 36,
+          "url": "https://t.co/SViYi3keJ9"
+        },
+        {
+          "display_url": "pic.x.com/SViYi3keJ9",
+          "end": 59,
+          "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+          "media_key": "3_2053922920490205184",
+          "start": 36,
+          "url": "https://t.co/SViYi3keJ9"
+        },
+        {
+          "display_url": "pic.x.com/SViYi3keJ9",
+          "end": 59,
+          "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+          "media_key": "3_2053922920519639040",
+          "start": 36,
+          "url": "https://t.co/SViYi3keJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053923249025962406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏消息：车祸了\n好消息：在医院旁边喵\n\n请问他是怎么把车开翻的😦😨😰😱 https://t.co/SViYi3keJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21870,
+        "height": 2160,
+        "media_key": "13_2053922920528048128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053922920528048128/img/mo35oGZGcoHM1zj_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/pl/L3E4qFvOuRPMYDDh.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/vid/avc1/3840x2160/VAX86tWY9IW0-pHs.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/vid/avc1/480x270/Qdgio4zRpHjX0g_g.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/vid/avc1/640x360/aPziJBAlzg3CYvkk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/vid/avc1/1280x720/AB9T7VBwTRtSItPI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053922920528048128/vid/avc1/1920x1080/H3afwjg0jftNijiL.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2053922920494460928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEAA5ga8AAduvG.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053922920490205184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEAA5faAAALDM-.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053922920519639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEAA5mbIAAYQFJ.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053922920528048128",
+            "3_2053922920494460928",
+            "3_2053922920490205184",
+            "3_2053922920519639040"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2053923249025962406",
+        "created_at": "2026-05-11T19:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053923249025962406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SViYi3keJ9",
+              "end": 59,
+              "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+              "media_key": "13_2053922920528048128",
+              "start": 36,
+              "url": "https://t.co/SViYi3keJ9"
+            },
+            {
+              "display_url": "pic.x.com/SViYi3keJ9",
+              "end": 59,
+              "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+              "media_key": "3_2053922920494460928",
+              "start": 36,
+              "url": "https://t.co/SViYi3keJ9"
+            },
+            {
+              "display_url": "pic.x.com/SViYi3keJ9",
+              "end": 59,
+              "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+              "media_key": "3_2053922920490205184",
+              "start": 36,
+              "url": "https://t.co/SViYi3keJ9"
+            },
+            {
+              "display_url": "pic.x.com/SViYi3keJ9",
+              "end": 59,
+              "expanded_url": "https://x.com/qianxunchan/status/2053923249025962406/video/1",
+              "media_key": "3_2053922920519639040",
+              "start": 36,
+              "url": "https://t.co/SViYi3keJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053923249025962406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息：车祸了\n好消息：在医院旁边喵\n\n请问他是怎么把车开翻的😦😨😰😱 https://t.co/SViYi3keJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1086,
+          "like_count": 3124,
+          "listed_count": 7,
+          "media_count": 626,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

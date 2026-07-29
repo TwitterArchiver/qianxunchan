@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034479234568348156",
+    "created_at": "2026-03-19T15:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034646318162031012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472910881986019330",
+          "start": 0,
+          "username": "xiaochuAnZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034646318162031012",
+    "in_reply_to_user_id": "1472910881986019330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034595648843206666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaochuAnZu 大胆说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034479234568348156",
+        "created_at": "2026-03-19T15:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034646318162031012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472910881986019330",
+              "start": 0,
+              "username": "xiaochuAnZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034646318162031012",
+        "in_reply_to_user_id": "1472910881986019330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034595648843206666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaochuAnZu 大胆说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472910881986019330",
+        "conversation_id": "2034479234568348156",
+        "created_at": "2026-03-19T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034595648843206666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034595648843206666",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034479234568348156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 我有一个想法🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 127,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 198
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-20T12:45:02.000Z",
+        "description": "",
+        "id": "1472910881986019330",
+        "name": "澄曦🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030243291862855680/YlvdFG3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 185,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 229
+        },
+        "username": "xiaochuAnZu",
+        "verified": false
+      }
+    ]
+  }
+}

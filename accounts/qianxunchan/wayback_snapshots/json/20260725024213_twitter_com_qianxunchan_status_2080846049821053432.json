@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2080508824008749102",
+    "created_at": "2026-07-25T02:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080846049821053432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "2036298041142157312",
+          "start": 6,
+          "username": "rr3026259413896"
+        },
+        {
+          "end": 32,
+          "id": "1387308943462920197",
+          "start": 23,
+          "username": "cami5912"
+        },
+        {
+          "end": 40,
+          "id": "373232926",
+          "start": 33,
+          "username": "BscLeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080846049821053432",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080811381490651291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @rr3026259413896 @cami5912 @BscLeo 回答他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2080508824008749102",
+        "created_at": "2026-07-25T02:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080846049821053432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "2036298041142157312",
+              "start": 6,
+              "username": "rr3026259413896"
+            },
+            {
+              "end": 32,
+              "id": "1387308943462920197",
+              "start": 23,
+              "username": "cami5912"
+            },
+            {
+              "end": 40,
+              "id": "373232926",
+              "start": 33,
+              "username": "BscLeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080846049821053432",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080811381490651291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @rr3026259413896 @cami5912 @BscLeo 回答他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2080508824008749102",
+        "created_at": "2026-07-25T00:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080811381490651291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036298041142157312",
+              "start": 0,
+              "username": "rr3026259413896"
+            },
+            {
+              "end": 26,
+              "id": "1387308943462920197",
+              "start": 17,
+              "username": "cami5912"
+            },
+            {
+              "end": 34,
+              "id": "373232926",
+              "start": 27,
+              "username": "BscLeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/premium_sign…",
+              "end": 166,
+              "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2080811358019637610",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079921731591077888/rtTNPYqf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/kCbAOIFxZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080811381490651291",
+        "in_reply_to_user_id": "2036298041142157312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080811358019637610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rr3026259413896 @cami5912 @BscLeo Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://t.co/kCbAOIFxZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 1180,
+          "like_count": 7666,
+          "listed_count": 9,
+          "media_count": 915,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8875707,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7220,
+          "media_count": 9184387,
+          "tweet_count": 132216695
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T04:24:28.000Z",
+        "description": "",
+        "id": "2036298041142157312",
+        "name": "r r",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "rr3026259413896",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:33:30.000Z",
+        "description": "God damn",
+        "id": "1387308943462920197",
+        "name": "Jimmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043222434841853953/feZ9bgCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 258,
+          "like_count": 11833,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "cami5912",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-14T06:53:32.000Z",
+        "description": "身经百战的Web3老韭菜🌱 数据搬运工 + 人间清醒分析  📊 走过牛市熊市，依然在场上 📈📉 #BTC #ETH\n\n立志成为下一代版本之子｜合作宣发DM\n\n币安连结🔗\nhttps://t.co/xfZhrq8FHh （享终生20%手续费折扣/8折）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "BTC"
+              },
+              {
+                "end": 57,
+                "start": 53,
+                "tag": "ETH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.info/register?ref=S…",
+                "end": 108,
+                "expanded_url": "https://accounts.binance.info/register?ref=SS98P6DQ",
+                "start": 85,
+                "url": "https://t.co/xfZhrq8FHh"
+              }
+            ]
+          }
+        },
+        "id": "373232926",
+        "name": "Leo 李大奧",
+        "pinned_tweet_id": "2076502563495776721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979198417449402368/hfKKBnL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212021,
+          "following_count": 1168,
+          "like_count": 2804,
+          "listed_count": 316,
+          "media_count": 586,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "BscLeo",
+        "verified": true
+      }
+    ]
+  }
+}

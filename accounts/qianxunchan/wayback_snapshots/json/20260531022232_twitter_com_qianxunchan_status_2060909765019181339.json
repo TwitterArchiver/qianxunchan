@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2060733456879951976",
+    "created_at": "2026-05-31T02:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060909765019181339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1375698604334153729",
+          "start": 0,
+          "username": "uzmanerkann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060909765019181339",
+    "in_reply_to_user_id": "1375698604334153729",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060733456879951976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uzmanerkann ."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2060733450907172865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkyJ8YWQAE3s_9.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060733456879951976",
+        "created_at": "2026-05-31T02:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060909765019181339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1375698604334153729",
+              "start": 0,
+              "username": "uzmanerkann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060909765019181339",
+        "in_reply_to_user_id": "1375698604334153729",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060733456879951976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uzmanerkann ."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060733450907172865"
+          ]
+        },
+        "author_id": "1375698604334153729",
+        "conversation_id": "2060733456879951976",
+        "created_at": "2026-05-30T14:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060733456879951976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kanoVgB1Uy",
+              "end": 151,
+              "expanded_url": "https://x.com/uzmanerkann/status/2060733456879951976/photo/1",
+              "media_key": "3_2060733450907172865",
+              "start": 128,
+              "url": "https://t.co/kanoVgB1Uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060733456879951976",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 281031,
+          "like_count": 3314,
+          "quote_count": 7,
+          "reply_count": 2654,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "2 takipçime toplamda 2.000$\n\nŞart şurt yok..\n\nKatılanlar beğensin, yorumlara nokta koysun\n\n24 saat sonra açıklanır. Bol şanslar https://t.co/kanoVgB1Uy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1148,
+          "like_count": 4665,
+          "listed_count": 9,
+          "media_count": 727,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T06:38:07.000Z",
+        "description": "#Bitcoin - BORSA - UZUN VADELİ YATIRIMCI - 14 YILLIK BBD EKONOMİ YAZARI ve EKONOMİST - COİN, HİSSE, TAHVİL, EMTİA LORDU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Bitcoin"
+              }
+            ]
+          }
+        },
+        "id": "1375698604334153729",
+        "name": "ERKAN GÖK",
+        "pinned_tweet_id": "1880146697239818418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816600614664622080/40lwPzoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157288,
+          "following_count": 340,
+          "like_count": 5440,
+          "listed_count": 136,
+          "media_count": 232,
+          "tweet_count": 1991
+        },
+        "username": "uzmanerkann",
+        "verified": true
+      }
+    ]
+  }
+}

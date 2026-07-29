@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2077409974087819417",
+    "created_at": "2026-07-15T16:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077429600754569623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1836256614200020992",
+          "start": 6,
+          "username": "DimSumAgain"
+        },
+        {
+          "end": 24,
+          "id": "1909390269533011968",
+          "start": 19,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077429600754569623",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077429101275525132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @DimSumAgain @gork 老师老师你可以用幼儿园老师的语气和我解释门槛是干嘛的吗🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2077409974087819417",
+        "created_at": "2026-07-15T16:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077429600754569623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1836256614200020992",
+              "start": 6,
+              "username": "DimSumAgain"
+            },
+            {
+              "end": 24,
+              "id": "1909390269533011968",
+              "start": 19,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077429600754569623",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077429101275525132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @DimSumAgain @gork 老师老师你可以用幼儿园老师的语气和我解释门槛是干嘛的吗🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2077409974087819417",
+        "created_at": "2026-07-15T16:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077429101275525132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 25,
+              "id": "1836256614200020992",
+              "start": 13,
+              "username": "DimSumAgain"
+            },
+            {
+              "end": 31,
+              "id": "1909390269533011968",
+              "start": 26,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077429101275525132",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428882639393269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @DimSumAgain @gork 主帖指控【岚崎鱼鱼】用“入门槛”套路别人（可能是入群/付费门槛），反手拉黑，涉嫌诈骗。现在征集受害者证据，尤其是美国境内的，准备向美国司法部举报。图片是她的X个人资料截图。\n\n这是一起单方公开指控，具体情况请自行判断。如有更多细节想了解可以补充。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 1177,
+          "like_count": 7435,
+          "listed_count": 9,
+          "media_count": 897,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8859127,
+          "following_count": 5,
+          "like_count": 118,
+          "listed_count": 7178,
+          "media_count": 9159322,
+          "tweet_count": 131495560
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T04:12:07.000Z",
+        "description": "直男和男娘两种形态随机切换 | 西雅图旅游地陪 | 淫趴组织者，接北美投稿 | ENFJ-T | 业余私房棚拍摄影师，只管拍不管修 | 友跨顺男·大车将翻 | 性取向是直的，接受女生/伪娘/TS | 雷达关键字：丝袜",
+        "id": "1836256614200020992",
+        "location": "Seattle, WA",
+        "name": "點心DimSum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009374805200404480/aib-p8ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1114,
+          "like_count": 8394,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "DimSumAgain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428378,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 414,
+          "media_count": 46662,
+          "tweet_count": 2443000
+        },
+        "url": "",
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

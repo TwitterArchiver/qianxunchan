@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035863527525847040"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2035863529631474051",
+    "created_at": "2026-03-22T23:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T00:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035863529631474051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvqWM56KQ3",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2035863529631474051/photo/1",
+          "media_key": "3_2035863527525847040",
+          "start": 18,
+          "url": "https://t.co/MvqWM56KQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035863529631474051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给你一只酱板鸭和一个冬天你会怎么做 https://t.co/MvqWM56KQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2035863527525847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDXF4FaEAA3-nt.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035863527525847040"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035863529631474051",
+        "created_at": "2026-03-22T23:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035863529631474051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvqWM56KQ3",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2035863529631474051/photo/1",
+              "media_key": "3_2035863527525847040",
+              "start": 18,
+              "url": "https://t.co/MvqWM56KQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035863529631474051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你一只酱板鸭和一个冬天你会怎么做 https://t.co/MvqWM56KQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 164,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 294
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

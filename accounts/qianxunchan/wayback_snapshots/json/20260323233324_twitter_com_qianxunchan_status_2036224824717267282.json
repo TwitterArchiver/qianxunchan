@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2036222957484491158",
+    "created_at": "2026-03-23T23:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T00:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036224824717267282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036224824717267282",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036222957484491158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不喜欢我爸爸能不能退货啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036222954946830336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEId_TkaIAAqqPE.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036222957484491158",
+        "created_at": "2026-03-23T23:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036224824717267282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036224824717267282",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036222957484491158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不喜欢我爸爸能不能退货啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036222954946830336"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036222957484491158",
+        "created_at": "2026-03-23T23:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036222957484491158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9s7cNfwyVw",
+              "end": 116,
+              "expanded_url": "https://x.com/qianxunchan/status/2036222957484491158/photo/1",
+              "media_key": "3_2036222954946830336",
+              "start": 93,
+              "url": "https://t.co/9s7cNfwyVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036222957484491158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震撼首发：\n能不能把爸爸退货给爷爷？\n\n我和爷爷通话30分钟后得出结论：\n我要带妈妈离开我爸。\n\n我爸已经不能用“懒”来形容了，得用“懒猪”。\n\n爸妈之前就经常吵架，我不想再祸害我妈。 https://t.co/9s7cNfwyVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 306,
+          "like_count": 697,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 319
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

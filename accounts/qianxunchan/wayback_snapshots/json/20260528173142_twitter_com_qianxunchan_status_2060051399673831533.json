@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060051397631254528"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2059987692507877501",
+    "created_at": "2026-05-28T17:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060051399673831533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TT3zVjv1EN",
+          "end": 50,
+          "expanded_url": "https://x.com/qianxunchan/status/2060051399673831533/photo/1",
+          "media_key": "3_2060051397631254528",
+          "start": 27,
+          "url": "https://t.co/TT3zVjv1EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060051399673831533",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059987692507877501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 我要入股喵😦😨😰🥵 https://t.co/TT3zVjv1EN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2060051397631254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbF1N7boAAAitS.jpg",
+        "width": 1126
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2059987689743794176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaL47jbQAASlMp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060051397631254528"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2059987692507877501",
+        "created_at": "2026-05-28T17:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060051399673831533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TT3zVjv1EN",
+              "end": 50,
+              "expanded_url": "https://x.com/qianxunchan/status/2060051399673831533/photo/1",
+              "media_key": "3_2060051397631254528",
+              "start": 27,
+              "url": "https://t.co/TT3zVjv1EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060051399673831533",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059987692507877501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 我要入股喵😦😨😰🥵 https://t.co/TT3zVjv1EN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059987689743794176"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "2059987692507877501",
+        "created_at": "2026-05-28T13:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059987692507877501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cM6XUnsSUE",
+              "end": 79,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2059987692507877501/photo/1",
+              "media_key": "3_2059987689743794176",
+              "start": 56,
+              "url": "https://t.co/cM6XUnsSUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059987692507877501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1006,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赌博中🤤🤤🤤\n希望大饼今晚能跌破熊旗 到关键地方了\n看看能不能把翻了5倍的小钱再翻2倍x\n（希望不要是flag https://t.co/cM6XUnsSUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1141,
+          "like_count": 4348,
+          "listed_count": 9,
+          "media_count": 708,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g1990033159623422010/i28K3XoY5L",
+                "start": 0,
+                "url": "https://t.co/Jtngzd0IB3"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27091,
+          "following_count": 14796,
+          "like_count": 2595,
+          "listed_count": 72,
+          "media_count": 2990,
+          "tweet_count": 9870
+        },
+        "url": "https://t.co/Jtngzd0IB3",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

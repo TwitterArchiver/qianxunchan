@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2043341827252895801",
+    "created_at": "2026-04-12T19:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043410660730744851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "946194742273908736",
+          "start": 0,
+          "username": "010GDS010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043410660730744851",
+    "in_reply_to_user_id": "946194742273908736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043343886408663149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@010GDS010 ？介绍我给你）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043341827252895801",
+        "created_at": "2026-04-12T19:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043410660730744851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "946194742273908736",
+              "start": 0,
+              "username": "010GDS010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043410660730744851",
+        "in_reply_to_user_id": "946194742273908736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043343886408663149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@010GDS010 ？介绍我给你）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "946194742273908736",
+        "conversation_id": "2043341827252895801",
+        "created_at": "2026-04-12T15:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043343886408663149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043343886408663149",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043341827252895801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 兄弟有没有女生介绍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 884,
+          "like_count": 1392,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 1212
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-28T01:43:00.000Z",
+        "description": "广东江门单男29岁，随便发发碰运气。欢迎一切女生。",
+        "id": "946194742273908736",
+        "location": "00gss00",
+        "name": "你的好网友！",
+        "pinned_tweet_id": "1988906955864162375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004880591360327680/PNne8chs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 219,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "010GDS010",
+        "verified": false
+      }
+    ]
+  }
+}

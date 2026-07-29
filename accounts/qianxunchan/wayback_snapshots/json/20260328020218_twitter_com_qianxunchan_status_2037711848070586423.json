@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037711848070586423",
+    "created_at": "2026-03-28T02:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037711848070586423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sfpd/status/20…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/sfpd/status/2036845997733929104",
+          "start": 66,
+          "url": "https://t.co/h79cfVUyOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037711848070586423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036845997733929104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个枪击案在我之前住的地方附近，我还天天走那里呢。\n旧金山！你怎么变得这么危险了⚠️\n晚上10点发生的！\n看来9点不能出门是真的。 https://t.co/h79cfVUyOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2036843796085039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERSpBCbYAAJYSA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037711848070586423",
+        "created_at": "2026-03-28T02:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037711848070586423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sfpd/status/20…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/sfpd/status/2036845997733929104",
+              "start": 66,
+              "url": "https://t.co/h79cfVUyOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037711848070586423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036845997733929104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个枪击案在我之前住的地方附近，我还天天走那里呢。\n旧金山！你怎么变得这么危险了⚠️\n晚上10点发生的！\n看来9点不能出门是真的。 https://t.co/h79cfVUyOb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036843796085039104"
+          ]
+        },
+        "author_id": "36183636",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2036845997733929104",
+        "created_at": "2026-03-25T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036845997733929104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "On March 24, 2026, at approximately 10:43 p.m., San Francisco Police officers responded to the 1800 block of Sunnydale Ave regarding a shooting. Officers responded to the scene and located a victim suffering from gunshot wounds and rendered aid. Paramedics responded to the scene to render aid and transported the victim to a local hospital for his life-threatening injuries. Despite the lifesaving efforts of medical staff, the victim was declared deceased at the hospital. The San Francisco Homicide Detail",
+              "display_url": "tinyurl.com/newsrelease260…",
+              "end": 278,
+              "expanded_url": "http://tinyurl.com/newsrelease26031",
+              "start": 255,
+              "status": 200,
+              "title": "SFPD Investigates Ingleside District Homicide #26-031 | San Francisco Police Department",
+              "unwound_url": "https://www.sanfranciscopolice.org/news/sfpd-investigates-ingleside-district-homicide-26-031",
+              "url": "https://t.co/xzjEZgGbJw"
+            },
+            {
+              "display_url": "pic.x.com/3gtmxaunPM",
+              "end": 302,
+              "expanded_url": "https://x.com/SFPD/status/2036845997733929104/photo/1",
+              "media_key": "3_2036843796085039104",
+              "start": 279,
+              "url": "https://t.co/3gtmxaunPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036845997733929104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "On Mar 24, officers responded to the 1800 block of Sunnydale Ave re. a shooting. Upon arrival, they located a victim suffering from gunshot wounds and rendered aid. Despite lifesaving efforts, the victim was declared deceased at the hospital.\n\nREAD MORE: https://t.co/xzjEZgGbJw https://t.co/3gtmxaunPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 740,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 435
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-28T21:08:39.000Z",
+        "description": "Official Twitter of the SFPD! Account not monitored 24/7. Visit our Linktree to connect with us on our other platforms! https://t.co/jJLqlWU0uv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SFPD",
+                "end": 143,
+                "expanded_url": "http://linktr.ee/SFPD",
+                "start": 120,
+                "url": "https://t.co/jJLqlWU0uv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanfranciscopolice.org",
+                "end": 23,
+                "expanded_url": "http://www.sanfranciscopolice.org",
+                "start": 0,
+                "url": "https://t.co/RIaFAgSlIe"
+              }
+            ]
+          }
+        },
+        "id": "36183636",
+        "location": "San Francisco, CA",
+        "name": "San Francisco Police",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939736335373520896/kNUje_DZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138502,
+          "following_count": 171,
+          "like_count": 6075,
+          "listed_count": 1775,
+          "media_count": 4882,
+          "tweet_count": 12999
+        },
+        "url": "https://t.co/RIaFAgSlIe",
+        "username": "SFPD",
+        "verified": true
+      }
+    ]
+  }
+}

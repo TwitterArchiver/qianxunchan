@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041424303263215616"
+      ],
+      "media_source_tweet_id": [
+        "2041424557874323664"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2041645396993470552",
+    "created_at": "2026-04-07T22:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041645396993470552"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "户晨风"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916817753635426304",
+          "start": 3,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qWyQNwkCDK",
+          "end": 82,
+          "expanded_url": "https://x.com/Goldwater8964/status/2041424557874323664/video/1",
+          "media_key": "13_2041424303263215616",
+          "start": 59,
+          "url": "https://t.co/qWyQNwkCDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041645396993470552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041424557874323664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goldwater8964: 价值五百块人民币的祝福视频，户晨风先生重出江湖\n（这是我自己定制的）\n#户晨风 https://t.co/qWyQNwkCDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43056,
+        "height": 1920,
+        "media_key": "13_2041424303263215616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041424303263215616/img/bVrmwI-JIGhr4800.jpg",
+        "public_metrics": {
+          "view_count": 137252
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/720x1280/ljWacMOHqMmHkkpK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/1080x1920/YVzxshuQ_5J8ZorC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/480x852/Vq2iRq-6JXL9VJ6O.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/320x568/wg1Z67KktGoBTFdn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/pl/YoZEdy9ET3oaX5YZ.m3u8?v=992"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041424303263215616"
+          ],
+          "media_source_tweet_id": [
+            "2041424557874323664"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041645396993470552",
+        "created_at": "2026-04-07T22:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041645396993470552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "户晨风"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916817753635426304",
+              "start": 3,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWyQNwkCDK",
+              "end": 82,
+              "expanded_url": "https://x.com/Goldwater8964/status/2041424557874323664/video/1",
+              "media_key": "13_2041424303263215616",
+              "start": 59,
+              "url": "https://t.co/qWyQNwkCDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041645396993470552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041424557874323664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goldwater8964: 价值五百块人民币的祝福视频，户晨风先生重出江湖\n（这是我自己定制的）\n#户晨风 https://t.co/qWyQNwkCDK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041424303263215616"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2041424557874323664",
+        "created_at": "2026-04-07T07:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041424557874323664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "户晨风"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWyQNwkCDK",
+              "end": 63,
+              "expanded_url": "https://x.com/Goldwater8964/status/2041424557874323664/video/1",
+              "media_key": "13_2041424303263215616",
+              "start": 40,
+              "url": "https://t.co/qWyQNwkCDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041424557874323664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 317299,
+          "like_count": 2241,
+          "quote_count": 14,
+          "reply_count": 291,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "价值五百块人民币的祝福视频，户晨风先生重出江湖\n（这是我自己定制的）\n#户晨风 https://t.co/qWyQNwkCDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 880,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2031714496486515024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 694,
+          "like_count": 4167,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 821
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041703094573264896",
+        "3_2041703094569070596"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2041703096662081943",
+    "created_at": "2026-04-08T02:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041703096662081943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2vVszM9yn",
+          "end": 46,
+          "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+          "media_key": "3_2041703094573264896",
+          "start": 23,
+          "url": "https://t.co/i2vVszM9yn"
+        },
+        {
+          "display_url": "pic.x.com/i2vVszM9yn",
+          "end": 46,
+          "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+          "media_key": "3_2041703094569070596",
+          "start": 23,
+          "url": "https://t.co/i2vVszM9yn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041703096662081943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁研究的验证系统🫪🫪😂🤣\n这是人啊……😂😂😂 https://t.co/i2vVszM9yn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_2041703094573264896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWWJaja8AAYJwL.jpg",
+        "width": 518
+      },
+      {
+        "height": 341,
+        "media_key": "3_2041703094569070596",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWWJaia8AQHo9t.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041703094573264896",
+            "3_2041703094569070596"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041703096662081943",
+        "created_at": "2026-04-08T02:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041703096662081943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2vVszM9yn",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+              "media_key": "3_2041703094573264896",
+              "start": 23,
+              "url": "https://t.co/i2vVszM9yn"
+            },
+            {
+              "display_url": "pic.x.com/i2vVszM9yn",
+              "end": 46,
+              "expanded_url": "https://x.com/qianxunchan/status/2041703096662081943/photo/1",
+              "media_key": "3_2041703094569070596",
+              "start": 23,
+              "url": "https://t.co/i2vVszM9yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041703096662081943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁研究的验证系统🫪🫪😂🤣\n这是人啊……😂😂😂 https://t.co/i2vVszM9yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 882,
+          "like_count": 1075,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 968
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

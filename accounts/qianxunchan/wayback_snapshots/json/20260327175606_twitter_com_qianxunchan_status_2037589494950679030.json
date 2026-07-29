@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037589440605110272"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037589494950679030",
+    "created_at": "2026-03-27T17:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037589494950679030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/07MJ8y5mnP",
+          "end": 75,
+          "expanded_url": "https://x.com/qianxunchan/status/2037589494950679030/video/1",
+          "media_key": "13_2037589440605110272",
+          "start": 52,
+          "url": "https://t.co/07MJ8y5mnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037589494950679030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次觉得压力大的时候，可以看看互联网，每次都能看到感人的视频和文案，或许这就是互联网存在的部分意义吧。 https://t.co/07MJ8y5mnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36200,
+        "height": 720,
+        "media_key": "13_2037589440605110272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037589440605110272/img/iIuNq4HmIFcctBEq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037589440605110272/vid/avc1/320x320/4i6f2VPOqjdTOi9Q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037589440605110272/vid/avc1/540x540/Qox9AQz2CzHXJDcb.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037589440605110272/vid/avc1/720x720/F69cKFMcHUZNMBuj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037589440605110272/pl/T9DH5YKoiYikn24B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037589440605110272"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037589494950679030",
+        "created_at": "2026-03-27T17:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037589494950679030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07MJ8y5mnP",
+              "end": 75,
+              "expanded_url": "https://x.com/qianxunchan/status/2037589494950679030/video/1",
+              "media_key": "13_2037589440605110272",
+              "start": 52,
+              "url": "https://t.co/07MJ8y5mnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037589494950679030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次觉得压力大的时候，可以看看互联网，每次都能看到感人的视频和文案，或许这就是互联网存在的部分意义吧。 https://t.co/07MJ8y5mnP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 732,
+          "like_count": 744,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 424
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

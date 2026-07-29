@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2075838045065261474",
+    "created_at": "2026-07-11T19:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076019761197330565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893148722927935490",
+          "start": 0,
+          "username": "miomiokawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076019761197330565",
+    "in_reply_to_user_id": "1893148722927935490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075984317273268422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiokawai 损失大了去了🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2075838045065261474",
+        "created_at": "2026-07-11T19:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076019761197330565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893148722927935490",
+              "start": 0,
+              "username": "miomiokawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076019761197330565",
+        "in_reply_to_user_id": "1893148722927935490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075984317273268422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiokawai 损失大了去了🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148722927935490",
+        "conversation_id": "2075838045065261474",
+        "created_at": "2026-07-11T16:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075984317273268422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075984317273268422",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075838045065261474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 我来说个个人经历吧\n我是个小地方的小公司老板\n以前处于同情心\n招募了几个有割手经历的药娘\n后来有一次在会议室被甲方骂了\n直接表演了一把现场割手\n还是三个人一起割\n甲方直接被吓跑\n自那以后再也不与我们合作\n甲方骂他们的原因是他们的工作上出了纰漏\n因此给甲方造成了一定的损失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1174,
+          "like_count": 7315,
+          "listed_count": 9,
+          "media_count": 881,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T04:00:17.000Z",
+        "description": "我不想成为孤独的神\n我只想成为你身边的人",
+        "id": "1893148722927935490",
+        "location": "Your heart",
+        "name": "想成为人的神",
+        "pinned_tweet_id": "1983224062693511450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963515355265208320/borYDv6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 139,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1896
+        },
+        "url": "",
+        "username": "miomiokawai",
+        "verified": false
+      }
+    ]
+  }
+}

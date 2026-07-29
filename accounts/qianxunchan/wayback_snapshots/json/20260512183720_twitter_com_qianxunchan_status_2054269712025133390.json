@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054269700583170048"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2054179018275262925",
+    "created_at": "2026-05-12T18:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054269712025133390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970832574315630592",
+          "start": 0,
+          "username": "xuny233382"
+        },
+        {
+          "end": 27,
+          "id": "1998983271640870913",
+          "start": 12,
+          "username": "blueicesamaOwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAKftc0kwr",
+          "end": 61,
+          "expanded_url": "https://x.com/qianxunchan/status/2054269712025133390/photo/1",
+          "media_key": "3_2054269700583170048",
+          "start": 38,
+          "url": "https://t.co/HAKftc0kwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054269712025133390",
+    "in_reply_to_user_id": "1970832574315630592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054179567276093575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuny233382 @blueicesamaOwO 我这都脏的不得了🫪 https://t.co/HAKftc0kwr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2054269700583170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HII7aKAboAAU7Sg.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054269700583170048"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2054179018275262925",
+        "created_at": "2026-05-12T18:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054269712025133390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970832574315630592",
+              "start": 0,
+              "username": "xuny233382"
+            },
+            {
+              "end": 27,
+              "id": "1998983271640870913",
+              "start": 12,
+              "username": "blueicesamaOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAKftc0kwr",
+              "end": 61,
+              "expanded_url": "https://x.com/qianxunchan/status/2054269712025133390/photo/1",
+              "media_key": "3_2054269700583170048",
+              "start": 38,
+              "url": "https://t.co/HAKftc0kwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054269712025133390",
+        "in_reply_to_user_id": "1970832574315630592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054179567276093575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuny233382 @blueicesamaOwO 我这都脏的不得了🫪 https://t.co/HAKftc0kwr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970832574315630592",
+        "conversation_id": "2054179018275262925",
+        "created_at": "2026-05-12T12:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054179567276093575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998983271640870913",
+              "start": 0,
+              "username": "blueicesamaOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054179567276093575",
+        "in_reply_to_user_id": "1998983271640870913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054179392482656365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesamaOwO 沾上些油之类的东西挺难洗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1089,
+          "like_count": 3211,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T12:48:54.000Z",
+        "description": "复活了",
+        "id": "1970832574315630592",
+        "name": "渲意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970833985527062529/CQxz-rCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2345,
+          "like_count": 35781,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2104
+        },
+        "username": "xuny233382",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:08:57.000Z",
+        "description": "🏳️‍🌈男同/furry/INFJ-T/Apple全肯定bot/中文·日本語·ENG/网蓝/苦逼设计人/杂学分享·碎碎念·生活账/三倍厚袜/不涉政/里@blueicesamaQWQ/手帐狐🦊@ri_si16512/好哥哥👾@subt_0928/好诡秘@hikarimazu/本号关注不代表本人立场 推止于推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "subt_0928"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "hikarimazu"
+              }
+            ]
+          }
+        },
+        "id": "1998983271640870913",
+        "location": "「落し水  岐れて細き  川生る」",
+        "name": "蓝冰冰冰蓝蓝（二代目）",
+        "pinned_tweet_id": "2030637705080803659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998983393892274176/RtE8BagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1726,
+          "like_count": 7113,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1348
+        },
+        "username": "blueicesamaOwO",
+        "verified": false
+      }
+    ]
+  }
+}

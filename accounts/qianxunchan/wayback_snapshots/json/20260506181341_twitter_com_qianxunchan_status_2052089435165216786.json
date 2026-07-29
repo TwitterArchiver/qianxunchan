@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052089430325018624",
+        "3_2052089430316576768",
+        "3_2052089430333353986",
+        "3_2052089430333378561"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052089435165216786",
+    "created_at": "2026-05-06T18:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052089435165216786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqHgMkUrkW",
+          "end": 151,
+          "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+          "media_key": "3_2052089430325018624",
+          "start": 128,
+          "url": "https://t.co/yqHgMkUrkW"
+        },
+        {
+          "display_url": "pic.x.com/yqHgMkUrkW",
+          "end": 151,
+          "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+          "media_key": "3_2052089430316576768",
+          "start": 128,
+          "url": "https://t.co/yqHgMkUrkW"
+        },
+        {
+          "display_url": "pic.x.com/yqHgMkUrkW",
+          "end": 151,
+          "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+          "media_key": "3_2052089430333353986",
+          "start": 128,
+          "url": "https://t.co/yqHgMkUrkW"
+        },
+        {
+          "display_url": "pic.x.com/yqHgMkUrkW",
+          "end": 151,
+          "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+          "media_key": "3_2052089430333378561",
+          "start": 128,
+          "url": "https://t.co/yqHgMkUrkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052089435165216786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以下为B站评论区优质评论（不分排名）：\n\n1.依旧偷袭盲人在一块😅\n\n2.盲杖扫半天突然扫空的盲人😱\n\n3.有些东西可以没用，但是不能没有，对吧\n\n4.评选文明城市的时候，盲道才是盲道，其他时候都是停车场🅿️\n\n（以上图片均为ai生成，如有雷同纯属巧合） https://t.co/yqHgMkUrkW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_2052089430325018624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp8duXbQAADd9g.jpg",
+        "width": 864
+      },
+      {
+        "height": 1131,
+        "media_key": "3_2052089430316576768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp8duVacAAh0-p.jpg",
+        "width": 760
+      },
+      {
+        "height": 841,
+        "media_key": "3_2052089430333353986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp8duZacAI3LTt.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2052089430333378561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp8duZa0AE1nMK.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052089430325018624",
+            "3_2052089430316576768",
+            "3_2052089430333353986",
+            "3_2052089430333378561"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052089435165216786",
+        "created_at": "2026-05-06T18:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052089435165216786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqHgMkUrkW",
+              "end": 151,
+              "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+              "media_key": "3_2052089430325018624",
+              "start": 128,
+              "url": "https://t.co/yqHgMkUrkW"
+            },
+            {
+              "display_url": "pic.x.com/yqHgMkUrkW",
+              "end": 151,
+              "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+              "media_key": "3_2052089430316576768",
+              "start": 128,
+              "url": "https://t.co/yqHgMkUrkW"
+            },
+            {
+              "display_url": "pic.x.com/yqHgMkUrkW",
+              "end": 151,
+              "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+              "media_key": "3_2052089430333353986",
+              "start": 128,
+              "url": "https://t.co/yqHgMkUrkW"
+            },
+            {
+              "display_url": "pic.x.com/yqHgMkUrkW",
+              "end": 151,
+              "expanded_url": "https://x.com/qianxunchan/status/2052089435165216786/photo/1",
+              "media_key": "3_2052089430333378561",
+              "start": 128,
+              "url": "https://t.co/yqHgMkUrkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052089435165216786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以下为B站评论区优质评论（不分排名）：\n\n1.依旧偷袭盲人在一块😅\n\n2.盲杖扫半天突然扫空的盲人😱\n\n3.有些东西可以没用，但是不能没有，对吧\n\n4.评选文明城市的时候，盲道才是盲道，其他时候都是停车场🅿️\n\n（以上图片均为ai生成，如有雷同纯属巧合） https://t.co/yqHgMkUrkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1065,
+          "like_count": 2942,
+          "listed_count": 7,
+          "media_count": 598,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

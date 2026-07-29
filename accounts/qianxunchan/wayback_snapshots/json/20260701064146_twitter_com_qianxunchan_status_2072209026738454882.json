@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2072188529694884289",
+    "created_at": "2026-07-01T06:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072209026738454882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836256614200020992",
+          "start": 0,
+          "username": "DimSumAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072209026738454882",
+    "in_reply_to_user_id": "1836256614200020992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072188529694884289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimSumAgain 甚是好听，悦耳不倦🥱听听睡着了嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2072188529694884289",
+        "created_at": "2026-07-01T06:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072209026738454882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836256614200020992",
+              "start": 0,
+              "username": "DimSumAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072209026738454882",
+        "in_reply_to_user_id": "1836256614200020992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072188529694884289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimSumAgain 甚是好听，悦耳不倦🥱听听睡着了嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836256614200020992",
+        "conversation_id": "2072188529694884289",
+        "created_at": "2026-07-01T05:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072188529694884289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "點心DimSum’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lJQR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lJQRRypLAYxE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2072188531683074048/-EC8dTw-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072188531683074048/-EC8dTw-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 这会有人来吗？",
+              "unwound_url": "https://twitter.com/i/spaces/1lJQRRypLAYxE/peek",
+              "url": "https://t.co/jxuO3qQIkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072188529694884289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jxuO3qQIkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 1170,
+          "like_count": 7034,
+          "listed_count": 9,
+          "media_count": 849,
+          "tweet_count": 3015
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T04:12:07.000Z",
+        "description": "直男和男娘两种形态随机切换 | 西雅图旅游地陪 | 新晋银趴组织者，接北美投稿 | ENFJ-T | 业余私房棚拍摄影师，只管拍不管修 | 友跨顺男·大车将翻 | 性取向是直的，接受女生/伪娘/TS | 雷达关键字：丝袜",
+        "id": "1836256614200020992",
+        "location": "Seattle, WA",
+        "name": "點心DimSum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009374805200404480/aib-p8ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1091,
+          "like_count": 8210,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "DimSumAgain",
+        "verified": true
+      }
+    ]
+  }
+}

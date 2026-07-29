@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034039966561669429",
+    "created_at": "2026-03-18T00:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034059477453009130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034059477453009130",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034039966561669429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反绑哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2034039963835392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpckf9bYAAVd6j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034039963843698688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpckf_aIAAdJdL.jpg",
+        "width": 1412
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2034039963839565825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpckf-bEAElV_1.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034039966561669429",
+        "created_at": "2026-03-18T00:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034059477453009130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034059477453009130",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034039966561669429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反绑哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034039963835392000",
+            "3_2034039963843698688",
+            "3_2034039963839565825"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034039966561669429",
+        "created_at": "2026-03-17T22:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034039966561669429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnt7hQ0azS",
+              "end": 29,
+              "expanded_url": "https://x.com/qianxunchan/status/2034039966561669429/photo/1",
+              "media_key": "3_2034039963835392000",
+              "start": 6,
+              "url": "https://t.co/mnt7hQ0azS"
+            },
+            {
+              "display_url": "pic.x.com/mnt7hQ0azS",
+              "end": 29,
+              "expanded_url": "https://x.com/qianxunchan/status/2034039966561669429/photo/1",
+              "media_key": "3_2034039963843698688",
+              "start": 6,
+              "url": "https://t.co/mnt7hQ0azS"
+            },
+            {
+              "display_url": "pic.x.com/mnt7hQ0azS",
+              "end": 29,
+              "expanded_url": "https://x.com/qianxunchan/status/2034039966561669429/photo/1",
+              "media_key": "3_2034039963839565825",
+              "start": 6,
+              "url": "https://t.co/mnt7hQ0azS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034039966561669429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "撤离成功！ https://t.co/mnt7hQ0azS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/          年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 122,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 175
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

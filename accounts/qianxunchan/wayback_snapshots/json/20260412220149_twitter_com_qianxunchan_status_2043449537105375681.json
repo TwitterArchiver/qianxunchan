@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2043301788267508141",
+    "created_at": "2026-04-12T22:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T23:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043449537105375681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516941936971554817",
+          "start": 0,
+          "username": "wolfyxbt"
+        },
+        {
+          "end": 21,
+          "id": "636513296",
+          "start": 10,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043449537105375681",
+    "in_reply_to_user_id": "1516941936971554817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043301788267508141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolfyxbt @nikitabier 还有dd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2043301782458343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtEJTBaIAAp6jx.jpg",
+        "width": 1310
+      },
+      {
+        "height": 1926,
+        "media_key": "3_2043301785302077440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtEJdnaEAA9Ipp.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043301788267508141",
+        "created_at": "2026-04-12T22:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043449537105375681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "wolfyxbt"
+            },
+            {
+              "end": 21,
+              "id": "636513296",
+              "start": 10,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043449537105375681",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043301788267508141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfyxbt @nikitabier 还有dd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043301782458343424",
+            "3_2043301785302077440"
+          ]
+        },
+        "author_id": "1516941936971554817",
+        "conversation_id": "2043301788267508141",
+        "created_at": "2026-04-12T12:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043301788267508141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "636513296",
+              "start": 71,
+              "username": "nikitabier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpkl4vp3GL",
+              "end": 173,
+              "expanded_url": "https://x.com/wolfyxbt/status/2043301788267508141/photo/1",
+              "media_key": "3_2043301782458343424",
+              "start": 150,
+              "url": "https://t.co/zpkl4vp3GL"
+            },
+            {
+              "display_url": "pic.x.com/zpkl4vp3GL",
+              "end": 173,
+              "expanded_url": "https://x.com/wolfyxbt/status/2043301788267508141/photo/1",
+              "media_key": "3_2043301785302077440",
+              "start": 150,
+              "url": "https://t.co/zpkl4vp3GL"
+            },
+            {
+              "display_url": "x.com/636513296/stat…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/636513296/status/2042121229998682517",
+              "start": 174,
+              "url": "https://t.co/CCey0af3Nv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043301788267508141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 82,
+                "id": "636513296",
+                "start": 71,
+                "username": "nikitabier"
+              }
+            ]
+          },
+          "text": "最近 𝕏 封号太恐怖了，我玩推以来见过最大的大规模封号\n\n我这里现在每天至少会掉 500 粉丝，涨粉的速度都赶不上掉粉的速度，𝕏 的产品经理 @nikitabier 说他们现在每分钟可以识别并封禁 200 个机器人账号。\n\n但是我感觉中文区缅北机器人还是一如即往地多，我希望 @nikatabier 可以听取我的建议，认真地去调查这几个关键词：万达广场、线下、主人、搭子、固炮、单男。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 60057,
+          "like_count": 149,
+          "quote_count": 3,
+          "reply_count": 119,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042121229998682517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近 𝕏 封号太恐怖了，我玩推以来见过最大的大规模封号\n\n我这里现在每天至少会掉 500 粉丝，涨粉的速度都赶不上掉粉的速度，𝕏 的产品经理 @nikitabier 说他们现在每分钟可以识别并封禁 200 个机器人账号。\n\n但是我感觉中文区缅北机器人还是一如即往地多，我希望 @nikatabier https://t.co/zpkl4vp3GL https://t.co/CCey0af3Nv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 885,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1223
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1980990613739970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833638,
+          "following_count": 7166,
+          "like_count": 52476,
+          "listed_count": 3656,
+          "media_count": 2783,
+          "tweet_count": 21369
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "solana"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "lightspeedvp"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "gasappteam"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "thetbhapp"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "1481118406749220868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953823,
+          "following_count": 2035,
+          "like_count": 38196,
+          "listed_count": 5445,
+          "media_count": 1462,
+          "tweet_count": 11078
+        },
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

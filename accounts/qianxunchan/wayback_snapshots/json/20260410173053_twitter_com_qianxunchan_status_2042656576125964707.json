@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042639318800568401",
+    "created_at": "2026-04-10T17:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042656576125964707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607023699877847040",
+          "start": 0,
+          "username": "Erber42620269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042656576125964707",
+    "in_reply_to_user_id": "1607023699877847040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042656445741830276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erber42620269 懒🐖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042639318800568401",
+        "created_at": "2026-04-10T17:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042656576125964707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607023699877847040",
+              "start": 0,
+              "username": "Erber42620269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042656576125964707",
+        "in_reply_to_user_id": "1607023699877847040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042656445741830276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erber42620269 懒🐖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607023699877847040",
+        "conversation_id": "2042639318800568401",
+        "created_at": "2026-04-10T17:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042656445741830276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042656445741830276",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042656348157153540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 我才起床，我是懒猪（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 888,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1116
+        },
+        "username": "qianxunchan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T14:41:29.000Z",
+        "description": "含糖mtf｜hrt 2026.3.11｜infp｜这个号分享生活和穿搭｜喜欢看轻百合｜我真的很软很乖不信你可以rua一下｜欢迎互fo｜都快来和我聊天，私聊我或者加我tg都可以｜小号@Lumos634587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "Lumos634587"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justdrowren",
+                "end": 23,
+                "expanded_url": "http://t.me/justdrowren",
+                "start": 0,
+                "url": "https://t.co/1PvSFTNDj9"
+              }
+            ]
+          }
+        },
+        "id": "1607023699877847040",
+        "name": "Wren🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986475417218523138/8O9RN2Xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 419,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/1PvSFTNDj9",
+        "username": "Erber42620269",
+        "verified": true
+      }
+    ]
+  }
+}

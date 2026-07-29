@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Seattle",
+          "id": "908359182864203777",
+          "name": "Seattle"
+        }
+      }
+    ],
+    "conversation_id": "2039211920067314087",
+    "created_at": "2026-04-01T05:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039211920067314087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1667851059346427914",
+          "start": 18,
+          "username": "hoshi_Asuka0089"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/endwokeness/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/endwokeness/status/2039156332696076620",
+          "start": 46,
+          "url": "https://t.co/4GWqvlSLKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039211920067314087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039156332696076620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "注意⚠️此视频不是ai发生在西雅图\n@hoshi_Asuka0089 你们那边那么危险吗😭 https://t.co/4GWqvlSLKO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8241,
+        "height": 892,
+        "media_key": "13_2039154434928975872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039154434928975872/img/09I_ScXmX2kFmrgv.jpg",
+        "public_metrics": {
+          "view_count": 160430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039154434928975872/vid/avc1/892x892/AtLCPQShaFN4xw6P.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039154434928975872/vid/avc1/720x720/xvKsp2baEcsE0YyK.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039154434928975872/vid/avc1/320x320/DS7SkTGorSxwFN3E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039154434928975872/vid/avc1/540x540/2YShqAV-t2X_wK87.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039154434928975872/pl/3OvFo3-9PZAa9Zk5.m3u8"
+          }
+        ],
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2039211920067314087",
+        "created_at": "2026-04-01T05:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039211920067314087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1667851059346427914",
+              "start": 18,
+              "username": "hoshi_Asuka0089"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/endwokeness/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/endwokeness/status/2039156332696076620",
+              "start": 46,
+              "url": "https://t.co/4GWqvlSLKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039211920067314087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039156332696076620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注意⚠️此视频不是ai发生在西雅图\n@hoshi_Asuka0089 你们那边那么危险吗😭 https://t.co/4GWqvlSLKO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039154434928975872"
+          ]
+        },
+        "author_id": "1552795969959636992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2039156332696076620",
+        "created_at": "2026-04-01T01:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:35:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039154572590002588",
+          "2039156332696076620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t2jxsvv5Z",
+              "end": 63,
+              "expanded_url": "https://x.com/EndWokeness/status/2039156332696076620/video/1",
+              "media_key": "13_2039154434928975872",
+              "start": 40,
+              "url": "https://t.co/1t2jxsvv5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039156332696076620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1309,
+          "impression_count": 343050,
+          "like_count": 17570,
+          "quote_count": 279,
+          "reply_count": 915,
+          "retweet_count": 4515
+        },
+        "reply_settings": "everyone",
+        "text": "Meanwhile in Seattle… (repeat offender) https://t.co/1t2jxsvv5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 808,
+          "like_count": 827,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 629
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね",
+        "id": "1667851059346427914",
+        "location": "沖ノ鳥島",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 868,
+          "like_count": 87540,
+          "listed_count": 4,
+          "media_count": 1094,
+          "tweet_count": 15009
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T23:20:28.000Z",
+        "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+        "id": "1552795969959636992",
+        "name": "End Wokeness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3913865,
+          "following_count": 1368,
+          "like_count": 19379,
+          "listed_count": 8890,
+          "media_count": 11469,
+          "tweet_count": 23070
+        },
+        "username": "EndWokeness",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2046377313617801400",
+    "created_at": "2026-04-20T23:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046377313617801400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sohfangwei/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/sohfangwei/status/2044839057763578329",
+          "start": 19,
+          "url": "https://t.co/tNbuJgOLjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046377313617801400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044839057763578329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁在美国有未成年小孩的看看这个福利🥺 https://t.co/tNbuJgOLjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044838901605445632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGC6JaEXsAAVzED.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2046377313617801400",
+        "created_at": "2026-04-20T23:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046377313617801400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sohfangwei/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/sohfangwei/status/2044839057763578329",
+              "start": 19,
+              "url": "https://t.co/tNbuJgOLjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046377313617801400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044839057763578329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁在美国有未成年小孩的看看这个福利🥺 https://t.co/tNbuJgOLjB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044838901605445632"
+          ]
+        },
+        "author_id": "1318077688339263489",
+        "conversation_id": "2044839057763578329",
+        "created_at": "2026-04-16T18:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044839057763578329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2u3XXCwHLn",
+              "end": 111,
+              "expanded_url": "https://x.com/sohfangwei/status/2044839057763578329/photo/1",
+              "media_key": "3_2044838901605445632",
+              "start": 88,
+              "url": "https://t.co/2u3XXCwHLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044839057763578329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "TrumpAccounts.gov",
+                "end": 781,
+                "expanded_url": "http://TrumpAccounts.gov",
+                "start": 758,
+                "url": "https://t.co/FFfHT95Tna"
+              }
+            ]
+          },
+          "text": "我發現很多人（美國華人）不知道我下面說的這個近乎全民福利？\n財政部長貝森特週三表示，「川普帳戶」已吸引500萬名兒童註冊，且其中120萬人有資格獲得1,000美元的試點撥款。\n「川普帳戶」是通過去年的《大而美法案》頒布的。將於今年7月4日美國獨立紀念日正式啟動，作爲美國建國250週年給美國人民的一份禮物！\n所有擁有社會安全號碼且未滿18歲的美國孩子都可開帳戶，在2025年至2028年間出生的嬰兒，財政部還向講提供1,000美元種子基金。\n「川普帳戶」目的是通過讓每個孩子從小擁有資本，培養對資本制度的參與感。\n「川普帳戶」的錢將立即投入指數基金，在孩子年滿18歲前不可動用，滿18歲後，可用於支付學費、創業或支付房屋首付款。\n如果不用，按照目前的投資回報率推算，到孩子65歲退休時，可能增長至至少50萬美元！就是也可以當退休金用🤣\n那「川普帳戶」的钱从哪里来？\n1、政府。新生兒政府给第一笔1000塊。\n2、企業。參加等額配比計劃的企業，當政府存入1,000美元時，也放入1000美元對等金額。\n3、老板。每年可為員工子女存入最高2,500美元，且不計入員工應納稅所得。\n4、大佬。去年，戴爾老闆邁克爾·戴爾承諾捐資62.5億美元，他說未來將有更多捐款。\n當然爸媽自己也可以放錢進去。\n帳戶設計很有彈性，資助人可以資助一個郵政編碼區、一個學區，甚至是鄰里的10個孩子。\n如果孩子參與社區服務，或取得好成績，相關機構都能往你的帳戶存錢。」\n法律規定年度管理費不得超過0.10%，以確保複利效應最大化。\n如果参加？\n家長在申報2025年所得稅（1040表格）時，只需同時提交國稅局（IRS）4547表格即可開設帳戶。即使錯過稅季，家長最晚可在孩子滿17歲那一年的12月31日前完成開設。\n自2月初起，家長亦可直接通過https://t.co/FFfHT95Tna門戶網站線上提交申請。\n這是美國政府「彎下腰來」照顧美國孩子的新政策！\n你知道這些嗎？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 15071,
+          "like_count": 212,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我發現很多人（美國華人）不知道我下面說的這個近乎全民福利？\n財政部長貝森特週三表示，「川普帳戶」已吸引500萬名兒童註冊，且其中120萬人有資格獲得1,000美元的試點撥款。 https://t.co/2u3XXCwHLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 940,
+          "like_count": 1852,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-19T06:33:14.000Z",
+        "description": "和神韻明星吃火鍋！https://t.co/GdlNHOA0iQ\n美国常识学者 記者 Journalist\nYouTube: https://t.co/hBl0JnbwyT\n乾淨世界：https://t.co/NoiIUDf9jG\n贊助方偉：https://t.co/mJjfGjsBo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shorturl.at/Wkg23",
+                "end": 32,
+                "expanded_url": "https://shorturl.at/Wkg23",
+                "start": 9,
+                "url": "https://t.co/GdlNHOA0iQ"
+              },
+              {
+                "display_url": "youtube.com/@FangWeiTime",
+                "end": 86,
+                "expanded_url": "http://youtube.com/@FangWeiTime",
+                "start": 63,
+                "url": "https://t.co/hBl0JnbwyT"
+              },
+              {
+                "display_url": "rb.gy/cuw85y",
+                "end": 115,
+                "expanded_url": "http://rb.gy/cuw85y",
+                "start": 92,
+                "url": "https://t.co/NoiIUDf9jG"
+              },
+              {
+                "display_url": "donorbox.org/intousa",
+                "end": 144,
+                "expanded_url": "http://donorbox.org/intousa",
+                "start": 121,
+                "url": "https://t.co/mJjfGjsBo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundofhope.org",
+                "end": 23,
+                "expanded_url": "http://soundofhope.org",
+                "start": 0,
+                "url": "https://t.co/EzGc1t2CNv"
+              }
+            ]
+          }
+        },
+        "id": "1318077688339263489",
+        "location": "San Francisco, CA",
+        "name": "方伟｜Allen Zeng",
+        "pinned_tweet_id": "1910464139866132748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331435642421616641/3GBq2hp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143774,
+          "following_count": 428,
+          "like_count": 2821,
+          "listed_count": 452,
+          "media_count": 2600,
+          "tweet_count": 10238
+        },
+        "url": "https://t.co/EzGc1t2CNv",
+        "username": "sohfangwei",
+        "verified": true
+      }
+    ]
+  }
+}

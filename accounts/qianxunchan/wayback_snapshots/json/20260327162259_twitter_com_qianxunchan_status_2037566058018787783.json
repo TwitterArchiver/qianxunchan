@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037566058018787783",
+    "created_at": "2026-03-27T16:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037566058018787783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037566058018787783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037550254455980297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 你有没有发现，有些人跟你聊几句天，就能把你摸得透透的？\n1. 你家里人是做什么的？\n听着像是关心，其实是在悄悄评估你背后有没有资源，判断你是值得深交的人，还是好拿捏的对象。如果你一股脑把家里情况都说了，对方心里很快就会给你贴好标签。… https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2037550038440935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbU9u1bAAA1nQk.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037566058018787783",
+        "created_at": "2026-03-27T16:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037566058018787783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037566058018787783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037550254455980297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 你有没有发现，有些人跟你聊几句天，就能把你摸得透透的？\n1. 你家里人是做什么的？\n听着像是关心，其实是在悄悄评估你背后有没有资源，判断你是值得深交的人，还是好拿捏的对象。如果你一股脑把家里情况都说了，对方心里很快就会给你贴好标签。… https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037550038440935424"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2037550254455980297",
+        "created_at": "2026-03-27T15:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037550254455980297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15uDjylxNb",
+              "end": 140,
+              "expanded_url": "https://x.com/smiroyama/status/2037550254455980297/photo/1",
+              "media_key": "3_2037550038440935424",
+              "start": 117,
+              "url": "https://t.co/15uDjylxNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037550254455980297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你有没有发现，有些人跟你聊几句天，就能把你摸得透透的？\n1. 你家里人是做什么的？\n听着像是关心，其实是在悄悄评估你背后有没有资源，判断你是值得深交的人，还是好拿捏的对象。如果你一股脑把家里情况都说了，对方心里很快就会给你贴好标签。\n怎么办？说：“家里人都挺普通的，跟大家差不多。“点到为止就好。\n\n2. 你平时都在忙些什么？\n这个问题未必是关心你累不累，有时候是在摸你的时间和精力有多少余量。你说最近比较闲，以后你可能就成了那个随叫随到的人。你说在研究理财，对方也许就记住了你手头有闲钱这件事。\n怎么办？说：“日常挺充实的，就是忙些琐碎事。“适度模糊，给自己留一点空间。\n\n3. 你觉得某某这个人怎么样？\n这个问题要格外留心。对方要么想拉你站队，要么是在试探你对某人的态度。夸了，可能被认为跟那人是一边的；说了不好，话很容易辗转传出去，反而让自己陷入麻烦。\n怎么办？说：“我跟他接触不多，不太了解。“然后把话题轻轻还回去：“你问这个是有什么事吗？”\n\n4. 你怎么一点脾气都没有？\n看似是在夸你好说话，实则是在试探你的底线在哪。如果你顺着说”哎，我就是这种性格”，往后遇到麻烦事，第一个被想到的很可能就是你。\n怎么办？可以平静地说：“那要看情况，对讲道理的人我自然好说话，遇到不讲理的事我也不会一味退让。“态度表达清楚了，也不显得咄咄逼人。\n\n5. 你最近是不是又升职发财了？\n看着是替你高兴，其实也是在试探你现在的处境。回应时不必谦虚过头，也不用报喜炫耀，平平淡淡说一句：“哪有，现在能稳住就不错了，不欠债就算赢了。“再笑着问一句：“怎么，你有什么好路子要带带我？“轻松化解，也不失礼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 363,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你有没有发现，有些人跟你聊几句天，就能把你摸得透透的？\n1. 你家里人是做什么的？\n听着像是关心，其实是在悄悄评估你背后有没有资源，判断你是值得深交的人，还是好拿捏的对象。如果你一股脑把家里情况都说了，对方心里很快就会给你贴好标签。 https://t.co/15uDjylxNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 731,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 422
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 1629,
+          "like_count": 5511,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 3599
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

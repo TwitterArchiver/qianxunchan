@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2070460419073003687",
+    "created_at": "2026-06-26T18:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070572142375399827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        },
+        {
+          "end": 24,
+          "id": "1001218834253189126",
+          "start": 15,
+          "username": "Luna5ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070572142375399827",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070497341329830346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX @Luna5ama 不用评价了我评价一下，比我好看多了，开口脆除了其他一点问题没有纯粹好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2070460419073003687",
+        "created_at": "2026-06-26T18:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070572142375399827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            },
+            {
+              "end": 24,
+              "id": "1001218834253189126",
+              "start": 15,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070572142375399827",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070497341329830346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX @Luna5ama 不用评价了我评价一下，比我好看多了，开口脆除了其他一点问题没有纯粹好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2070460419073003687",
+        "created_at": "2026-06-26T13:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070497341329830346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1001218834253189126",
+              "start": 0,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070497341329830346",
+        "in_reply_to_user_id": "1001218834253189126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070495424209736035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna5ama 以后面基你亲自评价一下吧。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 1149,
+          "like_count": 6534,
+          "listed_count": 9,
+          "media_count": 824,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 924,
+          "like_count": 3248,
+          "listed_count": 4,
+          "media_count": 1449,
+          "tweet_count": 7231
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-28T21:49:06.000Z",
+        "description": "日常废话推 | 老保退步人 | 丑陋哥布林 | 回撤收藏家 | 做多人类派 | 净值蹦极师 | 低智小学生 | 究极乐子人 | 抽象艺术家 | 胡言乱语集 | 退役熬夜员 | 电子吸尘器 | 互联网该溜\n\n如果你还想要更多类似的标签，我可以继续为你生成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.luna5ama.dev",
+                "end": 23,
+                "expanded_url": "https://about.luna5ama.dev/",
+                "start": 0,
+                "url": "https://t.co/JbyCOvSj72"
+              }
+            ]
+          }
+        },
+        "id": "1001218834253189126",
+        "location": "New York State",
+        "name": "Luna今天用什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909447204500021248/9E0T0uAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48921,
+          "following_count": 384,
+          "like_count": 97226,
+          "listed_count": 48,
+          "media_count": 979,
+          "tweet_count": 10784
+        },
+        "url": "https://t.co/JbyCOvSj72",
+        "username": "Luna5ama",
+        "verified": false
+      }
+    ]
+  }
+}

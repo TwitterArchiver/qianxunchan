@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2041595624827843043",
+    "created_at": "2026-04-08T00:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041674295181733943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1080593132482260992",
+          "start": 0,
+          "username": "Stanley_Liu2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041674295181733943",
+    "in_reply_to_user_id": "1080593132482260992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041595624827843043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanley_Liu2018 看书比较正常，因为电子产品会坏，收集瓶子也正常你来三番看看很多😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041595617831743488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFU0Zcfa8AAkv3L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041595617819217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFU0Zccb0AAv20r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041595624827843043",
+        "created_at": "2026-04-08T00:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041674295181733943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1080593132482260992",
+              "start": 0,
+              "username": "Stanley_Liu2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041674295181733943",
+        "in_reply_to_user_id": "1080593132482260992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041595624827843043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanley_Liu2018 看书比较正常，因为电子产品会坏，收集瓶子也正常你来三番看看很多😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041595617831743488",
+            "3_2041595617819217920"
+          ]
+        },
+        "author_id": "1080593132482260992",
+        "conversation_id": "2041595624827843043",
+        "created_at": "2026-04-07T19:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041595624827843043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5ZK2RhRgk",
+              "end": 59,
+              "expanded_url": "https://x.com/Stanley_Liu2018/status/2041595624827843043/photo/1",
+              "media_key": "3_2041595617831743488",
+              "start": 36,
+              "url": "https://t.co/O5ZK2RhRgk"
+            },
+            {
+              "display_url": "pic.x.com/O5ZK2RhRgk",
+              "end": 59,
+              "expanded_url": "https://x.com/Stanley_Liu2018/status/2041595624827843043/photo/1",
+              "media_key": "3_2041595617819217920",
+              "start": 36,
+              "url": "https://t.co/O5ZK2RhRgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041595624827843043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 641,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LA来健身房\n震惊了\n第一桑拿房两个人看书\n第二 在墙上有人收集空瓶子 https://t.co/O5ZK2RhRgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 884,
+          "like_count": 1060,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 955
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-02T22:34:14.000Z",
+        "description": "韭菜学创始人 全球化 全球韭菜化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCaPc9…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCaPc9GRK9FoSyqM_c7-fDgw/featured?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/GZjJ9TxX7P"
+              }
+            ]
+          }
+        },
+        "id": "1080593132482260992",
+        "location": "Los Angeles",
+        "name": "Dasheng",
+        "pinned_tweet_id": "1865928194198761868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034067587391492098/FGYAcp89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16116,
+          "following_count": 820,
+          "like_count": 6891,
+          "listed_count": 62,
+          "media_count": 3445,
+          "tweet_count": 10681
+        },
+        "url": "https://t.co/GZjJ9TxX7P",
+        "username": "Stanley_Liu2018",
+        "verified": true
+      }
+    ]
+  }
+}

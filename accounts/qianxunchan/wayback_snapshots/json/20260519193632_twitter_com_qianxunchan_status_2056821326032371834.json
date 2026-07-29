@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2056776478524838148",
+    "created_at": "2026-05-19T19:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056821326032371834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056821326032371834",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056776478524838148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 你这个数量文字感觉像ai（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2056776478524838148",
+        "created_at": "2026-05-19T19:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056821326032371834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056821326032371834",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056776478524838148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 你这个数量文字感觉像ai（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2056776478524838148",
+        "created_at": "2026-05-19T16:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056776478524838148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056479947984691226",
+              "start": 127,
+              "url": "https://t.co/URFrFgXuFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056776478524838148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "笑死，当年我们大学也是，床板也很硬，大家戏称铁板烤鱿鱼。我们学校有暑期小学期，7-8月份最热的时候也不能放暑假，还要上额外的课，4年均是如此，坐标北京的985大学暑假补课的奇景见过吗？这个阶段热到我们不得不在窗户纱窗上洒水降低温度，热的睡不着常有的事。\n最搞笑的是当时，学经管和语言的中国女生也是被分到留学生公寓那边的（因为我们工科学校学文的女生很少，学校为了平衡男女比例想出的高招），于是我们学校就出现了罕见的花枝招展的经文女大配寸头拖鞋工科男的奇景，她们享受不断电+有空调的神奇环境，甚至让我们班一个女生学到一半跳专业到了经管（当时，只有专业排名前10才有资格申请转专业）……\n而普通工科公寓不仅6-8人，而且环境也一塌糊涂，不过学校倒是维持了宿舍内禁烟的准则，怎么说985学校学生还是有点素质。至于为什么没装空调，当时学校给的解释是，宿舍楼比较老，电路不足以支持空调，我们都不信，但大4那年学校还是忍不住学生反复抗议给装了空调，结果。。整个宿舍楼经常跳闸；学校后来给出的解决办法是只许熄灯后再开空调让我们能睡着（空调跟其他电器不是一个线路），空调的电半夜2点半再断。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 436,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056479947984691226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，当年我们大学也是，床板也很硬，大家戏称铁板烤鱿鱼。我们学校有暑期小学期，7-8月份最热的时候也不能放暑假，还要上额外的课，4年均是如此，坐标北京的985大学暑假补课的奇景见过吗？这个阶段热到我们不得不在窗户纱窗上洒水降低温度，热的睡不着常有的事。 https://t.co/URFrFgXuFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1118,
+          "like_count": 3710,
+          "listed_count": 7,
+          "media_count": 662,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 857,
+          "like_count": 3115,
+          "listed_count": 4,
+          "media_count": 1333,
+          "tweet_count": 6485
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

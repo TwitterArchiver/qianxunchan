@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040640276113555740",
+    "created_at": "2026-04-05T20:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040895461595472022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594922922644484103",
+          "start": 0,
+          "username": "zqrhfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040895461595472022",
+    "in_reply_to_user_id": "1594922922644484103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040640276113555740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqrhfg 我都是直接中国买寄过来喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040640272787456000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHPhC3aQAA2Rb7.jpg",
+        "width": 1392
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040640272607191040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHPhCMboAAIMMx.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040640276113555740",
+        "created_at": "2026-04-05T20:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040895461595472022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594922922644484103",
+              "start": 0,
+              "username": "zqrhfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040895461595472022",
+        "in_reply_to_user_id": "1594922922644484103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040640276113555740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqrhfg 我都是直接中国买寄过来喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040640272787456000",
+            "3_2040640272607191040"
+          ]
+        },
+        "author_id": "1594922922644484103",
+        "conversation_id": "2040640276113555740",
+        "created_at": "2026-04-05T03:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040640276113555740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQ5KfC4Nkp",
+              "end": 43,
+              "expanded_url": "https://x.com/zqrhfg/status/2040640276113555740/photo/1",
+              "media_key": "3_2040640272787456000",
+              "start": 20,
+              "url": "https://t.co/tQ5KfC4Nkp"
+            },
+            {
+              "display_url": "pic.x.com/tQ5KfC4Nkp",
+              "end": 43,
+              "expanded_url": "https://x.com/zqrhfg/status/2040640276113555740/photo/1",
+              "media_key": "3_2040640272607191040",
+              "start": 20,
+              "url": "https://t.co/tQ5KfC4Nkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040640276113555740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 28324,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "两条裙子加起来36刀\n做成啥样我都认了 https://t.co/tQ5KfC4Nkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 870,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 835
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T05:17:18.000Z",
+        "description": "🔖TRT 🍰isfj🌠 ⚖️ 我爱说啥说啥",
+        "id": "1594922922644484103",
+        "location": "Canada",
+        "name": "椿湫",
+        "pinned_tweet_id": "1983292823052190073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773924747488710656/qvzK9mjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10830,
+          "following_count": 88,
+          "like_count": 1145,
+          "listed_count": 25,
+          "media_count": 612,
+          "tweet_count": 2824
+        },
+        "username": "zqrhfg",
+        "verified": false
+      }
+    ]
+  }
+}

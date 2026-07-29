@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046017090415669248"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2046017143553327467",
+    "created_at": "2026-04-20T00:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046017143553327467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "With your ID in Wallet, there’s no need to reach for your physical ID. Simply add your eligible ID to the Wallet app and use it to show proof of age or identity at select businesses, venues, online, and in-app. Or, travel with it at TSA checkpoints. Presenting your ID just got much",
+          "display_url": "learn.wallet.apple/id",
+          "end": 23,
+          "expanded_url": "https://learn.wallet.apple/id",
+          "start": 0,
+          "status": 200,
+          "title": "ID in Wallet",
+          "unwound_url": "https://learn.wallet.apple/id",
+          "url": "https://t.co/kc1QnGH4GZ"
+        },
+        {
+          "display_url": "pic.x.com/I6EwyDkZba",
+          "end": 78,
+          "expanded_url": "https://x.com/qianxunchan/status/2046017143553327467/video/1",
+          "media_key": "13_2046017090415669248",
+          "start": 55,
+          "url": "https://t.co/I6EwyDkZba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046017143553327467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kc1QnGH4GZ\n其实我很早就知道可以录入了🫪\n现在才录入\n这也太方便了吧🥹🥹 https://t.co/I6EwyDkZba"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4283,
+        "height": 1014,
+        "media_key": "13_2046017090415669248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046017090415669248/img/ZIV3pjPGDlTeM8vZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046017090415669248/vid/avc1/468x360/n7yE1ekSc1WPwx8C.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046017090415669248/vid/avc1/1320x1014/2ApcgXM92-CKkJXa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046017090415669248/vid/avc1/936x720/UjGIU9ZQpTA6KerD.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046017090415669248/vid/avc1/350x270/P4JRcEbkF_QYkMcf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046017090415669248/pl/h2hqZTbe7gVxarNO.m3u8"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046017090415669248"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2046017143553327467",
+        "created_at": "2026-04-20T00:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046017143553327467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "With your ID in Wallet, there’s no need to reach for your physical ID. Simply add your eligible ID to the Wallet app and use it to show proof of age or identity at select businesses, venues, online, and in-app. Or, travel with it at TSA checkpoints. Presenting your ID just got much",
+              "display_url": "learn.wallet.apple/id",
+              "end": 23,
+              "expanded_url": "https://learn.wallet.apple/id",
+              "start": 0,
+              "status": 200,
+              "title": "ID in Wallet",
+              "unwound_url": "https://learn.wallet.apple/id",
+              "url": "https://t.co/kc1QnGH4GZ"
+            },
+            {
+              "display_url": "pic.x.com/I6EwyDkZba",
+              "end": 78,
+              "expanded_url": "https://x.com/qianxunchan/status/2046017143553327467/video/1",
+              "media_key": "13_2046017090415669248",
+              "start": 55,
+              "url": "https://t.co/I6EwyDkZba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046017143553327467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kc1QnGH4GZ\n其实我很早就知道可以录入了🫪\n现在才录入\n这也太方便了吧🥹🥹 https://t.co/I6EwyDkZba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 937,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

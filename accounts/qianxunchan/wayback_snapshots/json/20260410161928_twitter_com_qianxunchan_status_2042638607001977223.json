@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042317278046486909",
+    "created_at": "2026-04-10T16:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042638607001977223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "993493604",
+          "start": 0,
+          "username": "ClockWorkMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042638607001977223",
+    "in_reply_to_user_id": "993493604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042607037331460138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClockWorkMe 确实写错了抱歉老师\n我对大家造成的误解我表示抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042317278046486909",
+        "created_at": "2026-04-10T16:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042638607001977223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "993493604",
+              "start": 0,
+              "username": "ClockWorkMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042638607001977223",
+        "in_reply_to_user_id": "993493604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042607037331460138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClockWorkMe 确实写错了抱歉老师\n我对大家造成的误解我表示抱歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993493604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+              "id": "10027336022",
+              "name": "Top of the Pops"
+            }
+          }
+        ],
+        "conversation_id": "2042317278046486909",
+        "created_at": "2026-04-10T14:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042607037331460138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042607037331460138",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042317278046486909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan TOTP，Passkeys，实体密钥\n另外第一个写错了，应该是2FA\n而且，TOTP、密钥、短信邮件验证等，统称为2FA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛  彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 142,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 888,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 1105
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-06T17:28:20.000Z",
+        "description": "一个靠出卖写代码的能力换饭钱的家伙，但是技术力可能只有二流甚至三流。\n母语是普通话，英语也算是流利，会两句半吊子日语并且想学到向英语一样流利。\nGitHub: https://t.co/nZbTSvwAfb\nIG: https://t.co/TzSbshybsi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/boris1993",
+                "end": 103,
+                "expanded_url": "http://github.com/boris1993",
+                "start": 80,
+                "url": "https://t.co/nZbTSvwAfb"
+              },
+              {
+                "display_url": "instagram.com/boris.zhao/",
+                "end": 131,
+                "expanded_url": "http://instagram.com/boris.zhao/",
+                "start": 108,
+                "url": "https://t.co/TzSbshybsi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boris1993.com",
+                "end": 23,
+                "expanded_url": "https://www.boris1993.com",
+                "start": 0,
+                "url": "https://t.co/Nlmhu0aOj6"
+              }
+            ]
+          }
+        },
+        "id": "993493604",
+        "name": "boris1993",
+        "pinned_tweet_id": "1889540230723805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1014585662161342464/QkPWFgJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 315,
+          "like_count": 146850,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 9562
+        },
+        "url": "https://t.co/Nlmhu0aOj6",
+        "username": "ClockWorkMe",
+        "verified": false
+      }
+    ]
+  }
+}

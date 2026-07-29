@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059833936273113088",
+        "3_2059833936268963840",
+        "3_2059833936277282816",
+        "3_2059833936281526272"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2059833939494326689",
+    "created_at": "2026-05-28T03:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059833939494326689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMbhTQMIkQ",
+          "end": 160,
+          "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+          "media_key": "3_2059833936273113088",
+          "start": 137,
+          "url": "https://t.co/mMbhTQMIkQ"
+        },
+        {
+          "display_url": "pic.x.com/mMbhTQMIkQ",
+          "end": 160,
+          "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+          "media_key": "3_2059833936268963840",
+          "start": 137,
+          "url": "https://t.co/mMbhTQMIkQ"
+        },
+        {
+          "display_url": "pic.x.com/mMbhTQMIkQ",
+          "end": 160,
+          "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+          "media_key": "3_2059833936277282816",
+          "start": 137,
+          "url": "https://t.co/mMbhTQMIkQ"
+        },
+        {
+          "display_url": "pic.x.com/mMbhTQMIkQ",
+          "end": 160,
+          "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+          "media_key": "3_2059833936281526272",
+          "start": 137,
+          "url": "https://t.co/mMbhTQMIkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059833939494326689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我的群规则还是比较自由的😋\n\n有抱怨日和忏悔日防止掉san\n\n还有开庭制度来让每个人投票怎么处置\n\n每个人都有投票权而且群内人人平等😋\n\n还有广告制度给群内抽奖活动增加经费\n\n还有保释金制度让富人可以再来一次\n（但是收益也会成为抽奖来源）\n\n群内成员员欢迎随时提出意见🥺🥹\n\n（整个群的唯一不民主是群管理都是我熟人，我怕选举制度给我群搞炸了😆你们可以骂我独裁🥹😭）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的群规则还是比较自由的😋\n\n有抱怨日和忏悔日防止掉san\n\n还有开庭制度来让每个人投票怎么处置\n\n每个人都有投票权而且群内人人平等😋\n\n还有广告制度给群内抽奖活动增加经费\n\n还有保释金制度让富人可以再来一次\n（但是收益也会成为抽奖来源）\n\n群内成员员欢迎随时提出意见🥺🥹 https://t.co/mMbhTQMIkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2059833936273113088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYADTPagAArA8V.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2059833936268963840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYADTObMAA1Eu3.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1176,
+        "media_key": "3_2059833936277282816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYADTQaIAAeMRa.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2059833936281526272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYADTRa4AA6-Q6.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059833936273113088",
+            "3_2059833936268963840",
+            "3_2059833936277282816",
+            "3_2059833936281526272"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2059833939494326689",
+        "created_at": "2026-05-28T03:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059833939494326689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMbhTQMIkQ",
+              "end": 160,
+              "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+              "media_key": "3_2059833936273113088",
+              "start": 137,
+              "url": "https://t.co/mMbhTQMIkQ"
+            },
+            {
+              "display_url": "pic.x.com/mMbhTQMIkQ",
+              "end": 160,
+              "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+              "media_key": "3_2059833936268963840",
+              "start": 137,
+              "url": "https://t.co/mMbhTQMIkQ"
+            },
+            {
+              "display_url": "pic.x.com/mMbhTQMIkQ",
+              "end": 160,
+              "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+              "media_key": "3_2059833936277282816",
+              "start": 137,
+              "url": "https://t.co/mMbhTQMIkQ"
+            },
+            {
+              "display_url": "pic.x.com/mMbhTQMIkQ",
+              "end": 160,
+              "expanded_url": "https://x.com/qianxunchan/status/2059833939494326689/photo/1",
+              "media_key": "3_2059833936281526272",
+              "start": 137,
+              "url": "https://t.co/mMbhTQMIkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059833939494326689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的群规则还是比较自由的😋\n\n有抱怨日和忏悔日防止掉san\n\n还有开庭制度来让每个人投票怎么处置\n\n每个人都有投票权而且群内人人平等😋\n\n还有广告制度给群内抽奖活动增加经费\n\n还有保释金制度让富人可以再来一次\n（但是收益也会成为抽奖来源）\n\n群内成员员欢迎随时提出意见🥺🥹\n\n（整个群的唯一不民主是群管理都是我熟人，我怕选举制度给我群搞炸了😆你们可以骂我独裁🥹😭）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的群规则还是比较自由的😋\n\n有抱怨日和忏悔日防止掉san\n\n还有开庭制度来让每个人投票怎么处置\n\n每个人都有投票权而且群内人人平等😋\n\n还有广告制度给群内抽奖活动增加经费\n\n还有保释金制度让富人可以再来一次\n（但是收益也会成为抽奖来源）\n\n群内成员员欢迎随时提出意见🥺🥹 https://t.co/mMbhTQMIkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1138,
+          "like_count": 4218,
+          "listed_count": 9,
+          "media_count": 700,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

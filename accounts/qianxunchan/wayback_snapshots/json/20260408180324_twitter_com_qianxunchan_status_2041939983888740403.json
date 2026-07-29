@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2041862677476336062",
+    "created_at": "2026-04-08T18:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041939983888740403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1898630448160677888",
+          "start": 0,
+          "username": "YYkj666"
+        },
+        {
+          "end": 20,
+          "id": "1870052270836199424",
+          "start": 9,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041939983888740403",
+    "in_reply_to_user_id": "1898630448160677888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041932545475145801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYkj666 @FusiKayoko 还有现身说法环节"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041862677476336062",
+        "created_at": "2026-04-08T18:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041939983888740403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1898630448160677888",
+              "start": 0,
+              "username": "YYkj666"
+            },
+            {
+              "end": 20,
+              "id": "1870052270836199424",
+              "start": 9,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041939983888740403",
+        "in_reply_to_user_id": "1898630448160677888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041932545475145801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYkj666 @FusiKayoko 还有现身说法环节"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898630448160677888",
+        "conversation_id": "2041862677476336062",
+        "created_at": "2026-04-08T17:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041932545475145801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041932545475145801",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041862677476336062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 哥们我求你了别骂了真的是割了一下然后长胖了才有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 889,
+          "like_count": 1115,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 997
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T07:02:41.000Z",
+        "description": "路过人间的小棉/刚刚开始吃糖的妹妹/大猛0/16岁（小时候被强奸过所以想变成女孩子）",
+        "id": "1898630448160677888",
+        "location": "Hong Kong",
+        "name": "稳小棉🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898702518433218560/YE9bBTDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 240,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "YYkj666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "你好，我是芙泗\n严重焦虑/药物过量/友好lgbt+  把我当成一个赛博生物就好|目前休学中|瓦批\n我舔舐手腕上的血，感受着鲜活的生命\n我伸手无法摘下天上的药片，便取出抽屉里的星星",
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗official🍥",
+        "pinned_tweet_id": "2041075669493518531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015766161791827968/0AitDIrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 306,
+          "like_count": 12153,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 5283
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

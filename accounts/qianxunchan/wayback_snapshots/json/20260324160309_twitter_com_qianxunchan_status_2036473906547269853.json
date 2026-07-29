@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036473207725891584",
+        "13_2036473207721697280",
+        "3_2036473207688142849",
+        "3_2036473903183536128"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2036473906547269853",
+    "created_at": "2026-03-24T16:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:01:44.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036473547070259395",
+      "2036473906547269853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTqlcrITQI",
+          "end": 63,
+          "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+          "media_key": "13_2036473207725891584",
+          "start": 40,
+          "url": "https://t.co/cTqlcrITQI"
+        },
+        {
+          "display_url": "pic.x.com/cTqlcrITQI",
+          "end": 63,
+          "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+          "media_key": "13_2036473207721697280",
+          "start": 40,
+          "url": "https://t.co/cTqlcrITQI"
+        },
+        {
+          "display_url": "pic.x.com/cTqlcrITQI",
+          "end": 63,
+          "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+          "media_key": "3_2036473207688142849",
+          "start": 40,
+          "url": "https://t.co/cTqlcrITQI"
+        },
+        {
+          "display_url": "pic.x.com/cTqlcrITQI",
+          "end": 63,
+          "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+          "media_key": "3_2036473903183536128",
+          "start": 40,
+          "url": "https://t.co/cTqlcrITQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036473906547269853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "掰个内存条玩玩，600fo 刀来点活  \n严肃剥离内存芯片  \n严肃腰斩内存条 https://t.co/cTqlcrITQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18860,
+        "height": 2160,
+        "media_key": "13_2036473207725891584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036473207725891584/img/EbQhH9BFVin8yfk5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/pl/qSNfxP5-HNsE9qhR.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/vid/avc1/3840x2160/7A887odPsL8wUZjd.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/vid/avc1/480x270/aHwiRp_ed-t8hHfX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/vid/avc1/640x360/8ZVA8gCUzAfAcGSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/vid/avc1/1280x720/Dp5zew4Exq3Lu2Uz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207725891584/vid/avc1/1920x1080/dn1n4tJHeYbB7PST.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 31048,
+        "height": 2160,
+        "media_key": "13_2036473207721697280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036473207721697280/img/1ulsNUaG4XygPK6U.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/vid/avc1/1920x1080/WSkFs6xcxb71r0Gj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/vid/avc1/1280x720/TOZq94AgmnUxsZt-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/pl/rnzXZ7m6XluvRY3E.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/vid/avc1/3840x2160/mb-osonq0pSJpOXg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/vid/avc1/640x360/nXMplQqWSc9coaQ4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036473207721697280/vid/avc1/480x270/z_X7e0wmar3yE6fD.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036473207688142849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMBl7raIAEVhko.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036473903183536128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMCOamboAAGDFx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036473207725891584",
+            "13_2036473207721697280",
+            "3_2036473207688142849"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036473547070259395",
+        "created_at": "2026-03-24T16:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:01:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036473547070259395",
+          "2036473906547269853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjhzwCwfTt",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473547070259395/video/1",
+              "media_key": "13_2036473207725891584",
+              "start": 40,
+              "url": "https://t.co/fjhzwCwfTt"
+            },
+            {
+              "display_url": "pic.x.com/fjhzwCwfTt",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473547070259395/video/1",
+              "media_key": "13_2036473207721697280",
+              "start": 40,
+              "url": "https://t.co/fjhzwCwfTt"
+            },
+            {
+              "display_url": "pic.x.com/fjhzwCwfTt",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473547070259395/video/1",
+              "media_key": "3_2036473207688142849",
+              "start": 40,
+              "url": "https://t.co/fjhzwCwfTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036473547070259395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掰个内存条玩玩，600fo 刀来点活  \n严肃剥离内存芯片  \n严肃腰斩内存条 https://t.co/fjhzwCwfTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036473207725891584",
+            "13_2036473207721697280",
+            "3_2036473207688142849",
+            "3_2036473903183536128"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036473906547269853",
+        "created_at": "2026-03-24T16:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:01:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036473547070259395",
+          "2036473906547269853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTqlcrITQI",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+              "media_key": "13_2036473207725891584",
+              "start": 40,
+              "url": "https://t.co/cTqlcrITQI"
+            },
+            {
+              "display_url": "pic.x.com/cTqlcrITQI",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+              "media_key": "13_2036473207721697280",
+              "start": 40,
+              "url": "https://t.co/cTqlcrITQI"
+            },
+            {
+              "display_url": "pic.x.com/cTqlcrITQI",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+              "media_key": "3_2036473207688142849",
+              "start": 40,
+              "url": "https://t.co/cTqlcrITQI"
+            },
+            {
+              "display_url": "pic.x.com/cTqlcrITQI",
+              "end": 63,
+              "expanded_url": "https://x.com/qianxunchan/status/2036473906547269853/video/1",
+              "media_key": "3_2036473903183536128",
+              "start": 40,
+              "url": "https://t.co/cTqlcrITQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036473906547269853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掰个内存条玩玩，600fo 刀来点活  \n严肃剥离内存芯片  \n严肃腰斩内存条 https://t.co/cTqlcrITQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 373,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 328
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

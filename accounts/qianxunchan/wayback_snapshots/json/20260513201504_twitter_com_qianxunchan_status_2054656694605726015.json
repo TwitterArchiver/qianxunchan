@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054656562871091200"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2054656694605726015",
+    "created_at": "2026-05-13T20:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T21:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054656694605726015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9TkoCXR7K",
+          "end": 81,
+          "expanded_url": "https://x.com/qianxunchan/status/2054656694605726015/video/1",
+          "media_key": "13_2054656562871091200",
+          "start": 58,
+          "url": "https://t.co/q9TkoCXR7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054656694605726015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么你要买一个扫描枪（）😆\n\n我微信图片得用手机扫二维码扫\n\n突发奇想：\n发现我有扫描枪🤣\n直接扫就完事了喵😁😁 https://t.co/q9TkoCXR7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14806,
+        "height": 3840,
+        "media_key": "13_2054656562871091200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054656562871091200/img/lc-1eR3QNcfZjArp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/vid/avc1/320x568/vqVdFwvnLX3BNqAy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/pl/KV1ORiaUJMxT8DWl.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/vid/avc1/2160x3840/XXiLzQMnQdLLeK3S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/vid/avc1/480x852/EQQzI55N4ZjMNO0s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/vid/avc1/720x1280/ZvKo8JTfNGYLhXRG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054656562871091200/vid/avc1/1080x1920/W9uPWwyilii02uZo.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054656562871091200"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2054656694605726015",
+        "created_at": "2026-05-13T20:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054656694605726015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9TkoCXR7K",
+              "end": 81,
+              "expanded_url": "https://x.com/qianxunchan/status/2054656694605726015/video/1",
+              "media_key": "13_2054656562871091200",
+              "start": 58,
+              "url": "https://t.co/q9TkoCXR7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054656694605726015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你要买一个扫描枪（）😆\n\n我微信图片得用手机扫二维码扫\n\n突发奇想：\n发现我有扫描枪🤣\n直接扫就完事了喵😁😁 https://t.co/q9TkoCXR7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1092,
+          "like_count": 3254,
+          "listed_count": 7,
+          "media_count": 638,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

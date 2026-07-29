@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037395452824543232",
+        "13_2037395452849766400"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037395580872491014",
+    "created_at": "2026-03-27T05:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037395580872491014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQYGG19ch9",
+          "end": 34,
+          "expanded_url": "https://x.com/qianxunchan/status/2037395580872491014/video/1",
+          "media_key": "3_2037395452824543232",
+          "start": 11,
+          "url": "https://t.co/vQYGG19ch9"
+        },
+        {
+          "display_url": "pic.x.com/vQYGG19ch9",
+          "end": 34,
+          "expanded_url": "https://x.com/qianxunchan/status/2037395580872491014/video/1",
+          "media_key": "13_2037395452849766400",
+          "start": 11,
+          "url": "https://t.co/vQYGG19ch9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037395580872491014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全员恶魔吗有点意思！ https://t.co/vQYGG19ch9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037395452824543232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZIXqiaYAAYmwS.jpg",
+        "width": 943
+      },
+      {
+        "duration_ms": 22081,
+        "height": 1112,
+        "media_key": "13_2037395452849766400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037395452849766400/img/dtnteD812-JS3LDy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037395452849766400/vid/avc1/762x360/l5So2d7ZwBQruDwa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037395452849766400/vid/avc1/2354x1112/51gGI2XMG0_eYA4T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037395452849766400/pl/5juEZ0mhGzy1uJ9v.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037395452849766400/vid/avc1/1524x720/_tXmJSYuTDIFKEik.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037395452849766400/vid/avc1/570x270/yKPNplPmeAESwgMZ.mp4"
+          }
+        ],
+        "width": 2354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037395452824543232",
+            "13_2037395452849766400"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037395580872491014",
+        "created_at": "2026-03-27T05:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037395580872491014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQYGG19ch9",
+              "end": 34,
+              "expanded_url": "https://x.com/qianxunchan/status/2037395580872491014/video/1",
+              "media_key": "3_2037395452824543232",
+              "start": 11,
+              "url": "https://t.co/vQYGG19ch9"
+            },
+            {
+              "display_url": "pic.x.com/vQYGG19ch9",
+              "end": 34,
+              "expanded_url": "https://x.com/qianxunchan/status/2037395580872491014/video/1",
+              "media_key": "13_2037395452849766400",
+              "start": 11,
+              "url": "https://t.co/vQYGG19ch9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037395580872491014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全员恶魔吗有点意思！ https://t.co/vQYGG19ch9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 717,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 414
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2028625847058407889",
+    "created_at": "2026-03-03T22:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T23:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028964551287505262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 18,
+          "id": "1909390269533011968",
+          "start": 13,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028964551287505262",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028625847058407889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @gork 发生什么事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2028625843308699648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcgdNSXoAARoNV.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2028625847058407889",
+        "created_at": "2026-03-03T22:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028964551287505262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 18,
+              "id": "1909390269533011968",
+              "start": 13,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028964551287505262",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028625847058407889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @gork 发生什么事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028625843308699648"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2028625847058407889",
+        "created_at": "2026-03-03T00:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028625847058407889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6RLz9ZmBs",
+              "end": 33,
+              "expanded_url": "https://x.com/NagiExpress/status/2028625847058407889/photo/1",
+              "media_key": "3_2028625843308699648",
+              "start": 10,
+              "url": "https://t.co/d6RLz9ZmBs"
+            },
+            {
+              "display_url": "x.com/kaho_114514/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kaho_114514/status/2028625134068912290",
+              "start": 34,
+              "url": "https://t.co/aKGvrVQKvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028625847058407889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1605,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028625134068912290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我俩现在是什么关系 https://t.co/d6RLz9ZmBs https://t.co/aKGvrVQKvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/          年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 115,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 115
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi怎么又误机了",
+        "pinned_tweet_id": "2028615962618954232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028623696882233344/AInWqoJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5191,
+          "following_count": 2247,
+          "like_count": 23552,
+          "listed_count": 7,
+          "media_count": 2028,
+          "tweet_count": 19898
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360089,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 352,
+          "media_count": 42031,
+          "tweet_count": 2020291
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

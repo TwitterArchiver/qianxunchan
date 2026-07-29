@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035934063283027968",
+        "3_2035934063278931968",
+        "3_2035934063283064832"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2035934067494183384",
+    "created_at": "2026-03-23T04:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035934067494183384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7HGfpJirX",
+          "end": 157,
+          "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+          "media_key": "3_2035934063283027968",
+          "start": 134,
+          "url": "https://t.co/R7HGfpJirX"
+        },
+        {
+          "display_url": "pic.x.com/R7HGfpJirX",
+          "end": 157,
+          "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+          "media_key": "3_2035934063278931968",
+          "start": 134,
+          "url": "https://t.co/R7HGfpJirX"
+        },
+        {
+          "display_url": "pic.x.com/R7HGfpJirX",
+          "end": 157,
+          "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+          "media_key": "3_2035934063283064832",
+          "start": 134,
+          "url": "https://t.co/R7HGfpJirX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035934067494183384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸已经属于懒猪了\n我妈说：有鸡腿你记得闷给儿子吃\n我爸收到指令\n我爸执法：水煮鸡腿\n我妈说：儿子喜欢吃土豆丝你可以煮\n我爸执行：水煮土豆\n完事他吃饭还吧唧嘴吃的老香了\n\n韭菜炒鸡蛋\n好消息：有鸡蛋\n坏消息：还没我射出来的多\n\n和我爸吃饭真的还不如吃泡面这一块😭🖕😅 https://t.co/R7HGfpJirX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035934063283027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEXPmQaQAAFi1Z.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035934063278931968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEXPmPbwAAfK10.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035934063283064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEXPmQa0AA5Y3C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035934063283027968",
+            "3_2035934063278931968",
+            "3_2035934063283064832"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035934067494183384",
+        "created_at": "2026-03-23T04:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035934067494183384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7HGfpJirX",
+              "end": 157,
+              "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+              "media_key": "3_2035934063283027968",
+              "start": 134,
+              "url": "https://t.co/R7HGfpJirX"
+            },
+            {
+              "display_url": "pic.x.com/R7HGfpJirX",
+              "end": 157,
+              "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+              "media_key": "3_2035934063278931968",
+              "start": 134,
+              "url": "https://t.co/R7HGfpJirX"
+            },
+            {
+              "display_url": "pic.x.com/R7HGfpJirX",
+              "end": 157,
+              "expanded_url": "https://x.com/qianxunchan/status/2035934067494183384/photo/1",
+              "media_key": "3_2035934063283064832",
+              "start": 134,
+              "url": "https://t.co/R7HGfpJirX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035934067494183384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸已经属于懒猪了\n我妈说：有鸡腿你记得闷给儿子吃\n我爸收到指令\n我爸执法：水煮鸡腿\n我妈说：儿子喜欢吃土豆丝你可以煮\n我爸执行：水煮土豆\n完事他吃饭还吧唧嘴吃的老香了\n\n韭菜炒鸡蛋\n好消息：有鸡蛋\n坏消息：还没我射出来的多\n\n和我爸吃饭真的还不如吃泡面这一块😭🖕😅 https://t.co/R7HGfpJirX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 219,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 303
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

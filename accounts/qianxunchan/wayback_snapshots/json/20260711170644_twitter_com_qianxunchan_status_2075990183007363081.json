@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2075988961462239307",
+    "created_at": "2026-07-11T17:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075990183007363081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075990183007363081",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075988961462239307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 我有三折外卖 7 折打车不知道加拿大能不能用🥱要就找我一下喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075988957079166976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9k9RhWYAAXfpK.jpg",
+        "width": 1132
+      },
+      {
+        "height": 628,
+        "media_key": "3_2075988957095940096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9k9RlWUAAJp3J.jpg",
+        "width": 1206
+      },
+      {
+        "height": 732,
+        "media_key": "3_2075988957100183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9k9RmXEAAqGe4.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1537,
+        "media_key": "3_2075988957091799040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9k9RkXIAA-S9L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T17:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075990183007363081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075990183007363081",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075988961462239307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我有三折外卖 7 折打车不知道加拿大能不能用🥱要就找我一下喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075988957079166976",
+            "3_2075988957095940096",
+            "3_2075988957100183552",
+            "3_2075988957091799040"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2075988961462239307",
+        "created_at": "2026-07-11T17:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075988961462239307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkeOiaIX0n",
+              "end": 164,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075988961462239307/photo/1",
+              "media_key": "3_2075988957079166976",
+              "start": 141,
+              "url": "https://t.co/OkeOiaIX0n"
+            },
+            {
+              "display_url": "pic.x.com/OkeOiaIX0n",
+              "end": 164,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075988961462239307/photo/1",
+              "media_key": "3_2075988957095940096",
+              "start": 141,
+              "url": "https://t.co/OkeOiaIX0n"
+            },
+            {
+              "display_url": "pic.x.com/OkeOiaIX0n",
+              "end": 164,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075988961462239307/photo/1",
+              "media_key": "3_2075988957100183552",
+              "start": 141,
+              "url": "https://t.co/OkeOiaIX0n"
+            },
+            {
+              "display_url": "pic.x.com/OkeOiaIX0n",
+              "end": 164,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2075988961462239307/photo/1",
+              "media_key": "3_2075988957091799040",
+              "start": 141,
+              "url": "https://t.co/OkeOiaIX0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075988961462239307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "虽然每次自证都会再被骂一次卖惨，但还是得发一下：暑假期间学校一分钱工资都没有，全凭我一张嘴进进出出教英语视频聊天和（）给自己赚点生活费。目前暑假房租欠了三个月但银行卡余额甚至交不上半个月房租，因为交不上押金导致明年也没法继续住宿舍还得找新住处。学校的补助得到9月份才会发，这两个月我的日常饮食全靠我从5月份省着用到现在的那一管替尔伯肽撑着。我也就是靠着几辆小车维系一下日常精神状态了否则我早就三二一跳了。我不知道你们幻想我过的是一种什么样的生活，但我确实也挺想过的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然每次自证都会再被骂一次卖惨，但还是得发一下：暑假期间学校一分钱工资都没有，全凭我一张嘴进进出出教英语视频聊天和（）给自己赚点生活费。目前暑假房租欠了三个月但银行卡余额甚至交不上半个月房租，因为交不上押金导致明年也没法继续住宿舍还得找新住处。学校的补助得到9月份才会发，这两个月 https://t.co/OkeOiaIX0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1173,
+          "like_count": 7309,
+          "listed_count": 9,
+          "media_count": 881,
+          "tweet_count": 3112
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 1058,
+          "like_count": 5979,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

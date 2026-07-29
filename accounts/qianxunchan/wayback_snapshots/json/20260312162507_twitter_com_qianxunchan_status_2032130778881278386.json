@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2031662369781534834",
+    "created_at": "2026-03-12T16:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032130778881278386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1265957219612258307",
+          "start": 0,
+          "username": "ewind_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032130778881278386",
+    "in_reply_to_user_id": "1265957219612258307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031662369781534834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewind_dev OK马上出发！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2031662360574984192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHqJxmagAADldz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2031662360575029248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHqJxmbMAALSQC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2031662360574996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHqJxmasAAh_WW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2031662369781534834",
+        "created_at": "2026-03-12T16:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032130778881278386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265957219612258307",
+              "start": 0,
+              "username": "ewind_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032130778881278386",
+        "in_reply_to_user_id": "1265957219612258307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031662369781534834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewind_dev OK马上出发！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031662360574984192",
+            "3_2031662360575029248",
+            "3_2031662360574996480"
+          ]
+        },
+        "author_id": "1265957219612258307",
+        "conversation_id": "2031662369781534834",
+        "created_at": "2026-03-11T09:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031662369781534834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEki2XwtEX",
+              "end": 171,
+              "expanded_url": "https://x.com/ewind_dev/status/2031662369781534834/photo/1",
+              "media_key": "3_2031662360574984192",
+              "start": 148,
+              "url": "https://t.co/FEki2XwtEX"
+            },
+            {
+              "display_url": "pic.x.com/FEki2XwtEX",
+              "end": 171,
+              "expanded_url": "https://x.com/ewind_dev/status/2031662369781534834/photo/1",
+              "media_key": "3_2031662360575029248",
+              "start": 148,
+              "url": "https://t.co/FEki2XwtEX"
+            },
+            {
+              "display_url": "pic.x.com/FEki2XwtEX",
+              "end": 171,
+              "expanded_url": "https://x.com/ewind_dev/status/2031662369781534834/photo/1",
+              "media_key": "3_2031662360574996480",
+              "start": 148,
+              "url": "https://t.co/FEki2XwtEX"
+            },
+            {
+              "display_url": "x.com/lagosuranuss/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/lagosuranuss/status/2031291155782988032",
+              "start": 172,
+              "url": "https://t.co/lA3gLSrexm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031662369781534834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 33705,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031291155782988032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圣地巡礼指南：\n\n1. 导航到金门大桥市区一侧 Welcome Center 的广场，按图一箭头走\n2. 摄影师站在图二处，人贴栏杆站好，焦距 50mm（可变焦到约 45mm 以增加容错）\n3.注意适当调整相机高度，构图让头部位于两座主塔之间，效果如图\n\n这个路线最简单，但位置还原并不特别精确 https://t.co/FEki2XwtEX https://t.co/lA3gLSrexm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/          年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 121,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 147
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-28T10:45:06.000Z",
+        "description": "building design agent @lovart_ai - Hiring! / ex-cofounder @AffineOfficial / created https://t.co/QKc9j3nHVu / aka 雪碧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "lovart_ai"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "AffineOfficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "typedgrammar.com",
+                "end": 107,
+                "expanded_url": "http://typedgrammar.com",
+                "start": 84,
+                "url": "https://t.co/QKc9j3nHVu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/doodlewind",
+                "end": 23,
+                "expanded_url": "https://github.com/doodlewind",
+                "start": 0,
+                "url": "https://t.co/gRTdn1DNE0"
+              }
+            ]
+          }
+        },
+        "id": "1265957219612258307",
+        "location": "Singapore",
+        "name": "Yifeng Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949275362262913024/r3t_A4R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10591,
+          "following_count": 1170,
+          "like_count": 5508,
+          "listed_count": 83,
+          "media_count": 307,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/gRTdn1DNE0",
+        "username": "ewind_dev",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2052148122483360109",
+    "created_at": "2026-05-06T23:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T00:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052169920159547856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2693414511",
+          "start": 0,
+          "username": "liu17251086"
+        },
+        {
+          "end": 20,
+          "id": "1613079089879076864",
+          "start": 13,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052169920159547856",
+    "in_reply_to_user_id": "2693414511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052169720137466015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu17251086 @YunJiu 不是，只是拿自己喜欢的东西做头像哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2052148122483360109",
+        "created_at": "2026-05-06T23:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052169920159547856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2693414511",
+              "start": 0,
+              "username": "liu17251086"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052169920159547856",
+        "in_reply_to_user_id": "2693414511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052169720137466015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu17251086 @YunJiu 不是，只是拿自己喜欢的东西做头像哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2693414511",
+        "conversation_id": "2052148122483360109",
+        "created_at": "2026-05-06T23:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052169720137466015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052169720137466015",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052148122483360109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @YunJiu 你们这些二次元头像都是一个团体吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1071,
+          "like_count": 2968,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-10T02:04:37.000Z",
+        "description": "⚡深耕能源行业13载\n💻自研AI燃气管理系统，覆盖6家子公司、服务百万级用户\n📈落地实效显著，整体运营效率提升70%\n🔍深耕传统行业，探索AI数字化转型路径\n✨业务深度+AI赋能，构筑产业升级新势能\n📍Base：重庆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liu22222222222…",
+                "end": 23,
+                "expanded_url": "https://github.com/liu222222222222/",
+                "start": 0,
+                "url": "https://t.co/sKfFmzKSUZ"
+              }
+            ]
+          }
+        },
+        "id": "2693414511",
+        "name": "JeffLiuRoast",
+        "pinned_tweet_id": "2044603692394103199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047132013388578816/IbxQLTFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 1177,
+          "like_count": 3143,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 5985
+        },
+        "url": "https://t.co/sKfFmzKSUZ",
+        "username": "liu17251086",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104262,
+          "following_count": 783,
+          "like_count": 36727,
+          "listed_count": 294,
+          "media_count": 18320,
+          "tweet_count": 26308
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

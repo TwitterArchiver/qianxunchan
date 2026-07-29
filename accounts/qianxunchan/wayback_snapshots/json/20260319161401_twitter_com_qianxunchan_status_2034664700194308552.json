@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034659340146421783",
+    "created_at": "2026-03-19T16:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034664700194308552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034664700194308552",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034659340146421783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 丑死了，小米股票快跌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034659331376041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyP4b2aUAAeylD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034659302481539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyP2wNbMAAEp2z.jpg",
+        "width": 1330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034659340146421783",
+        "created_at": "2026-03-19T16:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034664700194308552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034664700194308552",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034659340146421783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 丑死了，小米股票快跌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034659331376041984",
+            "3_2034659302481539072"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034659340146421783",
+        "created_at": "2026-03-19T15:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034659340146421783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FnN0UwZpT",
+              "end": 165,
+              "expanded_url": "https://x.com/jlxc2001/status/2034659340146421783/photo/1",
+              "media_key": "3_2034659331376041984",
+              "start": 142,
+              "url": "https://t.co/3FnN0UwZpT"
+            },
+            {
+              "display_url": "pic.x.com/3FnN0UwZpT",
+              "end": 165,
+              "expanded_url": "https://x.com/jlxc2001/status/2034659340146421783/photo/1",
+              "media_key": "3_2034659302481539072",
+              "start": 142,
+              "url": "https://t.co/3FnN0UwZpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034659340146421783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小米新出的那个笔记本终于解禁了，我可以发图吐槽了，我实在想不明白，这个屏幕的R角为什么要成做不标准的R角，说实话，时隔这么多年，再次出小米笔记本新品，我对这个是有点失望的，感觉这玩意的主要卖点，差不多就是米家生态和性价比了，红米品牌要打性价比，小米品牌要搞高端旗舰，作为高端旗舰，这种细节的地方肯定是要打磨的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2320,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小米新出的那个笔记本终于解禁了，我可以发图吐槽了，我实在想不明白，这个屏幕的R角为什么要成做不标准的R角，说实话，时隔这么多年，再次出小米笔记本新品，我对这个是有点失望的，感觉这玩意的主要卖点，差不多就是米家生态和性价比了，红米品牌要打性价比，小米品牌要搞高端旗舰，作为高端旗舰，这 https://t.co/3FnN0UwZpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 127,
+          "like_count": 670,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 210
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13034,
+          "following_count": 172,
+          "like_count": 399,
+          "listed_count": 28,
+          "media_count": 724,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

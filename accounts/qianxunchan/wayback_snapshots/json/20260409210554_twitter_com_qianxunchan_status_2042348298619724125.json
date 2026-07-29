@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042294872506257444",
+    "created_at": "2026-04-09T21:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042348298619724125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042348298619724125",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042294872506257444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 我一张回国机票1200刀😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042294861064183809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFewWwhWIAEJYo5.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042294861064200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFewWwhWYAAuggo.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042294861060079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFewWwgXgAAmdLs.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042294861135577088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFewWwyXgAAyjiq.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042294872506257444",
+        "created_at": "2026-04-09T21:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042348298619724125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042348298619724125",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042294872506257444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 我一张回国机票1200刀😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042294861064183809",
+            "3_2042294861064200192",
+            "3_2042294861060079616",
+            "3_2042294861135577088"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2042294872506257444",
+        "created_at": "2026-04-09T17:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042294872506257444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtMPMeibPD",
+              "end": 137,
+              "expanded_url": "https://x.com/NagiExpress/status/2042294872506257444/photo/1",
+              "media_key": "3_2042294861064183809",
+              "start": 114,
+              "url": "https://t.co/GtMPMeibPD"
+            },
+            {
+              "display_url": "pic.x.com/GtMPMeibPD",
+              "end": 137,
+              "expanded_url": "https://x.com/NagiExpress/status/2042294872506257444/photo/1",
+              "media_key": "3_2042294861064200192",
+              "start": 114,
+              "url": "https://t.co/GtMPMeibPD"
+            },
+            {
+              "display_url": "pic.x.com/GtMPMeibPD",
+              "end": 137,
+              "expanded_url": "https://x.com/NagiExpress/status/2042294872506257444/photo/1",
+              "media_key": "3_2042294861060079616",
+              "start": 114,
+              "url": "https://t.co/GtMPMeibPD"
+            },
+            {
+              "display_url": "pic.x.com/GtMPMeibPD",
+              "end": 137,
+              "expanded_url": "https://x.com/NagiExpress/status/2042294872506257444/photo/1",
+              "media_key": "3_2042294861135577088",
+              "start": 114,
+              "url": "https://t.co/GtMPMeibPD"
+            },
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2041324756104851672",
+              "start": 138,
+              "url": "https://t.co/FsaCbLMWVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042294872506257444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041324756104851672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么推上欧陆留学的那些人\n天天嚷嚷着想回国\n却不在欧陆体验全欧可飞的生活呢\n\n我四张机票/高铁票加起来\n才花了100出头\n在欧陆火车便宜\n申根区内还更方便\n国内机建燃油涨了\n100出头连飞机都没得坐\n体验全欧可飞的生活不香吗 https://t.co/GtMPMeibPD https://t.co/FsaCbLMWVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 890,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1072
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你们谁来马德里跟我吃拉美菜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2041324756104851672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038314504044335104/MN_aoLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5331,
+          "following_count": 2282,
+          "like_count": 25947,
+          "listed_count": 9,
+          "media_count": 2237,
+          "tweet_count": 21957
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

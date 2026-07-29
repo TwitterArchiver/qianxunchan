@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060198510969176064",
+        "3_2060198511019528192",
+        "3_2060198510994350080",
+        "3_2060198510981705728"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2060198518300856385",
+    "created_at": "2026-05-29T03:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060198518300856385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnPIgFWjBh",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+          "media_key": "3_2060198510969176064",
+          "start": 18,
+          "url": "https://t.co/gnPIgFWjBh"
+        },
+        {
+          "display_url": "pic.x.com/gnPIgFWjBh",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+          "media_key": "3_2060198511019528192",
+          "start": 18,
+          "url": "https://t.co/gnPIgFWjBh"
+        },
+        {
+          "display_url": "pic.x.com/gnPIgFWjBh",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+          "media_key": "3_2060198510994350080",
+          "start": 18,
+          "url": "https://t.co/gnPIgFWjBh"
+        },
+        {
+          "display_url": "pic.x.com/gnPIgFWjBh",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+          "media_key": "3_2060198510981705728",
+          "start": 18,
+          "url": "https://t.co/gnPIgFWjBh"
+        },
+        {
+          "display_url": "x.com/aureliax17qwq/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/aureliax17qwq/status/2060193771938054304",
+          "start": 42,
+          "url": "https://t.co/stlJcFcE0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060198518300856385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060193771938054304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我准备了两套说辞来应对不同的情况😂 https://t.co/gnPIgFWjBh https://t.co/stlJcFcE0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2060198510969176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdLoV0bQAAiEbt.jpg",
+        "width": 850
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2060198511019528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdLoWAbkAAWPlT.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1432,
+        "media_key": "3_2060198510994350080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdLoV6bYAArxZN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1188,
+        "media_key": "3_2060198510981705728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdLoV3acAAGv81.jpg",
+        "width": 896
+      },
+      {
+        "height": 922,
+        "media_key": "3_2060193762521796612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdHT8eWUAQrCPy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060198510969176064",
+            "3_2060198511019528192",
+            "3_2060198510994350080",
+            "3_2060198510981705728"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060198518300856385",
+        "created_at": "2026-05-29T03:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060198518300856385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnPIgFWjBh",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+              "media_key": "3_2060198510969176064",
+              "start": 18,
+              "url": "https://t.co/gnPIgFWjBh"
+            },
+            {
+              "display_url": "pic.x.com/gnPIgFWjBh",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+              "media_key": "3_2060198511019528192",
+              "start": 18,
+              "url": "https://t.co/gnPIgFWjBh"
+            },
+            {
+              "display_url": "pic.x.com/gnPIgFWjBh",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+              "media_key": "3_2060198510994350080",
+              "start": 18,
+              "url": "https://t.co/gnPIgFWjBh"
+            },
+            {
+              "display_url": "pic.x.com/gnPIgFWjBh",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2060198518300856385/photo/1",
+              "media_key": "3_2060198510981705728",
+              "start": 18,
+              "url": "https://t.co/gnPIgFWjBh"
+            },
+            {
+              "display_url": "x.com/aureliax17qwq/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/aureliax17qwq/status/2060193771938054304",
+              "start": 42,
+              "url": "https://t.co/stlJcFcE0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060198518300856385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060193771938054304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我准备了两套说辞来应对不同的情况😂 https://t.co/gnPIgFWjBh https://t.co/stlJcFcE0Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060193762521796612"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2060193771938054304",
+        "created_at": "2026-05-29T02:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060193771938054304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK0Q0Gfrdt",
+              "end": 44,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2060193771938054304/photo/1",
+              "media_key": "3_2060193762521796612",
+              "start": 21,
+              "url": "https://t.co/qK0Q0Gfrdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060193771938054304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当有人争论是可口好喝还是百事好喝时，我： https://t.co/qK0Q0Gfrdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1144,
+          "like_count": 4425,
+          "listed_count": 9,
+          "media_count": 715,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 613,
+          "like_count": 6639,
+          "listed_count": 7,
+          "media_count": 458,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

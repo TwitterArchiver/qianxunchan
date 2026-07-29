@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052940665882103808"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2052940677147992492",
+    "created_at": "2026-05-09T02:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052940677147992492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035668415231492096",
+          "start": 2,
+          "username": "4rulq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9g6md79qp",
+          "end": 48,
+          "expanded_url": "https://x.com/qianxunchan/status/2052940677147992492/photo/1",
+          "media_key": "3_2052940665882103808",
+          "start": 25,
+          "url": "https://t.co/c9g6md79qp"
+        },
+        {
+          "display_url": "x.com/4rulq/status/2…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/4rulq/status/2052731503222948292",
+          "start": 49,
+          "url": "https://t.co/p7lknSjIZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052940677147992492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052731503222948292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢@4rulq 的分享\nk50u已经上车喵🥰🥰 https://t.co/c9g6md79qp https://t.co/p7lknSjIZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052940665882103808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2CqJ7bUAA0zR-.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2052731398394662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzEVLya0AALFdf.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052940665882103808"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2052940677147992492",
+        "created_at": "2026-05-09T02:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052940677147992492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035668415231492096",
+              "start": 2,
+              "username": "4rulq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9g6md79qp",
+              "end": 48,
+              "expanded_url": "https://x.com/qianxunchan/status/2052940677147992492/photo/1",
+              "media_key": "3_2052940665882103808",
+              "start": 25,
+              "url": "https://t.co/c9g6md79qp"
+            },
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/4rulq/status/2052731503222948292",
+              "start": 49,
+              "url": "https://t.co/p7lknSjIZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052940677147992492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052731503222948292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢@4rulq 的分享\nk50u已经上车喵🥰🥰 https://t.co/c9g6md79qp https://t.co/p7lknSjIZK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052731398394662912"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "conversation_id": "2052731503222948292",
+        "created_at": "2026-05-08T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052731503222948292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qe5xiLArxa",
+              "end": 78,
+              "expanded_url": "https://x.com/4rulq/status/2052731503222948292/photo/1",
+              "media_key": "3_2052731398394662912",
+              "start": 55,
+              "url": "https://t.co/qe5xiLArxa"
+            },
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/4rulq/status/2052709592510169136",
+              "start": 79,
+              "url": "https://t.co/CubnG95QD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052731503222948292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1245,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052709592510169136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要的可以自取喵🍥🍥🍥🍥🍥🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️～ https://t.co/qe5xiLArxa https://t.co/CubnG95QD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1077,
+          "like_count": 3056,
+          "listed_count": 7,
+          "media_count": 614,
+          "tweet_count": 2065
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮/性別焦慮各方面渴望被愛\n重度の不安/性別不安の各方面（ではない）\nHRT：2026/5/6\n請先看這個內容喵～注意⚠️：若是大陸人請自覺用找我要國內聯絡資訊喵～感謝大家的配合喵～最愛大家喵～\n註明：1:自願不是強求喵～\n2:有🚪費的請遠離喵～（後續酌情補充喵～",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 541,
+          "like_count": 1933,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1921
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042640236036132871"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2042640783711649867",
+    "created_at": "2026-04-10T16:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042640783711649867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NujA6287l4",
+          "end": 84,
+          "expanded_url": "https://x.com/qianxunchan/status/2042640783711649867/photo/1",
+          "media_key": "3_2042640236036132871",
+          "start": 61,
+          "url": "https://t.co/NujA6287l4"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2042336951899209885",
+          "start": 85,
+          "url": "https://t.co/a5qzotq8tX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042640783711649867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042336951899209885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有一个大胆想法：☝️🤓\n\n把一群瘫痪的码农并联起来弄成集群😋\n\n这才是真正的nature intelligence😁😂 https://t.co/NujA6287l4 https://t.co/a5qzotq8tX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2042640236036132871",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjqeOjakAccGZX.jpg",
+        "width": 1104
+      },
+      {
+        "height": 997,
+        "media_key": "3_2042336949776891904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfWopMbQAA4tGe.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042640236036132871"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2042640783711649867",
+        "created_at": "2026-04-10T16:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042640783711649867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NujA6287l4",
+              "end": 84,
+              "expanded_url": "https://x.com/qianxunchan/status/2042640783711649867/photo/1",
+              "media_key": "3_2042640236036132871",
+              "start": 61,
+              "url": "https://t.co/NujA6287l4"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2042336951899209885",
+              "start": 85,
+              "url": "https://t.co/a5qzotq8tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042640783711649867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042336951899209885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有一个大胆想法：☝️🤓\n\n把一群瘫痪的码农并联起来弄成集群😋\n\n这才是真正的nature intelligence😁😂 https://t.co/NujA6287l4 https://t.co/a5qzotq8tX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042336949776891904"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2042336951899209885",
+        "created_at": "2026-04-09T20:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042336951899209885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zolM1JS0v8",
+              "end": 82,
+              "expanded_url": "https://x.com/qianxunchan/status/2042336951899209885/photo/1",
+              "media_key": "3_2042336949776891904",
+              "start": 59,
+              "url": "https://t.co/zolM1JS0v8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042336951899209885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 18551,
+          "like_count": 712,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "不要用artificial intelligence \n🙏\n让我们用natural intelligence\n☝️🤓 https://t.co/zolM1JS0v8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛  彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 142,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 888,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1110
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

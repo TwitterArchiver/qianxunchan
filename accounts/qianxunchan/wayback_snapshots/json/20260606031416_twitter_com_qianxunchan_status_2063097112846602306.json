@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063090476358766592"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2063097112846602306",
+    "created_at": "2026-06-06T03:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:47:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063090478833336636",
+      "2063097112846602306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZhrm3qOzp",
+          "end": 96,
+          "expanded_url": "https://x.com/qianxunchan/status/2063097112846602306/photo/1",
+          "media_key": "3_2063090476358766592",
+          "start": 73,
+          "url": "https://t.co/FZhrm3qOzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063097112846602306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的安慰能力belike：\n谁长你这样都得伤心，我本来就不和好看的人玩，没人比你丑啊，我特别喜欢你啊，别焦虑了\n\n（以上内容纯属段子请勿当真🥺） https://t.co/FZhrm3qOzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2063090476358766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGR24bbEAAHJAx.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063090476358766592"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2063090478833336636",
+        "created_at": "2026-06-06T02:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:47:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063090478833336636",
+          "2063097112846602306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKWfYLKbJN",
+              "end": 79,
+              "expanded_url": "https://x.com/qianxunchan/status/2063090478833336636/photo/1",
+              "media_key": "3_2063090476358766592",
+              "start": 56,
+              "url": "https://t.co/DKWfYLKbJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063090478833336636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的安慰能力belike：\n谁长你这样都得伤心，我本来就不和好看的人玩，没人比你丑啊，我特别喜欢你啊，别焦虑了 https://t.co/DKWfYLKbJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063090476358766592"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2063097112846602306",
+        "created_at": "2026-06-06T03:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:47:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063090478833336636",
+          "2063097112846602306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZhrm3qOzp",
+              "end": 96,
+              "expanded_url": "https://x.com/qianxunchan/status/2063097112846602306/photo/1",
+              "media_key": "3_2063090476358766592",
+              "start": 73,
+              "url": "https://t.co/FZhrm3qOzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063097112846602306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的安慰能力belike：\n谁长你这样都得伤心，我本来就不和好看的人玩，没人比你丑啊，我特别喜欢你啊，别焦虑了\n\n（以上内容纯属段子请勿当真🥺） https://t.co/FZhrm3qOzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 1134,
+          "like_count": 5215,
+          "listed_count": 9,
+          "media_count": 753,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

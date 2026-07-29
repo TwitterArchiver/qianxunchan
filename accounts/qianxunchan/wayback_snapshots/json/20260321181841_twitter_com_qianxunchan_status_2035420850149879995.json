@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2000342616202973386",
+    "created_at": "2026-03-21T18:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035420850149879995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1189089192346734593",
+          "start": 0,
+          "username": "biubiub91787817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035420850149879995",
+    "in_reply_to_user_id": "1189089192346734593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000342616202973386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biubiub91787817 加我一下！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000342612604321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8KlAgVbgAAI2cg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2000342616202973386",
+        "created_at": "2026-03-21T18:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035420850149879995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1189089192346734593",
+              "start": 0,
+              "username": "biubiub91787817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035420850149879995",
+        "in_reply_to_user_id": "1189089192346734593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000342616202973386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biubiub91787817 加我一下！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000342612604321792"
+          ]
+        },
+        "author_id": "1189089192346734593",
+        "conversation_id": "2000342616202973386",
+        "created_at": "2025-12-14T23:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T00:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000342616202973386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0IS0zgU7N",
+              "end": 23,
+              "expanded_url": "https://x.com/biubiub91787817/status/2000342616202973386/photo/1",
+              "media_key": "3_2000342612604321792",
+              "start": 0,
+              "url": "https://t.co/Y0IS0zgU7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000342616202973386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1867,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y0IS0zgU7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 145,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 260
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-29T07:58:59.000Z",
+        "description": "MTF，🏳️‍⚧️🍬，湾区，Bay Area，社恐",
+        "id": "1189089192346734593",
+        "name": "阿阿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992396502019514368/rFxemj2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 308,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 52
+        },
+        "username": "biubiub91787817",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2039243927065117149",
+    "created_at": "2026-04-02T02:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039528513519358248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027031128738275328",
+          "start": 0,
+          "username": "NomtfYuwen"
+        },
+        {
+          "end": 21,
+          "id": "1973792014455152640",
+          "start": 12,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039528513519358248",
+    "in_reply_to_user_id": "2027031128738275328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039243927065117149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomtfYuwen @TTypezhi 快点发配澳大利亚🇦🇺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039243911852699648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzZiJBbsAA1oQ-.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039243911848394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzZiJAaAAAWqwo.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039243911852605440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzZiJBaQAAYzeA.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039243911831703552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzZiI8bUAAYbL8.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2039243927065117149",
+        "created_at": "2026-04-02T02:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039528513519358248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027031128738275328",
+              "start": 0,
+              "username": "NomtfYuwen"
+            },
+            {
+              "end": 21,
+              "id": "1973792014455152640",
+              "start": 12,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039528513519358248",
+        "in_reply_to_user_id": "2027031128738275328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039243927065117149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomtfYuwen @TTypezhi 快点发配澳大利亚🇦🇺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039243911852699648",
+            "3_2039243911848394752",
+            "3_2039243911852605440",
+            "3_2039243911831703552"
+          ]
+        },
+        "author_id": "2027031128738275328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039243927065117149",
+        "created_at": "2026-04-01T07:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039243927065117149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 135,
+              "id": "1973792014455152640",
+              "start": 126,
+              "username": "TTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usdXevih6i",
+              "end": 174,
+              "expanded_url": "https://x.com/NomtfYuwen/status/2039243927065117149/photo/1",
+              "media_key": "3_2039243911852699648",
+              "start": 151,
+              "url": "https://t.co/usdXevih6i"
+            },
+            {
+              "display_url": "pic.x.com/usdXevih6i",
+              "end": 174,
+              "expanded_url": "https://x.com/NomtfYuwen/status/2039243927065117149/photo/1",
+              "media_key": "3_2039243911848394752",
+              "start": 151,
+              "url": "https://t.co/usdXevih6i"
+            },
+            {
+              "display_url": "pic.x.com/usdXevih6i",
+              "end": 174,
+              "expanded_url": "https://x.com/NomtfYuwen/status/2039243927065117149/photo/1",
+              "media_key": "3_2039243911852605440",
+              "start": 151,
+              "url": "https://t.co/usdXevih6i"
+            },
+            {
+              "display_url": "pic.x.com/usdXevih6i",
+              "end": 174,
+              "expanded_url": "https://x.com/NomtfYuwen/status/2039243927065117149/photo/1",
+              "media_key": "3_2039243911831703552",
+              "start": 151,
+              "url": "https://t.co/usdXevih6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039243927065117149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1549,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "造谣造到我头上了？？？🤣\n\n是不是开玩笑心里没点逼数\n单号我都她妈发了😸\n\n真搞笑 我前任的前任找我买糖因为我捉弄我前任的前任我前任的前任找我前任告状然后把我挂了🥵😫\n真有你的🤯\n\n知式疯了 只要逮到能抹黑我的机会不管是不是真的就不放过 大哥你快放下吧@TTypezhi \n\n找我买糖 放心就完事了👌 https://t.co/usdXevih6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 814,
+          "like_count": 833,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 664
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T14:42:39.000Z",
+        "description": "MTF🏳️‍⚧️｜HRT2025.6.30😋｜已净身😈｜反跨🤓｜ENFP｜持证含糖🍥｜低价🍥：https://t.co/Gsq7AeQddl（@shaoxiancao1314）｜不药娘网：https://t.co/EPszM55UzA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "shaoxiancao1314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 70,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 47,
+                "url": "https://t.co/Gsq7AeQddl"
+              },
+              {
+                "display_url": "反跨.com",
+                "end": 117,
+                "expanded_url": "http://www.xn--kor256k.com",
+                "start": 94,
+                "url": "https://t.co/EPszM55UzA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "反跨.com",
+                "end": 23,
+                "expanded_url": "http://www.xn--kor256k.com",
+                "start": 0,
+                "url": "https://t.co/EPszM55UzA"
+              }
+            ]
+          }
+        },
+        "id": "2027031128738275328",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2039243927065117149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032587229864853504/72tgSyzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 63,
+          "like_count": 120,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/EPszM55UzA",
+        "username": "NomtfYuwen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 1155,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

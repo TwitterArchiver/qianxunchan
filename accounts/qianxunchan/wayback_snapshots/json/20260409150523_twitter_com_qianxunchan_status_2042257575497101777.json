@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042141150610600292",
+    "created_at": "2026-04-09T15:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042257575497101777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036746034005831680",
+          "start": 0,
+          "username": "Yuki8964Uncanny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042257575497101777",
+    "in_reply_to_user_id": "2036746034005831680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042200890258633064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki8964Uncanny 真的话我就厉害了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042141150610600292",
+        "created_at": "2026-04-09T15:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042257575497101777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036746034005831680",
+              "start": 0,
+              "username": "Yuki8964Uncanny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042257575497101777",
+        "in_reply_to_user_id": "2036746034005831680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042200890258633064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki8964Uncanny 真的话我就厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036746034005831680",
+        "conversation_id": "2042141150610600292",
+        "created_at": "2026-04-09T11:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042200890258633064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042200890258633064",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2682,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042141150610600292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 这图是假的吧……\n我之前好像在哪儿看到过。再说一看这场景就知道是在中国，抽屉和桌子上全都是试卷和书本。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 889,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1054
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-25T10:04:45.000Z",
+        "description": "18 years old. Student.\n上帝赐予我双手，耶稣赐予我灵魂，世界将因我而改变。",
+        "id": "2036746034005831680",
+        "name": "Uncanny",
+        "pinned_tweet_id": "2040709273597120690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036811668966268928/k4Zod_oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 2944,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 862
+        },
+        "username": "Yuki8964Uncanny",
+        "verified": true
+      }
+    ]
+  }
+}

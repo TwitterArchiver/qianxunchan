@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035537558097334272"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035529393389662375",
+    "created_at": "2026-03-22T02:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035537563050799368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/phgeWUhGA7",
+          "end": 47,
+          "expanded_url": "https://x.com/qianxunchan/status/2035537563050799368/photo/1",
+          "media_key": "3_2035537558097334272",
+          "start": 24,
+          "url": "https://t.co/phgeWUhGA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035537563050799368",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035529393389662375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 我就住附近…….. https://t.co/phgeWUhGA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2035537558097334272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-un9VbkAAlm3L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2035464367987200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9sDu7XkAA6lXd.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2035464387037728768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9sE15XkAAjwq6.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2035464425868582913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9sHGjXYAERMNr.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035537558097334272"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035529393389662375",
+        "created_at": "2026-03-22T02:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035537563050799368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/phgeWUhGA7",
+              "end": 47,
+              "expanded_url": "https://x.com/qianxunchan/status/2035537563050799368/photo/1",
+              "media_key": "3_2035537558097334272",
+              "start": 24,
+              "url": "https://t.co/phgeWUhGA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035537563050799368",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035529393389662375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 我就住附近…….. https://t.co/phgeWUhGA7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035464367987200000",
+            "3_2035464387037728768",
+            "3_2035464425868582913"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2035529393389662375",
+        "created_at": "2026-03-22T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035529393389662375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUAfjCNYn7",
+              "end": 78,
+              "expanded_url": "https://x.com/satireorcry1/status/2035529393389662375/photo/1",
+              "media_key": "3_2035464367987200000",
+              "start": 55,
+              "url": "https://t.co/bUAfjCNYn7"
+            },
+            {
+              "display_url": "pic.x.com/bUAfjCNYn7",
+              "end": 78,
+              "expanded_url": "https://x.com/satireorcry1/status/2035529393389662375/photo/1",
+              "media_key": "3_2035464387037728768",
+              "start": 55,
+              "url": "https://t.co/bUAfjCNYn7"
+            },
+            {
+              "display_url": "pic.x.com/bUAfjCNYn7",
+              "end": 78,
+              "expanded_url": "https://x.com/satireorcry1/status/2035529393389662375/photo/1",
+              "media_key": "3_2035464425868582913",
+              "start": 55,
+              "url": "https://t.co/bUAfjCNYn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035529393389662375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 533,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于习近平在美国金门大桥拍了一张照片，于是抖音上所有关于金门大桥的视频都不能评论！\n\n连金门大桥都被禁评了！ https://t.co/bUAfjCNYn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2030998703709040889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 148,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 271
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2029873844672991616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15365,
+          "following_count": 1356,
+          "like_count": 8993,
+          "listed_count": 36,
+          "media_count": 1404,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

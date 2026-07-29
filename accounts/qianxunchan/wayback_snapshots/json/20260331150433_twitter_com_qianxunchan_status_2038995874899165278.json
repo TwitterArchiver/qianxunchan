@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038995811879763969",
+        "13_2038995812060184577"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2038995874899165278",
+    "created_at": "2026-03-31T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038995874899165278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/37Dg6gVtMy",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2038995874899165278/video/1",
+          "media_key": "13_2038995811879763969",
+          "start": 35,
+          "url": "https://t.co/37Dg6gVtMy"
+        },
+        {
+          "display_url": "pic.x.com/37Dg6gVtMy",
+          "end": 58,
+          "expanded_url": "https://x.com/qianxunchan/status/2038995874899165278/video/1",
+          "media_key": "13_2038995812060184577",
+          "start": 35,
+          "url": "https://t.co/37Dg6gVtMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038995874899165278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现神秘嘉豪！🤣\n\n口罩和衣服裤子全是嘉豪的标志😋\n\n绷不住了☝️🤣 https://t.co/37Dg6gVtMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8938,
+        "height": 1280,
+        "media_key": "13_2038995811879763969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038995811879763969/img/wfgJ8tbqEe7d24im.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995811879763969/vid/avc1/320x568/dJq9vAagZ7hBeEWy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995811879763969/vid/avc1/480x852/BHL8cOKJxah-3LVM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995811879763969/vid/avc1/720x1280/EtcBNjsiPTuD7lPv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038995811879763969/pl/U6zdXfIPW78PLCD_.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13210,
+        "height": 1280,
+        "media_key": "13_2038995812060184577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038995812060184577/img/1M0visBEjcUTQ8jZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995812060184577/vid/avc1/320x568/MDecb50R5zbYSXtq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995812060184577/vid/avc1/480x852/BACsPPNP9R9EiQss.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038995812060184577/vid/avc1/720x1280/acBY_bryNYGivvGA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038995812060184577/pl/CLKFrnruozLCblR9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038995811879763969",
+            "13_2038995812060184577"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2038995874899165278",
+        "created_at": "2026-03-31T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038995874899165278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37Dg6gVtMy",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2038995874899165278/video/1",
+              "media_key": "13_2038995811879763969",
+              "start": 35,
+              "url": "https://t.co/37Dg6gVtMy"
+            },
+            {
+              "display_url": "pic.x.com/37Dg6gVtMy",
+              "end": 58,
+              "expanded_url": "https://x.com/qianxunchan/status/2038995874899165278/video/1",
+              "media_key": "13_2038995812060184577",
+              "start": 35,
+              "url": "https://t.co/37Dg6gVtMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038995874899165278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现神秘嘉豪！🤣\n\n口罩和衣服裤子全是嘉豪的标志😋\n\n绷不住了☝️🤣 https://t.co/37Dg6gVtMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 791,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 599
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

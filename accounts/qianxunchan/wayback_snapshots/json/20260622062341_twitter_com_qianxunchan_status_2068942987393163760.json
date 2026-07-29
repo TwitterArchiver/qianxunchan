@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066885721672359936"
+      ],
+      "media_source_tweet_id": [
+        "2068495867208675803"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2068942987393163760",
+    "created_at": "2026-06-22T06:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068942987393163760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763034943599607808",
+          "start": 3,
+          "username": "moonlight_ruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/duD14B1flY",
+          "end": 55,
+          "expanded_url": "https://x.com/moonlight_ruri/status/2068495867208675803/photo/1",
+          "media_key": "3_2066885721672359936",
+          "start": 32,
+          "url": "https://t.co/duD14B1flY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068942987393163760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068495867208675803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moonlight_ruri: 男孩子穿裙子注意的细节 https://t.co/duD14B1flY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2066885721672359936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8NnO-boAAu-C7.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066885721672359936"
+          ],
+          "media_source_tweet_id": [
+            "2068495867208675803"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2068942987393163760",
+        "created_at": "2026-06-22T06:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068942987393163760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763034943599607808",
+              "start": 3,
+              "username": "moonlight_ruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duD14B1flY",
+              "end": 55,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2068495867208675803/photo/1",
+              "media_key": "3_2066885721672359936",
+              "start": 32,
+              "url": "https://t.co/duD14B1flY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068942987393163760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068495867208675803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moonlight_ruri: 男孩子穿裙子注意的细节 https://t.co/duD14B1flY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066885721672359936"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2068495867208675803",
+        "created_at": "2026-06-21T00:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068495867208675803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duD14B1flY",
+              "end": 35,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2068495867208675803/photo/1",
+              "media_key": "3_2066885721672359936",
+              "start": 12,
+              "url": "https://t.co/duD14B1flY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068495867208675803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1095,
+          "impression_count": 181594,
+          "like_count": 3508,
+          "quote_count": 7,
+          "reply_count": 84,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子穿裙子注意的细节 https://t.co/duD14B1flY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1132,
+          "like_count": 6292,
+          "listed_count": 9,
+          "media_count": 808,
+          "tweet_count": 2776
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10278,
+          "following_count": 604,
+          "like_count": 1183,
+          "listed_count": 23,
+          "media_count": 316,
+          "tweet_count": 2293
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

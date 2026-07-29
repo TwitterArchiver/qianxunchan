@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2059180557893005315",
+    "created_at": "2026-05-26T17:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059324802087960619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        },
+        {
+          "end": 33,
+          "id": "1151657452552650752",
+          "start": 17,
+          "username": "MarathonTheGame"
+        },
+        {
+          "end": 50,
+          "id": "1861856458473873408",
+          "start": 34,
+          "username": "MarathonDevTeam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059324802087960619",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059180557893005315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 @MarathonTheGame @MarathonDevTeam 宅女😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2059179848808218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOtKZjbQAAATsI.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2059180557893005315",
+        "created_at": "2026-05-26T17:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059324802087960619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            },
+            {
+              "end": 33,
+              "id": "1151657452552650752",
+              "start": 17,
+              "username": "MarathonTheGame"
+            },
+            {
+              "end": 50,
+              "id": "1861856458473873408",
+              "start": 34,
+              "username": "MarathonDevTeam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059324802087960619",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180557893005315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 @MarathonTheGame @MarathonDevTeam 宅女😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059179848808218624"
+          ]
+        },
+        "author_id": "1667851059346427914",
+        "conversation_id": "2059180557893005315",
+        "created_at": "2026-05-26T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059180557893005315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1151657452552650752",
+              "start": 45,
+              "username": "MarathonTheGame"
+            },
+            {
+              "end": 78,
+              "id": "1861856458473873408",
+              "start": 62,
+              "username": "MarathonDevTeam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9j4i90sX68",
+              "end": 102,
+              "expanded_url": "https://x.com/hoshi_Asuka0089/status/2059180557893005315/photo/1",
+              "media_key": "3_2059179848808218624",
+              "start": 79,
+              "url": "https://t.co/9j4i90sX68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059180557893005315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Marathon服务器又爆炸啦呜呜呜，我的低温 05钥匙, 我的米斯利亚呜呜我的金M77 @MarathonTheGame @MarathonDevTeam https://t.co/9j4i90sX68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1139,
+          "like_count": 4111,
+          "listed_count": 8,
+          "media_count": 690,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 875,
+          "like_count": 88910,
+          "listed_count": 4,
+          "media_count": 1117,
+          "tweet_count": 15236
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T00:58:28.000Z",
+        "description": "Infil into the dark sci-fi world of Tau Ceti IV. From the makers of Halo and Destiny. Content shown may need purchase. Dates/Content may change. ESRB: Teen",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marathonthegame.com",
+                "end": 23,
+                "expanded_url": "https://www.marathonthegame.com/",
+                "start": 0,
+                "url": "https://t.co/ZGmxxZ65jD"
+              }
+            ]
+          }
+        },
+        "id": "1151657452552650752",
+        "location": "Somewhere In The Heavens",
+        "name": "Marathon",
+        "pinned_tweet_id": "2029663241803358693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035024888730357761/hmWwnl8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169262,
+          "following_count": 5,
+          "like_count": 134,
+          "listed_count": 275,
+          "media_count": 341,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/ZGmxxZ65jD",
+        "username": "MarathonTheGame",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T19:36:00.000Z",
+        "description": "News, updates, and insights from the developers of \n@MarathonTheGame 🐛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "MarathonTheGame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/maratho…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/marathonthegame",
+                "start": 0,
+                "url": "https://t.co/Optjuea0Ay"
+              }
+            ]
+          }
+        },
+        "id": "1861856458473873408",
+        "location": "Tau Ceti IV",
+        "name": "Marathon Development Team",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000639798340644864/4oOR0U2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44741,
+          "following_count": 5,
+          "like_count": 57,
+          "listed_count": 66,
+          "media_count": 6,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/Optjuea0Ay",
+        "username": "MarathonDevTeam",
+        "verified": true
+      }
+    ]
+  }
+}

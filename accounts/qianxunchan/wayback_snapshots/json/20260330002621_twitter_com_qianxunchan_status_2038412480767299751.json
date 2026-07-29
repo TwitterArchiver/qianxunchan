@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2038412480767299751",
+    "created_at": "2026-03-30T00:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T01:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038412480767299751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chpsanfrancisc…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/chpsanfrancisco/status/2038375779831078983",
+          "start": 25,
+          "url": "https://t.co/0HCx69hwTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038412480767299751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038375779831078983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊🤔扣了那么多单车！\n好罕见….\n感谢🙏sfpd https://t.co/0HCx69hwTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 5712,
+        "media_key": "3_2038375696087547906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnD5VQWgAI8p5t.jpg",
+        "width": 3213
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2038375717113638912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnD6jlXMAA-Mwj.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2038375738064125952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnD7xoWQAA8xTh.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2038375759274713088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnD9ApWIAAvV4b.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2038412480767299751",
+        "created_at": "2026-03-30T00:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038412480767299751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chpsanfrancisc…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/chpsanfrancisco/status/2038375779831078983",
+              "start": 25,
+              "url": "https://t.co/0HCx69hwTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038412480767299751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038375779831078983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊🤔扣了那么多单车！\n好罕见….\n感谢🙏sfpd https://t.co/0HCx69hwTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038375696087547906",
+            "3_2038375717113638912",
+            "3_2038375738064125952",
+            "3_2038375759274713088"
+          ]
+        },
+        "author_id": "2201908476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2038375779831078983",
+        "created_at": "2026-03-29T22:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038375779831078983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 212,
+              "id": "36183636",
+              "start": 207,
+              "username": "SFPD"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Email from California Highway Patrol - Office of Media Relations FOR IMMEDIATE RELEASE March 29, 2026 JOINT CHP/SFPD OPERATION STOPS CYCLISTS TRYING TO TAKE OVER BAY BRIDGE SAN FRANCISCO— The Californ",
+              "display_url": "conta.cc/3NSTj4H",
+              "end": 205,
+              "expanded_url": "https://conta.cc/3NSTj4H",
+              "images": [
+                {
+                  "height": 318,
+                  "url": "https://pbs.twimg.com/news_img/2038375784671326208/chTZ6M_m?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038375784671326208/chTZ6M_m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 182,
+              "status": 200,
+              "title": "CHP News Release - JOINT CHP/SFPD OPERATION STOPS CYCLISTS TRYING TO TAKE OVER BAY BRIDGE",
+              "unwound_url": "https://myemail.constantcontact.com/CHP-News-Release---JOINT-CHP-SFPD-OPERATION-STOPS-CYCLISTS-TRYING-TO-TAKE-OVER-BAY-BRIDGE.html?soid=1142229491225&aid=zsCtKiFgXhI",
+              "url": "https://t.co/ajriKbJTUw"
+            },
+            {
+              "description": "On March 28, 2026, a coordinated response by law enforcement unfolded in San Francisco after reports of a large bicyclist group suspected of planning a Bay B...",
+              "display_url": "youtu.be/sCe-D9qqMSY?si…",
+              "end": 248,
+              "expanded_url": "https://youtu.be/sCe-D9qqMSY?si=L2RuX6lO56PtTayj",
+              "start": 225,
+              "status": 200,
+              "title": "Bay Bridge Takeover Attempt Shut Down in Real Time",
+              "unwound_url": "https://www.youtube.com/watch?si=L2RuX6lO56PtTayj&v=sCe-D9qqMSY&feature=youtu.be",
+              "url": "https://t.co/IaxlHJvlSh"
+            },
+            {
+              "display_url": "pic.x.com/FSWvX3KiNq",
+              "end": 272,
+              "expanded_url": "https://x.com/CHPSanFrancisco/status/2038375779831078983/photo/1",
+              "media_key": "3_2038375696087547906",
+              "start": 249,
+              "url": "https://t.co/FSWvX3KiNq"
+            },
+            {
+              "display_url": "pic.x.com/FSWvX3KiNq",
+              "end": 272,
+              "expanded_url": "https://x.com/CHPSanFrancisco/status/2038375779831078983/photo/1",
+              "media_key": "3_2038375717113638912",
+              "start": 249,
+              "url": "https://t.co/FSWvX3KiNq"
+            },
+            {
+              "display_url": "pic.x.com/FSWvX3KiNq",
+              "end": 272,
+              "expanded_url": "https://x.com/CHPSanFrancisco/status/2038375779831078983/photo/1",
+              "media_key": "3_2038375738064125952",
+              "start": 249,
+              "url": "https://t.co/FSWvX3KiNq"
+            },
+            {
+              "display_url": "pic.x.com/FSWvX3KiNq",
+              "end": 272,
+              "expanded_url": "https://x.com/CHPSanFrancisco/status/2038375779831078983/photo/1",
+              "media_key": "3_2038375759274713088",
+              "start": 249,
+              "url": "https://t.co/FSWvX3KiNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038375779831078983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 744,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "A joint CHP/SFPD operation on Saturday stopped a group of cyclists intending to take over the Bay Bridge.  85 citations were issued and 85 bicycles were seized.\n\nFull release here:  https://t.co/ajriKbJTUw\n\n@SFPD video here: https://t.co/IaxlHJvlSh https://t.co/FSWvX3KiNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2037918621687750718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 781,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 528
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-18T20:09:16.000Z",
+        "description": "Twitter page for CHP San Francisco Area-Cmdr Tim McCollister, Public Information Officer Mark Andrews: 415) 276-5300 Want to join? https://t.co/qzZZTgDAyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chpmadeformore.com",
+                "end": 154,
+                "expanded_url": "https://chpmadeformore.com",
+                "start": 131,
+                "url": "https://t.co/qzZZTgDAyb"
+              }
+            ]
+          }
+        },
+        "id": "2201908476",
+        "location": "San Francisco, CA",
+        "name": "CHP San Francisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998893771019399171/R_JiCZ_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17760,
+          "following_count": 739,
+          "like_count": 3149,
+          "listed_count": 367,
+          "media_count": 1061,
+          "tweet_count": 2724
+        },
+        "username": "CHPSanFrancisco",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2059960264322380167",
+    "created_at": "2026-05-28T11:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059960264322380167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guimengnya/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/guimengnya/status/2059941337252933693",
+          "start": 19,
+          "url": "https://t.co/brKZt2ADzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059960264322380167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059941337252933693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家有赔偿出来的时候艾特我我要吃瓜😋 https://t.co/brKZt2ADzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2059941321348141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZht70a0AAMWEa.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2059960264322380167",
+        "created_at": "2026-05-28T11:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059960264322380167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guimengnya/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/guimengnya/status/2059941337252933693",
+              "start": 19,
+              "url": "https://t.co/brKZt2ADzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059960264322380167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059941337252933693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家有赔偿出来的时候艾特我我要吃瓜😋 https://t.co/brKZt2ADzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059941321348141056"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2059941337252933693",
+        "created_at": "2026-05-28T10:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059941337252933693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RV0csPnt60",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2059941337252933693/photo/1",
+              "media_key": "3_2059941321348141056",
+              "start": 0,
+              "url": "https://t.co/RV0csPnt60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059941337252933693",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RV0csPnt60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1140,
+          "like_count": 4281,
+          "listed_count": 9,
+          "media_count": 701,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/人间归梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10265,
+          "following_count": 697,
+          "like_count": 11497,
+          "listed_count": 30,
+          "media_count": 2248,
+          "tweet_count": 4623
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

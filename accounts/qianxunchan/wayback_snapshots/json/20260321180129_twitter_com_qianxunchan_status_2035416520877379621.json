@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035416517811294209"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035413309260964241",
+    "created_at": "2026-03-21T18:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035416520877379621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3HrCim13R",
+          "end": 27,
+          "expanded_url": "https://x.com/qianxunchan/status/2035416520877379621/photo/1",
+          "media_key": "3_2035416517811294209",
+          "start": 4,
+          "url": "https://t.co/f3HrCim13R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035416520877379621",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035413309260964241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已取出 https://t.co/f3HrCim13R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035416517811294209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9AifIa0AENYDS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035416517811294209"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035413309260964241",
+        "created_at": "2026-03-21T18:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035416520877379621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3HrCim13R",
+              "end": 27,
+              "expanded_url": "https://x.com/qianxunchan/status/2035416520877379621/photo/1",
+              "media_key": "3_2035416517811294209",
+              "start": 4,
+              "url": "https://t.co/f3HrCim13R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035416520877379621",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035413309260964241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已取出 https://t.co/f3HrCim13R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035413309260964241",
+        "created_at": "2026-03-21T17:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T18:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035413309260964241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035413309260964241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我电脑为什么老是自动关机啊，高性能释放的时候经常这样，我怀疑是电源或者电池出问题了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 145,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 259
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

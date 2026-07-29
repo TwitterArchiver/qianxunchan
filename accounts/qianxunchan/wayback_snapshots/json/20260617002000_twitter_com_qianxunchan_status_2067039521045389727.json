@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2066907614777405779",
+    "created_at": "2026-06-17T00:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067039521045389727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846104289137381376",
+          "start": 0,
+          "username": "Web3_Jarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067039521045389727",
+    "in_reply_to_user_id": "1846104289137381376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066907614777405779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Web3_Jarin hello🖐️😆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2066907601074565120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8hgyGasAADNoM.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2066907614777405779",
+        "created_at": "2026-06-17T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067039521045389727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846104289137381376",
+              "start": 0,
+              "username": "Web3_Jarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067039521045389727",
+        "in_reply_to_user_id": "1846104289137381376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066907614777405779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3_Jarin hello🖐️😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066907601074565120"
+          ]
+        },
+        "author_id": "1846104289137381376",
+        "conversation_id": "2066907614777405779",
+        "created_at": "2026-06-16T15:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066907614777405779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0XgWAIiX8",
+              "end": 102,
+              "expanded_url": "https://x.com/Web3_Jarin/status/2066907614777405779/photo/1",
+              "media_key": "3_2066907601074565120",
+              "start": 79,
+              "url": "https://t.co/v0XgWAIiX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066907614777405779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 192987,
+          "like_count": 1336,
+          "quote_count": 13,
+          "reply_count": 2971,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "Build your X Account \n\nJust say \"hello \" ✌\n\n gain 350+ mutuals under this post https://t.co/v0XgWAIiX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1136,
+          "like_count": 6103,
+          "listed_count": 9,
+          "media_count": 789,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T08:22:27.000Z",
+        "description": "DM For Promotion And Collab📩",
+        "id": "1846104289137381376",
+        "name": "JARIN 🌊",
+        "pinned_tweet_id": "2065844706052018196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988654221135339521/sjsk3RYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37353,
+          "following_count": 7428,
+          "like_count": 40460,
+          "listed_count": 97,
+          "media_count": 2000,
+          "tweet_count": 21039
+        },
+        "url": "",
+        "username": "Web3_Jarin",
+        "verified": true
+      }
+    ]
+  }
+}

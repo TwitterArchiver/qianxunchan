@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069581475914342400",
+        "3_2069581476073541632",
+        "3_2069581475927003136",
+        "3_2069581476073541633"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069581485464752580",
+    "created_at": "2026-06-24T00:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069581485464752580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JuiI6aQmC5",
+          "end": 167,
+          "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+          "media_key": "3_2069581475914342400",
+          "start": 144,
+          "url": "https://t.co/JuiI6aQmC5"
+        },
+        {
+          "display_url": "pic.x.com/JuiI6aQmC5",
+          "end": 167,
+          "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+          "media_key": "3_2069581476073541632",
+          "start": 144,
+          "url": "https://t.co/JuiI6aQmC5"
+        },
+        {
+          "display_url": "pic.x.com/JuiI6aQmC5",
+          "end": 167,
+          "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+          "media_key": "3_2069581475927003136",
+          "start": 144,
+          "url": "https://t.co/JuiI6aQmC5"
+        },
+        {
+          "display_url": "pic.x.com/JuiI6aQmC5",
+          "end": 167,
+          "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+          "media_key": "3_2069581476073541633",
+          "start": 144,
+          "url": "https://t.co/JuiI6aQmC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069581485464752580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在下午，我和母亲讨论养老院的设施和人员结构。当谈到每个老人都有一部电话时，我想起在中国精神病院的经历，便带着哭腔说起在精神病院多次苦苦站在玻璃门前等待门后电话响起的事，以致成了我的PTSD。我问母亲：“你知道在玻璃门后苦苦等你们的电话有多煎熬吗？”然后哭了起来，随后自言自语地讲述当时的心情和不甘。我对比了美国精神病院与国内高级精神病院，以及我所在小三线城市二甲医院的种种规矩和程序，一边声泪俱下地哭泣和自语。\n\n母亲打断并接话道：“你当时自己不吃药还离家出走，我们才把你送进精神病院。我们也要上班，实在是没办法。”她说完后，我带着哭腔冷笑道：“你们居然还在为自己开脱，真是可笑。当时你们好像并不是这种观点。”\n\n事情回到送去精神病院的前一个月：\n\n我的HRT药物再次被发现并没收后，我和父母闹掰，打算离家出走。当晚发脾气想走却被阻止，他们便将我软禁在家。我多次幻想翻窗逃跑，但家住30楼成了困住我的最大牢笼。从家中出去只有一条路（我在一次尝试逃跑中被拖回家）。被拖回家后，我用手机报警。我和父母一直吵架直到警察到来。警察来了也只是和稀泥，因为是家事且我是未成年，只能教育我几句就走了。\n\n我回到房间仔细思考下一步计划。几天后，父母要求我去广州美国领事馆面试签证。我计划带超过两天的衣物、食物和钱逃到云南，那里有朋友接应。我迅速偷走父母藏在衣柜的1200元，收拾好衣服塞进书包。由于用的是龙蛋2书包，空包和塞满东西的外观几乎一样，且我日常书包都很重，父母没看出异样。\n\n面试结束后，我回到车里向父母要回书包，寻找时机逃离。和父母吃完东西后，我发现对面有个地铁口，便迅速甩开他们跑向地铁口。母亲在身后紧追，但我跑得快得多，成功抵达地铁站并到达广州东站。途中我用12306买了去云南的车票，等待后上了火车。行驶中乘警找到我，说我父母报警了，劝我回去。当时我有很多幼稚想法，也纳闷自己为什么轻易相信朋友就去危险的云南。我承认自己确实很幼稚，这趟旅程很危险，是情绪主导下的决定。\n\n未完待续……我累了等躁狂补给你们🥺"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在下午，我和母亲讨论养老院的设施和人员结构。当谈到每个老人都有一部电话时，我想起在中国精神病院的经历，便带着哭腔说起在精神病院多次苦苦站在玻璃门前等待门后电话响起的事，以致成了我的PTSD。我问母亲：“你知道在玻璃门后苦苦等你们的电话有多煎熬吗？”然后哭了起来，随后自言自语地讲述当时的 https://t.co/JuiI6aQmC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069581475914342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLihYyGaYAAKMQ_.jpg",
+        "width": 2752
+      },
+      {
+        "height": 3464,
+        "media_key": "3_2069581476073541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLihYysXkAAVjPt.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3464,
+        "media_key": "3_2069581475927003136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLihYyJbkAAUi_J.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3464,
+        "media_key": "3_2069581476073541633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLihYysXkAEgNK8.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069581475914342400",
+            "3_2069581476073541632",
+            "3_2069581475927003136",
+            "3_2069581476073541633"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069581485464752580",
+        "created_at": "2026-06-24T00:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069581485464752580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuiI6aQmC5",
+              "end": 167,
+              "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+              "media_key": "3_2069581475914342400",
+              "start": 144,
+              "url": "https://t.co/JuiI6aQmC5"
+            },
+            {
+              "display_url": "pic.x.com/JuiI6aQmC5",
+              "end": 167,
+              "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+              "media_key": "3_2069581476073541632",
+              "start": 144,
+              "url": "https://t.co/JuiI6aQmC5"
+            },
+            {
+              "display_url": "pic.x.com/JuiI6aQmC5",
+              "end": 167,
+              "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+              "media_key": "3_2069581475927003136",
+              "start": 144,
+              "url": "https://t.co/JuiI6aQmC5"
+            },
+            {
+              "display_url": "pic.x.com/JuiI6aQmC5",
+              "end": 167,
+              "expanded_url": "https://x.com/qianxunchan/status/2069581485464752580/photo/1",
+              "media_key": "3_2069581476073541633",
+              "start": 144,
+              "url": "https://t.co/JuiI6aQmC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069581485464752580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在下午，我和母亲讨论养老院的设施和人员结构。当谈到每个老人都有一部电话时，我想起在中国精神病院的经历，便带着哭腔说起在精神病院多次苦苦站在玻璃门前等待门后电话响起的事，以致成了我的PTSD。我问母亲：“你知道在玻璃门后苦苦等你们的电话有多煎熬吗？”然后哭了起来，随后自言自语地讲述当时的心情和不甘。我对比了美国精神病院与国内高级精神病院，以及我所在小三线城市二甲医院的种种规矩和程序，一边声泪俱下地哭泣和自语。\n\n母亲打断并接话道：“你当时自己不吃药还离家出走，我们才把你送进精神病院。我们也要上班，实在是没办法。”她说完后，我带着哭腔冷笑道：“你们居然还在为自己开脱，真是可笑。当时你们好像并不是这种观点。”\n\n事情回到送去精神病院的前一个月：\n\n我的HRT药物再次被发现并没收后，我和父母闹掰，打算离家出走。当晚发脾气想走却被阻止，他们便将我软禁在家。我多次幻想翻窗逃跑，但家住30楼成了困住我的最大牢笼。从家中出去只有一条路（我在一次尝试逃跑中被拖回家）。被拖回家后，我用手机报警。我和父母一直吵架直到警察到来。警察来了也只是和稀泥，因为是家事且我是未成年，只能教育我几句就走了。\n\n我回到房间仔细思考下一步计划。几天后，父母要求我去广州美国领事馆面试签证。我计划带超过两天的衣物、食物和钱逃到云南，那里有朋友接应。我迅速偷走父母藏在衣柜的1200元，收拾好衣服塞进书包。由于用的是龙蛋2书包，空包和塞满东西的外观几乎一样，且我日常书包都很重，父母没看出异样。\n\n面试结束后，我回到车里向父母要回书包，寻找时机逃离。和父母吃完东西后，我发现对面有个地铁口，便迅速甩开他们跑向地铁口。母亲在身后紧追，但我跑得快得多，成功抵达地铁站并到达广州东站。途中我用12306买了去云南的车票，等待后上了火车。行驶中乘警找到我，说我父母报警了，劝我回去。当时我有很多幼稚想法，也纳闷自己为什么轻易相信朋友就去危险的云南。我承认自己确实很幼稚，这趟旅程很危险，是情绪主导下的决定。\n\n未完待续……我累了等躁狂补给你们🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在下午，我和母亲讨论养老院的设施和人员结构。当谈到每个老人都有一部电话时，我想起在中国精神病院的经历，便带着哭腔说起在精神病院多次苦苦站在玻璃门前等待门后电话响起的事，以致成了我的PTSD。我问母亲：“你知道在玻璃门后苦苦等你们的电话有多煎熬吗？”然后哭了起来，随后自言自语地讲述当时的 https://t.co/JuiI6aQmC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1136,
+          "like_count": 6383,
+          "listed_count": 9,
+          "media_count": 811,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

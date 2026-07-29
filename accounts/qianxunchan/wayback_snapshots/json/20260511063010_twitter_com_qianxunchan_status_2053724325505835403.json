@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2053708634069274773",
+    "created_at": "2026-05-11T06:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053724325505835403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343200220",
+          "start": 0,
+          "username": "3miku9_0miku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053724325505835403",
+    "in_reply_to_user_id": "343200220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053708634069274773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miku9_0miku1 好看呢😆"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8923,
+        "height": 720,
+        "media_key": "13_2053708559557574656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053708559557574656/img/4xOfrqN0H3NKghxQ.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053708559557574656/vid/avc1/480x270/okacrOs3leyvKiyO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053708559557574656/vid/avc1/640x360/l7WdU6yqaVjkQnA3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053708559557574656/vid/avc1/1280x720/dEjlwQACiidrCJtQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053708559557574656/pl/lgSX53e008vBNAXU.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053708559553265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA9DcxaAAA5_YB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053708559570108416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA9Dc1bAAAMDug.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2053708634069274773",
+        "created_at": "2026-05-11T06:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053724325505835403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343200220",
+              "start": 0,
+              "username": "3miku9_0miku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053724325505835403",
+        "in_reply_to_user_id": "343200220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053708634069274773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miku9_0miku1 好看呢😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053708559557574656",
+            "3_2053708559553265664",
+            "3_2053708559570108416"
+          ]
+        },
+        "author_id": "343200220",
+        "conversation_id": "2053708634069274773",
+        "created_at": "2026-05-11T05:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053708634069274773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VP8meYBANx",
+              "end": 33,
+              "expanded_url": "https://x.com/3miku9_0miku1/status/2053708634069274773/video/1",
+              "media_key": "13_2053708559557574656",
+              "start": 10,
+              "url": "https://t.co/VP8meYBANx"
+            },
+            {
+              "display_url": "pic.x.com/VP8meYBANx",
+              "end": 33,
+              "expanded_url": "https://x.com/3miku9_0miku1/status/2053708634069274773/video/1",
+              "media_key": "3_2053708559553265664",
+              "start": 10,
+              "url": "https://t.co/VP8meYBANx"
+            },
+            {
+              "display_url": "pic.x.com/VP8meYBANx",
+              "end": 33,
+              "expanded_url": "https://x.com/3miku9_0miku1/status/2053708634069274773/video/1",
+              "media_key": "3_2053708559570108416",
+              "start": 10,
+              "url": "https://t.co/VP8meYBANx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053708634069274773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一阵没上来转悠了 https://t.co/VP8meYBANx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1084,
+          "like_count": 3111,
+          "listed_count": 7,
+          "media_count": 624,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T06:16:28.000Z",
+        "description": "烂人一个, 这里只有每天说些废话, 漫无目的的过日子, 也许有性瘾, 不强求任何关系.",
+        "id": "343200220",
+        "location": "Honolulu, HI",
+        "name": "𤭢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995346340252192768/fvuy8H1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1941,
+          "like_count": 21256,
+          "listed_count": 14,
+          "media_count": 104,
+          "tweet_count": 1568
+        },
+        "username": "3miku9_0miku1",
+        "verified": false
+      }
+    ]
+  }
+}

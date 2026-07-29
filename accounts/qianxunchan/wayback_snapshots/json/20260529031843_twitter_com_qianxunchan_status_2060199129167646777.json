@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060199105406943233",
+        "3_2060199105402724352",
+        "3_2060199105423687680"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060199129167646777",
+    "created_at": "2026-05-29T03:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060199129167646777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NDWtefjFKh",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+          "media_key": "3_2060199105406943233",
+          "start": 22,
+          "url": "https://t.co/NDWtefjFKh"
+        },
+        {
+          "display_url": "pic.x.com/NDWtefjFKh",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+          "media_key": "3_2060199105402724352",
+          "start": 22,
+          "url": "https://t.co/NDWtefjFKh"
+        },
+        {
+          "display_url": "pic.x.com/NDWtefjFKh",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+          "media_key": "3_2060199105423687680",
+          "start": 22,
+          "url": "https://t.co/NDWtefjFKh"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2060172734752231923",
+          "start": 46,
+          "url": "https://t.co/yvsvBewMpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060199129167646777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060172734752231923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宿舍熄灯了喵🫪\n为了防止吐我要了个呕吐袋😆 https://t.co/NDWtefjFKh https://t.co/yvsvBewMpb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2060199105406943233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdMK8RbwAEsiPc.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2060199105402724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdMK8QbYAAY8T_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2060199105423687680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdMK8VbQAAcJzY.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2060172162863116288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJczqreasAAxQfK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2316,
+        "media_key": "3_2060172726430838784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc0Le7bsAA3xru.jpg",
+        "width": 3088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060199105406943233",
+            "3_2060199105402724352",
+            "3_2060199105423687680"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060199129167646777",
+        "created_at": "2026-05-29T03:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060199129167646777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDWtefjFKh",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+              "media_key": "3_2060199105406943233",
+              "start": 22,
+              "url": "https://t.co/NDWtefjFKh"
+            },
+            {
+              "display_url": "pic.x.com/NDWtefjFKh",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+              "media_key": "3_2060199105402724352",
+              "start": 22,
+              "url": "https://t.co/NDWtefjFKh"
+            },
+            {
+              "display_url": "pic.x.com/NDWtefjFKh",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2060199129167646777/photo/1",
+              "media_key": "3_2060199105423687680",
+              "start": 22,
+              "url": "https://t.co/NDWtefjFKh"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2060172734752231923",
+              "start": 46,
+              "url": "https://t.co/yvsvBewMpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060199129167646777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060172734752231923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宿舍熄灯了喵🫪\n为了防止吐我要了个呕吐袋😆 https://t.co/NDWtefjFKh https://t.co/yvsvBewMpb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060172162863116288",
+            "3_2060172726430838784"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060172734752231923",
+        "created_at": "2026-05-29T01:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:31:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060172170857443367",
+          "2060172734752231923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XWVP9sa9N",
+              "end": 93,
+              "expanded_url": "https://x.com/qianxunchan/status/2060172734752231923/photo/1",
+              "media_key": "3_2060172162863116288",
+              "start": 70,
+              "url": "https://t.co/3XWVP9sa9N"
+            },
+            {
+              "display_url": "pic.x.com/3XWVP9sa9N",
+              "end": 93,
+              "expanded_url": "https://x.com/qianxunchan/status/2060172734752231923/photo/1",
+              "media_key": "3_2060172726430838784",
+              "start": 70,
+              "url": "https://t.co/3XWVP9sa9N"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2060156538640306610",
+              "start": 94,
+              "url": "https://t.co/xWVYefubA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060172734752231923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060156538640306610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过漫长的等待又给我安排到儿科了🤣\nps：我19周岁了喵\n然后看见我割手痕迹还问了我想自杀不🫪\n等待进一步治疗中喵🥺\n\np2经典战服喵呜😂 https://t.co/3XWVP9sa9N https://t.co/xWVYefubA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1144,
+          "like_count": 4425,
+          "listed_count": 9,
+          "media_count": 716,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

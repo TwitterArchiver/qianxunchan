@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035594121231171969",
+    "created_at": "2026-03-24T01:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T02:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036253386644005265"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036253386644005265",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035594121231171969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的QQ群聊：667335570"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2035594117854715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK2a4AAZSc2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117871509504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK6bIAAtNSX.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117871460352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK6aYAAK8ia.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035594117854711808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_iEK2a0AAcQjz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-03-24T01:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036253386644005265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036253386644005265",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035594121231171969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的QQ群聊：667335570"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035594117854715904",
+            "3_2035594117871509504",
+            "3_2035594117871460352",
+            "3_2035594117854711808"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2035594121231171969",
+        "created_at": "2026-03-22T05:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035594121231171969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1758508742780567552",
+              "start": 12,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117854715904",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117871509504",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117871460352",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            },
+            {
+              "display_url": "pic.x.com/f7q16sWM1S",
+              "end": 182,
+              "expanded_url": "https://x.com/qianxunchan/status/2035594121231171969/photo/1",
+              "media_key": "3_2035594117854711808",
+              "start": 159,
+              "url": "https://t.co/f7q16sWM1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035594121231171969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 23018,
+          "like_count": 318,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍：\n我是千寻酱 @qianxunchan  不是杯子\n喜欢在被窝里面偷偷穿女装并且玩郊狼\n不敢发出声音哇好羞耻的叫声\n不敢女装外出哇\n即使很多人都说我比较pass\n\n经常出没于：旧金山市区\n推:Suzume\n爱好：到处瞎逛，骑车，彩虹六号，录视频\n故乡：广东江门\n专业：电气工程\n梦想：和好多好朋友一起聚会！ https://t.co/f7q16sWM1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 335,
+          "like_count": 701,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 325
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

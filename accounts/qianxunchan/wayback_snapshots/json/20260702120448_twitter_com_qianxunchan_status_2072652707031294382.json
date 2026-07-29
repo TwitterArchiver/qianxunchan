@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2072566479686619589",
+    "created_at": "2026-07-02T12:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072652707031294382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572532372347953154",
+          "start": 0,
+          "username": "preferredwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072652707031294382",
+    "in_reply_to_user_id": "1572532372347953154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072601167675490751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preferredwm 早原价跑了，总资产做了过山车(≧▽≦)*🎢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2072566479686619589",
+        "created_at": "2026-07-02T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072652707031294382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572532372347953154",
+              "start": 0,
+              "username": "preferredwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072652707031294382",
+        "in_reply_to_user_id": "1572532372347953154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072601167675490751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preferredwm 早原价跑了，总资产做了过山车(≧▽≦)*🎢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572532372347953154",
+        "conversation_id": "2072566479686619589",
+        "created_at": "2026-07-02T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072601167675490751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072601167675490751",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072566479686619589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 你也要卖吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 1171,
+          "like_count": 7100,
+          "listed_count": 9,
+          "media_count": 852,
+          "tweet_count": 3035
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T10:25:18.000Z",
+        "description": "#genZ #Founder #AI #ENTP WELCOME TO MY WORLD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "genZ"
+              },
+              {
+                "end": 14,
+                "start": 6,
+                "tag": "Founder"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "AI"
+              },
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "ENTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2wood.cn",
+                "end": 23,
+                "expanded_url": "https://2wood.cn",
+                "start": 0,
+                "url": "https://t.co/Mk63NbFTTW"
+              }
+            ]
+          }
+        },
+        "id": "1572532372347953154",
+        "location": "Antarctica",
+        "name": "preferred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064663740449275904/bgKpam65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 1065,
+          "like_count": 5020,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/Mk63NbFTTW",
+        "username": "preferredwm",
+        "verified": true
+      }
+    ]
+  }
+}

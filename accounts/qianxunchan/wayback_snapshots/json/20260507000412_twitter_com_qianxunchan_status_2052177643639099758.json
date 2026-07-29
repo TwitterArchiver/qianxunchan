@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2052058653776380327",
+    "created_at": "2026-05-07T00:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052177643639099758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815933555371032576",
+          "start": 0,
+          "username": "Yang_8616"
+        },
+        {
+          "end": 20,
+          "id": "2046238259919912960",
+          "start": 11,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052177643639099758",
+    "in_reply_to_user_id": "1815933555371032576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052166061269885348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang_8616 @Type_zhi 建议放个防狼喷雾喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052166057855737856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrCKCKa4AAlGGO.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2052166058392559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrCKEKaIAATKNv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2052058653776380327",
+        "created_at": "2026-05-07T00:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052177643639099758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815933555371032576",
+              "start": 0,
+              "username": "Yang_8616"
+            },
+            {
+              "end": 20,
+              "id": "2046238259919912960",
+              "start": 11,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052177643639099758",
+        "in_reply_to_user_id": "1815933555371032576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052166061269885348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang_8616 @Type_zhi 建议放个防狼喷雾喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052166057855737856",
+            "3_2052166058392559616"
+          ]
+        },
+        "author_id": "1815933555371032576",
+        "conversation_id": "2052058653776380327",
+        "created_at": "2026-05-06T23:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052166061269885348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCptn2jDNv",
+              "end": 52,
+              "expanded_url": "https://x.com/Yang_8616/status/2052166061269885348/photo/1",
+              "media_key": "3_2052166057855737856",
+              "start": 29,
+              "url": "https://t.co/HCptn2jDNv"
+            },
+            {
+              "display_url": "pic.x.com/HCptn2jDNv",
+              "end": 52,
+              "expanded_url": "https://x.com/Yang_8616/status/2052166061269885348/photo/1",
+              "media_key": "3_2052166058392559616",
+              "start": 29,
+              "url": "https://t.co/HCptn2jDNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052166061269885348",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052058653776380327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 完全防御态(有个钢制防暴盾就完美了) https://t.co/HCptn2jDNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1071,
+          "like_count": 2970,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T02:14:50.000Z",
+        "description": "救护员 / 红会会员 / 爱好无线电(9区  BG9JIK  省际涉外) & 医学 / 代码(前端)💻 / 🏳️‍⚧️ /LGBT友好 / INTJ-T/ 胶片摄影",
+        "id": "1815933555371032576",
+        "location": "Jiuquan, China",
+        "name": "白栀 🍥 🏳️‍⚧️",
+        "pinned_tweet_id": "2016541351702409532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016489058906832896/764IFp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Yang_8616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07 03:37/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 509,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

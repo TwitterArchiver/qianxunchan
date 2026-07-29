@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2043381239332344136",
+    "created_at": "2026-04-12T17:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043388335897645148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043388335897645148",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043381239332344136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "缺个摄影师！拉我富士老哥和尼康老哥过来帮我拍照😦😨😰🥵😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2043381237205925889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuMaLBbgAEsQDK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043381239332344136",
+        "created_at": "2026-04-12T17:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043388335897645148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043388335897645148",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043381239332344136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺个摄影师！拉我富士老哥和尼康老哥过来帮我拍照😦😨😰🥵😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043381237205925889"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2043381239332344136",
+        "created_at": "2026-04-12T17:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043381239332344136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUaJ96ORt3",
+              "end": 95,
+              "expanded_url": "https://x.com/qianxunchan/status/2043381239332344136/photo/1",
+              "media_key": "3_2043381237205925889",
+              "start": 72,
+              "url": "https://t.co/LUaJ96ORt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043381239332344136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来灯光布局😋\n设备：三枚闪光灯和一枚150w常亮灯\n相机镜头：佳能r10搭配18-150/佳能rf50 1.8\n\n85mm室内大概率用不了🥵 https://t.co/LUaJ96ORt3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 884,
+          "like_count": 1387,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1203
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

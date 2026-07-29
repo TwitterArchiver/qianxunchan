@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057092813888880640"
+      ],
+      "media_source_tweet_id": [
+        "2057092821744779580"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2057093165329559580",
+    "created_at": "2026-05-20T13:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057093165329559580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        },
+        {
+          "end": 36,
+          "id": "1758508742780567552",
+          "start": 24,
+          "username": "qianxunchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cxx996kLJv",
+          "end": 60,
+          "expanded_url": "https://x.com/aoim33/status/2057092821744779580/photo/1",
+          "media_key": "3_2057092813888880640",
+          "start": 37,
+          "url": "https://t.co/Cxx996kLJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057093165329559580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057092821744779580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @aoim33: 呢個係唔係你屋企啊？\n\n@qianxunchan https://t.co/Cxx996kLJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057092813888880640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxDA-nbAAA4kmZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057092813888880640"
+          ],
+          "media_source_tweet_id": [
+            "2057092821744779580"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2057093165329559580",
+        "created_at": "2026-05-20T13:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057093165329559580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            },
+            {
+              "end": 36,
+              "id": "1758508742780567552",
+              "start": 24,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cxx996kLJv",
+              "end": 60,
+              "expanded_url": "https://x.com/aoim33/status/2057092821744779580/photo/1",
+              "media_key": "3_2057092813888880640",
+              "start": 37,
+              "url": "https://t.co/Cxx996kLJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057093165329559580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057092821744779580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @aoim33: 呢個係唔係你屋企啊？\n\n@qianxunchan https://t.co/Cxx996kLJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057092813888880640"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2057092821744779580",
+        "created_at": "2026-05-20T13:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057092821744779580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1758508742780567552",
+              "start": 12,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cxx996kLJv",
+              "end": 48,
+              "expanded_url": "https://x.com/aoim33/status/2057092821744779580/photo/1",
+              "media_key": "3_2057092813888880640",
+              "start": 25,
+              "url": "https://t.co/Cxx996kLJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057092821744779580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "呢個係唔係你屋企啊？\n\n@qianxunchan https://t.co/Cxx996kLJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1121,
+          "like_count": 3806,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5547,
+          "following_count": 2959,
+          "like_count": 49471,
+          "listed_count": 19,
+          "media_count": 2913,
+          "tweet_count": 12462
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

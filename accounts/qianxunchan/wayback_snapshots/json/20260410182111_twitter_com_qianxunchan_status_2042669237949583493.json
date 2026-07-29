@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042669235152052224"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042602229790859513",
+    "created_at": "2026-04-10T18:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042669237949583493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1172834693730861056",
+          "start": 0,
+          "username": "uncleTakeaway"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MvsEE3tRw",
+          "end": 42,
+          "expanded_url": "https://x.com/qianxunchan/status/2042669237949583493/photo/1",
+          "media_key": "3_2042669235152052224",
+          "start": 19,
+          "url": "https://t.co/6MvsEE3tRw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042669237949583493",
+    "in_reply_to_user_id": "1172834693730861056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042669019514441857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uncleTakeaway 震撼🫪 https://t.co/6MvsEE3tRw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042669235152052224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkE2MrbYAAdx-Y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042669235152052224"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042602229790859513",
+        "created_at": "2026-04-10T18:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042669237949583493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1172834693730861056",
+              "start": 0,
+              "username": "uncleTakeaway"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MvsEE3tRw",
+              "end": 42,
+              "expanded_url": "https://x.com/qianxunchan/status/2042669237949583493/photo/1",
+              "media_key": "3_2042669235152052224",
+              "start": 19,
+              "url": "https://t.co/6MvsEE3tRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042669237949583493",
+        "in_reply_to_user_id": "1172834693730861056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042669019514441857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleTakeaway 震撼🫪 https://t.co/6MvsEE3tRw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1172834693730861056",
+        "conversation_id": "2042602229790859513",
+        "created_at": "2026-04-10T18:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042669019514441857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042669019514441857",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042668680228839548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 没啥区别吧，都一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 892,
+          "like_count": 1295,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1118
+        },
+        "username": "qianxunchan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-14T11:29:36.000Z",
+        "description": "文字直播。信息秒回言语犀利，不喜欢直接拉黑我，不拉黑任何一个人最爱不同观点付费用户，拒绝垃圾文章，交朋友心态做账户，点赞必回，评论必回，关注必回只关注2000个蓝标朋友，全仓英伟达特斯拉，热爱投资，生活，有趣，永远热血沸腾，永远热泪盈眶，每天特斯拉F sd特斯拉自动驾驶外卖300公里在加拿大-30度经常更新状况",
+        "id": "1172834693730861056",
+        "location": "Canada",
+        "name": "加拿大送外卖中年大叔日记-移民火星中",
+        "pinned_tweet_id": "2041547191874126148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026517100307906560/Owxi52zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4194,
+          "following_count": 2261,
+          "like_count": 25305,
+          "listed_count": 5,
+          "media_count": 961,
+          "tweet_count": 20647
+        },
+        "username": "uncleTakeaway",
+        "verified": true
+      }
+    ]
+  }
+}

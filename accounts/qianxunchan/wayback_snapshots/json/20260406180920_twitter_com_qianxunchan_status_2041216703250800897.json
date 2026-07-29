@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040970686529962101",
+    "created_at": "2026-04-06T18:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041216703250800897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        },
+        {
+          "end": 27,
+          "id": "1804356616185315328",
+          "start": 14,
+          "username": "sekushipanda"
+        },
+        {
+          "end": 37,
+          "id": "1799337134605930496",
+          "start": 28,
+          "username": "Sogg6716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041216703250800897",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041207768548298844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan @sekushipanda @Sogg6716 也是蛤🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040970686529962101",
+        "created_at": "2026-04-06T18:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041216703250800897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            },
+            {
+              "end": 27,
+              "id": "1804356616185315328",
+              "start": 14,
+              "username": "sekushipanda"
+            },
+            {
+              "end": 37,
+              "id": "1799337134605930496",
+              "start": 28,
+              "username": "Sogg6716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041216703250800897",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041207768548298844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan @sekushipanda @Sogg6716 也是蛤🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2040970686529962101",
+        "created_at": "2026-04-06T17:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041207768548298844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804356616185315328",
+              "start": 0,
+              "username": "sekushipanda"
+            },
+            {
+              "end": 23,
+              "id": "1799337134605930496",
+              "start": 14,
+              "username": "Sogg6716"
+            },
+            {
+              "end": 36,
+              "id": "1758508742780567552",
+              "start": 24,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041207768548298844",
+        "in_reply_to_user_id": "1804356616185315328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041207165604548770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sekushipanda @Sogg6716 @qianxunchan 我感觉身份比名校学历可能好用10000倍，大部分小留花的那点钱在美国很快就赚出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 882,
+          "like_count": 987,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 885
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "xinxinUnique"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 509,
+          "like_count": 7011,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T03:32:24.000Z",
+        "description": "来喜欢我",
+        "id": "1804356616185315328",
+        "location": "USA",
+        "name": "熊猫在行动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804357129953820672/yOzD51ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 177,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 312
+        },
+        "username": "sekushipanda",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T07:06:24.000Z",
+        "description": "混乱中立丨祝关注我的骂我的拉黑我的所有人通通幸福喵🥰",
+        "id": "1799337134605930496",
+        "location": "Santa Barbara, USA",
+        "name": "笙鹤",
+        "pinned_tweet_id": "1974372503515771046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039382057647054848/kk9JDHXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 387,
+          "like_count": 31723,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 4223
+        },
+        "username": "Sogg6716",
+        "verified": false
+      }
+    ]
+  }
+}

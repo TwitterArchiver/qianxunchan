@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2067228641554002218",
+    "created_at": "2026-06-18T21:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067715362045751439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515451257892315153",
+          "start": 0,
+          "username": "HappierZeen"
+        },
+        {
+          "end": 21,
+          "id": "918593759121690625",
+          "start": 13,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 38,
+          "id": "2035882965671215104",
+          "start": 22,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 44,
+          "id": "1720665183188922368",
+          "start": 39,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067715362045751439",
+    "in_reply_to_user_id": "1515451257892315153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067692954622611755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappierZeen @hu_qin_ @amber_medusozoa @grok 我看不懂劳烦给我把所有事情总结一下翻译成小朋友的话给我听喵🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067692951908835328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHryN8a4AABLDP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2067228641554002218",
+        "created_at": "2026-06-18T21:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067715362045751439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515451257892315153",
+              "start": 0,
+              "username": "HappierZeen"
+            },
+            {
+              "end": 21,
+              "id": "918593759121690625",
+              "start": 13,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 38,
+              "id": "2035882965671215104",
+              "start": 22,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 44,
+              "id": "1720665183188922368",
+              "start": 39,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067715362045751439",
+        "in_reply_to_user_id": "1515451257892315153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067692954622611755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappierZeen @hu_qin_ @amber_medusozoa @grok 我看不懂劳烦给我把所有事情总结一下翻译成小朋友的话给我听喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067692951908835328"
+          ]
+        },
+        "author_id": "1515451257892315153",
+        "conversation_id": "2067228641554002218",
+        "created_at": "2026-06-18T19:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067692954622611755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 25,
+              "id": "2035882965671215104",
+              "start": 9,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqwbjePpjj",
+              "end": 152,
+              "expanded_url": "https://x.com/HappierZeen/status/2067692954622611755/photo/1",
+              "media_key": "3_2067692951908835328",
+              "start": 129,
+              "url": "https://t.co/EqwbjePpjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067692954622611755",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这点，我澄清一下，我对amber老师线下了解不多，也仅仅来自她自身的口述，但我觉得不是通过更温和的劝说能让她醒悟并且做到touch the grass的。如果你真的读完了我和她的关于touch the grass部分的互动，那你应该能意识到我是真的关心你们amber老师，如果不是我不在多伦多，我是真的会入室抢劫般去找她并且把她带出来，带去室外，带出去，远离网络的。而你，我的朋友，你在多伦多，我能不能真切的呼吁你，多带她出去，多转转，哪怕只是不为每日上课生活做实验的强目的驱动的，漫无目的的出去走走，应该会对她也有不小的帮助。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067467067138138266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ @amber_medusozoa 关于这点，我澄清一下，我对amber老师线下了解不多，也仅仅来自她自身的口述，但我觉得不是通过更温和的劝说能让她醒悟并且做到touch the grass的。如果你真的读完了我和她的关于touch the https://t.co/EqwbjePpjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1137,
+          "like_count": 6209,
+          "listed_count": 9,
+          "media_count": 796,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T22:05:24.000Z",
+        "description": "ENTP🏳️‍⚧️｜EdTech Industry｜免费给酷儿做留学/移民申请咨询 (约30min-1h call) | 酷儿艺术家 |",
+        "id": "1515451257892315153",
+        "location": "San Francisco, CA",
+        "name": "Zeen🏳️‍⚧️（queer互fo",
+        "pinned_tweet_id": "2066984443097862510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914626502123274241/yPzpTn8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 856,
+          "like_count": 1137,
+          "listed_count": 8,
+          "media_count": 139,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "HappierZeen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1830,
+          "like_count": 21470,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 5426
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5929,
+          "following_count": 1017,
+          "like_count": 5178,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8813858,
+          "following_count": 5,
+          "like_count": 107,
+          "listed_count": 7032,
+          "media_count": 9062743,
+          "tweet_count": 129292251
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2044235423719817441",
+    "created_at": "2026-04-15T04:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044278866672509404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522418190357200897",
+          "start": 0,
+          "username": "Karma_Police99"
+        },
+        {
+          "end": 27,
+          "id": "1569737545667444737",
+          "start": 16,
+          "username": "bigIkayaki"
+        },
+        {
+          "end": 38,
+          "id": "179124947",
+          "start": 28,
+          "username": "olsArthur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044278866672509404",
+    "in_reply_to_user_id": "1522418190357200897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044277923910500796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karma_Police99 @bigIkayaki @olsArthur 那我能不能卖了回国啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2044235423719817441",
+        "created_at": "2026-04-15T04:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044278866672509404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522418190357200897",
+              "start": 0,
+              "username": "Karma_Police99"
+            },
+            {
+              "end": 27,
+              "id": "1569737545667444737",
+              "start": 16,
+              "username": "bigIkayaki"
+            },
+            {
+              "end": 38,
+              "id": "179124947",
+              "start": 28,
+              "username": "olsArthur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044278866672509404",
+        "in_reply_to_user_id": "1522418190357200897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044277923910500796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karma_Police99 @bigIkayaki @olsArthur 那我能不能卖了回国啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522418190357200897",
+        "conversation_id": "2044235423719817441",
+        "created_at": "2026-04-15T04:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044277923910500796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569737545667444737",
+              "start": 0,
+              "username": "bigIkayaki"
+            },
+            {
+              "end": 22,
+              "id": "179124947",
+              "start": 12,
+              "username": "olsArthur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044277923910500796",
+        "in_reply_to_user_id": "1569737545667444737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044235423719817441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigIkayaki @olsArthur 哈哈哈哈 感觉现在美国的走向 绿卡还真没那么重要了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 893,
+          "like_count": 1508,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 1293
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-06T03:31:15.000Z",
+        "description": "R.I.P 平底锅 @Ordinarynobdy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Ordinarynobdy"
+              }
+            ]
+          }
+        },
+        "id": "1522418190357200897",
+        "location": "Hypocrisy",
+        "name": "Blue Capsule⚠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032910423239057408/ueR9oBfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 105,
+          "like_count": 1675,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 534
+        },
+        "username": "Karma_Police99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T17:19:36.000Z",
+        "description": "👋 hiya｜💬 ENFP 碎碎念｜ 📷 随手拍｜🛍️ 差生文具多｜🏖️ 每天都想去夏威夷｜🩵 家属 @dekaitakoyaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "dekaitakoyaki"
+              }
+            ]
+          }
+        },
+        "id": "1569737545667444737",
+        "location": "☀️ Rainbow State",
+        "name": "小小小墨鱼 🩵",
+        "pinned_tweet_id": "1987691577448550608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015615353242664960/rkCjgNkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 284,
+          "like_count": 8612,
+          "listed_count": 14,
+          "media_count": 1690,
+          "tweet_count": 11981
+        },
+        "username": "bigIkayaki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-16T15:29:30.000Z",
+        "description": "最近の呟きは基本的に麻雀と仕事への愚痴しかない（大丈夫？）",
+        "id": "179124947",
+        "location": "New York, NY",
+        "name": "あーさー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509303892026089472/dnGrwwET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1095,
+          "like_count": 17914,
+          "listed_count": 7,
+          "media_count": 1203,
+          "tweet_count": 8292
+        },
+        "username": "olsArthur",
+        "verified": false
+      }
+    ]
+  }
+}

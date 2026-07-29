@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2038594321633677471",
+    "created_at": "2026-03-30T20:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038708965505421742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1810303059215671296",
+          "start": 0,
+          "username": "lucas_faster"
+        }
+      ],
+      "urls": [
+        {
+          "description": "世界之大无奇不有 911打不了了……. 🫪🫪🫪🫪🫪🫪🫪🫪 🤣 网友投稿：3月28日，广州动漫星城。 一男子与我的英雄学院coser起争执后、大打出手，怒斥对方 “出了我的英雄学院cos就不是中国同胞” 关于我爸往白切鸡里放樱桃炸弹 💣 😗 搞不懂一点………. 啊 🤔 扣了那么多单车！ 好罕见…. 感谢 🙏 sfpd A joint CHP/SFPD operation on Saturday stopped a group of cyclists intending to take over the Bay Bridge. 85 citations were issued and 85 bicycles were seized. Full release here: https:// conta.cc/3NSTj4H @SFPD video here: https:// youtu.be/sCe-D9qqMSY?si =L2RuX6lO56PtTayj … 琶洲充满着我对广州的回忆……. 现在没得玩咯……. 😭",
+          "display_url": "x.com/intent/follow?…",
+          "end": 37,
+          "expanded_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+          "start": 14,
+          "status": 200,
+          "title": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸 (@qianxunchan) / X",
+          "unwound_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+          "url": "https://t.co/uXNE70RXP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038708965505421742",
+    "in_reply_to_user_id": "1810303059215671296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038594321633677471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucas_faster https://t.co/uXNE70RXP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2038594221838569472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqKpNHaEAA_-Sb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2038594321633677471",
+        "created_at": "2026-03-30T20:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038708965505421742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1810303059215671296",
+              "start": 0,
+              "username": "lucas_faster"
+            }
+          ],
+          "urls": [
+            {
+              "description": "世界之大无奇不有 911打不了了……. 🫪🫪🫪🫪🫪🫪🫪🫪 🤣 网友投稿：3月28日，广州动漫星城。 一男子与我的英雄学院coser起争执后、大打出手，怒斥对方 “出了我的英雄学院cos就不是中国同胞” 关于我爸往白切鸡里放樱桃炸弹 💣 😗 搞不懂一点………. 啊 🤔 扣了那么多单车！ 好罕见…. 感谢 🙏 sfpd A joint CHP/SFPD operation on Saturday stopped a group of cyclists intending to take over the Bay Bridge. 85 citations were issued and 85 bicycles were seized. Full release here: https:// conta.cc/3NSTj4H @SFPD video here: https:// youtu.be/sCe-D9qqMSY?si =L2RuX6lO56PtTayj … 琶洲充满着我对广州的回忆……. 现在没得玩咯……. 😭",
+              "display_url": "x.com/intent/follow?…",
+              "end": 37,
+              "expanded_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+              "start": 14,
+              "status": 200,
+              "title": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸 (@qianxunchan) / X",
+              "unwound_url": "https://x.com/intent/follow?screen_name=qianxunchan",
+              "url": "https://t.co/uXNE70RXP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038708965505421742",
+        "in_reply_to_user_id": "1810303059215671296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038594321633677471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucas_faster https://t.co/uXNE70RXP6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038594221838569472"
+          ]
+        },
+        "author_id": "1810303059215671296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038594321633677471",
+        "created_at": "2026-03-30T12:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038594321633677471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "属于第二梯队 1️⃣ 官方 Anthropic API（第一梯队：绝对天花板） 2️⃣ Claude Pro/Max 账户订阅转的 API（第二梯队：性价比之王，Opus 4.6 甜点） 3️⃣ Google Vertex AI / AWS Bedrock 转的 Claude（第三梯队：企业合规型，Opus 4.6 能力有细微欠缺） 4️⃣ 逆向 claude 网页的 API（第四梯队：最低端，不推荐主力） 目前平台已支持一个邮箱托管多个 AI 账号 如果您手上有多个闲置的 AI 资源（Claude、Codex），现在可以统一托管到平台，在提升利用率的同时获得持续收益，像是一种更灵活的理财产品 The platform now supports managing multiple AI accounts under a single email. If you currently have unused 真的是搞钱越来越不要脸了 😢，钱包连上 Hyperliquid 就疯狂弹返佣广告，页面上连个关闭按钮都找不到 钱包体验做得很差劲，赚返佣倒是一把好手，同样是集成 Hyperliquid 的交易入口，Met",
+              "display_url": "x.com/intent/follow?…",
+              "end": 142,
+              "expanded_url": "https://x.com/intent/follow?screen_name=lucas_faster",
+              "start": 119,
+              "status": 200,
+              "title": "Lucas 会搞钱 (@lucas_faster) / X",
+              "unwound_url": "https://x.com/intent/follow?screen_name=lucas_faster",
+              "url": "https://t.co/lbVKbmVhNj"
+            },
+            {
+              "display_url": "pic.x.com/910Cue48AC",
+              "end": 187,
+              "expanded_url": "https://x.com/lucas_faster/status/2038594321633677471/photo/1",
+              "media_key": "3_2038594221838569472",
+              "start": 164,
+              "url": "https://t.co/910Cue48AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038594321633677471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 10426,
+          "like_count": 74,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "给大家分享一个 Twitter 涨粉小技巧\n\n能把你的关注转化率提升 50% 到 200%\n\n不管你是在网站、Bot、签名、文章里，还是在私信别人时，都可以直接用\n\n分享个人推特的时候，不要分享默认个人资料页面对应的 URL\n\n尽量分享 https://t.co/lbVKbmVhNj 这个链接，直接把「关注」动作塞到用户眼前 https://t.co/910Cue48AC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 785,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 562
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-08T13:21:07.000Z",
+        "description": "👑 Founder @faster100x @hyperx_trade @derouter_net\n🫧 华语区最受欢迎的 MEME 气泡图 & Hyperliquid 跟单终端\n🧐 深度关注 AI & Crypto、产品经理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "faster100x"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "hyperx_trade"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "derouter_net"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "derouter.ai",
+                "end": 23,
+                "expanded_url": "https://derouter.ai/",
+                "start": 0,
+                "url": "https://t.co/KL8x1YxQJX"
+              }
+            ]
+          }
+        },
+        "id": "1810303059215671296",
+        "location": "采购 Claude API ➡️",
+        "name": "Lucas 会搞钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864999986678870016/ESI0YA_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7191,
+          "following_count": 1260,
+          "like_count": 1415,
+          "listed_count": 147,
+          "media_count": 292,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/KL8x1YxQJX",
+        "username": "lucas_faster",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040118170246369349",
+    "created_at": "2026-04-04T05:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040299795986915424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1248313050169565189",
+          "start": 0,
+          "username": "sucubohaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040299795986915424",
+    "in_reply_to_user_id": "1248313050169565189",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040290616568074731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sucubohaha 😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040118170246369349",
+        "created_at": "2026-04-04T05:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040299795986915424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1248313050169565189",
+              "start": 0,
+              "username": "sucubohaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040299795986915424",
+        "in_reply_to_user_id": "1248313050169565189",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040290616568074731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sucubohaha 😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248313050169565189",
+        "conversation_id": "2040118170246369349",
+        "created_at": "2026-04-04T04:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040290616568074731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040290616568074731",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040118170246369349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 碧蓝航线玩家发言：你怎么才有.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 848,
+          "like_count": 870,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 741
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-09T18:13:24.000Z",
+        "description": "港区指挥官/当你失落沮丧时，不要忘记你的“做饭好吃、温柔贤惠、胸大”的esfj邻家阿姨会永远为你敞开怀抱/港区🦐头指挥官/https://t.co/sb8lSQRPAc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sucubohaha",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sucubohaha",
+                "start": 61,
+                "url": "https://t.co/sb8lSQRPAc"
+              }
+            ]
+          }
+        },
+        "id": "1248313050169565189",
+        "location": "Mexico",
+        "name": "海の向こうの熟女おばさん♡服阿姨",
+        "pinned_tweet_id": "1806733936497742287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781918520772829184/0TIIFy0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16292,
+          "following_count": 4724,
+          "like_count": 472294,
+          "listed_count": 90,
+          "media_count": 24692,
+          "tweet_count": 105213
+        },
+        "username": "sucubohaha",
+        "verified": false
+      }
+    ]
+  }
+}

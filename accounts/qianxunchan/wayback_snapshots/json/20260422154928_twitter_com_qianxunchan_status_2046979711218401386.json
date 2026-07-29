@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046979659964002307"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2046979711218401386",
+    "created_at": "2026-04-22T15:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046979711218401386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "要不要告诉他我能看出来, 视频播放量 467180、弹幕量 118、点赞数 8200、投硬币枚数 60、收藏人数 1377、转发人数 5337, 视频作者 男科李航, 作者简介 ，相关视频：你身边有天选男娘圣体吗，成年人的阴茎多短，是需要做治疗呢，怎么一眼识别小男生？，其实很多女生，也喜欢手淫，一根手指就塞满了？，一不小心进对方嘴里，小孩到这个年纪丁丁小，不要再等了，同房进不去？你可能捡着宝了，太小切包皮，长大后发现太短了，阴茎的发育会持续到多少岁？",
+          "display_url": "b23.tv/h1UdWRM",
+          "end": 49,
+          "expanded_url": "https://b23.tv/h1UdWRM",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2046979723268698112/fke8BALw?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2046979723268698112/fke8BALw?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "要不要告诉他我能看出来_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1UdXZByEmm/?-Arouter=story&buvid=Y94DDE99AA18328F4E9FBBD89BDB6C0C075C&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=0C9E587F-B9A1-484B-84E4-36E5D087D1AC&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1776872873&unique_k=h1UdWRM&up_id=3546856856488925",
+          "url": "https://t.co/eMGZtGMSTJ"
+        },
+        {
+          "display_url": "pic.x.com/GriOoOeb99",
+          "end": 73,
+          "expanded_url": "https://x.com/qianxunchan/status/2046979711218401386/video/1",
+          "media_key": "13_2046979659964002307",
+          "start": 50,
+          "url": "https://t.co/GriOoOeb99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046979711218401386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就算你们不脱裤子我也知道你们的小药娘🥺\n\n视频出处：https://t.co/eMGZtGMSTJ https://t.co/GriOoOeb99"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24233,
+        "height": 1280,
+        "media_key": "13_2046979659964002307",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046979659964002307/img/Bj3pwIv08nzaTFDk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046979659964002307/vid/avc1/320x568/df77YHnxyJ3g-adT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046979659964002307/vid/avc1/480x852/C89oK6D0moAVWBvE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046979659964002307/vid/avc1/720x1280/sYWX81xkngcz8zHn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046979659964002307/pl/L7yd3oVIuP04a8dU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046979659964002307"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2046979711218401386",
+        "created_at": "2026-04-22T15:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046979711218401386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "要不要告诉他我能看出来, 视频播放量 467180、弹幕量 118、点赞数 8200、投硬币枚数 60、收藏人数 1377、转发人数 5337, 视频作者 男科李航, 作者简介 ，相关视频：你身边有天选男娘圣体吗，成年人的阴茎多短，是需要做治疗呢，怎么一眼识别小男生？，其实很多女生，也喜欢手淫，一根手指就塞满了？，一不小心进对方嘴里，小孩到这个年纪丁丁小，不要再等了，同房进不去？你可能捡着宝了，太小切包皮，长大后发现太短了，阴茎的发育会持续到多少岁？",
+              "display_url": "b23.tv/h1UdWRM",
+              "end": 49,
+              "expanded_url": "https://b23.tv/h1UdWRM",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2046979723268698112/fke8BALw?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2046979723268698112/fke8BALw?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "要不要告诉他我能看出来_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1UdXZByEmm/?-Arouter=story&buvid=Y94DDE99AA18328F4E9FBBD89BDB6C0C075C&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=0C9E587F-B9A1-484B-84E4-36E5D087D1AC&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1776872873&unique_k=h1UdWRM&up_id=3546856856488925",
+              "url": "https://t.co/eMGZtGMSTJ"
+            },
+            {
+              "display_url": "pic.x.com/GriOoOeb99",
+              "end": 73,
+              "expanded_url": "https://x.com/qianxunchan/status/2046979711218401386/video/1",
+              "media_key": "13_2046979659964002307",
+              "start": 50,
+              "url": "https://t.co/GriOoOeb99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046979711218401386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算你们不脱裤子我也知道你们的小药娘🥺\n\n视频出处：https://t.co/eMGZtGMSTJ https://t.co/GriOoOeb99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 940,
+          "like_count": 1956,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

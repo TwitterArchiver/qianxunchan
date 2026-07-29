@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2037283725659209867",
+    "created_at": "2026-03-26T22:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037300820216369220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029557849337253888",
+          "start": 0,
+          "username": "AsianBodyQueen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037300820216369220",
+    "in_reply_to_user_id": "2029557849337253888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037300061768658958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsianBodyQueen idk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2037283725659209867",
+        "created_at": "2026-03-26T22:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037300820216369220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029557849337253888",
+              "start": 0,
+              "username": "AsianBodyQueen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037300820216369220",
+        "in_reply_to_user_id": "2029557849337253888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037300061768658958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsianBodyQueen idk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029557849337253888",
+        "conversation_id": "2037283725659209867",
+        "created_at": "2026-03-26T22:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037300061768658958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037300061768658958",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037283725659209867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 怎么做到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 685,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 402
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T14:02:38.000Z",
+        "description": "00后小女子一枚～幽默｜搞钱｜爱自由｜爱美女｜看世界繁华｜品人间百态",
+        "id": "2029557849337253888",
+        "name": "Archy",
+        "pinned_tweet_id": "2035595548246643123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030649938124963840/EScA6ws5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 1208,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1606
+        },
+        "username": "AsianBodyQueen",
+        "verified": true
+      }
+    ]
+  }
+}

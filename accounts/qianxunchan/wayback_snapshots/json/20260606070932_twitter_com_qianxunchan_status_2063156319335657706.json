@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063156313081954304"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2063156319335657706",
+    "created_at": "2026-06-06T07:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063156319335657706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w6srJ49YoP",
+          "end": 101,
+          "expanded_url": "https://x.com/qianxunchan/status/2063156319335657706/photo/1",
+          "media_key": "3_2063156313081954304",
+          "start": 78,
+          "url": "https://t.co/w6srJ49YoP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063156319335657706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一个19岁跨性别女性喝下1/3瓶2.8度啤酒后的反应：\n面部潮红发胀，神志不清，心跳加速🥵\n伴随着强烈困意和不适🫪\n该患者最后选择休息一晚并观察状态😣 https://t.co/w6srJ49YoP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063156313081954304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHNvFVawAAhmxU.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063156313081954304"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2063156319335657706",
+        "created_at": "2026-06-06T07:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063156319335657706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6srJ49YoP",
+              "end": 101,
+              "expanded_url": "https://x.com/qianxunchan/status/2063156319335657706/photo/1",
+              "media_key": "3_2063156313081954304",
+              "start": 78,
+              "url": "https://t.co/w6srJ49YoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063156319335657706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个19岁跨性别女性喝下1/3瓶2.8度啤酒后的反应：\n面部潮红发胀，神志不清，心跳加速🥵\n伴随着强烈困意和不适🫪\n该患者最后选择休息一晚并观察状态😣 https://t.co/w6srJ49YoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1134,
+          "like_count": 5220,
+          "listed_count": 9,
+          "media_count": 756,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

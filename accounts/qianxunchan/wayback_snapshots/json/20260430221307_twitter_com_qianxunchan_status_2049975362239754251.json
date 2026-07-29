@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Francisco",
+          "id": "908354585005146113",
+          "name": "San Francisco"
+        }
+      }
+    ],
+    "conversation_id": "2049975362239754251",
+    "created_at": "2026-04-30T22:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049975362239754251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stanleyroberts…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/stanleyroberts/status/2049932949068685485",
+          "start": 23,
+          "url": "https://t.co/EPti4iHPJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049975362239754251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049932949068685485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旧金山可以玩植物大战僵尸了吗？\n有点意思😅😅 https://t.co/EPti4iHPJx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 239633,
+        "height": 1280,
+        "media_key": "13_2049890306167054336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049890306167054336/img/uvJT4cGjHpfJROON.jpg",
+        "public_metrics": {
+          "view_count": 262632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049890306167054336/vid/avc1/320x432/29xqezET8pm4gHyM.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049890306167054336/pl/iK59YqwTSi8JYkmC.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049890306167054336/vid/avc1/948x1280/cBBb7z2t86i99692.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049890306167054336/vid/avc1/720x972/ZbdsH2UbW4xIFyRH.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049890306167054336/vid/avc1/480x648/p3uVGvx7YMGUe8sH.mp4?tag=27"
+          }
+        ],
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2049975362239754251",
+        "created_at": "2026-04-30T22:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049975362239754251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stanleyroberts…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/stanleyroberts/status/2049932949068685485",
+              "start": 23,
+              "url": "https://t.co/EPti4iHPJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049975362239754251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049932949068685485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旧金山可以玩植物大战僵尸了吗？\n有点意思😅😅 https://t.co/EPti4iHPJx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049890306167054336"
+          ],
+          "media_source_tweet_id": [
+            "2049890526196023474"
+          ]
+        },
+        "author_id": "90895400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2049932949068685485",
+        "created_at": "2026-04-30T19:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049932949068685485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J9IpfKdSx",
+              "end": 49,
+              "expanded_url": "https://x.com/war24182236/status/2049890526196023474/video/1",
+              "media_key": "13_2049890306167054336",
+              "start": 26,
+              "url": "https://t.co/3J9IpfKdSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049932949068685485",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4414,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "106° in San Francisco???  https://t.co/3J9IpfKdSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 1057,
+          "like_count": 2575,
+          "listed_count": 5,
+          "media_count": 534,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-18T15:46:10.000Z",
+        "description": "Stanley Roberts produces “A Bay Area TV Segment no one wants to be seen on” according to @SFGate. People Behaving Badly on @KRON4news.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 89,
+                "username": "SFGate"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "KRON4news"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/stanleyroberts…",
+                "end": 23,
+                "expanded_url": "https://link.me/stanleyrobertstv",
+                "start": 0,
+                "url": "https://t.co/27Jksc5mcO"
+              }
+            ]
+          }
+        },
+        "id": "90895400",
+        "location": "37.7749° N, 122.4194° W 🌊🦀",
+        "name": "Stanley Roberts 📺🎥",
+        "pinned_tweet_id": "2028884727898460417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915078274713264128/ahn6OhhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41343,
+          "following_count": 3728,
+          "like_count": 147332,
+          "listed_count": 295,
+          "media_count": 20966,
+          "tweet_count": 69601
+        },
+        "url": "https://t.co/27Jksc5mcO",
+        "username": "StanleyRoberts",
+        "verified": true
+      }
+    ]
+  }
+}

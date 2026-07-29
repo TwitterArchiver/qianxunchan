@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2042927898076844296",
+    "created_at": "2026-04-11T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042960906578276725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 21,
+          "id": "1946982675417538560",
+          "start": 11,
+          "username": "fukui_p26"
+        },
+        {
+          "end": 36,
+          "id": "1973800844123680768",
+          "start": 22,
+          "username": "StrParfait123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042960906578276725",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042927898076844296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @fukui_p26 @StrParfait123 i have told you！😁😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2042927882012626949",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnwFbUakAU4O9C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2042927898076844296",
+        "created_at": "2026-04-11T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042960906578276725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 21,
+              "id": "1946982675417538560",
+              "start": 11,
+              "username": "fukui_p26"
+            },
+            {
+              "end": 36,
+              "id": "1973800844123680768",
+              "start": 22,
+              "username": "StrParfait123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042960906578276725",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042927898076844296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @fukui_p26 @StrParfait123 i have told you！😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042927882012626949"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042927898076844296",
+        "created_at": "2026-04-11T11:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042927898076844296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1946982675417538560",
+              "start": 23,
+              "username": "fukui_p26"
+            },
+            {
+              "end": 48,
+              "id": "1973800844123680768",
+              "start": 34,
+              "username": "StrParfait123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goaD1qmJOH",
+              "end": 72,
+              "expanded_url": "https://x.com/smiroyama/status/2042927898076844296/photo/1",
+              "media_key": "3_2042927882012626949",
+              "start": 49,
+              "url": "https://t.co/goaD1qmJOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042927898076844296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "My birthday party with @fukui_p26 @StrParfait123 https://t.co/goaD1qmJOH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 891,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1152
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 1830,
+          "like_count": 7367,
+          "listed_count": 2,
+          "media_count": 981,
+          "tweet_count": 4549
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T17:17:21.000Z",
+        "description": "🏳️‍⚧️ 🐱 | INFJ | Undergraduate | Developer | Minecraft/PJSK | Friend: @smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ResetPower26",
+                "end": 23,
+                "expanded_url": "https://github.com/ResetPower26",
+                "start": 0,
+                "url": "https://t.co/NY3SbjGFcB"
+              }
+            ]
+          }
+        },
+        "id": "1946982675417538560",
+        "location": "Shenzhen",
+        "name": "复位的电源🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953516538507800577/MFIF5rPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 90,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/NY3SbjGFcB",
+        "username": "fukui_p26",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T17:24:12.000Z",
+        "description": "大家好呀，草莓芭菲desu！ お願いします！ 请多关照！ 大男娘一枚，爱好是cosplay",
+        "id": "1973800844123680768",
+        "name": "草莓芭菲🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973801318247706624/O89tTYCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 10,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "StrParfait123",
+        "verified": false
+      }
+    ]
+  }
+}

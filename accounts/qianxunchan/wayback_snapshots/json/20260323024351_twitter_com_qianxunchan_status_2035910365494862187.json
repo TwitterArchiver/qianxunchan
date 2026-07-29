@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2035732227829477399",
+    "created_at": "2026-03-23T02:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035910365494862187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2824130893",
+          "start": 0,
+          "username": "bugbug713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035910365494862187",
+    "in_reply_to_user_id": "2824130893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035732227829477399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bugbug713 这个要500蓝v关注才行不是粉丝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 73,
+        "media_key": "3_2035732082039664640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBfivfXMAA1uum.png",
+        "width": 553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2035732227829477399",
+        "created_at": "2026-03-23T02:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035910365494862187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2824130893",
+              "start": 0,
+              "username": "bugbug713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035910365494862187",
+        "in_reply_to_user_id": "2824130893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035732227829477399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bugbug713 这个要500蓝v关注才行不是粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035732082039664640"
+          ]
+        },
+        "author_id": "2824130893",
+        "conversation_id": "2035732227829477399",
+        "created_at": "2026-03-22T14:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035732227829477399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "蓝v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HaENr5ZUx",
+              "end": 56,
+              "expanded_url": "https://x.com/bugbug713/status/2035732227829477399/photo/1",
+              "media_key": "3_2035732082039664640",
+              "start": 33,
+              "url": "https://t.co/1HaENr5ZUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035732227829477399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还差十几个兄弟姐妹就能突破小成境界了，借我一点力，行不行？#蓝v https://t.co/1HaENr5ZUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 211,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 300
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-21T11:52:48.000Z",
+        "description": "一双拖鞋闯世界。",
+        "id": "2824130893",
+        "location": "Hong Kong",
+        "name": "拖鞋哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541796435741802496/ltabjI-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 659,
+          "like_count": 167,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 310
+        },
+        "username": "bugbug713",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2045304535653175598",
+    "created_at": "2026-04-18T06:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045388889989546171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "183169290",
+          "start": 0,
+          "username": "ling0322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045388889989546171",
+    "in_reply_to_user_id": "183169290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045304535653175598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling0322 PayPal debit card 5% 一个月1000消费才有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2045304535653175598",
+        "created_at": "2026-04-18T06:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045388889989546171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "183169290",
+              "start": 0,
+              "username": "ling0322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045388889989546171",
+        "in_reply_to_user_id": "183169290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045304535653175598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling0322 PayPal debit card 5% 一个月1000消费才有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "183169290",
+        "conversation_id": "2045304535653175598",
+        "created_at": "2026-04-18T00:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045304535653175598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045304535653175598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1786,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在美国买东西还是得用信用卡，遇到事情还可以让信用卡公司帮你dispute（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 924,
+          "like_count": 1691,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 1412
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-26T09:27:33.000Z",
+        "description": "LOVE~远子学姐/数学学沫/手残党/喵~/卖萌能力似乎下降了/NLP/Python/C++/战斗力只有5",
+        "id": "183169290",
+        "location": "Redmond, WA",
+        "name": "要优雅不要污的零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358377317282680835/wS3aSLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 2171,
+          "like_count": 3571,
+          "listed_count": 55,
+          "media_count": 547,
+          "tweet_count": 31051
+        },
+        "username": "ling0322",
+        "verified": false
+      }
+    ]
+  }
+}

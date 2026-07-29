@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071819717602599212",
+    "created_at": "2026-06-30T18:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072019079880134861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        },
+        {
+          "end": 19,
+          "id": "843634529436815360",
+          "start": 12,
+          "username": "Sii4Bz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072019079880134861",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071840308497875100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 @Sii4Bz 长大之后会勃起，会撕裂伤口😭😭🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071819717602599212",
+        "created_at": "2026-06-30T18:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072019079880134861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            },
+            {
+              "end": 19,
+              "id": "843634529436815360",
+              "start": 12,
+              "username": "Sii4Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072019079880134861",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071840308497875100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 @Sii4Bz 长大之后会勃起，会撕裂伤口😭😭🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012843367982628864",
+        "conversation_id": "2071819717602599212",
+        "created_at": "2026-06-30T06:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071840308497875100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "843634529436815360",
+              "start": 0,
+              "username": "Sii4Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071840308497875100",
+        "in_reply_to_user_id": "843634529436815360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4563,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071839479225266607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sii4Bz 可怜的娃儿，这么小承受这些😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 1167,
+          "like_count": 6926,
+          "listed_count": 10,
+          "media_count": 841,
+          "tweet_count": 2972
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "A simple account that posts only interesting content.",
+        "id": "2012843367982628864",
+        "name": "老季",
+        "pinned_tweet_id": "2057366163508650237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044687987460485120/NTtGh8Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14658,
+          "following_count": 960,
+          "like_count": 12311,
+          "listed_count": 29,
+          "media_count": 964,
+          "tweet_count": 6245
+        },
+        "url": "",
+        "username": "XiaoJi0403",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-20T01:25:20.000Z",
+        "description": "看圖說話| 拒絕無聊人生| 心存善念但嘴貧| 來互動啊｜路过的推友点个关注呗",
+        "id": "843634529436815360",
+        "location": "Hawaii",
+        "name": "王郡",
+        "pinned_tweet_id": "2071753879151337939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462682352732172289/3KxgYVMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 2947,
+          "like_count": 14995,
+          "listed_count": 13,
+          "media_count": 665,
+          "tweet_count": 11726
+        },
+        "url": "",
+        "username": "Sii4Bz",
+        "verified": true
+      }
+    ]
+  }
+}

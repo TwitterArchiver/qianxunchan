@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2066973438242386351",
+    "created_at": "2026-06-17T03:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067092706560794999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515451257892315153",
+          "start": 0,
+          "username": "HappierZeen"
+        },
+        {
+          "end": 24,
+          "id": "732062385695940609",
+          "start": 13,
+          "username": "Takaranoao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067092706560794999",
+    "in_reply_to_user_id": "1515451257892315153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067092223238492565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappierZeen @Takaranoao ？我寻思我被骂了哭哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2066973438242386351",
+        "created_at": "2026-06-17T03:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067092706560794999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515451257892315153",
+              "start": 0,
+              "username": "HappierZeen"
+            },
+            {
+              "end": 24,
+              "id": "732062385695940609",
+              "start": 13,
+              "username": "Takaranoao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067092706560794999",
+        "in_reply_to_user_id": "1515451257892315153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067092223238492565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappierZeen @Takaranoao ？我寻思我被骂了哭哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515451257892315153",
+        "conversation_id": "2066973438242386351",
+        "created_at": "2026-06-17T03:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067092223238492565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "732062385695940609",
+              "start": 0,
+              "username": "Takaranoao"
+            },
+            {
+              "end": 24,
+              "id": "1758508742780567552",
+              "start": 12,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067092223238492565",
+        "in_reply_to_user_id": "732062385695940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067092136991064499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takaranoao @qianxunchan 好糟糕的台词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 1137,
+          "like_count": 6108,
+          "listed_count": 9,
+          "media_count": 791,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T22:05:24.000Z",
+        "description": "ENTP🏳️‍⚧️｜EdTech Industry｜免费给酷儿做留学/移民申请咨询 (约30min-1h call) | 酷儿艺术家 |",
+        "id": "1515451257892315153",
+        "location": "San Francisco, CA",
+        "name": "Zeen🏳️‍⚧️（queer互fo",
+        "pinned_tweet_id": "1952305468774445198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914626502123274241/yPzpTn8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 857,
+          "like_count": 1125,
+          "listed_count": 8,
+          "media_count": 134,
+          "tweet_count": 825
+        },
+        "username": "HappierZeen",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-16T04:17:28.000Z",
+        "description": "国家级退堂鼓大湿🥁/老要凉🏳️‍⚧️/jvav中级糕手☕️/全沾工程师💩/ display:none🥬/计蒜鸽学爱好者🕊️/赛博臭要饭的🐱/日本語本当锤子🔨/乌蒙吃🐻",
+        "id": "732062385695940609",
+        "name": "宝蓝 🐺 @发电bot",
+        "pinned_tweet_id": "1014288784874065922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391300852204269574/w0mDSk-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3794,
+          "following_count": 585,
+          "like_count": 11283,
+          "listed_count": 15,
+          "media_count": 103,
+          "tweet_count": 1405
+        },
+        "username": "Takaranoao",
+        "verified": true
+      }
+    ]
+  }
+}

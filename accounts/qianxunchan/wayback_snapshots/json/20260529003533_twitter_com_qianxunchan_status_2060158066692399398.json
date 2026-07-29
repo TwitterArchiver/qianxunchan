@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2060051400244248601",
+    "created_at": "2026-05-29T00:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060158066692399398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999059927650930688",
+          "start": 0,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060158066692399398",
+    "in_reply_to_user_id": "1999059927650930688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060051400244248601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightSTAR_qwq hi！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060051396830068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbF1K8agAA_jiZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060051397253726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbF1MhbAAAxwCO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060051397123694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbF1MCa4AAMkH2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060051400244248601",
+        "created_at": "2026-05-29T00:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060158066692399398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999059927650930688",
+              "start": 0,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060158066692399398",
+        "in_reply_to_user_id": "1999059927650930688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060051400244248601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightSTAR_qwq hi！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060051396830068736",
+            "3_2060051397253726208",
+            "3_2060051397123694592"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2060051400244248601",
+        "created_at": "2026-05-28T17:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060051400244248601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyANdzVzs7",
+              "end": 33,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2060051400244248601/photo/1",
+              "media_key": "3_2060051396830068736",
+              "start": 10,
+              "url": "https://t.co/WyANdzVzs7"
+            },
+            {
+              "display_url": "pic.x.com/WyANdzVzs7",
+              "end": 33,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2060051400244248601/photo/1",
+              "media_key": "3_2060051397253726208",
+              "start": 10,
+              "url": "https://t.co/WyANdzVzs7"
+            },
+            {
+              "display_url": "pic.x.com/WyANdzVzs7",
+              "end": 33,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2060051400244248601/photo/1",
+              "media_key": "3_2060051397123694592",
+              "start": 10,
+              "url": "https://t.co/WyANdzVzs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060051400244248601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 895,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一个人在家就这样 https://t.co/WyANdzVzs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1143,
+          "like_count": 4378,
+          "listed_count": 9,
+          "media_count": 711,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 中重度抑郁 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 | 同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs8165"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "location": "广东",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 203,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/ghmbUs8165",
+        "username": "LightSTAR_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

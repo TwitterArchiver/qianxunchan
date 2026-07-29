@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027807665657942016"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027807668749144459",
+    "created_at": "2026-02-28T18:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027807668749144459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyc56YNaqe",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2027807668749144459/photo/1",
+          "media_key": "3_2027807665657942016",
+          "start": 22,
+          "url": "https://t.co/nyc56YNaqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027807668749144459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸又发力了，天天搞一些奇奇怪怪的吃食给我 https://t.co/nyc56YNaqe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2027807665657942016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQ4VABbEAA6bNr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027807665657942016"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027807668749144459",
+        "created_at": "2026-02-28T18:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027807668749144459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyc56YNaqe",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2027807668749144459/photo/1",
+              "media_key": "3_2027807665657942016",
+              "start": 22,
+              "url": "https://t.co/nyc56YNaqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027807668749144459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸又发力了，天天搞一些奇奇怪怪的吃食给我 https://t.co/nyc56YNaqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "是一只不大聪明笨蛋，体重:58kg，身高180 笨蛋现在18岁了喵，中国的家在江門哦，我现在在旧金山还没回国哦，喵喵喵，爱好:漫展，骑车，户外，刷机",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 107,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 99
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

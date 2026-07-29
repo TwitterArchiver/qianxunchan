@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2071834165956268059",
+    "created_at": "2026-07-01T05:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072187057393283520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038122802511790080",
+          "start": 0,
+          "username": "Mnexkupaint933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072187057393283520",
+    "in_reply_to_user_id": "2038122802511790080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我以为他是 cyc 的员工所以我信任他，结果背刺我，因为他看过我 id 在录入信息时候😭他就知道我是 mtf😭我也没有纠结于交错性别，他得寸进尺😖我真的很无语，现在苦恼于没有证据不能向 cyc 举报，而且加州在 lgbt 这块特别友好导致 cyc 也跟进包容各种群体，毕竟他是非盈利组织，所以其实我真的搬家后就可以忘记他们了，"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071960070368465167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnexkupaint933 我以为他是 cyc 的员工所以我信任他，结果背刺我，因为他看过我 id 在录入信息时候😭他就知道我是 mtf😭我也没有纠结于交错性别，他得寸进尺😖我真的很无语，现在苦恼于没有证据不能向 cyc 举报，而且加州在 lgbt 这块特别友好导致 cyc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2071834165956268059",
+        "created_at": "2026-07-01T05:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072187057393283520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038122802511790080",
+              "start": 0,
+              "username": "Mnexkupaint933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072187057393283520",
+        "in_reply_to_user_id": "2038122802511790080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我以为他是 cyc 的员工所以我信任他，结果背刺我，因为他看过我 id 在录入信息时候😭他就知道我是 mtf😭我也没有纠结于交错性别，他得寸进尺😖我真的很无语，现在苦恼于没有证据不能向 cyc 举报，而且加州在 lgbt 这块特别友好导致 cyc 也跟进包容各种群体，毕竟他是非盈利组织，所以其实我真的搬家后就可以忘记他们了，"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071960070368465167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnexkupaint933 我以为他是 cyc 的员工所以我信任他，结果背刺我，因为他看过我 id 在录入信息时候😭他就知道我是 mtf😭我也没有纠结于交错性别，他得寸进尺😖我真的很无语，现在苦恼于没有证据不能向 cyc 举报，而且加州在 lgbt 这块特别友好导致 cyc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038122802511790080",
+        "conversation_id": "2071834165956268059",
+        "created_at": "2026-06-30T14:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071960070368465167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071960070368465167",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071834165956268059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 其实就是一群带有恶意的人们...做好可爱的自己就可以\n选择了mtf，注定会受到一些傻逼们的歧视\n平常在现实里还是尽量隐藏自己的mtf身份为好..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 1169,
+          "like_count": 7027,
+          "listed_count": 9,
+          "media_count": 846,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T05:15:32.000Z",
+        "description": "我讨厌被监视💔\n大号是正常人格，\n这个号更多的是我的负面状态\n活不下去了就去死\n账号会定期设为私密",
+        "id": "2038122802511790080",
+        "name": "Mnspexuakuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122924226625536/uKq-mJun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Mnexkupaint933",
+        "verified": false
+      }
+    ]
+  }
+}

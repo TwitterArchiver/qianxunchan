@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2048927203396919550",
+    "created_at": "2026-04-28T21:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049244865243062513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752967634726064128",
+          "start": 0,
+          "username": "zhngdu248060122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049244865243062513",
+    "in_reply_to_user_id": "1752967634726064128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048927203396919550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngdu248060122 想吃😋广东菜….."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2048927192705581056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9AbRPawAAEPbF.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2048927203396919550",
+        "created_at": "2026-04-28T21:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049244865243062513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752967634726064128",
+              "start": 0,
+              "username": "zhngdu248060122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049244865243062513",
+        "in_reply_to_user_id": "1752967634726064128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048927203396919550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngdu248060122 想吃😋广东菜….."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048927192705581056"
+          ]
+        },
+        "author_id": "1752967634726064128",
+        "conversation_id": "2048927203396919550",
+        "created_at": "2026-04-28T00:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048927203396919550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLn3GOU8kX",
+              "end": 39,
+              "expanded_url": "https://x.com/zhngdu248060122/status/2048927203396919550/photo/1",
+              "media_key": "3_2048927192705581056",
+              "start": 16,
+              "url": "https://t.co/xLn3GOU8kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048927203396919550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 232002,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 88,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我国唯一以菜命名的城市是哪个？ https://t.co/xLn3GOU8kX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 1049,
+          "like_count": 2298,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-01T08:10:48.000Z",
+        "description": "",
+        "id": "1752967634726064128",
+        "name": "阿文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753012265522278400/8sjLiGGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7819,
+          "following_count": 5726,
+          "like_count": 7945,
+          "listed_count": 10,
+          "media_count": 2991,
+          "tweet_count": 9857
+        },
+        "username": "zhngdu248060122",
+        "verified": false
+      }
+    ]
+  }
+}

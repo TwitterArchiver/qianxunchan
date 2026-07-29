@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034183707708346714",
+    "created_at": "2026-03-18T18:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034335580788854931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3038913713",
+          "start": 0,
+          "username": "snake4y5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034335580788854931",
+    "in_reply_to_user_id": "3038913713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034183707708346714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake4y5h 祝您成功！10w赌钱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2034183702427930626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrfTL8bEAInvpl.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034183707708346714",
+        "created_at": "2026-03-18T18:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034335580788854931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3038913713",
+              "start": 0,
+              "username": "snake4y5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034335580788854931",
+        "in_reply_to_user_id": "3038913713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034183707708346714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake4y5h 祝您成功！10w赌钱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034183702427930626"
+          ]
+        },
+        "author_id": "3038913713",
+        "conversation_id": "2034183707708346714",
+        "created_at": "2026-03-18T08:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034183707708346714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/quv5dhCXwY",
+              "end": 41,
+              "expanded_url": "https://x.com/snake4y5h/status/2034183707708346714/photo/1",
+              "media_key": "3_2034183702427930626",
+              "start": 18,
+              "url": "https://t.co/quv5dhCXwY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "75f5a403163f6f95"
+        },
+        "id": "2034183707708346714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1402,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "H1B大乐透交了，祝我好运啊啊啊啊 https://t.co/quv5dhCXwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/          年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 122,
+          "like_count": 665,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 176
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-15T12:44:07.000Z",
+        "description": "𝘈𝘭𝘮𝘰𝘴𝘵 𝘏𝘢𝘳𝘮𝘭𝘦𝘴𝘴 ほとんど無害，一只想要长出兽耳的男孩子的碎碎念； \nCN/EN，不幸转码，在美东全栈搬砖\nENFP，作编曲苦手中。 A Musician taking a detour to the Comp-Sci industry",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/snake-amadeus",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/snake-amadeus",
+                "start": 0,
+                "url": "https://t.co/rQZ0Fz61im"
+              }
+            ]
+          }
+        },
+        "id": "3038913713",
+        "location": "Baltimore, MD",
+        "name": "Snake",
+        "pinned_tweet_id": "1713810199318778175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377202846911787018/JlZ34gFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 830,
+          "like_count": 24258,
+          "listed_count": 15,
+          "media_count": 2365,
+          "tweet_count": 9523
+        },
+        "url": "https://t.co/rQZ0Fz61im",
+        "username": "snake4y5h",
+        "verified": false
+      }
+    ]
+  }
+}

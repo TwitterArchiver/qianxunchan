@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048686176052387840"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2048686178556383277",
+    "created_at": "2026-04-27T08:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048686178556383277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFSCXBtj6b",
+          "end": 81,
+          "expanded_url": "https://x.com/qianxunchan/status/2048686178556383277/photo/1",
+          "media_key": "3_2048686176052387840",
+          "start": 58,
+          "url": "https://t.co/sFSCXBtj6b"
+        },
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/hsn8086/status/2048673300780597370",
+          "start": 82,
+          "url": "https://t.co/MjIXFKySi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048686178556383277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048673300780597370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么多评论都好精彩啊😆😆\n也没有万达附近的😂😂😂\n现在已经被机器人淹没了🥹吓死人了😅\n推特能不能管管这些机器人啊😅 https://t.co/sFSCXBtj6b https://t.co/MjIXFKySi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2048686176052387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5lOQPbIAAmT3Z.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2048673268941664256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5Ze9gbMAAFouI.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048686176052387840"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2048686178556383277",
+        "created_at": "2026-04-27T08:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048686178556383277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFSCXBtj6b",
+              "end": 81,
+              "expanded_url": "https://x.com/qianxunchan/status/2048686178556383277/photo/1",
+              "media_key": "3_2048686176052387840",
+              "start": 58,
+              "url": "https://t.co/sFSCXBtj6b"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/hsn8086/status/2048673300780597370",
+              "start": 82,
+              "url": "https://t.co/MjIXFKySi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048686178556383277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048673300780597370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么多评论都好精彩啊😆😆\n也没有万达附近的😂😂😂\n现在已经被机器人淹没了🥹吓死人了😅\n推特能不能管管这些机器人啊😅 https://t.co/sFSCXBtj6b https://t.co/MjIXFKySi7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048673268941664256"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2048673300780597370",
+        "created_at": "2026-04-27T07:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048673300780597370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jU9ni5JOSy",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2048673300780597370/photo/1",
+              "media_key": "3_2048673268941664256",
+              "start": 0,
+              "url": "https://t.co/jU9ni5JOSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048673300780597370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6839,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jU9ni5JOSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1029,
+          "like_count": 2221,
+          "listed_count": 5,
+          "media_count": 504,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119073,
+          "following_count": 1124,
+          "like_count": 52489,
+          "listed_count": 285,
+          "media_count": 20957,
+          "tweet_count": 31377
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

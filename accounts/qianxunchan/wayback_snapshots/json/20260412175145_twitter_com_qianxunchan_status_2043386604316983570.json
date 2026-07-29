@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043374036689022976",
+        "3_2043374042514927616",
+        "3_2043374042728820736",
+        "3_2043374044251312128"
+      ],
+      "media_source_tweet_id": [
+        "2043374047812264020",
+        "2043374047812264020",
+        "2043374047812264020",
+        "2043374047812264020"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2043386604316983570",
+    "created_at": "2026-04-12T17:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043386604316983570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Yujiudu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sZWsHPxmLl",
+          "end": 94,
+          "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+          "media_key": "3_2043374036689022976",
+          "start": 71,
+          "url": "https://t.co/sZWsHPxmLl"
+        },
+        {
+          "display_url": "pic.x.com/sZWsHPxmLl",
+          "end": 94,
+          "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+          "media_key": "3_2043374042514927616",
+          "start": 71,
+          "url": "https://t.co/sZWsHPxmLl"
+        },
+        {
+          "display_url": "pic.x.com/sZWsHPxmLl",
+          "end": 94,
+          "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+          "media_key": "3_2043374042728820736",
+          "start": 71,
+          "url": "https://t.co/sZWsHPxmLl"
+        },
+        {
+          "display_url": "pic.x.com/sZWsHPxmLl",
+          "end": 94,
+          "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+          "media_key": "3_2043374044251312128",
+          "start": 71,
+          "url": "https://t.co/sZWsHPxmLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043386604316983570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043374047812264020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yujiudu: 为什么科技越发展 我们的审美却变得越来越“土气”（与NASA宣传画做对比 如果肯尼迪航空中心变成中国风会是什么样） https://t.co/sZWsHPxmLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2043374036689022976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuF3DAa8AA3WDM.jpg",
+        "width": 1260
+      },
+      {
+        "height": 768,
+        "media_key": "3_2043374042514927616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuF3YtbMAAimjF.jpg",
+        "width": 1364
+      },
+      {
+        "height": 1342,
+        "media_key": "3_2043374042728820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuF3Zga8AAngll.jpg",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2043374044251312128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuF3fLaUAAUQz5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043374036689022976",
+            "3_2043374042514927616",
+            "3_2043374042728820736",
+            "3_2043374044251312128"
+          ],
+          "media_source_tweet_id": [
+            "2043374047812264020",
+            "2043374047812264020",
+            "2043374047812264020",
+            "2043374047812264020"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2043386604316983570",
+        "created_at": "2026-04-12T17:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043386604316983570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Yujiudu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 94,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374036689022976",
+              "start": 71,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 94,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374042514927616",
+              "start": 71,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 94,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374042728820736",
+              "start": 71,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 94,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374044251312128",
+              "start": 71,
+              "url": "https://t.co/sZWsHPxmLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043386604316983570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043374047812264020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yujiudu: 为什么科技越发展 我们的审美却变得越来越“土气”（与NASA宣传画做对比 如果肯尼迪航空中心变成中国风会是什么样） https://t.co/sZWsHPxmLl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043374036689022976",
+            "3_2043374042514927616",
+            "3_2043374042728820736",
+            "3_2043374044251312128"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2043374047812264020",
+        "created_at": "2026-04-12T17:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043374047812264020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 81,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374036689022976",
+              "start": 58,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 81,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374042514927616",
+              "start": 58,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 81,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374042728820736",
+              "start": 58,
+              "url": "https://t.co/sZWsHPxmLl"
+            },
+            {
+              "display_url": "pic.x.com/sZWsHPxmLl",
+              "end": 81,
+              "expanded_url": "https://x.com/Yujiudu/status/2043374047812264020/photo/1",
+              "media_key": "3_2043374044251312128",
+              "start": 58,
+              "url": "https://t.co/sZWsHPxmLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043374047812264020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么科技越发展 我们的审美却变得越来越“土气”（与NASA宣传画做对比 如果肯尼迪航空中心变成中国风会是什么样） https://t.co/sZWsHPxmLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 录视频 女装 wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 884,
+          "like_count": 1387,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1201
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役   政治属性社民偏左 实事求是 客观看待问题 理性爱国 欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasDVLA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 121,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 98,
+                "url": "https://t.co/vWxMasDVLA"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "pinned_tweet_id": "2040095974123851948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4702,
+          "following_count": 1852,
+          "like_count": 52216,
+          "listed_count": 9,
+          "media_count": 1280,
+          "tweet_count": 10642
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

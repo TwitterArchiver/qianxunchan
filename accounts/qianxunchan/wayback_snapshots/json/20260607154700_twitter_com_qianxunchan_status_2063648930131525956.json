@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063648926474063872",
+        "3_2063648926474113024"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2063648930131525956",
+    "created_at": "2026-06-07T15:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063648930131525956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "85741735",
+          "start": 0,
+          "username": "AmazonHelp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OLc5T616aY",
+          "end": 165,
+          "expanded_url": "https://x.com/qianxunchan/status/2063648930131525956/photo/1",
+          "media_key": "3_2063648926474063872",
+          "start": 142,
+          "url": "https://t.co/OLc5T616aY"
+        },
+        {
+          "display_url": "pic.x.com/OLc5T616aY",
+          "end": 165,
+          "expanded_url": "https://x.com/qianxunchan/status/2063648930131525956/photo/1",
+          "media_key": "3_2063648926474113024",
+          "start": 142,
+          "url": "https://t.co/OLc5T616aY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063648930131525956",
+    "in_reply_to_user_id": "85741735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "85741735",
+            "start": 0,
+            "username": "AmazonHelp"
+          }
+        ]
+      },
+      "text": "@AmazonHelp \n你看看你的物流怎么回事😡\n我买的相机镜头显示送达了\n但是我没找到快递在哪里\n就连快递员拍的图片上面都没有📦盒子\n你告诉我这叫送达了？🫪\n这是很重要的物品诶😅\n怎么可以把服务做成这样😅\n早上好不容易起床想拆镜头来用\n现在发现人醒了，镜头没有，只有一肚子的生气\n😅😅😅😅😅😅😅😅😅😅🙏"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@AmazonHelp \n你看看你的物流怎么回事😡\n我买的相机镜头显示送达了\n但是我没找到快递在哪里\n就连快递员拍的图片上面都没有📦盒子\n你告诉我这叫送达了？🫪\n这是很重要的物品诶😅\n怎么可以把服务做成这样😅\n早上好不容易起床想拆镜头来用\n现在发现人醒了，镜头没有，只有一肚子的生气 https://t.co/OLc5T616aY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2063648926474063872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKONw9OaUAAdnN6.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2063648926474113024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKONw9ObEAAC6fD.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063648926474063872",
+            "3_2063648926474113024"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2063648930131525956",
+        "created_at": "2026-06-07T15:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063648930131525956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "85741735",
+              "start": 0,
+              "username": "AmazonHelp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OLc5T616aY",
+              "end": 165,
+              "expanded_url": "https://x.com/qianxunchan/status/2063648930131525956/photo/1",
+              "media_key": "3_2063648926474063872",
+              "start": 142,
+              "url": "https://t.co/OLc5T616aY"
+            },
+            {
+              "display_url": "pic.x.com/OLc5T616aY",
+              "end": 165,
+              "expanded_url": "https://x.com/qianxunchan/status/2063648930131525956/photo/1",
+              "media_key": "3_2063648926474113024",
+              "start": 142,
+              "url": "https://t.co/OLc5T616aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063648930131525956",
+        "in_reply_to_user_id": "85741735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 11,
+                "id": "85741735",
+                "start": 0,
+                "username": "AmazonHelp"
+              }
+            ]
+          },
+          "text": "@AmazonHelp \n你看看你的物流怎么回事😡\n我买的相机镜头显示送达了\n但是我没找到快递在哪里\n就连快递员拍的图片上面都没有📦盒子\n你告诉我这叫送达了？🫪\n这是很重要的物品诶😅\n怎么可以把服务做成这样😅\n早上好不容易起床想拆镜头来用\n现在发现人醒了，镜头没有，只有一肚子的生气\n😅😅😅😅😅😅😅😅😅😅🙏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@AmazonHelp \n你看看你的物流怎么回事😡\n我买的相机镜头显示送达了\n但是我没找到快递在哪里\n就连快递员拍的图片上面都没有📦盒子\n你告诉我这叫送达了？🫪\n这是很重要的物品诶😅\n怎么可以把服务做成这样😅\n早上好不容易起床想拆镜头来用\n现在发现人醒了，镜头没有，只有一肚子的生气 https://t.co/OLc5T616aY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1139,
+          "like_count": 5461,
+          "listed_count": 9,
+          "media_count": 760,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-28T04:17:54.000Z",
+        "description": "We answer support questions in English / Deutsch / Español / Português / Français / Italiano / 日本語 / Türkçe / Nederlands / Polski / Čeština / Svenska / العربية",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/help",
+                "end": 23,
+                "expanded_url": "http://www.amazon.com/help",
+                "start": 0,
+                "url": "https://t.co/sbsHtNqVjH"
+              }
+            ]
+          }
+        },
+        "id": "85741735",
+        "name": "Amazon Help",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/900044287357747200/3y78dUZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555727,
+          "following_count": 77,
+          "like_count": 56463,
+          "listed_count": 1309,
+          "media_count": 26651,
+          "tweet_count": 13696164
+        },
+        "url": "https://t.co/sbsHtNqVjH",
+        "username": "AmazonHelp",
+        "verified": true
+      }
+    ]
+  }
+}

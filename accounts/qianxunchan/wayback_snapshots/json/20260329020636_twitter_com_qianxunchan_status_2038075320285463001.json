@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "id": "1285566417702514688",
+          "name": "Golden Gate Bridge"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194369185473691648",
+          "name": "North America travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285566417702514688",
+          "name": "Golden Gate Bridge"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308814975192821761",
+          "name": "United States of America travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Francisco",
+          "id": "908354585005146113",
+          "name": "San Francisco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+          "id": "158",
+          "name": "Points of Interest"
+        },
+        "entity": {
+          "id": "1285566417702514688",
+          "name": "Golden Gate Bridge"
+        }
+      }
+    ],
+    "conversation_id": "2038075320285463001",
+    "created_at": "2026-03-29T02:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038075320285463001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foreverphotos8…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/foreverphotos88/status/2037762745014329576",
+          "start": 31,
+          "url": "https://t.co/i1PGEjpQ7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038075320285463001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037762745014329576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这照片也太好看了吧！\n我每次去也没觉得多好看，看他们拍的很好 https://t.co/i1PGEjpQ7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2037762708213469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeWYveaEAAbbBt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194369185473691648",
+              "name": "North America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308814975192821761",
+              "name": "United States of America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          }
+        ],
+        "conversation_id": "2038075320285463001",
+        "created_at": "2026-03-29T02:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038075320285463001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foreverphotos8…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/foreverphotos88/status/2037762745014329576",
+              "start": 31,
+              "url": "https://t.co/i1PGEjpQ7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038075320285463001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037762745014329576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这照片也太好看了吧！\n我每次去也没觉得多好看，看他们拍的很好 https://t.co/i1PGEjpQ7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037762708213469184"
+          ]
+        },
+        "author_id": "1755098855043969024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194369185473691648",
+              "name": "North America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308814975192821761",
+              "name": "United States of America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1285566417702514688",
+              "name": "Golden Gate Bridge"
+            }
+          }
+        ],
+        "conversation_id": "2037762745014329576",
+        "created_at": "2026-03-28T05:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037762745014329576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GogP5fOIn3",
+              "end": 60,
+              "expanded_url": "https://x.com/ForeverPhotos88/status/2037762745014329576/photo/1",
+              "media_key": "3_2037762708213469184",
+              "start": 37,
+              "url": "https://t.co/GogP5fOIn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037762745014329576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 7156,
+          "like_count": 614,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Golden Gate Bridge, San Francisco 🇺🇸 https://t.co/GogP5fOIn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2037918621687750718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 772,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 491
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-07T05:19:27.000Z",
+        "description": "Ethereal Cities 📸 | Real locations. Real moments.",
+        "id": "1755098855043969024",
+        "location": "New York, USA",
+        "name": "Ethereal Cities",
+        "pinned_tweet_id": "2037440781804597265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008962896194359304/HCRy0rV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 7181,
+          "like_count": 13247,
+          "listed_count": 30,
+          "media_count": 4565,
+          "tweet_count": 11346
+        },
+        "username": "ForeverPhotos88",
+        "verified": true
+      }
+    ]
+  }
+}

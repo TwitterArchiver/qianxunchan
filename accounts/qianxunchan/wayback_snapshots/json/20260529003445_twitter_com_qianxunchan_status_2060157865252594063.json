@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060157860643024896"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2060025061612863894",
+    "created_at": "2026-05-29T00:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060157865252594063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nm0lRoJj1v",
+          "end": 50,
+          "expanded_url": "https://x.com/qianxunchan/status/2060157865252594063/photo/1",
+          "media_key": "3_2060157860643024896",
+          "start": 27,
+          "url": "https://t.co/Nm0lRoJj1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060157865252594063",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060025061612863894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela 我也有：国家级别的漫展哦（）🤣 https://t.co/Nm0lRoJj1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060157860643024896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcmqLjbMAA4q66.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2060025057120800770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJat3_4W0AIA7ar.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2060025057120776192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJat3_4WcAA1H2e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060157860643024896"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2060025061612863894",
+        "created_at": "2026-05-29T00:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060157865252594063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nm0lRoJj1v",
+              "end": 50,
+              "expanded_url": "https://x.com/qianxunchan/status/2060157865252594063/photo/1",
+              "media_key": "3_2060157860643024896",
+              "start": 27,
+              "url": "https://t.co/Nm0lRoJj1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060157865252594063",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025061612863894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 我也有：国家级别的漫展哦（）🤣 https://t.co/Nm0lRoJj1v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060025057120800770",
+            "3_2060025057120776192"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2060025061612863894",
+        "created_at": "2026-05-28T15:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060025061612863894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKFqt2Kmxe",
+              "end": 59,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2060025061612863894/photo/1",
+              "media_key": "3_2060025057120800770",
+              "start": 36,
+              "url": "https://t.co/rKFqt2Kmxe"
+            },
+            {
+              "display_url": "pic.x.com/rKFqt2Kmxe",
+              "end": 59,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2060025061612863894/photo/1",
+              "media_key": "3_2060025057120776192",
+              "start": 36,
+              "url": "https://t.co/rKFqt2Kmxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060025061612863894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 75858,
+          "like_count": 720,
+          "quote_count": 11,
+          "reply_count": 130,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "英语国家特有的体育馆改纯狱风考场+冰柜冻肉级别的空调+大屏幕死亡倒计时 https://t.co/rKFqt2Kmxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1142,
+          "like_count": 4377,
+          "listed_count": 9,
+          "media_count": 711,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 3781,
+          "like_count": 85460,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9641
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2049829076102418806",
+    "created_at": "2026-04-30T21:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T22:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049963506615865470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1160910034387263489",
+          "start": 0,
+          "username": "WFW12313"
+        },
+        {
+          "end": 19,
+          "id": "1185591437678661633",
+          "start": 10,
+          "username": "RezTsuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049963506615865470",
+    "in_reply_to_user_id": "1160910034387263489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049864681444295129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WFW12313 @RezTsuru belike美国的credit score 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2049829076102418806",
+        "created_at": "2026-04-30T21:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049963506615865470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1160910034387263489",
+              "start": 0,
+              "username": "WFW12313"
+            },
+            {
+              "end": 19,
+              "id": "1185591437678661633",
+              "start": 10,
+              "username": "RezTsuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049963506615865470",
+        "in_reply_to_user_id": "1160910034387263489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049864681444295129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WFW12313 @RezTsuru belike美国的credit score 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160910034387263489",
+        "conversation_id": "2049829076102418806",
+        "created_at": "2026-04-30T14:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049864681444295129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1185591437678661633",
+              "start": 0,
+              "username": "RezTsuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049864681444295129",
+        "in_reply_to_user_id": "1185591437678661633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049829076102418806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RezTsuru 欸這個東西有什麼用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/xtS5551OL2",
+                "start": 0,
+                "url": "https://t.co/qYn6RdXG1H"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 1056,
+          "like_count": 2558,
+          "listed_count": 5,
+          "media_count": 534,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/qYn6RdXG1H",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-12T13:44:55.000Z",
+        "description": "亮起的星星總有熄滅嘅一天🌟被你發現白燁了w！是一隻藍色的可愛小狗耶，可能平時憨憨的兄弟設哥哥@Yih122 小短尾w設定名字（白樺）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Yih122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1B6BVuMv…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1B6BVuMvC5/?mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/HSSKR74f2w"
+              }
+            ]
+          }
+        },
+        "id": "1160910034387263489",
+        "name": "白烨-BAiYEEEE",
+        "pinned_tweet_id": "1763171859145871817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999178234802634754/389zH2PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6279,
+          "following_count": 395,
+          "like_count": 31562,
+          "listed_count": 11,
+          "media_count": 808,
+          "tweet_count": 9764
+        },
+        "url": "https://t.co/HSSKR74f2w",
+        "username": "WFW12313",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T16:20:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tsuruyuki",
+                "end": 23,
+                "expanded_url": "https://t.me/tsuruyuki",
+                "start": 0,
+                "url": "https://t.co/SAvRaG7S8p"
+              }
+            ]
+          }
+        },
+        "id": "1185591437678661633",
+        "location": "Brisbane, Queensland",
+        "name": "hinoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744229488806985729/_bwBrsmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1325,
+          "like_count": 78133,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 5594
+        },
+        "url": "https://t.co/SAvRaG7S8p",
+        "username": "RezTsuru",
+        "verified": true
+      }
+    ]
+  }
+}

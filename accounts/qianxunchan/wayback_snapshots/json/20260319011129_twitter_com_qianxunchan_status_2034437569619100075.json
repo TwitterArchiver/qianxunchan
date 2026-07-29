@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2034227751604101269",
+    "created_at": "2026-03-19T01:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T02:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034437569619100075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1391704677591379970",
+          "start": 0,
+          "username": "fnkwhb"
+        },
+        {
+          "end": 19,
+          "id": "1224953820716945408",
+          "start": 8,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034437569619100075",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034437191041270100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnkwhb @ChingteLai 王哥你什么时候做鸭啊，我好想看到你站街当鸭！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034227751604101269",
+        "created_at": "2026-03-19T01:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034437569619100075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1391704677591379970",
+              "start": 0,
+              "username": "fnkwhb"
+            },
+            {
+              "end": 19,
+              "id": "1224953820716945408",
+              "start": 8,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034437569619100075",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034437191041270100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnkwhb @ChingteLai 王哥你什么时候做鸭啊，我好想看到你站街当鸭！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2034227751604101269",
+        "created_at": "2026-03-19T01:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034437191041270100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1391704677591379970",
+              "start": 0,
+              "username": "fnkwhb"
+            },
+            {
+              "end": 19,
+              "id": "1224953820716945408",
+              "start": 8,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034437191041270100",
+        "in_reply_to_user_id": "1391704677591379970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034309815267479723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnkwhb @ChingteLai 王哥你活的不如正常流浪汉这是真的，你收手把回国把！机票我出0.01%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄18/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 127,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 185
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-10T10:41:00.000Z",
+        "description": "I rely on panhandling to catch Chinese spies Joe Biden and Gavin.\nDonate Zelle transfer：\nzaochun837@gmail.com   Weiheng Wang",
+        "id": "1391704677591379970",
+        "location": "Santa Cruz, CA",
+        "name": "Fuck Xi jinping Biden Newsom",
+        "pinned_tweet_id": "1979771479668719939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033732464800346112/6u4-uNEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52353,
+          "following_count": 1298,
+          "like_count": 1179,
+          "listed_count": 200,
+          "media_count": 4163,
+          "tweet_count": 66099
+        },
+        "username": "fnkwhb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of the Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNhj9"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006578933672857600/tFQi7HjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477415,
+          "following_count": 4,
+          "like_count": 163,
+          "listed_count": 1337,
+          "media_count": 489,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/jlskvCNhj9",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

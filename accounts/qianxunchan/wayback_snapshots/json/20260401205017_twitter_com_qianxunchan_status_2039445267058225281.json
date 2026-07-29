@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2039323987675947321",
+    "created_at": "2026-04-01T20:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T21:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039445267058225281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1654536386098364418",
+          "start": 0,
+          "username": "Nicole_yang88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039445267058225281",
+    "in_reply_to_user_id": "1654536386098364418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039323987675947321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicole_yang88 电气工程师的终身伴侣：纸板（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039323973511729153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0iWV8a0AEHl_h.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2039323973574598656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0iWWLaIAA8a1k.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2039323987675947321",
+        "created_at": "2026-04-01T20:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039445267058225281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654536386098364418",
+              "start": 0,
+              "username": "Nicole_yang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039445267058225281",
+        "in_reply_to_user_id": "1654536386098364418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039323987675947321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole_yang88 电气工程师的终身伴侣：纸板（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039323973511729153",
+            "3_2039323973574598656"
+          ]
+        },
+        "author_id": "1654536386098364418",
+        "conversation_id": "2039323987675947321",
+        "created_at": "2026-04-01T12:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039323987675947321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eS2D73yc9k",
+              "end": 39,
+              "expanded_url": "https://x.com/Nicole_yang88/status/2039323987675947321/photo/1",
+              "media_key": "3_2039323973511729153",
+              "start": 16,
+              "url": "https://t.co/eS2D73yc9k"
+            },
+            {
+              "display_url": "pic.x.com/eS2D73yc9k",
+              "end": 39,
+              "expanded_url": "https://x.com/Nicole_yang88/status/2039323987675947321/photo/1",
+              "media_key": "3_2039323973574598656",
+              "start": 16,
+              "url": "https://t.co/eS2D73yc9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039323987675947321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 140205,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 126,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "同样是午休，从中你悟出了什么？ https://t.co/eS2D73yc9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 811,
+          "like_count": 833,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 640
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T17:20:01.000Z",
+        "description": "跨境金融实战派｜港美股开户｜全球银行卡｜加密支付路径\n\n拆解信息差，打通资金流\n从0到1搭建你的海外资产体系\n\n资金永不眠 💹\n一起成长，一起闯关 🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tala-kang",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tala-kang",
+                "start": 0,
+                "url": "https://t.co/HSaF7RdlnX"
+              }
+            ]
+          }
+        },
+        "id": "1654536386098364418",
+        "location": "Moon",
+        "name": "泥伏雷闯关记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758831860954902528/Sf7BV7PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18643,
+          "following_count": 2074,
+          "like_count": 2908,
+          "listed_count": 98,
+          "media_count": 2471,
+          "tweet_count": 9901
+        },
+        "url": "https://t.co/HSaF7RdlnX",
+        "username": "Nicole_yang88",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2047392367519698993",
+    "created_at": "2026-04-23T19:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047392367519698993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qUnIlV29ki",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+          "media_key": "3_2047392139886333952",
+          "start": 10,
+          "url": "https://t.co/qUnIlV29ki"
+        },
+        {
+          "display_url": "pic.x.com/qUnIlV29ki",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+          "media_key": "3_2047392147427733504",
+          "start": 10,
+          "url": "https://t.co/qUnIlV29ki"
+        },
+        {
+          "display_url": "pic.x.com/qUnIlV29ki",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+          "media_key": "3_2047392159251468288",
+          "start": 10,
+          "url": "https://t.co/qUnIlV29ki"
+        },
+        {
+          "display_url": "pic.x.com/qUnIlV29ki",
+          "end": 33,
+          "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+          "media_key": "3_2047392166532837376",
+          "start": 10,
+          "url": "https://t.co/qUnIlV29ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047392367519698993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都别说话，好好欣赏 https://t.co/qUnIlV29ki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2047392367519698993",
+        "created_at": "2026-04-23T19:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047392367519698993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUnIlV29ki",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+              "media_key": "3_2047392139886333952",
+              "start": 10,
+              "url": "https://t.co/qUnIlV29ki"
+            },
+            {
+              "display_url": "pic.x.com/qUnIlV29ki",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+              "media_key": "3_2047392147427733504",
+              "start": 10,
+              "url": "https://t.co/qUnIlV29ki"
+            },
+            {
+              "display_url": "pic.x.com/qUnIlV29ki",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+              "media_key": "3_2047392159251468288",
+              "start": 10,
+              "url": "https://t.co/qUnIlV29ki"
+            },
+            {
+              "display_url": "pic.x.com/qUnIlV29ki",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2047392367519698993/photo/1",
+              "media_key": "3_2047392166532837376",
+              "start": 10,
+              "url": "https://t.co/qUnIlV29ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047392367519698993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都别说话，好好欣赏 https://t.co/qUnIlV29ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 952,
+          "like_count": 2020,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

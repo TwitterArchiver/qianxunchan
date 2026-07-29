@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2051340265483313248",
+    "created_at": "2026-05-04T22:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051428581721710794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237070364523425792",
+          "start": 0,
+          "username": "shishi_zuibang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051428581721710794",
+    "in_reply_to_user_id": "1237070364523425792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051340265483313248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishi_zuibang 我也是怕手术😭😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2051340265483313248",
+        "created_at": "2026-05-04T22:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051428581721710794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237070364523425792",
+              "start": 0,
+              "username": "shishi_zuibang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051428581721710794",
+        "in_reply_to_user_id": "1237070364523425792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051340265483313248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishi_zuibang 我也是怕手术😭😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237070364523425792",
+        "conversation_id": "2051340265483313248",
+        "created_at": "2026-05-04T16:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051340265483313248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ccshuile/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ccshuile/status/2051317607610077249",
+              "start": 32,
+              "url": "https://t.co/gIr3zAG7W9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051340265483313248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051317607610077249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好怕痛😭😭😭每日恐术+1\nps但还是要感谢分享和鼓励大家分享 https://t.co/gIr3zAG7W9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号@yansuichan\nQ群：667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048233805937627215/f30ZI26II3",
+                "start": 0,
+                "url": "https://t.co/xUc5LJ0GJ6"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1064,
+          "like_count": 2786,
+          "listed_count": 6,
+          "media_count": 571,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/xUc5LJ0GJ6",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T17:39:03.000Z",
+        "description": "🌸 Binary trans women 🏳️‍⚧️ | Bisexual | 假dom真sub | 与姐妹见面最快乐了💞 | 生活态度：温温暖暖🐴🐴🐯🐯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/melissa67339",
+                "end": 23,
+                "expanded_url": "https://ngl.link/melissa67339",
+                "start": 0,
+                "url": "https://t.co/puc9IhAC9D"
+              }
+            ]
+          }
+        },
+        "id": "1237070364523425792",
+        "location": "Allentown, PA",
+        "name": "Melissa🥰莎莎🇺🇸",
+        "pinned_tweet_id": "2044270055517470733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044825414867288064/AYFfWIu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 535,
+          "like_count": 9355,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/puc9IhAC9D",
+        "username": "shishi_zuibang",
+        "verified": false
+      }
+    ]
+  }
+}

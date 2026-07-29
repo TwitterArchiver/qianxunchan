@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Francisco",
+          "id": "908354585005146113",
+          "name": "San Francisco"
+        }
+      }
+    ],
+    "conversation_id": "2037729270479651168",
+    "created_at": "2026-03-28T03:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037729270479651168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/activeasian/st…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/activeasian/status/2037543923363807529",
+          "start": 59,
+          "url": "https://t.co/KI1NPnw36e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037729270479651168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037543923363807529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "盐都不言了，真就teenager杯……\n\nSFPD干什么吃的，快点电击他们啊！\n\n还有黑哥抢劫……黑哥本色了是吧…… https://t.co/KI1NPnw36e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40800,
+        "height": 1280,
+        "media_key": "13_2037405805096669184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037405805096669184/img/yA-jFqDn9iEBaKCo.jpg",
+        "public_metrics": {
+          "view_count": 80324
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037405805096669184/vid/avc1/320x568/0HRSDtOp-Oi6un6o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037405805096669184/vid/avc1/480x852/vBNMWwkoQjuH2YSO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037405805096669184/vid/avc1/720x1280/zlmMHjMoBSmyiskP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037405805096669184/pl/j7UHCywwPujv9CFr.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2037405805109272576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZRyPzbYAAYWtQ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1809,
+        "media_key": "3_2037405805079924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZRyPsbkAA0g61.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2037729270479651168",
+        "created_at": "2026-03-28T03:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037729270479651168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/activeasian/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/activeasian/status/2037543923363807529",
+              "start": 59,
+              "url": "https://t.co/KI1NPnw36e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037729270479651168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037543923363807529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盐都不言了，真就teenager杯……\n\nSFPD干什么吃的，快点电击他们啊！\n\n还有黑哥抢劫……黑哥本色了是吧…… https://t.co/KI1NPnw36e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037405805096669184",
+            "3_2037405805109272576",
+            "3_2037405805079924736"
+          ],
+          "media_source_tweet_id": [
+            "2037405863724626209",
+            "2037405863724626209",
+            "2037405863724626209"
+          ]
+        },
+        "author_id": "1365393266523267073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2037543923363807529",
+        "created_at": "2026-03-27T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037543923363807529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31u1Gt0e2U",
+              "end": 123,
+              "expanded_url": "https://x.com/dbofsf/status/2037405863724626209/video/1",
+              "media_key": "13_2037405805096669184",
+              "start": 100,
+              "url": "https://t.co/31u1Gt0e2U"
+            },
+            {
+              "display_url": "pic.x.com/31u1Gt0e2U",
+              "end": 123,
+              "expanded_url": "https://x.com/dbofsf/status/2037405863724626209/video/1",
+              "media_key": "3_2037405805109272576",
+              "start": 100,
+              "url": "https://t.co/31u1Gt0e2U"
+            },
+            {
+              "display_url": "pic.x.com/31u1Gt0e2U",
+              "end": 123,
+              "expanded_url": "https://x.com/dbofsf/status/2037405863724626209/video/1",
+              "media_key": "3_2037405805079924736",
+              "start": 100,
+              "url": "https://t.co/31u1Gt0e2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037543923363807529",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 23556,
+          "like_count": 266,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "a man in downtown  San Francisco is attacked by thugs! Is the guy who helped save the victim Asian? https://t.co/31u1Gt0e2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区找我贴贴\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 745,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 443
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-26T20:08:30.000Z",
+        "description": "Reporting on  crimes against Asians and racism directed against our community",
+        "id": "1365393266523267073",
+        "location": "San Francisco, CA",
+        "name": "Asian Crime Report",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678095453202821120/E5BGpvIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60255,
+          "following_count": 1757,
+          "like_count": 53186,
+          "listed_count": 214,
+          "media_count": 2719,
+          "tweet_count": 20029
+        },
+        "username": "activeasian",
+        "verified": true
+      }
+    ]
+  }
+}

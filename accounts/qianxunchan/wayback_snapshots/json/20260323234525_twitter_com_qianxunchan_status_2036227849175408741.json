@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2036123894923534543",
+    "created_at": "2026-03-23T23:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T00:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036227849175408741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "434494835",
+          "start": 0,
+          "username": "RealShangGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036227849175408741",
+    "in_reply_to_user_id": "434494835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036123894923534543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealShangGe 关注太多人会有这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036123880931336194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHD4cGaIAI4vm4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036123894923534543",
+        "created_at": "2026-03-23T23:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036227849175408741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "434494835",
+              "start": 0,
+              "username": "RealShangGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036227849175408741",
+        "in_reply_to_user_id": "434494835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036123894923534543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealShangGe 关注太多人会有这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036123880931336194"
+          ]
+        },
+        "author_id": "434494835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036123894923534543",
+        "created_at": "2026-03-23T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036123894923534543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tVXBFYY84",
+              "end": 46,
+              "expanded_url": "https://x.com/RealShangGe/status/2036123894923534543/photo/1",
+              "media_key": "3_2036123880931336194",
+              "start": 23,
+              "url": "https://t.co/1tVXBFYY84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036123894923534543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么都没改，出来这个是bug还是软封禁解封？ https://t.co/1tVXBFYY84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 307,
+          "like_count": 697,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 319
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-11T23:03:25.000Z",
+        "description": "🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/RealShangGe",
+                "end": 23,
+                "expanded_url": "https://x.com/RealShangGe",
+                "start": 0,
+                "url": "https://t.co/p9MVVvmjzO"
+              }
+            ]
+          }
+        },
+        "id": "434494835",
+        "location": "x.com/RealShangGe",
+        "name": "尚格",
+        "pinned_tweet_id": "2035991775953969403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035561627752529920/TdpJxklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 790,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/p9MVVvmjzO",
+        "username": "RealShangGe",
+        "verified": true
+      }
+    ]
+  }
+}

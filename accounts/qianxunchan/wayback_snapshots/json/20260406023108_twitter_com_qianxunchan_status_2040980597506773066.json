@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2040970686529962101",
+    "created_at": "2026-04-06T02:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040980597506773066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660650002106990597",
+          "start": 0,
+          "username": "moontsuki_yue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040980597506773066",
+    "in_reply_to_user_id": "1660650002106990597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040974089633042491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontsuki_yue 我都穷死了要被斩杀惹🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040970686529962101",
+        "created_at": "2026-04-06T02:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040980597506773066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660650002106990597",
+              "start": 0,
+              "username": "moontsuki_yue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040980597506773066",
+        "in_reply_to_user_id": "1660650002106990597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040974089633042491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontsuki_yue 我都穷死了要被斩杀惹🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660650002106990597",
+        "conversation_id": "2040970686529962101",
+        "created_at": "2026-04-06T02:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040974089633042491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040974089633042491",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040970686529962101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 你能去美国已经很了不起了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 875,
+          "like_count": 958,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 848
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T14:13:16.000Z",
+        "description": "男娘，有体香，168cm/50kg。约会🚪48，私信我\n\n男の娘、体香あり、168cm・50kg。友達になることとデートの前提条件は2,000円（入会費）です。ご希望の方はDMを送ってください。ありがとうございます。",
+        "id": "1660650002106990597",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦（三世）🌸",
+        "pinned_tweet_id": "2040627442684248416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036049037493952512/SSNw7E3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 126,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 494
+        },
+        "username": "moontsuki_yue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2053829431081472126",
+    "created_at": "2026-05-11T23:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053979262529757305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644745446802460677",
+          "start": 0,
+          "username": "KoiCJT0042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053979262529757305",
+    "in_reply_to_user_id": "1644745446802460677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053829431081472126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiCJT0042 你为什么要鄙视地面🥹（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053829410382557184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICq95MaMAA4lEh.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2053829410374221824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICq95KbAAAW45v.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2053829410391040000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICq95OboAAqa59.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2053829410370043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICq95JbQAAdnpv.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2053829431081472126",
+        "created_at": "2026-05-11T23:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053979262529757305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644745446802460677",
+              "start": 0,
+              "username": "KoiCJT0042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053979262529757305",
+        "in_reply_to_user_id": "1644745446802460677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829431081472126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiCJT0042 你为什么要鄙视地面🥹（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053829410382557184",
+            "3_2053829410374221824",
+            "3_2053829410391040000",
+            "3_2053829410370043904"
+          ]
+        },
+        "author_id": "1644745446802460677",
+        "conversation_id": "2053829431081472126",
+        "created_at": "2026-05-11T13:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053829431081472126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIWedWFLMX",
+              "end": 28,
+              "expanded_url": "https://x.com/KoiCJT0042/status/2053829431081472126/photo/1",
+              "media_key": "3_2053829410382557184",
+              "start": 5,
+              "url": "https://t.co/rIWedWFLMX"
+            },
+            {
+              "display_url": "pic.x.com/rIWedWFLMX",
+              "end": 28,
+              "expanded_url": "https://x.com/KoiCJT0042/status/2053829431081472126/photo/1",
+              "media_key": "3_2053829410374221824",
+              "start": 5,
+              "url": "https://t.co/rIWedWFLMX"
+            },
+            {
+              "display_url": "pic.x.com/rIWedWFLMX",
+              "end": 28,
+              "expanded_url": "https://x.com/KoiCJT0042/status/2053829431081472126/photo/1",
+              "media_key": "3_2053829410391040000",
+              "start": 5,
+              "url": "https://t.co/rIWedWFLMX"
+            },
+            {
+              "display_url": "pic.x.com/rIWedWFLMX",
+              "end": 28,
+              "expanded_url": "https://x.com/KoiCJT0042/status/2053829431081472126/photo/1",
+              "media_key": "3_2053829410370043904",
+              "start": 5,
+              "url": "https://t.co/rIWedWFLMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053829431081472126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的一天 https://t.co/rIWedWFLMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 1087,
+          "like_count": 3174,
+          "listed_count": 7,
+          "media_count": 626,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T16:54:16.000Z",
+        "description": "不忘初心 方得始终 不拒本心 是谓自在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koicjt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koicjt",
+                "start": 0,
+                "url": "https://t.co/DzRFbxPWQl"
+              }
+            ]
+          }
+        },
+        "id": "1644745446802460677",
+        "location": "Tokyo-to, Japan",
+        "name": "EZaire👾",
+        "pinned_tweet_id": "2019583929251160461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101476218097664/hsubg2l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 2104,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 4437
+        },
+        "url": "https://t.co/DzRFbxPWQl",
+        "username": "KoiCJT0042",
+        "verified": true
+      }
+    ]
+  }
+}

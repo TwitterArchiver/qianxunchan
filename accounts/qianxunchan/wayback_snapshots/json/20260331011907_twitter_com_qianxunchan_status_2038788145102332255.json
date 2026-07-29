@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2038699410033696838",
+    "created_at": "2026-03-31T01:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038788145102332255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038683521078681600",
+          "start": 0,
+          "username": "TogawaMedical0"
+        },
+        {
+          "end": 28,
+          "id": "1877743555961294848",
+          "start": 16,
+          "username": "nino_yukiko"
+        },
+        {
+          "end": 43,
+          "id": "1904872455229104129",
+          "start": 29,
+          "username": "TogawaMedical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038788145102332255",
+    "in_reply_to_user_id": "2038683521078681600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038699410033696838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TogawaMedical0 @nino_yukiko @TogawaMedical 我不管，你必须要关注我否则（嘿嘿😁"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TogawaMedical].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TogawaMedical",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "TogawaMedical"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2038699405734445056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErqTtqaAAAMmeY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038699406875357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErqTx6a8AAwgmg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2038699410033696838",
+        "created_at": "2026-03-31T01:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038788145102332255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038683521078681600",
+              "start": 0,
+              "username": "TogawaMedical0"
+            },
+            {
+              "end": 28,
+              "id": "1877743555961294848",
+              "start": 16,
+              "username": "nino_yukiko"
+            },
+            {
+              "end": 43,
+              "id": "1904872455229104129",
+              "start": 29,
+              "username": "TogawaMedical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038788145102332255",
+        "in_reply_to_user_id": "2038683521078681600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038699410033696838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TogawaMedical0 @nino_yukiko @TogawaMedical 我不管，你必须要关注我否则（嘿嘿😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038699405734445056",
+            "3_2038699406875357184"
+          ]
+        },
+        "author_id": "2038683521078681600",
+        "conversation_id": "2038699410033696838",
+        "created_at": "2026-03-30T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038699410033696838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 164,
+              "start": 150,
+              "tag": "TogawaMedical"
+            },
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "丰川药业"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1904872455229104129",
+              "start": 50,
+              "username": "TogawaMedical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQlyqbK6jg",
+              "end": 194,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2038699410033696838/photo/1",
+              "media_key": "3_2038699405734445056",
+              "start": 171,
+              "url": "https://t.co/eQlyqbK6jg"
+            },
+            {
+              "display_url": "pic.x.com/eQlyqbK6jg",
+              "end": 194,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2038699410033696838/photo/1",
+              "media_key": "3_2038699406875357184",
+              "start": 171,
+              "url": "https://t.co/eQlyqbK6jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038699410033696838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 372,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "窝素tomorin，该帐号前世被奸人所害，惨遭msk大手发力，故重建新号，烦请各位移步至此。\n前世：@TogawaMedical\n目前现货提供:\n🍥自制改良款凝胶\n🍥零售及整盒色普龙(CPA/土色)\n产品图如图(可选贴标服务)\n若有任何疑惑,我处诚挚期待您的垂询。\ntomorin已经力竭了…orz\n#TogawaMedical #丰川药业 https://t.co/eQlyqbK6jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 788,
+          "like_count": 778,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 571
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T18:23:43.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 本处现提供 Androcur® (色普龙) 零售及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。客服邮箱：support@togawamedical.top，具体商品、帮助、更多联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "http://doc.togawamedical.top",
+                "start": 0,
+                "url": "https://t.co/cFZ49O5kT1"
+              }
+            ]
+          }
+        },
+        "id": "2038683521078681600",
+        "name": "丰川药业_Official🍥（重生版）",
+        "pinned_tweet_id": "2038699410033696838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038684081601544192/51tBhCnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/cFZ49O5kT1",
+        "username": "TogawaMedical0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "CNCSer | 民间草根队伍Team Ni2O3Xe队长&指挥狙 | ACGN系列赛事主办 | 前完美1.15rt金S | 比赛官推见下\nMtF | 10' Spet.8出厂 | INTP | 假性社恐 | 169cm 44kg | 初三在读 | 炸柜25' Oct.15 | GAHT/HRT 26' Mar.28",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@acgn_tourname…",
+                "end": 23,
+                "expanded_url": "https://x.com/@acgn_tournament",
+                "start": 0,
+                "url": "https://t.co/XShY3o751w"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "pinned_tweet_id": "2035327356005662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036793790862950400/5jzVTFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 105,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/XShY3o751w",
+        "username": "nino_yukiko",
+        "verified": true
+      }
+    ]
+  }
+}

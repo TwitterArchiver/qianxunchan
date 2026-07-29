@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059458323154653184",
+        "3_2059458323184005120"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2059458330146550000",
+    "created_at": "2026-05-27T02:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059458330146550000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9M8x0Zx9O6",
+          "end": 72,
+          "expanded_url": "https://x.com/qianxunchan/status/2059458330146550000/photo/1",
+          "media_key": "3_2059458323154653184",
+          "start": 49,
+          "url": "https://t.co/9M8x0Zx9O6"
+        },
+        {
+          "display_url": "pic.x.com/9M8x0Zx9O6",
+          "end": 72,
+          "expanded_url": "https://x.com/qianxunchan/status/2059458330146550000/photo/1",
+          "media_key": "3_2059458323184005120",
+          "start": 49,
+          "url": "https://t.co/9M8x0Zx9O6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059458330146550000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识：\n很多人没吃过补佳乐但是好奇它的味道的😋\n可以把m豆含在舌下😋😋\n你会发现是一个味的😆😆 https://t.co/9M8x0Zx9O6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2059458323154653184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSqbvVa0AA2-CA.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2059458323184005120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSqbvcasAA0_54.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059458323154653184",
+            "3_2059458323184005120"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2059458330146550000",
+        "created_at": "2026-05-27T02:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059458330146550000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M8x0Zx9O6",
+              "end": 72,
+              "expanded_url": "https://x.com/qianxunchan/status/2059458330146550000/photo/1",
+              "media_key": "3_2059458323154653184",
+              "start": 49,
+              "url": "https://t.co/9M8x0Zx9O6"
+            },
+            {
+              "display_url": "pic.x.com/9M8x0Zx9O6",
+              "end": 72,
+              "expanded_url": "https://x.com/qianxunchan/status/2059458330146550000/photo/1",
+              "media_key": "3_2059458323184005120",
+              "start": 49,
+              "url": "https://t.co/9M8x0Zx9O6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059458330146550000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n很多人没吃过补佳乐但是好奇它的味道的😋\n可以把m豆含在舌下😋😋\n你会发现是一个味的😆😆 https://t.co/9M8x0Zx9O6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1138,
+          "like_count": 4130,
+          "listed_count": 8,
+          "media_count": 696,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

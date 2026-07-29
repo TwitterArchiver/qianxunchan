@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058349689007951872"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2058349776824058289",
+    "created_at": "2026-05-24T00:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058349776824058289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FV8hfeF25G",
+          "end": 59,
+          "expanded_url": "https://x.com/qianxunchan/status/2058349776824058289/video/1",
+          "media_key": "13_2058349689007951872",
+          "start": 36,
+          "url": "https://t.co/FV8hfeF25G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058349776824058289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操\n是哪个天才教你放这个丧尸片进wholefood的\n给我笑飞了😆😂 https://t.co/FV8hfeF25G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13935,
+        "height": 2868,
+        "media_key": "13_2058349689007951872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058349689007951872/img/5aNsbzV79FFFerh_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058349689007951872/vid/avc1/720x1564/VO9e4BmtIpfk6zCi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058349689007951872/pl/W084OKn_PfamyeWK.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058349689007951872/vid/avc1/320x694/Mjw22Ol1lvDsEa_Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058349689007951872/vid/avc1/480x1042/0a4vE7t7cTpiF3PK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058349689007951872/vid/avc1/1320x2868/xZb4ZIDuR7CcaFJX.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058349689007951872"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2058349776824058289",
+        "created_at": "2026-05-24T00:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058349776824058289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FV8hfeF25G",
+              "end": 59,
+              "expanded_url": "https://x.com/qianxunchan/status/2058349776824058289/video/1",
+              "media_key": "13_2058349689007951872",
+              "start": 36,
+              "url": "https://t.co/FV8hfeF25G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058349776824058289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操\n是哪个天才教你放这个丧尸片进wholefood的\n给我笑飞了😆😂 https://t.co/FV8hfeF25G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 1134,
+          "like_count": 3928,
+          "listed_count": 8,
+          "media_count": 676,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

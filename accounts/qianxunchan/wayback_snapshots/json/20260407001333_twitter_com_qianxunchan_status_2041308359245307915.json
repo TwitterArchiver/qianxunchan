@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "San Francisco Police Department",
+          "id": "910307764819259392",
+          "name": "San Francisco Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2041308359245307915",
+    "created_at": "2026-04-07T00:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041308359245307915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sfpd/status/20…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/sfpd/status/2041208604297134385",
+          "start": 74,
+          "url": "https://t.co/oZmNLWLnfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041308359245307915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041208604297134385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "愚人节特别活动吗？有点意思喵～  \n警灯一开，悠哉悠哉快去拿纸  \n蹲下就开始  \n欢迎收看最后的自由  \n讲美国老哥最后的自由  \n😋😋😁😁😁😆 https://t.co/oZmNLWLnfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113400,
+        "height": 1280,
+        "media_key": "13_2041208560114384896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041208560114384896/img/-warkjpqq1LfoxVj.jpg",
+        "public_metrics": {
+          "view_count": 11176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041208560114384896/vid/avc1/320x568/YHJmfFqRtE3bGEFf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041208560114384896/vid/avc1/480x852/F89qMuO8BTsjC4P4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041208560114384896/vid/avc1/720x1280/U4ueM1BZWueom0KV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041208560114384896/pl/0QbHEGK4Qib2VI61.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2041308359245307915",
+        "created_at": "2026-04-07T00:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041308359245307915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sfpd/status/20…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/sfpd/status/2041208604297134385",
+              "start": 74,
+              "url": "https://t.co/oZmNLWLnfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041308359245307915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041208604297134385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愚人节特别活动吗？有点意思喵～  \n警灯一开，悠哉悠哉快去拿纸  \n蹲下就开始  \n欢迎收看最后的自由  \n讲美国老哥最后的自由  \n😋😋😁😁😁😆 https://t.co/oZmNLWLnfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041208560114384896"
+          ]
+        },
+        "author_id": "36183636",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "San Francisco Police Department",
+              "id": "910307764819259392",
+              "name": "San Francisco Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1243192872649674763",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2041208604297134385",
+        "created_at": "2026-04-06T17:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041208604297134385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSRVqdIq75",
+              "end": 132,
+              "expanded_url": "https://x.com/SFPD/status/2041208604297134385/video/1",
+              "media_key": "13_2041208560114384896",
+              "start": 109,
+              "url": "https://t.co/oSRVqdIq75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041208604297134385",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 40001,
+          "like_count": 393,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🚔🚔Notable Arrest 🚨🚨\n\nOn April 1, 2026, SFPD officers arrested 4 suspects in a robbery and 4 auto burglaries. https://t.co/oSRVqdIq75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 883,
+          "like_count": 999,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 899
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-28T21:08:39.000Z",
+        "description": "Official Twitter of the SFPD! Account not monitored 24/7. Visit our Linktree to connect with us on our other platforms! https://t.co/jJLqlWU0uv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SFPD",
+                "end": 143,
+                "expanded_url": "http://linktr.ee/SFPD",
+                "start": 120,
+                "url": "https://t.co/jJLqlWU0uv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanfranciscopolice.org",
+                "end": 23,
+                "expanded_url": "http://www.sanfranciscopolice.org",
+                "start": 0,
+                "url": "https://t.co/RIaFAgSlIe"
+              }
+            ]
+          }
+        },
+        "id": "36183636",
+        "location": "San Francisco, CA",
+        "name": "San Francisco Police",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939736335373520896/kNUje_DZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138633,
+          "following_count": 171,
+          "like_count": 6076,
+          "listed_count": 1772,
+          "media_count": 4915,
+          "tweet_count": 13035
+        },
+        "url": "https://t.co/RIaFAgSlIe",
+        "username": "SFPD",
+        "verified": true
+      }
+    ]
+  }
+}

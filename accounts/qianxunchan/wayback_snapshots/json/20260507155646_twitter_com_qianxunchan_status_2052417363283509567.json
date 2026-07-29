@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052417360213237760"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2052417363283509567",
+    "created_at": "2026-05-07T15:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052417363283509567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8zGfU22dYF",
+          "end": 48,
+          "expanded_url": "https://x.com/qianxunchan/status/2052417363283509567/photo/1",
+          "media_key": "3_2052417360213237760",
+          "start": 25,
+          "url": "https://t.co/8zGfU22dYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052417363283509567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了个这个扫描仪：\n大家猜猜我买了用来干什么喵😋 https://t.co/8zGfU22dYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2052417360213237760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHumtwZa4AAAust.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052417360213237760"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2052417363283509567",
+        "created_at": "2026-05-07T15:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052417363283509567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zGfU22dYF",
+              "end": 48,
+              "expanded_url": "https://x.com/qianxunchan/status/2052417363283509567/photo/1",
+              "media_key": "3_2052417360213237760",
+              "start": 25,
+              "url": "https://t.co/8zGfU22dYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052417363283509567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了个这个扫描仪：\n大家猜猜我买了用来干什么喵😋 https://t.co/8zGfU22dYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 1069,
+          "like_count": 2984,
+          "listed_count": 7,
+          "media_count": 609,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

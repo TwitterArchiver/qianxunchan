@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2041270998331429233",
+    "created_at": "2026-04-07T03:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041359015238938863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1441612177907978247",
+          "start": 0,
+          "username": "sfwuniao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041359015238938863",
+    "in_reply_to_user_id": "1441612177907978247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041296338793660726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfwuniao 系哇好烦啊主要是我没涂防晒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041270998331429233",
+        "created_at": "2026-04-07T03:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041359015238938863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1441612177907978247",
+              "start": 0,
+              "username": "sfwuniao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041359015238938863",
+        "in_reply_to_user_id": "1441612177907978247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041296338793660726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfwuniao 系哇好烦啊主要是我没涂防晒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441612177907978247",
+        "conversation_id": "2041270998331429233",
+        "created_at": "2026-04-06T23:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T00:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041296338793660726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041296338793660726",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041270998331429233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 昨天好天气，但这个礼拜又冷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 884,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 910
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-25T03:55:24.000Z",
+        "description": "SF Bayarea 北加男，没有六尺高，却会待你好，有时在广州",
+        "id": "1441612177907978247",
+        "location": "San Francisco, CA",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523547037345542145/0qgG8o6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 630,
+          "like_count": 48333,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 445
+        },
+        "username": "sfwuniao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T03:55:24.000Z",
+        "description": "SF Bayarea 北加男，没有六尺高，却会待你好，有时在广州",
+        "id": "1441612177907978247",
+        "location": "San Francisco, CA",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523547037345542145/0qgG8o6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 630,
+          "like_count": 48333,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "sfwuniao",
+        "verified": false
+      }
+    ]
+  }
+}

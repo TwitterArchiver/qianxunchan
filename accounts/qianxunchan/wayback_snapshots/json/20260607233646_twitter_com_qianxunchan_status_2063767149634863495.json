@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063767146891706368"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2063767149634863495",
+    "created_at": "2026-06-07T23:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063767149634863495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXxxEJnVoa",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2063767149634863495/photo/1",
+          "media_key": "3_2063767146891706368",
+          "start": 22,
+          "url": "https://t.co/MXxxEJnVoa"
+        },
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/qiancongxyn/status/2063761877067506095",
+          "start": 46,
+          "url": "https://t.co/rXk3MxeeV5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063767149634863495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063761877067506095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢同志送来的马内😋━━━∑(ﾟ□ﾟ*川━ https://t.co/MXxxEJnVoa https://t.co/rXk3MxeeV5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2063767146891706368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP5SSmaAAAw9VH.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 100519,
+        "height": 1280,
+        "media_key": "13_2063761732334743552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063761732334743552/img/u2fq8aX9i5oOTbFB.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/320x718/pTKddbWNyHZnKl5w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/480x1076/VhNN4n__v7QFGOCm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/570x1280/Ht3IL6DcCUI3zWV8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/pl/OYlzY6gzqscKaWzD.m3u8"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063767146891706368"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2063767149634863495",
+        "created_at": "2026-06-07T23:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063767149634863495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXxxEJnVoa",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2063767149634863495/photo/1",
+              "media_key": "3_2063767146891706368",
+              "start": 22,
+              "url": "https://t.co/MXxxEJnVoa"
+            },
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2063761877067506095",
+              "start": 46,
+              "url": "https://t.co/rXk3MxeeV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063767149634863495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063761877067506095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢同志送来的马内😋━━━∑(ﾟ□ﾟ*川━ https://t.co/MXxxEJnVoa https://t.co/rXk3MxeeV5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063761732334743552"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063761877067506095",
+        "created_at": "2026-06-07T23:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:15:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063761811254685970",
+          "2063761877067506095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2046117898377379840",
+              "start": 24,
+              "username": "kawaii_imai"
+            },
+            {
+              "end": 49,
+              "id": "1758508742780567552",
+              "start": 37,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 80,
+              "id": "1997644719908884480",
+              "start": 68,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 92,
+              "id": "1981307673795842048",
+              "start": 81,
+              "username": "_Safolour_"
+            },
+            {
+              "end": 105,
+              "id": "1924119398497026050",
+              "start": 93,
+              "username": "HhcvhW18221"
+            },
+            {
+              "end": 118,
+              "id": "1851416603990405120",
+              "start": 106,
+              "username": "ogsa1687497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaSQClXjc3",
+              "end": 153,
+              "expanded_url": "https://x.com/qiancongxyn/status/2063761877067506095/video/1",
+              "media_key": "13_2063761732334743552",
+              "start": 130,
+              "url": "https://t.co/KaSQClXjc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063761877067506095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 36,
+                "id": "2046117898377379840",
+                "start": 24,
+                "username": "kawaii_imai"
+              },
+              {
+                "end": 49,
+                "id": "1758508742780567552",
+                "start": 37,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 80,
+                "id": "1997644719908884480",
+                "start": 68,
+                "username": "Oz_Garlandd"
+              },
+              {
+                "end": 92,
+                "id": "1981307673795842048",
+                "start": 81,
+                "username": "_Safolour_"
+              },
+              {
+                "end": 105,
+                "id": "1924119398497026050",
+                "start": 93,
+                "username": "HhcvhW18221"
+              },
+              {
+                "end": 118,
+                "id": "1851416603990405120",
+                "start": 106,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "text": "开奖啦🎉\n\n🎁一等奖（13.14元 × 2名）\n@kawaii_imai\n@qianxunchan \n\n🎁二等奖（5.2元 × 4名）\n@Oz_Garlandd\n@_Safolour_\n@HhcvhW18221\n@ogsa1687497\n\n恭喜以上6位中奖！ \n\n请中奖的朋友在四天内私信我（若没有在规定时间内私信我视为自动放弃），提供支付码，我会尽快帮你转账。没中奖的宝贝也不要灰心，还有安慰奖——来和我贴贴www\n\n感谢大家支持我的第一次抽奖！继续爱你们哦～❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开奖啦🎉\n\n🎁一等奖（13.14元 × 2名）\n@kawaii_imai\n@qianxunchan \n\n🎁二等奖（5.2元 × 4名）\n@Oz_Garlandd\n@_Safolour_\n@HhcvhW18221\n@ogsa1687497\n\n恭喜以上6位中奖！ https://t.co/KaSQClXjc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1140,
+          "like_count": 5484,
+          "listed_count": 9,
+          "media_count": 762,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 970,
+          "like_count": 2235,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036187679508004864",
+        "13_2036187679516401667"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2036187769429713037",
+    "created_at": "2026-03-23T21:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036187769429713037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Q1iQJdnqb",
+          "end": 52,
+          "expanded_url": "https://x.com/qianxunchan/status/2036187769429713037/video/1",
+          "media_key": "3_2036187679508004864",
+          "start": 29,
+          "url": "https://t.co/1Q1iQJdnqb"
+        },
+        {
+          "display_url": "pic.x.com/1Q1iQJdnqb",
+          "end": 52,
+          "expanded_url": "https://x.com/qianxunchan/status/2036187769429713037/video/1",
+          "media_key": "13_2036187679516401667",
+          "start": 29,
+          "url": "https://t.co/1Q1iQJdnqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036187769429713037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日鞭尸：\n小米股票又跌回32了\n雷军！金凡！看到了吗！ https://t.co/1Q1iQJdnqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036187679508004864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEH96AUaAAAaO_N.jpg",
+        "width": 943
+      },
+      {
+        "duration_ms": 16184,
+        "height": 2868,
+        "media_key": "13_2036187679516401667",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036187679516401667/img/zrrPGk5nqrkStNTG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187679516401667/vid/avc1/320x694/fudXn_osOl7Z8-kT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187679516401667/vid/avc1/1320x2868/FHad6VYYCP_gJ-Dg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187679516401667/vid/avc1/480x1042/qSIFbav7N_iahyhK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036187679516401667/pl/2BOz9aLAaPjgSHMB.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187679516401667/vid/avc1/720x1564/kxNbj-Fy8B37f_rG.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036187679508004864",
+            "13_2036187679516401667"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2036187769429713037",
+        "created_at": "2026-03-23T21:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036187769429713037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Q1iQJdnqb",
+              "end": 52,
+              "expanded_url": "https://x.com/qianxunchan/status/2036187769429713037/video/1",
+              "media_key": "3_2036187679508004864",
+              "start": 29,
+              "url": "https://t.co/1Q1iQJdnqb"
+            },
+            {
+              "display_url": "pic.x.com/1Q1iQJdnqb",
+              "end": 52,
+              "expanded_url": "https://x.com/qianxunchan/status/2036187769429713037/video/1",
+              "media_key": "13_2036187679516401667",
+              "start": 29,
+              "url": "https://t.co/1Q1iQJdnqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036187769429713037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日鞭尸：\n小米股票又跌回32了\n雷军！金凡！看到了吗！ https://t.co/1Q1iQJdnqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州 / 欢迎大家来到旧金山湾区 / 经常出没于旧金山市区/ did患者/ 年龄19/身高180/体重58/🏳️‍⚧️🍥/喜欢女装",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 295,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 318
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

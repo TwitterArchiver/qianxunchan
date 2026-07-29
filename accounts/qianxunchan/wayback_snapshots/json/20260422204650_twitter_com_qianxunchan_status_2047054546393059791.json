@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047054465518407680"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2047054546393059791",
+    "created_at": "2026-04-22T20:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:46:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047054467800158250",
+      "2047054546393059791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "description": "-, 视频播放量 856349、弹幕量 30、点赞数 36021、投硬币枚数 203、收藏人数 2212、转发人数 226, 视频作者 芊儿剪辑, 作者简介 ，相关视频：【德云社在逃学霸刘嘉森】继北大还行撒贝宁后的被迫北大刘嘉森，高考查分查出个状元，给北大盖栋楼能上北大吗？张雪峰太敢说了，关于我瞒着家人考上了北大，女孩500分捡漏北大被退档，河南教育厅硬刚北大，关于我瞒着家人考上北大后续，让我妈拆录取通知书～，各大名校招生抢人有多拼，学姐学长疯狂整活，精彩程度堪比宫斗剧，全网四大离谱学校，每一个都惊掉你的下巴，尤其最后一个，一毕业仿佛就消失了！，三次退档！国之栋梁，泱泱北大……，中国人骨子里对读书人的尊重，拿出复旦录取通知书直接ko",
+          "display_url": "b23.tv/iAm60B8",
+          "end": 91,
+          "expanded_url": "https://b23.tv/iAm60B8",
+          "start": 68,
+          "status": 200,
+          "title": "清华北大为了抢人有多拼 \"抢人大战 \"清华北大 \"北京旅游 \"高考志愿_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV11YQcBgEb4/?-Arouter=story&buvid=Y94DDE99AA18328F4E9FBBD89BDB6C0C075C&from_spmid=united.player-video-detail.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=F3547152-5FA6-4C2F-A46F-DC3FE1FF3896&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1776890800&unique_k=iAm60B8&up_id=325682284",
+          "url": "https://t.co/CDyXrFftYU"
+        },
+        {
+          "display_url": "pic.x.com/4o01IMT7z4",
+          "end": 115,
+          "expanded_url": "https://x.com/qianxunchan/status/2047054546393059791/photo/1",
+          "media_key": "3_2047054465518407680",
+          "start": 92,
+          "url": "https://t.co/4o01IMT7z4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047054546393059791",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 你又上网了🥺🥺\n\n【清华北大为了抢人有多拼 \"抢人大战 \"清华北大 \"北京旅游 \"高考志愿-哔哩哔哩】 https://t.co/CDyXrFftYU https://t.co/4o01IMT7z4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047054465518407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGiZMM0aEAAaMHo.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047054465518407680"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2047054467800158250",
+        "created_at": "2026-04-22T20:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:46:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047054467800158250",
+          "2047054546393059791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sNtGQDST2",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2047054467800158250/photo/1",
+              "media_key": "3_2047054465518407680",
+              "start": 22,
+              "url": "https://t.co/5sNtGQDST2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047054467800158250",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你又上网了 https://t.co/5sNtGQDST2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047054465518407680"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2047054546393059791",
+        "created_at": "2026-04-22T20:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:46:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047054467800158250",
+          "2047054546393059791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-, 视频播放量 856349、弹幕量 30、点赞数 36021、投硬币枚数 203、收藏人数 2212、转发人数 226, 视频作者 芊儿剪辑, 作者简介 ，相关视频：【德云社在逃学霸刘嘉森】继北大还行撒贝宁后的被迫北大刘嘉森，高考查分查出个状元，给北大盖栋楼能上北大吗？张雪峰太敢说了，关于我瞒着家人考上了北大，女孩500分捡漏北大被退档，河南教育厅硬刚北大，关于我瞒着家人考上北大后续，让我妈拆录取通知书～，各大名校招生抢人有多拼，学姐学长疯狂整活，精彩程度堪比宫斗剧，全网四大离谱学校，每一个都惊掉你的下巴，尤其最后一个，一毕业仿佛就消失了！，三次退档！国之栋梁，泱泱北大……，中国人骨子里对读书人的尊重，拿出复旦录取通知书直接ko",
+              "display_url": "b23.tv/iAm60B8",
+              "end": 91,
+              "expanded_url": "https://b23.tv/iAm60B8",
+              "start": 68,
+              "status": 200,
+              "title": "清华北大为了抢人有多拼 \"抢人大战 \"清华北大 \"北京旅游 \"高考志愿_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV11YQcBgEb4/?-Arouter=story&buvid=Y94DDE99AA18328F4E9FBBD89BDB6C0C075C&from_spmid=united.player-video-detail.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=F3547152-5FA6-4C2F-A46F-DC3FE1FF3896&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1776890800&unique_k=iAm60B8&up_id=325682284",
+              "url": "https://t.co/CDyXrFftYU"
+            },
+            {
+              "display_url": "pic.x.com/4o01IMT7z4",
+              "end": 115,
+              "expanded_url": "https://x.com/qianxunchan/status/2047054546393059791/photo/1",
+              "media_key": "3_2047054465518407680",
+              "start": 92,
+              "url": "https://t.co/4o01IMT7z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047054546393059791",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你又上网了🥺🥺\n\n【清华北大为了抢人有多拼 \"抢人大战 \"清华北大 \"北京旅游 \"高考志愿-哔哩哔哩】 https://t.co/CDyXrFftYU https://t.co/4o01IMT7z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "San Francisco, California, United States",
+              "geo": {
+                "coordinates": [
+                  -122.41942,
+                  37.77493
+                ],
+                "type": "Point"
+              },
+              "locality": "San Francisco",
+              "region": "California",
+              "sub_region": "San Francisco County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/intent/follow?…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/intent/follow?screen_name=qianxunchan",
+                "start": 0,
+                "url": "https://t.co/YJ5sjFHElF"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 944,
+          "like_count": 1965,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/YJ5sjFHElF",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝 @CyberRazuberii 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "CyberRazuberii"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2046557892095189339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 562,
+          "like_count": 14695,
+          "listed_count": 5,
+          "media_count": 886,
+          "tweet_count": 4709
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}
