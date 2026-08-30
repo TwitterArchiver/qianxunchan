@@ -1,7 +1,7 @@
 {
   "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
   "username": "@qianxunchan",
-  "bio": "活力大湾区 魅力新加州 Q群667335570 | tg在主页网站 小号：@yansuichan | 闺蜜:@smiroyama  生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️ 爱好:闲逛 彩六 女装 Wargame 常驻:南加州 | 老家:广东江门 专业:电气工程",
+  "bio": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
   "location": "Los Angeles, CA🇺🇸",
   "link": "https://t.me/+D26Gt92PEwphNGNh",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 48,
-        "start": 37,
+        "end": 64,
+        "start": 53,
         "username": "yansuichan"
       },
       {
-        "end": 64,
-        "start": 54,
+        "end": 80,
+        "start": 70,
         "username": "smiroyama"
       }
     ]
