@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2088843037803987204",
+    "created_at": "2026-08-16T06:13:37.000Z",
+    "display_text_range": [
+      30,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088871785362342227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944737915671924736",
+          "start": 0,
+          "username": "yufun114514"
+        },
+        {
+          "end": 29,
+          "id": "1667851059346427914",
+          "start": 13,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088871785362342227",
+    "in_reply_to_user_id": "1944737915671924736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088871310851994095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufun114514 @hoshi_Asuka0089 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2088843037803987204",
+        "created_at": "2026-08-16T06:13:37.000Z",
+        "display_text_range": [
+          30,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088871785362342227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944737915671924736",
+              "start": 0,
+              "username": "yufun114514"
+            },
+            {
+              "end": 29,
+              "id": "1667851059346427914",
+              "start": 13,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088871785362342227",
+        "in_reply_to_user_id": "1944737915671924736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088871310851994095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufun114514 @hoshi_Asuka0089 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944737915671924736",
+        "conversation_id": "2088843037803987204",
+        "created_at": "2026-08-16T06:11:44.000Z",
+        "display_text_range": [
+          30,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088871310851994095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 29,
+              "id": "1667851059346427914",
+              "start": 13,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088871310851994095",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088862229269819631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @hoshi_Asuka0089 您正在收看：\nyayi neko~\nyayi neko~\nyayi neko~\n(超绝无敌大和声"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2088871785362342227",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 1197,
+          "like_count": 8381,
+          "listed_count": 9,
+          "media_count": 995,
+          "tweet_count": 3775
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T12:37:17.000Z",
+        "description": "业余无线电爱好者BI4JER（持有b类操作证）个人主页https://t.co/DE2y5ryTdx |玩vrc 编程废物| 平时喜欢捣鼓各种东西 |不讨论涉政话题| 生产日期2011.07.08 | hrt 2026.3.7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yufunyufun.top",
+                "end": 50,
+                "expanded_url": "http://yufunyufun.top",
+                "start": 27,
+                "url": "https://t.co/DE2y5ryTdx"
+              }
+            ]
+          }
+        },
+        "id": "1944737915671924736",
+        "is_identity_verified": false,
+        "location": "山↑东↓ 济南",
+        "most_recent_tweet_id": "2088871657821872240",
+        "name": "yufun🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2086859959464329710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944737915671924736/1759072452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871896765468677/Nt57VHO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 178,
+          "like_count": 4413,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "yufun114514",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "is_identity_verified": false,
+        "location": "天仓 V",
+        "most_recent_tweet_id": "2088854583091351857",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667851059346427914/1775004147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 898,
+          "like_count": 92756,
+          "listed_count": 3,
+          "media_count": 1178,
+          "tweet_count": 15963
+        },
+        "url": "",
+        "username": "hoshi_Asuka0089",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

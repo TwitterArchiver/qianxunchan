@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091173212252147712"
+      ],
+      "media_source_tweet_id": [
+        "2091173314794586595"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091241230575546756",
+    "created_at": "2026-08-22T19:08:57.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091241230575546756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A read-only HRT dosage chart and history shared with HRT Tracker.",
+          "display_url": "hrt.mahiro.uk",
+          "end": 55,
+          "expanded_url": "http://hrt.mahiro.uk",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "HRT Tracker · Shared dosage record",
+          "unwound_url": "https://hrt.mahiro.uk/",
+          "url": "https://t.co/thW0wJpqxz"
+        },
+        {
+          "display_url": "pic.x.com/LNNJcpbLMm",
+          "end": 93,
+          "expanded_url": "https://x.com/smiroyama/status/2091173314794586595/video/1",
+          "media_key": "13_2091173212252147712",
+          "start": 70,
+          "url": "https://t.co/LNNJcpbLMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091241230575546756",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091173212252147712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091173314794586595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 使用 Claude Code 给 https://t.co/thW0wJpqxz 制作了个介绍视频（仅测试） https://t.co/LNNJcpbLMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48814,
+        "height": 1080,
+        "media_key": "13_2091173212252147712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091173212252147712/img/S6j4DI8B1Y4uBacd.jpg",
+        "public_metrics": {
+          "view_count": 383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091173212252147712/vid/avc1/1920x1080/s1MfhPRSV2K5zqRF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091173212252147712/vid/avc1/1280x720/X5gVAzzqAgDsi9BR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091173212252147712/vid/avc1/640x360/cOhQvLK7sfJ-ne-d.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091173212252147712/vid/avc1/480x270/mUmFUsHBBhlHGeGM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091173212252147712/pl/HgYHwz1Hml-ny1t_.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091173212252147712"
+          ],
+          "media_source_tweet_id": [
+            "2091173314794586595"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091241230575546756",
+        "created_at": "2026-08-22T19:08:57.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091241230575546756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A read-only HRT dosage chart and history shared with HRT Tracker.",
+              "display_url": "hrt.mahiro.uk",
+              "end": 55,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "HRT Tracker · Shared dosage record",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/thW0wJpqxz"
+            },
+            {
+              "display_url": "pic.x.com/LNNJcpbLMm",
+              "end": 93,
+              "expanded_url": "https://x.com/smiroyama/status/2091173314794586595/video/1",
+              "media_key": "13_2091173212252147712",
+              "start": 70,
+              "url": "https://t.co/LNNJcpbLMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091241230575546756",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091173212252147712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091173314794586595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 使用 Claude Code 给 https://t.co/thW0wJpqxz 制作了个介绍视频（仅测试） https://t.co/LNNJcpbLMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091173212252147712"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2091173314794586595",
+        "created_at": "2026-08-22T14:39:05.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091173314794586595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A read-only HRT dosage chart and history shared with HRT Tracker.",
+              "display_url": "hrt.mahiro.uk",
+              "end": 40,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2091173364438298624/_VDFMycv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "HRT Tracker · Shared dosage record",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/thW0wJpqxz"
+            },
+            {
+              "display_url": "pic.x.com/LNNJcpbLMm",
+              "end": 78,
+              "expanded_url": "https://x.com/smiroyama/status/2091173314794586595/video/1",
+              "media_key": "13_2091173212252147712",
+              "start": 55,
+              "url": "https://t.co/LNNJcpbLMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091173314794586595",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091173212252147712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用 Claude Code 给 https://t.co/thW0wJpqxz 制作了个介绍视频（仅测试） https://t.co/LNNJcpbLMm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091241230575546756",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 1200,
+          "like_count": 8691,
+          "listed_count": 9,
+          "media_count": 1019,
+          "tweet_count": 3999
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "I am Smirnova, I make programs :3 Bestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "tangeorange"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 147,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 124,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091238624658669618",
+        "name": "寻寻",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7878,
+          "following_count": 2772,
+          "like_count": 15226,
+          "listed_count": 15,
+          "media_count": 2607,
+          "tweet_count": 9811
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

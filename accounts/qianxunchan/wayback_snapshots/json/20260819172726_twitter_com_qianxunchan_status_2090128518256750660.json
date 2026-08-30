@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2090127060270449098",
+    "created_at": "2026-08-19T17:27:26.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090128518256750660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090128518256750660",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090128441459024335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2090127060270449098",
+        "created_at": "2026-08-19T17:27:26.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090128518256750660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090128518256750660",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090128441459024335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2090127060270449098",
+        "created_at": "2026-08-19T17:27:07.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090128441459024335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090128441459024335",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090127060270449098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan Gracias 杯子酱🤣\n额对了我不吃肉喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2090128518256750660",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 1195,
+          "like_count": 8634,
+          "listed_count": 9,
+          "media_count": 1009,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "卡斯蒂利亚王国",
+        "most_recent_tweet_id": "2090128441459024335",
+        "name": "Respuesta🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2090113225681719423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087076529792823296/UCJJ1nGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 253,
+          "like_count": 10936,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 5103
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

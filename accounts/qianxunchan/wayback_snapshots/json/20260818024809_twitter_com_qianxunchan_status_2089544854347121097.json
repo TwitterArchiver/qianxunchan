@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089537404822790466",
+    "created_at": "2026-08-18T02:48:09.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089544854347121097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "dddddhxwys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089544854347121097",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089544708536328322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddhxwys 喂你吃喵😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089537404822790466",
+        "created_at": "2026-08-18T02:48:09.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089544854347121097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "dddddhxwys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089544854347121097",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089544708536328322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddhxwys 喂你吃喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860742128688857088",
+        "conversation_id": "2089537404822790466",
+        "created_at": "2026-08-18T02:47:35.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089544708536328322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089544708536328322",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089537404822790466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 杯子酱喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089544854347121097",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1201,
+          "like_count": 8583,
+          "listed_count": 9,
+          "media_count": 1005,
+          "tweet_count": 3919
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "最好最好最好的朋友@LiciiQAQ｜可能是个坏东西｜情绪不稳定｜可以和我做朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2089544708536328322",
+        "name": "仿生野草会梦见电子锈病萱草花吗",
+        "pinned_tweet_id": "2056240806995103850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860742128688857088/1785800418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086885370688684032/VXXerKWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 480,
+          "like_count": 2543,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "dddddhxwys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

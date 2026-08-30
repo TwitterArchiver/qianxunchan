@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089417911320637441",
+        "3_2089417925035986945"
+      ],
+      "media_source_tweet_id": [
+        "2089417930895438185",
+        "2089417930895438185"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089422858783195311",
+    "created_at": "2026-08-17T18:43:23.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089422858783195311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JV3xZl7Hhv",
+          "end": 84,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+          "media_key": "3_2089417911320637441",
+          "start": 61,
+          "url": "https://t.co/JV3xZl7Hhv"
+        },
+        {
+          "display_url": "pic.x.com/JV3xZl7Hhv",
+          "end": 84,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+          "media_key": "3_2089417925035986945",
+          "start": 61,
+          "url": "https://t.co/JV3xZl7Hhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089422858783195311",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089417911320637441"
+      },
+      {
+        "media_key": "3_2089417925035986945"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089417930895438185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: AVIDIA飞机杯的广告位已经变成台北银梦展力 这么恶臭的展览已经没有办下去的必要了 https://t.co/JV3xZl7Hhv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2302,
+        "media_key": "3_2089417911320637441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8ahSea8AE6t0a.jpg",
+        "width": 1754
+      },
+      {
+        "height": 400,
+        "media_key": "3_2089417925035986945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8aiFkakAEa3b4.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089417911320637441",
+            "3_2089417925035986945"
+          ],
+          "media_source_tweet_id": [
+            "2089417930895438185",
+            "2089417930895438185"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089422858783195311",
+        "created_at": "2026-08-17T18:43:23.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089422858783195311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JV3xZl7Hhv",
+              "end": 84,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+              "media_key": "3_2089417911320637441",
+              "start": 61,
+              "url": "https://t.co/JV3xZl7Hhv"
+            },
+            {
+              "display_url": "pic.x.com/JV3xZl7Hhv",
+              "end": 84,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+              "media_key": "3_2089417925035986945",
+              "start": 61,
+              "url": "https://t.co/JV3xZl7Hhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089422858783195311",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089417911320637441"
+          },
+          {
+            "media_key": "3_2089417925035986945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089417930895438185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: AVIDIA飞机杯的广告位已经变成台北银梦展力 这么恶臭的展览已经没有办下去的必要了 https://t.co/JV3xZl7Hhv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089417911320637441",
+            "3_2089417925035986945"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2089417930895438185",
+        "created_at": "2026-08-17T18:23:48.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089417930895438185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JV3xZl7Hhv",
+              "end": 66,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+              "media_key": "3_2089417911320637441",
+              "start": 43,
+              "url": "https://t.co/JV3xZl7Hhv"
+            },
+            {
+              "display_url": "pic.x.com/JV3xZl7Hhv",
+              "end": 66,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2089417930895438185/photo/1",
+              "media_key": "3_2089417925035986945",
+              "start": 43,
+              "url": "https://t.co/JV3xZl7Hhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089417930895438185",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089417911320637441"
+          },
+          {
+            "media_key": "3_2089417925035986945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "AVIDIA飞机杯的广告位已经变成台北银梦展力 这么恶臭的展览已经没有办下去的必要了 https://t.co/JV3xZl7Hhv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089422858783195311",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 1197,
+          "like_count": 8547,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089417930895438185",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5894,
+          "following_count": 1900,
+          "like_count": 85784,
+          "listed_count": 13,
+          "media_count": 1848,
+          "tweet_count": 13560
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

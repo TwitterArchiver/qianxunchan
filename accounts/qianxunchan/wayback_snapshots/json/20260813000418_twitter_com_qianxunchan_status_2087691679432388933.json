@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087673701940760670",
+    "created_at": "2026-08-13T00:04:18.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087691679432388933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087691679432388933",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087691595474976938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 yep😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087673701940760670",
+        "created_at": "2026-08-13T00:04:18.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087691679432388933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087691679432388933",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087691595474976938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 yep😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2087673701940760670",
+        "created_at": "2026-08-13T00:03:58.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087691595474976938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087691595474976938",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087673701940760670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 无花果"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087691679432388933",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1194,
+          "like_count": 8189,
+          "listed_count": 9,
+          "media_count": 976,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple/徕卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2087691595474976938",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1785815306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087440179388878848/4l-vZiII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 481,
+          "like_count": 36632,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 8201
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

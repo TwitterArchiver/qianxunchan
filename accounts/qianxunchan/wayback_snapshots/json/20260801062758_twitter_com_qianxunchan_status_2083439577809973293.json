@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083307016148443136",
+        "3_2083306488798523392",
+        "3_2083306488798568448"
+      ],
+      "media_source_tweet_id": [
+        "2083307033345057013",
+        "2083307033345057013",
+        "2083307033345057013"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2083439577809973293",
+    "created_at": "2026-08-01T06:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083439577809973293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "81332842",
+          "start": 3,
+          "username": "kiku1569"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gfy9PpLL6c",
+          "end": 62,
+          "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+          "media_key": "13_2083307016148443136",
+          "start": 39,
+          "url": "https://t.co/Gfy9PpLL6c"
+        },
+        {
+          "display_url": "pic.x.com/Gfy9PpLL6c",
+          "end": 62,
+          "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+          "media_key": "3_2083306488798523392",
+          "start": 39,
+          "url": "https://t.co/Gfy9PpLL6c"
+        },
+        {
+          "display_url": "pic.x.com/Gfy9PpLL6c",
+          "end": 62,
+          "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+          "media_key": "3_2083306488798568448",
+          "start": 39,
+          "url": "https://t.co/Gfy9PpLL6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083439577809973293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083307033345057013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kiku1569: ヤニねこの例のシーン再現してたらアホ毛が逝った😇 https://t.co/Gfy9PpLL6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3838,
+        "height": 1280,
+        "media_key": "13_2083307016148443136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083307016148443136/img/-dFAc8o-Z3MJMuAc.jpg",
+        "public_metrics": {
+          "view_count": 677764
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307016148443136/vid/avc1/320x568/XL6PEe2NM8k45_eg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307016148443136/vid/avc1/480x852/fa2LJPvX54AwCUbH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307016148443136/vid/avc1/720x1280/JBr3C-GGk1hPDpRR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083307016148443136/pl/ADN24dNNh5BMU-x1.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2083306488798523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlkNrcaMAAEWLX.jpg",
+        "width": 2160
+      },
+      {
+        "height": 324,
+        "media_key": "3_2083306488798568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlkNrca4AAq1j6.jpg",
+        "width": 182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083307016148443136",
+            "3_2083306488798523392",
+            "3_2083306488798568448"
+          ]
+        },
+        "author_id": "81332842",
+        "conversation_id": "2083307033345057013",
+        "created_at": "2026-07-31T21:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:39:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083306660899205621",
+          "2083307033345057013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 48,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "13_2083307016148443136",
+              "start": 25,
+              "url": "https://t.co/Gfy9PpLL6c"
+            },
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 48,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "3_2083306488798523392",
+              "start": 25,
+              "url": "https://t.co/Gfy9PpLL6c"
+            },
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 48,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "3_2083306488798568448",
+              "start": 25,
+              "url": "https://t.co/Gfy9PpLL6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083307033345057013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4102,
+          "impression_count": 1177682,
+          "like_count": 16569,
+          "quote_count": 67,
+          "reply_count": 152,
+          "retweet_count": 1285
+        },
+        "reply_settings": "following",
+        "text": "ヤニねこの例のシーン再現してたらアホ毛が逝った😇 https://t.co/Gfy9PpLL6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083307016148443136",
+            "3_2083306488798523392",
+            "3_2083306488798568448"
+          ],
+          "media_source_tweet_id": [
+            "2083307033345057013",
+            "2083307033345057013",
+            "2083307033345057013"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2083439577809973293",
+        "created_at": "2026-08-01T06:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083439577809973293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "81332842",
+              "start": 3,
+              "username": "kiku1569"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 62,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "13_2083307016148443136",
+              "start": 39,
+              "url": "https://t.co/Gfy9PpLL6c"
+            },
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 62,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "3_2083306488798523392",
+              "start": 39,
+              "url": "https://t.co/Gfy9PpLL6c"
+            },
+            {
+              "display_url": "pic.x.com/Gfy9PpLL6c",
+              "end": 62,
+              "expanded_url": "https://x.com/kiku1569/status/2083307033345057013/video/1",
+              "media_key": "3_2083306488798568448",
+              "start": 39,
+              "url": "https://t.co/Gfy9PpLL6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083439577809973293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083307033345057013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kiku1569: ヤニねこの例のシーン再現してたらアホ毛が逝った😇 https://t.co/Gfy9PpLL6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 1181,
+          "like_count": 7888,
+          "listed_count": 9,
+          "media_count": 930,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-10T11:08:31.000Z",
+        "description": "JBA認定ﾊﾞﾘｽﾀのお絵描きﾏﾝLv.43｜☕️🐈‍⬛2TAIL COFFEE @renmericat｜🎨 @yurutin1569｜✉️お仕事ご依頼▷ kiku1569@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "renmericat"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "yurutin1569"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kiku1569",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kiku1569",
+                "start": 0,
+                "url": "https://t.co/l5wA9jxxrw"
+              }
+            ]
+          }
+        },
+        "id": "81332842",
+        "location": "同人社團：1569｜⚠️Don't re-upload.",
+        "name": "菊壱🥩C108①南1-q02b／②南2-j11a｜WCS日曜｜🇲🇾Animangaki",
+        "pinned_tweet_id": "2009586403408318641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940142421473468416/sM48vcVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84329,
+          "following_count": 2274,
+          "like_count": 108764,
+          "listed_count": 617,
+          "media_count": 16089,
+          "tweet_count": 232563
+        },
+        "url": "https://t.co/l5wA9jxxrw",
+        "username": "kiku1569",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2089398737949069650",
+    "created_at": "2026-08-17T18:25:21.000Z",
+    "display_text_range": [
+      21,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089418319271227676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 20,
+          "id": "1882697857393893376",
+          "start": 6,
+          "username": "8964reckless_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089418319271227676",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089418114643444196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @8964reckless_ 这么b鬼贵我去买ikea鲨鲨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2089398737949069650",
+        "created_at": "2026-08-17T18:25:21.000Z",
+        "display_text_range": [
+          21,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089418319271227676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 20,
+              "id": "1882697857393893376",
+              "start": 6,
+              "username": "8964reckless_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089418319271227676",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089418114643444196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @8964reckless_ 这么b鬼贵我去买ikea鲨鲨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2089398737949069650",
+        "created_at": "2026-08-17T18:24:32.000Z",
+        "display_text_range": [
+          28,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089418114643444196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 27,
+              "id": "1882697857393893376",
+              "start": 13,
+              "username": "8964reckless_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Pusheen is softer and rounder than ever before in a trio of new colors! See more at Pusheen Shop!",
+              "display_url": "shop.pusheen.com/products/pushe…",
+              "end": 107,
+              "expanded_url": "https://shop.pusheen.com/products/pusheen-sub-sandwich-squisheen-plush",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/2063669171444178944/ZIRJ__Kh?format=jpg&name=orig",
+                  "width": 853
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063669171444178944/ZIRJ__Kh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "Pusheen Sub Sandwich Squisheen Plush",
+              "unwound_url": "https://shop.pusheen.com/products/pusheen-sub-sandwich-squisheen-plush",
+              "url": "https://t.co/EiwE9ZMxjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089418114643444196",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089417980119842958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @8964reckless_ 这是Pusheen官方店的Sub Sandwich Squisheen毛绒，11寸，33美元，有货。\n直接去买：https://t.co/EiwE9ZMxjr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089418319271227676",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 1197,
+          "like_count": 8545,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089418324140597723",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8976210,
+          "following_count": 6,
+          "like_count": 131,
+          "listed_count": 7370,
+          "media_count": 9268131,
+          "tweet_count": 136251327
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n皮套@8964_xy11\n我的抑郁症都是听摇滚闹的西方资本主义咋这么坏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "is_identity_verified": false,
+        "location": "Nowhere",
+        "most_recent_tweet_id": "2089401095730921747",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2085481918330712418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882697857393893376/1770272250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085147109670739968/JKQHFoHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 524,
+          "like_count": 9423,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3921
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

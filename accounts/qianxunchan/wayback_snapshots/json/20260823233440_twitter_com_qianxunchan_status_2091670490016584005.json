@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091670490016584005",
+    "created_at": "2026-08-23T23:34:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091670490016584005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091670490016584005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091513944351670475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 神了，有人已经开始当Codex的星怒了😂\n\n有人真的把自己接进了 Codex 的 Agent Loop。\n\n而且不是接机械臂，也不是接机器人。\n\n是接了一个……会让人身体有反应的小玩具。\n\n作者让 Codex + GPT-5.5 扮演 RPG 里的「…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2091513922725847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaM1NbboAAvmNs.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091513922696392704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaM1NUaMAAPUIO.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091670490016584005",
+        "created_at": "2026-08-23T23:34:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091670490016584005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091670490016584005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091513944351670475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 神了，有人已经开始当Codex的星怒了😂\n\n有人真的把自己接进了 Codex 的 Agent Loop。\n\n而且不是接机械臂，也不是接机器人。\n\n是接了一个……会让人身体有反应的小玩具。\n\n作者让 Codex + GPT-5.5 扮演 RPG 里的「…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091513922725847040",
+            "3_2091513922696392704"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2091513944351670475",
+        "created_at": "2026-08-23T13:12:37.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091513944351670475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQPv8IQEzG",
+              "end": 177,
+              "expanded_url": "https://x.com/MaxForAI/status/2091513944351670475/photo/1",
+              "media_key": "3_2091513922725847040",
+              "start": 154,
+              "url": "https://t.co/zQPv8IQEzG"
+            },
+            {
+              "display_url": "pic.x.com/zQPv8IQEzG",
+              "end": 177,
+              "expanded_url": "https://x.com/MaxForAI/status/2091513944351670475/photo/1",
+              "media_key": "3_2091513922696392704",
+              "start": 154,
+              "url": "https://t.co/zQPv8IQEzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091513944351670475",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091513922725847040"
+          },
+          {
+            "media_key": "3_2091513922696392704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "神了，有人已经开始当Codex的星怒了😂\n\n有人真的把自己接进了 Codex 的 Agent Loop。\n\n而且不是接机械臂，也不是接机器人。\n\n是接了一个……会让人身体有反应的小玩具。\n\n作者让 Codex + GPT-5.5 扮演 RPG 里的「触手怪」，iPhone 摄像头实时观察自己的姿势和反应。\n\n模型看一眼画面，判断你现在是什么状态。\n\n然后直接下指令：\n\nESP32-S3 → 蓝牙设备 → 你。\n\n你一动，摄像头又看到了。\n\n模型再根据你的反应，决定下一步该怎么折腾。\n\n于是整个系统变成了：\n\nAI 看你\n↓\nAI 判断你\n↓\nAI 控制设备\n↓\n你产生反应\n↓\nAI 继续看你\n↓\n再调整力度和节奏\n\n最变态的是，这还不是一轮一轮玩的。\n\n作者专门做了异步控制，设备在工作的同时，Codex 还在继续观察新的画面。\n\n也就是说，AI 可以一边弄玩弄你，一边看你的反应，再实时改变下一步。\n\n设备本身原来只能手机 App 控制，作者觉得这显然不够赛博，于是干脆把 BLE 协议逆向了，让 ESP32 直接接管。\n\n用一个 iPhone、一个 ESP32，再加 Codex，硬生生做出了一个：\n\n以自己身体作为环境反馈的具身 Agent（真的具身智能）\n\n别人研究具身智能：\n\n机械臂、机器人、灵巧手。\n\n民间开发者研究具身智能：\n\n先让 AI 学会怎么把自己玩明白。\n\n只能说，AI 进入物理世界之后，人类最先探索的应用方向，果然从来不会让人失望。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 118543,
+          "like_count": 899,
+          "quote_count": 30,
+          "reply_count": 100,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "神了，有人已经开始当Codex的星怒了😂\n\n有人真的把自己接进了 Codex 的 Agent Loop。\n\n而且不是接机械臂，也不是接机器人。\n\n是接了一个……会让人身体有反应的小玩具。\n\n作者让 Codex + GPT-5.5 扮演 RPG 里的「触手怪」，iPhone 摄像头实时观察自己的姿势和反应。 https://t.co/zQPv8IQEzG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091670490016584005",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 1202,
+          "like_count": 8697,
+          "listed_count": 10,
+          "media_count": 1025,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "lobehub"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "listenhub"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091649076786012345",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32004,
+          "following_count": 2781,
+          "like_count": 21997,
+          "listed_count": 285,
+          "media_count": 1450,
+          "tweet_count": 10090
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2090613359020564562",
+    "created_at": "2026-08-21T01:38:10.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090614403364511966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090614403364511966",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090614271046815932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 你不说是吧，好就是你了，你刚刚订我好玩吗😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2090613359020564562",
+        "created_at": "2026-08-21T01:38:10.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090614403364511966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090614403364511966",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090614271046815932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 你不说是吧，好就是你了，你刚刚订我好玩吗😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688792465292374016",
+        "conversation_id": "2090613359020564562",
+        "created_at": "2026-08-21T01:37:38.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090614271046815932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090614271046815932",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090613359020564562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 羡慕蚊子🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2090614403364511966",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1198,
+          "like_count": 8664,
+          "listed_count": 9,
+          "media_count": 1017,
+          "tweet_count": 3978
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰滋賀県民😁｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微啦拜托fo我嘛)🥺｜防失联@tsurumi_37400 （会回！）｜魔裁/Mu/Go/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜bsky同名同ID｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9oi7"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "is_identity_verified": false,
+        "location": "滋賀県",
+        "most_recent_tweet_id": "2090614271046815932",
+        "name": "中井鶴見",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688792465292374016/1784302086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 627,
+          "like_count": 88180,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/QrtZ8v9oi7",
+        "username": "unitedly_37400",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

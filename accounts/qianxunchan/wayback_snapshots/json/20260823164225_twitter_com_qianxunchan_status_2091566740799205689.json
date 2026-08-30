@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091555629064446174",
+    "created_at": "2026-08-23T16:42:25.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091566740799205689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686914633314013184",
+          "start": 0,
+          "username": "KTD593yug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091566740799205689",
+    "in_reply_to_user_id": "1686914633314013184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091564495231717416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KTD593yug 抱住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091555629064446174",
+        "created_at": "2026-08-23T16:42:25.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091566740799205689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091566740799205689",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091564495231717416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTD593yug 抱住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2091555629064446174",
+        "created_at": "2026-08-23T16:33:29.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091564495231717416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091564495231717416",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091555629064446174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 抱抱喵～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091566740799205689",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 1201,
+          "like_count": 8687,
+          "listed_count": 10,
+          "media_count": 1023,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | ngl链接放下面了，没事可来骚扰我 | 简介不定期更新喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ktd593yug2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ktd593yug2",
+                "start": 0,
+                "url": "https://t.co/YXjGpG7bQx"
+              }
+            ]
+          }
+        },
+        "id": "1686914633314013184",
+        "is_identity_verified": false,
+        "location": "-13cm",
+        "most_recent_tweet_id": "2091566710621192376",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2082521478667588031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686914633314013184/1779459418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 354,
+          "like_count": 10372,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/YXjGpG7bQx",
+        "username": "KTD593yug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

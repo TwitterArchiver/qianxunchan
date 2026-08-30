@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2083721508564914486",
+    "created_at": "2026-08-02T23:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084063074483605867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024676740430516225",
+          "start": 0,
+          "username": "WeiYi88890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084063074483605867",
+    "in_reply_to_user_id": "2024676740430516225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083895190650069428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiYi88890 我不在美国我怎么收信那么快🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2083721508564914486",
+        "created_at": "2026-08-02T23:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084063074483605867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024676740430516225",
+              "start": 0,
+              "username": "WeiYi88890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084063074483605867",
+        "in_reply_to_user_id": "2024676740430516225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083895190650069428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiYi88890 我不在美国我怎么收信那么快🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024676740430516225",
+        "conversation_id": "2083721508564914486",
+        "created_at": "2026-08-02T12:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083895190650069428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083895190650069428",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083721508564914486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 你在美国吗？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1181,
+          "like_count": 7925,
+          "listed_count": 9,
+          "media_count": 934,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T02:45:47.000Z",
+        "description": "好人一生平安！",
+        "id": "2024676740430516225",
+        "name": "维易",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063162068954656768/jcbn1RHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1079,
+          "like_count": 647,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "WeiYi88890",
+        "verified": true
+      }
+    ]
+  }
+}

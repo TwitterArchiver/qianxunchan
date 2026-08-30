@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089297303027040460",
+    "created_at": "2026-08-17T18:24:56.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089418214669500631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089418214669500631",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089297303027040460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 传统语言交流方式😋让我们变成三体人吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_2089297292037926912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6s0UobMAA7zZ2.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089297303027040460",
+        "created_at": "2026-08-17T18:24:56.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089418214669500631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089418214669500631",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089297303027040460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 传统语言交流方式😋让我们变成三体人吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089297292037926912"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089297303027040460",
+        "created_at": "2026-08-17T10:24:28.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089297303027040460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2zD84xGDB",
+              "end": 42,
+              "expanded_url": "https://x.com/__fanqie__/status/2089297303027040460/photo/1",
+              "media_key": "3_2089297292037926912",
+              "start": 19,
+              "url": "https://t.co/p2zD84xGDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089297303027040460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089297292037926912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5869,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从地球上删除一样东西，你会删除什么？ https://t.co/p2zD84xGDB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089418214669500631",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 1197,
+          "like_count": 8544,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2089301170343088159",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2088928458567217357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13198,
+          "following_count": 2773,
+          "like_count": 1626,
+          "listed_count": 26,
+          "media_count": 2709,
+          "tweet_count": 11658
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

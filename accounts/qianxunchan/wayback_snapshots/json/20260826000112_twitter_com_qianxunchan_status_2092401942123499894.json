@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2092258195305845183",
+    "created_at": "2026-08-26T00:01:12.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T01:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092401942123499894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092401942123499894",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092258195305845183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj 我愿意嫁给杯子，它天天安慰我咪😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 329,
+        "media_key": "3_2092110707882086400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQirmrYaUAAjd_H.jpg",
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2092258195305845183",
+        "created_at": "2026-08-26T00:01:12.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092401942123499894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092401942123499894",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092258195305845183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 我愿意嫁给杯子，它天天安慰我咪😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092110707882086400"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "conversation_id": "2092258195305845183",
+        "created_at": "2026-08-25T14:30:00.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092258195305845183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hbQUyGPuP",
+              "end": 165,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2092258195305845183/photo/1",
+              "media_key": "3_2092110707882086400",
+              "start": 142,
+              "url": "https://t.co/9hbQUyGPuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092258195305845183",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092110707882086400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "如果不考虑物种，我真的愿意嫁给被子。被子已经满足了我对对象所有的幻想。\n首先，她一米八九大高个，性格温柔体贴，总是静静地在家等我。和她在一起的时间是让我最舒服的，哪怕我对她拳打脚踢，也从不生气，从不还手。\n其次，她能给我足够的安全感。害怕的时候就躲进被子里，伤心难过她还帮我擦眼泪。\n最重要的是，我对她知根知底。她待我始终如一，无论我贫穷还是富有，高矮还是胖瘦，她都不嫌弃。每次钻进她的怀里，我都能清楚地闻到她身上属于我的味道。即便她不善言辞，但我知道我就是她的全世界。爱你老被。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4325,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果不考虑物种，我真的愿意嫁给被子。被子已经满足了我对对象所有的幻想。\n首先，她一米八九大高个，性格温柔体贴，总是静静地在家等我。和她在一起的时间是让我最舒服的，哪怕我对她拳打脚踢，也从不生气，从不还手。\n其次，她能给我足够的安全感。害怕的时候就躲进被子里，伤心难过她还帮我擦眼泪。 https://t.co/9hbQUyGPuP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2092401942123499894",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 1208,
+          "like_count": 8769,
+          "listed_count": 10,
+          "media_count": 1038,
+          "tweet_count": 4117
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2092378378389340331",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1406,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 579,
+          "tweet_count": 6035
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

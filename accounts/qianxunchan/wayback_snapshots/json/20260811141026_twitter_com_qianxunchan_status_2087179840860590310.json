@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085900232349609984"
+      ],
+      "media_source_tweet_id": [
+        "2087131919699816612"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087179840860590310",
+    "created_at": "2026-08-11T14:10:26.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087179840860590310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpkRHKPPj0",
+          "end": 104,
+          "expanded_url": "https://x.com/JanboMikan/status/2087131919699816612/photo/1",
+          "media_key": "3_2085900232349609984",
+          "start": 81,
+          "url": "https://t.co/lpkRHKPPj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087179840860590310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2085900232349609984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087131919699816612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 我：医生，我想做性别重置手术。\n医生：你考虑清楚了吗？\n我：考虑清楚了，我已经想了四十年。\n医生：你才二十岁。\n我：上辈子也是。 https://t.co/lpkRHKPPj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2085900232349609984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKbNbIacAAao3T.jpg",
+        "width": 1646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085900232349609984"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2087131919699816612",
+        "created_at": "2026-08-11T11:00:01.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087131919699816612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpkRHKPPj0",
+              "end": 88,
+              "expanded_url": "https://x.com/JanboMikan/status/2087131919699816612/photo/1",
+              "media_key": "3_2085900232349609984",
+              "start": 65,
+              "url": "https://t.co/lpkRHKPPj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087131919699816612",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085900232349609984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3746,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我：医生，我想做性别重置手术。\n医生：你考虑清楚了吗？\n我：考虑清楚了，我已经想了四十年。\n医生：你才二十岁。\n我：上辈子也是。 https://t.co/lpkRHKPPj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085900232349609984"
+          ],
+          "media_source_tweet_id": [
+            "2087131919699816612"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087179840860590310",
+        "created_at": "2026-08-11T14:10:26.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087179840860590310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpkRHKPPj0",
+              "end": 104,
+              "expanded_url": "https://x.com/JanboMikan/status/2087131919699816612/photo/1",
+              "media_key": "3_2085900232349609984",
+              "start": 81,
+              "url": "https://t.co/lpkRHKPPj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087179840860590310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085900232349609984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087131919699816612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 我：医生，我想做性别重置手术。\n医生：你考虑清楚了吗？\n我：考虑清楚了，我已经想了四十年。\n医生：你才二十岁。\n我：上辈子也是。 https://t.co/lpkRHKPPj0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087179840860590310",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1195,
+          "like_count": 8129,
+          "listed_count": 9,
+          "media_count": 966,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2087131919699816612",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16147,
+          "following_count": 622,
+          "like_count": 22031,
+          "listed_count": 53,
+          "media_count": 396,
+          "tweet_count": 11784
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2092543620654219408",
+    "created_at": "2026-08-26T09:24:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092543620654219408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600208165269741570",
+          "start": 3,
+          "username": "CatherinaMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092543620654219408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092523246168285368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatherinaMeow: 墨尔本的治安极其离谱\n\n2026.8.26 15:21 有个人进入了我的屋子盗窃\n\n在Waverley Road, Malvern East\n\n丢失两个钱包 一个蓝色袋子 人民币约2k 港币约2k 澳大利亚刀约500 驾照 无线电执照 AH…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2092523239151198208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoizKHbYAAOeTl.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2092523239151124480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoizKHaQAAWOe1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2092543620654219408",
+        "created_at": "2026-08-26T09:24:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092543620654219408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600208165269741570",
+              "start": 3,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092543620654219408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092523246168285368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatherinaMeow: 墨尔本的治安极其离谱\n\n2026.8.26 15:21 有个人进入了我的屋子盗窃\n\n在Waverley Road, Malvern East\n\n丢失两个钱包 一个蓝色袋子 人民币约2k 港币约2k 澳大利亚刀约500 驾照 无线电执照 AH…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092523239151198208",
+            "3_2092523239151124480"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092523246168285368",
+        "created_at": "2026-08-26T08:03:13.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092523246168285368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNLBLVsnvS",
+              "end": 165,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2092523246168285368/photo/1",
+              "media_key": "3_2092523239151198208",
+              "start": 142,
+              "url": "https://t.co/UNLBLVsnvS"
+            },
+            {
+              "display_url": "pic.x.com/UNLBLVsnvS",
+              "end": 165,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2092523246168285368/photo/1",
+              "media_key": "3_2092523239151124480",
+              "start": 142,
+              "url": "https://t.co/UNLBLVsnvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092523246168285368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092523239151198208"
+          },
+          {
+            "media_key": "3_2092523239151124480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 949,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "墨尔本的治安极其离谱\n\n2026.8.26 15:21 有个人进入了我的屋子盗窃\n\n在Waverley Road, Malvern East\n\n丢失两个钱包 一个蓝色袋子 人民币约2k 港币约2k 澳大利亚刀约500 驾照 无线电执照 AHA证书 银行卡信用卡若干\n\n什么小概率圣体 https://t.co/UNLBLVsnvS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2092543620654219408",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 1208,
+          "like_count": 8789,
+          "listed_count": 10,
+          "media_count": 1041,
+          "tweet_count": 4138
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092534136003273071",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7437,
+          "following_count": 1083,
+          "like_count": 93874,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27660
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

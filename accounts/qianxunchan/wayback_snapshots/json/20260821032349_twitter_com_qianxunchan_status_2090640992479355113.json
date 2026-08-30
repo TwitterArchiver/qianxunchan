@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090309636498825216"
+      ],
+      "media_source_tweet_id": [
+        "2090309722507247678"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2090640992479355113",
+    "created_at": "2026-08-21T03:23:49.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090640992479355113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954431308",
+          "start": 3,
+          "username": "elvismvoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbhH9ZRrea",
+          "end": 43,
+          "expanded_url": "https://x.com/prince_keli/status/2090309722507247678/video/1",
+          "media_key": "13_2090309636498825216",
+          "start": 20,
+          "url": "https://t.co/mbhH9ZRrea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090640992479355113",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2090309636498825216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11011
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090446656411943003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elvismvoi: 😅😅😂😂 https://t.co/mbhH9ZRrea"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 832,
+        "media_key": "13_2090309636498825216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090309636498825216/img/ZIMb4UUlm5yfKH7m.jpg",
+        "public_metrics": {
+          "view_count": 2067318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090309636498825216/vid/avc1/320x572/RzfgOCNn50rBPMVt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090309636498825216/vid/avc1/464x832/A7ea7CTgqmFXAppW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090309636498825216/pl/U-90TU5T5_4BCvkq.m3u8?v=640"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090309636498825216"
+          ],
+          "media_source_tweet_id": [
+            "2090309722507247678"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2090640992479355113",
+        "created_at": "2026-08-21T03:23:49.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090640992479355113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954431308",
+              "start": 3,
+              "username": "elvismvoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbhH9ZRrea",
+              "end": 43,
+              "expanded_url": "https://x.com/prince_keli/status/2090309722507247678/video/1",
+              "media_key": "13_2090309636498825216",
+              "start": 20,
+              "url": "https://t.co/mbhH9ZRrea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090640992479355113",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2090309636498825216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11011
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090446656411943003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elvismvoi: 😅😅😂😂 https://t.co/mbhH9ZRrea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090309636498825216"
+          ],
+          "media_source_tweet_id": [
+            "2090309722507247678"
+          ]
+        },
+        "author_id": "1954431308",
+        "conversation_id": "2090446656411943003",
+        "created_at": "2026-08-20T14:31:36.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090446656411943003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbhH9ZRrea",
+              "end": 28,
+              "expanded_url": "https://x.com/prince_keli/status/2090309722507247678/video/1",
+              "media_key": "13_2090309636498825216",
+              "start": 5,
+              "url": "https://t.co/mbhH9ZRrea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090446656411943003",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2090309636498825216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14953,
+          "impression_count": 3608089,
+          "like_count": 69108,
+          "quote_count": 707,
+          "reply_count": 672,
+          "retweet_count": 11011
+        },
+        "reply_settings": "everyone",
+        "text": "😅😅😂😂 https://t.co/mbhH9ZRrea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090309636498825216"
+          ]
+        },
+        "author_id": "1237424650696753156",
+        "conversation_id": "2090309722507247678",
+        "created_at": "2026-08-20T05:27:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090309722507247678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFZKcItY2l",
+              "end": 36,
+              "expanded_url": "https://x.com/prince_keli/status/2090309722507247678/video/1",
+              "media_key": "13_2090309636498825216",
+              "start": 13,
+              "url": "https://t.co/SFZKcItY2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090309722507247678",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090309636498825216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4003,
+          "impression_count": 2884935,
+          "like_count": 15406,
+          "quote_count": 175,
+          "reply_count": 134,
+          "retweet_count": 2887
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning https://t.co/SFZKcItY2l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2090640992479355113",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1198,
+          "like_count": 8667,
+          "listed_count": 9,
+          "media_count": 1019,
+          "tweet_count": 3985
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-10-11T15:28:11.000Z",
+        "description": "Behind every unforgettable creator is someone calling the shots. 😉 Managing @MaskedAura_\n\nArsenal since 2002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "MaskedAura_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "renapr.com",
+                "end": 23,
+                "expanded_url": "https://renapr.com/",
+                "start": 0,
+                "url": "https://t.co/FHeRmLTU5N"
+              }
+            ]
+          }
+        },
+        "id": "1954431308",
+        "is_identity_verified": false,
+        "location": "Dallas, TX",
+        "most_recent_tweet_id": "2090640608708682002",
+        "name": "Elvis Mvoi",
+        "pinned_tweet_id": "2090446656411943003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954431308/1779667163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079298208438652928/iJng9CTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44974,
+          "following_count": 26954,
+          "like_count": 155959,
+          "listed_count": 62,
+          "media_count": 4693,
+          "tweet_count": 214145
+        },
+        "url": "https://t.co/FHeRmLTU5N",
+        "username": "elvismvoi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

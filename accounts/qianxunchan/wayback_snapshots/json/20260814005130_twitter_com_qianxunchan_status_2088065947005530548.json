@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087934139542405598",
+    "created_at": "2026-08-14T00:51:30.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088065947005530548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088065947005530548",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087934139542405598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 打投诉电话喵，应该很快会有移动发电车来😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087934139542405598",
+        "created_at": "2026-08-14T00:51:30.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088065947005530548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088065947005530548",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087934139542405598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 打投诉电话喵，应该很快会有移动发电车来😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2087934139542405598",
+        "created_at": "2026-08-13T16:07:45.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087934139542405598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087934139542405598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知喵，因为我们这边电线久失修无人维护今天直接塌了，原本也没什么，但是他的旁边是树，把树压断了！连带着我们这边的电网全部都瘫痪了，大概要两三天才能好，这应该是我最后一条帖子了我手机还有三格电，爱你们后天见😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2088065947005530548",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 1195,
+          "like_count": 8231,
+          "listed_count": 9,
+          "media_count": 981,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖🍬/药物咨询🍥\nqq1621320515 微信admin22334",
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2087934139542405598",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 488,
+          "like_count": 6959,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 3242
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

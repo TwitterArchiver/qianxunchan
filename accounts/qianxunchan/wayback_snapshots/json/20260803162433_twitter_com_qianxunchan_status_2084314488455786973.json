@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084314485578489856"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084294222891438479",
+    "created_at": "2026-08-03T16:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084314488455786973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNRUrjlJM6",
+          "end": 41,
+          "expanded_url": "https://x.com/qianxunchan/status/2084314488455786973/photo/1",
+          "media_key": "3_2084314485578489856",
+          "start": 18,
+          "url": "https://t.co/GNRUrjlJM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084314488455786973",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084294222891438479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microcharon 喵😣😖😭 https://t.co/GNRUrjlJM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2084314485578489856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz4-0EbYAAHYin.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2084294214297546752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzmi3qbcAAxiUZ.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084314485578489856"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084294222891438479",
+        "created_at": "2026-08-03T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084314488455786973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNRUrjlJM6",
+              "end": 41,
+              "expanded_url": "https://x.com/qianxunchan/status/2084314488455786973/photo/1",
+              "media_key": "3_2084314485578489856",
+              "start": 18,
+              "url": "https://t.co/GNRUrjlJM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084314488455786973",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084294222891438479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microcharon 喵😣😖😭 https://t.co/GNRUrjlJM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084294214297546752"
+          ]
+        },
+        "author_id": "1915233729720770560",
+        "conversation_id": "2084294222891438479",
+        "created_at": "2026-08-03T15:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084294222891438479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nb0eBujRjE",
+              "end": 53,
+              "expanded_url": "https://x.com/microcharon/status/2084294222891438479/photo/1",
+              "media_key": "3_2084294214297546752",
+              "start": 30,
+              "url": "https://t.co/Nb0eBujRjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084294222891438479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我拿到 itin，就換成美區支付拿老馬的 x money https://t.co/Nb0eBujRjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1182,
+          "like_count": 7944,
+          "listed_count": 9,
+          "media_count": 936,
+          "tweet_count": 3339
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Avant-Garde Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "https://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/HNrqQNZ4IJ"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "location": "Germany",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074715450437681152/AOJfPzje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 591,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/HNrqQNZ4IJ",
+        "username": "microcharon",
+        "verified": true
+      }
+    ]
+  }
+}

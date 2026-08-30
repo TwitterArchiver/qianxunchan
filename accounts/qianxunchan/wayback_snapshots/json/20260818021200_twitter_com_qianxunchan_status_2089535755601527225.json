@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089304099045159119",
+    "created_at": "2026-08-18T02:12:00.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089535755601527225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089535755601527225",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089534697806393466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing 你看私信我给你发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089304099045159119",
+        "created_at": "2026-08-18T02:12:00.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089535755601527225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089535755601527225",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089534697806393466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing 你看私信我给你发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2089304099045159119",
+        "created_at": "2026-08-18T02:07:48.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089534697806393466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089534697806393466",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089389309455728699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 为什么会有鸽子叫（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089535755601527225",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 1201,
+          "like_count": 8580,
+          "listed_count": 9,
+          "media_count": 1004,
+          "tweet_count": 3916
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "is_identity_verified": false,
+        "location": "卡兹屯口垃姬桶",
+        "most_recent_tweet_id": "2089534697806393466",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527114974841012225/1783434915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074502462749507584/u9v96f39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 848,
+          "like_count": 7517,
+          "listed_count": 16,
+          "media_count": 363,
+          "tweet_count": 7248
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

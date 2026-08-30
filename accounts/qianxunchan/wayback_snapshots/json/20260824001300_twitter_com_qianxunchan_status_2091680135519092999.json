@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091511369640386607",
+    "created_at": "2026-08-24T00:13:00.000Z",
+    "display_text_range": [
+      14,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091680135519092999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345706318703722496",
+          "start": 0,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091680135519092999",
+    "in_reply_to_user_id": "1345706318703722496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091511369640386607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OriyukiAkari 我单单首发买的app3 就换了 3 次，第一次出场就少一个耳塞，第二次蜂鸣声，第三次也是蜂鸣声😵‍💫我可以说app3 是苹果品控我见过最💩的了没有之一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2091511351357378561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaKfiVakAEJGj1.jpg",
+        "width": 2622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091511369640386607",
+        "created_at": "2026-08-24T00:13:00.000Z",
+        "display_text_range": [
+          14,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091680135519092999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091680135519092999",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091511369640386607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OriyukiAkari 我单单首发买的app3 就换了 3 次，第一次出场就少一个耳塞，第二次蜂鸣声，第三次也是蜂鸣声😵‍💫我可以说app3 是苹果品控我见过最💩的了没有之一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091511351357378561"
+          ]
+        },
+        "author_id": "1345706318703722496",
+        "conversation_id": "2091511369640386607",
+        "created_at": "2026-08-23T13:02:23.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091511369640386607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUqVOrg5Gh",
+              "end": 72,
+              "expanded_url": "https://x.com/OriyukiAkari/status/2091511369640386607/photo/1",
+              "media_key": "3_2091511351357378561",
+              "start": 49,
+              "url": "https://t.co/jUqVOrg5Gh"
+            },
+            {
+              "display_url": "x.com/oriyukiakari/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/oriyukiakari/status/2091431914305724635",
+              "start": 73,
+              "url": "https://t.co/bMxmvuV27Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091511369640386607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091511351357378561"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091431914305724635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去苹果的理由很简单\n刚激活两周的配件MagSafe cable\nC口的地方线头已经开裂见铁了。。 https://t.co/jUqVOrg5Gh https://t.co/bMxmvuV27Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091680135519092999",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 1204,
+          "like_count": 8699,
+          "listed_count": 10,
+          "media_count": 1025,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "is_identity_verified": false,
+        "location": "P.R.China",
+        "most_recent_tweet_id": "2091561210269561225",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345706318703722496/1756508109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090716648219041792/bJoTwMlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 108,
+          "like_count": 8319,
+          "listed_count": 6,
+          "media_count": 665,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087183599644889113",
+    "created_at": "2026-08-11T16:13:33.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087210823899079109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999478342459031552",
+          "start": 0,
+          "username": "SuzanneS96800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087210823899079109",
+    "in_reply_to_user_id": "1999478342459031552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087210173249257750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzanneS96800 你日尼玛去草泥马傻逼东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087183599644889113",
+        "created_at": "2026-08-11T16:13:33.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087210823899079109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999478342459031552",
+              "start": 0,
+              "username": "SuzanneS96800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087210823899079109",
+        "in_reply_to_user_id": "1999478342459031552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087210173249257750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzanneS96800 你日尼玛去草泥马傻逼东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999478342459031552",
+        "conversation_id": "2087183599644889113",
+        "created_at": "2026-08-11T16:10:58.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087210173249257750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087210173249257750",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087183599644889113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan Take  \n只入身体👍👍不入生活。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087210823899079109",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1195,
+          "like_count": 8142,
+          "listed_count": 9,
+          "media_count": 968,
+          "tweet_count": 3599
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-12T13:56:22.000Z",
+        "description": "已入住约p平台,入口:👉 https://t.co/JoFz2CGA4v 每晚准时涩播，寻欢必备！福利大放送！安全+私密+线上👉@ASamuel9177远程指挥直播控制玩具，同城可线下！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "ASamuel9177"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "s0v3.top",
+                "end": 36,
+                "expanded_url": "https://s0v3.top",
+                "start": 13,
+                "url": "https://t.co/JoFz2CGA4v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s0v3.top",
+                "end": 23,
+                "expanded_url": "https://s0v3.top",
+                "start": 0,
+                "url": "https://t.co/JoFz2CGA4v"
+              }
+            ]
+          }
+        },
+        "id": "1999478342459031552",
+        "is_identity_verified": false,
+        "location": "5.2 公里",
+        "most_recent_tweet_id": "2087210633922261053",
+        "name": "甜糯米🍑找炮友🍑点主页🍑",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087210676704182272/U5Us04gv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/JoFz2CGA4v",
+        "username": "SuzanneS96800",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

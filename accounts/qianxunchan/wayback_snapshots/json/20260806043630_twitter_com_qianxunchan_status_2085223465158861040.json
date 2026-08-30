@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2085149271599559062",
+    "created_at": "2026-08-06T04:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085223465158861040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085223465158861040",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085206030565384570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 山姆的大鸡😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2085149271599559062",
+        "created_at": "2026-08-06T04:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085223465158861040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085223465158861040",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085206030565384570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 山姆的大鸡😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085149271599559062",
+        "created_at": "2026-08-06T03:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085206030565384570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085206030565384570",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085149271599559062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 看起来好有食欲😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1188,
+          "like_count": 8035,
+          "listed_count": 9,
+          "media_count": 949,
+          "tweet_count": 3431
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1430,
+          "like_count": 4159,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

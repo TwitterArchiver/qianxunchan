@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083742200417148929",
+        "3_2083742200421376000",
+        "3_2083742200417124352",
+        "3_2083742200412999680"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2083742204405965103",
+    "created_at": "2026-08-02T02:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083742204405965103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGTKl2gQNa",
+          "end": 37,
+          "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+          "media_key": "3_2083742200417148929",
+          "start": 14,
+          "url": "https://t.co/MGTKl2gQNa"
+        },
+        {
+          "display_url": "pic.x.com/MGTKl2gQNa",
+          "end": 37,
+          "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+          "media_key": "3_2083742200421376000",
+          "start": 14,
+          "url": "https://t.co/MGTKl2gQNa"
+        },
+        {
+          "display_url": "pic.x.com/MGTKl2gQNa",
+          "end": 37,
+          "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+          "media_key": "3_2083742200417124352",
+          "start": 14,
+          "url": "https://t.co/MGTKl2gQNa"
+        },
+        {
+          "display_url": "pic.x.com/MGTKl2gQNa",
+          "end": 37,
+          "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+          "media_key": "3_2083742200412999680",
+          "start": 14,
+          "url": "https://t.co/MGTKl2gQNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083742204405965103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "计算机圈也有自己的绯闻了😆 https://t.co/MGTKl2gQNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2083742200417148929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrwfbta4AEwXV3.jpg",
+        "width": 803
+      },
+      {
+        "height": 921,
+        "media_key": "3_2083742200421376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrwfbubYAAyigq.jpg",
+        "width": 943
+      },
+      {
+        "height": 1203,
+        "media_key": "3_2083742200417124352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrwfbtagAAPsTr.jpg",
+        "width": 1210
+      },
+      {
+        "height": 562,
+        "media_key": "3_2083742200412999680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrwfbsbkAAmv06.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083742200417148929",
+            "3_2083742200421376000",
+            "3_2083742200417124352",
+            "3_2083742200412999680"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2083742204405965103",
+        "created_at": "2026-08-02T02:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083742204405965103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGTKl2gQNa",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+              "media_key": "3_2083742200417148929",
+              "start": 14,
+              "url": "https://t.co/MGTKl2gQNa"
+            },
+            {
+              "display_url": "pic.x.com/MGTKl2gQNa",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+              "media_key": "3_2083742200421376000",
+              "start": 14,
+              "url": "https://t.co/MGTKl2gQNa"
+            },
+            {
+              "display_url": "pic.x.com/MGTKl2gQNa",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+              "media_key": "3_2083742200417124352",
+              "start": 14,
+              "url": "https://t.co/MGTKl2gQNa"
+            },
+            {
+              "display_url": "pic.x.com/MGTKl2gQNa",
+              "end": 37,
+              "expanded_url": "https://x.com/qianxunchan/status/2083742204405965103/photo/1",
+              "media_key": "3_2083742200412999680",
+              "start": 14,
+              "url": "https://t.co/MGTKl2gQNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083742204405965103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "计算机圈也有自己的绯闻了😆 https://t.co/MGTKl2gQNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 1182,
+          "like_count": 7911,
+          "listed_count": 9,
+          "media_count": 934,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

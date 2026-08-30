@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091939160269730110",
+    "created_at": "2026-08-25T00:53:16.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092052655388655713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436287470207832064",
+          "start": 0,
+          "username": "wuyuandev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092052655388655713",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091939160269730110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyuandev 🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2787,
+        "media_key": "3_2091939151054778368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgPkwZaMAA-29E.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091939160269730110",
+        "created_at": "2026-08-25T00:53:16.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092052655388655713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092052655388655713",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091939160269730110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091939151054778368"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091939160269730110",
+        "created_at": "2026-08-24T17:22:16.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091939160269730110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYzBce4TbA",
+              "end": 163,
+              "expanded_url": "https://x.com/wuyuandev/status/2091939160269730110/photo/1",
+              "media_key": "3_2091939151054778368",
+              "start": 140,
+              "url": "https://t.co/UYzBce4TbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091939160269730110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091939151054778368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我来说明下池鱼这边的情况，只是关于她说法的，不包括事情本身。\n\n在我加入space说话的时候，池鱼没有开麦过，但有另一位主持人在线，我完全可以在她不知道的时候获得麦权。\n\n被ban后是不能加入space的，所以可以确定她在我加入一次space后ban了我。\n\n我无权限去回帖。 https://t.co/UYzBce4TbA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2092052655388655713",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 1208,
+          "like_count": 8743,
+          "listed_count": 10,
+          "media_count": 1030,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大的高二在校生。\n\n私人 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间，你看冰霜璀璨。\n\n健全，情绪稳定，不O不割，面基无伤人记录，无安全风险。坐标长沙。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2092024174474850475",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 1132,
+          "like_count": 11832,
+          "listed_count": 10,
+          "media_count": 957,
+          "tweet_count": 4286
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

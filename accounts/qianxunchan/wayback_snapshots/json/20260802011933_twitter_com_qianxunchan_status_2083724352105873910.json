@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2083719298074444080",
+    "created_at": "2026-08-02T01:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083724352105873910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083724352105873910",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083724119217164509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras 小程序和web使用体验一样，就是塞的有点多😅吃成肥猪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2083719298074444080",
+        "created_at": "2026-08-02T01:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724352105873910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083724352105873910",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724119217164509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras 小程序和web使用体验一样，就是塞的有点多😅吃成肥猪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2083719298074444080",
+        "created_at": "2026-08-02T01:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724119217164509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083724119217164509",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083719298074444080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 200%……那得多少啊\n当然我还是很羡慕你的能在网页上点单我们大陆蜜雪都只有他妈的微信/支付宝小程序你没手机你还点不了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 1182,
+          "like_count": 7901,
+          "listed_count": 9,
+          "media_count": 933,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg Habilidades:Go,astro,pnpm,Linux,Vibe Código,前端,网络,西班牙语A1\n性格特点：直球的堪比西班牙人 拉美大手子 图灵的诅咒 梦到什么说什么 \"Reino de 炫压抑\" 谈崩专家不善言辞 身体不好 在线求操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Tortillas111",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Tortillas111",
+                "start": 0,
+                "url": "https://t.co/wa6FNzZep9"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "Grand Colombia",
+        "name": "Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2083562330823237851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 207,
+          "like_count": 7437,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 3372
+        },
+        "url": "https://t.co/wa6FNzZep9",
+        "username": "Com0loquieras",
+        "verified": true
+      }
+    ]
+  }
+}

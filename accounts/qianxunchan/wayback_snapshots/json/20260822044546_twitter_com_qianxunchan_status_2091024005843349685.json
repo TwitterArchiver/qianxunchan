@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2091024005843349685",
+    "created_at": "2026-08-22T04:45:46.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091024005843349685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1362960365055668225",
+          "start": 3,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091024005843349685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090966686984003586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @POI74103174: bro花了大几百万和几年的时间学性别研究把家里学到破产后把自己这辈子得到的所有好处权利的前提总结到了自己有根雕上面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2091024005843349685",
+        "created_at": "2026-08-22T04:45:46.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091024005843349685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1362960365055668225",
+              "start": 3,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091024005843349685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090966686984003586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @POI74103174: bro花了大几百万和几年的时间学性别研究把家里学到破产后把自己这辈子得到的所有好处权利的前提总结到了自己有根雕上面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2090966686984003586",
+        "created_at": "2026-08-22T00:58:01.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090966686984003586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090966686984003586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12827,
+          "like_count": 386,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "bro花了大几百万和几年的时间学性别研究把家里学到破产后把自己这辈子得到的所有好处权利的前提总结到了自己有根雕上面。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091024005843349685",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 1199,
+          "like_count": 8679,
+          "listed_count": 9,
+          "media_count": 1019,
+          "tweet_count": 3996
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "大变活🐧了（\n饲养员@penguinmomentjp\n日常/小市民；不友任何群体，\n爱具体的人。\n小号@POI74103175\n照片是高p本人长这样➡️🗿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWvUFT"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091006680574374124",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "2072552755491959130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362960365055668225/1776762875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4999,
+          "following_count": 331,
+          "like_count": 70661,
+          "listed_count": 17,
+          "media_count": 3360,
+          "tweet_count": 27244
+        },
+        "url": "https://t.co/XlV7pWvUFT",
+        "username": "POI74103174",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

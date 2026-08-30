@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087418703088636175",
+    "created_at": "2026-08-12T06:04:15.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087419875333697918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087419875333697918",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087418703088636175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 你给我带口球我怎么说话😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087418703088636175",
+        "created_at": "2026-08-12T06:04:15.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087419875333697918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087419875333697918",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087418703088636175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 你给我带口球我怎么说话😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "card_uri": "https://t.co/1FWvWlB4TC",
+        "conversation_id": "2087418703088636175",
+        "created_at": "2026-08-12T05:59:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087418703088636175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "曦夜今天吃什么’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKdR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKdRDRLeDpJW",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 在廉价汽车旅馆 喝酒吃零食 好无聊求有人聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1pKdRDRLeDpJW/peek",
+              "url": "https://t.co/1FWvWlB4TC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087418703088636175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1FWvWlB4TC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087419875333697918",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 1194,
+          "like_count": 8159,
+          "listed_count": 9,
+          "media_count": 973,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "活着就是为了听@TPROfficial\n坚信无依无靠就是无拘无束\n匿名提问箱和私信都会回复\n皮下@8964reckless_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "TPROfficial"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "8964reckless_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLU2uY"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "is_identity_verified": false,
+        "location": "Gladsheim ，Asgard",
+        "most_recent_tweet_id": "2087418703088636175",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2085209213383606475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1773435734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032562522243645440/zofg4AZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 983,
+          "like_count": 50571,
+          "listed_count": 11,
+          "media_count": 110,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/j6vldLU2uY",
+        "username": "8964_xy11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

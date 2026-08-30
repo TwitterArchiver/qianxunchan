@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084479162451177472",
+        "3_2084479162472153088",
+        "3_2084479162451173376",
+        "3_2084479162455306240"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2084469340150386899",
+    "created_at": "2026-08-04T03:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084479164816756972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrvUcTvYQR",
+          "end": 40,
+          "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+          "media_key": "3_2084479162451177472",
+          "start": 17,
+          "url": "https://t.co/zrvUcTvYQR"
+        },
+        {
+          "display_url": "pic.x.com/zrvUcTvYQR",
+          "end": 40,
+          "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+          "media_key": "3_2084479162472153088",
+          "start": 17,
+          "url": "https://t.co/zrvUcTvYQR"
+        },
+        {
+          "display_url": "pic.x.com/zrvUcTvYQR",
+          "end": 40,
+          "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+          "media_key": "3_2084479162451173376",
+          "start": 17,
+          "url": "https://t.co/zrvUcTvYQR"
+        },
+        {
+          "display_url": "pic.x.com/zrvUcTvYQR",
+          "end": 40,
+          "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+          "media_key": "3_2084479162455306240",
+          "start": 17,
+          "url": "https://t.co/zrvUcTvYQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084479164816756972",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084469340150386899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 略略略 https://t.co/zrvUcTvYQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2084479162451177472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2OwRObMAAvaBi.jpg",
+        "width": 1040
+      },
+      {
+        "height": 562,
+        "media_key": "3_2084479162472153088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2OwRTbQAA7Hc6.jpg",
+        "width": 720
+      },
+      {
+        "height": 1203,
+        "media_key": "3_2084479162451173376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2OwRObIAAC5ta.jpg",
+        "width": 1210
+      },
+      {
+        "height": 614,
+        "media_key": "3_2084479162455306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2OwRPaMAAoOSN.jpg",
+        "width": 803
+      },
+      {
+        "height": 590,
+        "media_key": "3_2084469334014091265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2F0Lca4AEBGlE.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084479162451177472",
+            "3_2084479162472153088",
+            "3_2084479162451173376",
+            "3_2084479162455306240"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2084469340150386899",
+        "created_at": "2026-08-04T03:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084479164816756972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrvUcTvYQR",
+              "end": 40,
+              "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+              "media_key": "3_2084479162451177472",
+              "start": 17,
+              "url": "https://t.co/zrvUcTvYQR"
+            },
+            {
+              "display_url": "pic.x.com/zrvUcTvYQR",
+              "end": 40,
+              "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+              "media_key": "3_2084479162472153088",
+              "start": 17,
+              "url": "https://t.co/zrvUcTvYQR"
+            },
+            {
+              "display_url": "pic.x.com/zrvUcTvYQR",
+              "end": 40,
+              "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+              "media_key": "3_2084479162451173376",
+              "start": 17,
+              "url": "https://t.co/zrvUcTvYQR"
+            },
+            {
+              "display_url": "pic.x.com/zrvUcTvYQR",
+              "end": 40,
+              "expanded_url": "https://x.com/qianxunchan/status/2084479164816756972/photo/1",
+              "media_key": "3_2084479162455306240",
+              "start": 17,
+              "url": "https://t.co/zrvUcTvYQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084479164816756972",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084469340150386899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 略略略 https://t.co/zrvUcTvYQR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084469334014091265"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2084469340150386899",
+        "created_at": "2026-08-04T02:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084469340150386899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6vyHXoTe6",
+              "end": 23,
+              "expanded_url": "https://x.com/tangeorange/status/2084469340150386899/photo/1",
+              "media_key": "3_2084469334014091265",
+              "start": 0,
+              "url": "https://t.co/O6vyHXoTe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084469340150386899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O6vyHXoTe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 1181,
+          "like_count": 7963,
+          "listed_count": 9,
+          "media_count": 940,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "i am not too dare to face the reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8k88z"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 2906,
+          "like_count": 9325,
+          "listed_count": 5,
+          "media_count": 1470,
+          "tweet_count": 9382
+        },
+        "url": "https://t.co/NqG6Q8k88z",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088958814871760896",
+        "3_2088958882215501824"
+      ],
+      "media_source_tweet_id": [
+        "2088959125199954258",
+        "2088959125199954258"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2089467673445052572",
+    "created_at": "2026-08-17T21:41:28.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089467673445052572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884546510919979008",
+          "start": 3,
+          "username": "iamThuja"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tAbtSvCRQM",
+          "end": 64,
+          "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+          "media_key": "3_2088958814871760896",
+          "start": 41,
+          "url": "https://t.co/tAbtSvCRQM"
+        },
+        {
+          "display_url": "pic.x.com/tAbtSvCRQM",
+          "end": 64,
+          "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+          "media_key": "3_2088958882215501824",
+          "start": 41,
+          "url": "https://t.co/tAbtSvCRQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089467673445052572",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088958814871760896"
+      },
+      {
+        "media_key": "3_2088958882215501824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088959125199954258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamThuja: 好的。隆重介绍我们寸头女装14岁非基辈药娘：核弹女士 https://t.co/tAbtSvCRQM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2088958814871760896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP14-W7aMAAUz0f.jpg",
+        "width": 720
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2088958882215501824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP15CRzaIAAkLMX.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088958814871760896",
+            "3_2088958882215501824"
+          ],
+          "media_source_tweet_id": [
+            "2088959125199954258",
+            "2088959125199954258"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2089467673445052572",
+        "created_at": "2026-08-17T21:41:28.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089467673445052572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884546510919979008",
+              "start": 3,
+              "username": "iamThuja"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAbtSvCRQM",
+              "end": 64,
+              "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+              "media_key": "3_2088958814871760896",
+              "start": 41,
+              "url": "https://t.co/tAbtSvCRQM"
+            },
+            {
+              "display_url": "pic.x.com/tAbtSvCRQM",
+              "end": 64,
+              "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+              "media_key": "3_2088958882215501824",
+              "start": 41,
+              "url": "https://t.co/tAbtSvCRQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089467673445052572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088958814871760896"
+          },
+          {
+            "media_key": "3_2088958882215501824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088959125199954258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamThuja: 好的。隆重介绍我们寸头女装14岁非基辈药娘：核弹女士 https://t.co/tAbtSvCRQM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088958814871760896",
+            "3_2088958882215501824"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088959125199954258",
+        "created_at": "2026-08-16T12:00:41.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088959125199954258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAbtSvCRQM",
+              "end": 50,
+              "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+              "media_key": "3_2088958814871760896",
+              "start": 27,
+              "url": "https://t.co/tAbtSvCRQM"
+            },
+            {
+              "display_url": "pic.x.com/tAbtSvCRQM",
+              "end": 50,
+              "expanded_url": "https://x.com/iamThuja/status/2088959125199954258/photo/1",
+              "media_key": "3_2088958882215501824",
+              "start": 27,
+              "url": "https://t.co/tAbtSvCRQM"
+            },
+            {
+              "display_url": "x.com/wngy189327/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/wngy189327/status/2088942000418767012",
+              "start": 51,
+              "url": "https://t.co/1pxJaCK3aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088959125199954258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088958814871760896"
+          },
+          {
+            "media_key": "3_2088958882215501824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 125870,
+          "like_count": 438,
+          "quote_count": 8,
+          "reply_count": 166,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088942000418767012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的。隆重介绍我们寸头女装14岁非基辈药娘：核弹女士 https://t.co/tAbtSvCRQM https://t.co/1pxJaCK3aP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089467673445052572",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 1198,
+          "like_count": 8562,
+          "listed_count": 9,
+          "media_count": 1002,
+          "tweet_count": 3903
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b1XKQ"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "is_identity_verified": false,
+        "location": "总裁走廊集结老黑液氮制裁猛攻区",
+        "most_recent_tweet_id": "2089345873465806879",
+        "name": "岑柏今天堵桥了吗（扫狐狸没有在千恋万花打折时为了丛雨忍痛买正版不快进打完从雨线结果发现从雨一点也不平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884546510919979008/1785280718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082053869035769856/ZR-IOx5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1029,
+          "like_count": 9703,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/Wwc59b1XKQ",
+        "username": "iamThuja",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

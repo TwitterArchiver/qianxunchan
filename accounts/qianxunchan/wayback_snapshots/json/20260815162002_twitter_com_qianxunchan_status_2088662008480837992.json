@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088662005133783040"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088662008480837992",
+    "created_at": "2026-08-15T16:20:02.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088662008480837992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IyQ2s4sXLQ",
+          "end": 26,
+          "expanded_url": "https://x.com/qianxunchan/status/2088662008480837992/photo/1",
+          "media_key": "3_2088662005133783040",
+          "start": 3,
+          "url": "https://t.co/IyQ2s4sXLQ"
+        },
+        {
+          "display_url": "x.com/sorcerer1311/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/sorcerer1311/status/2088637126149804074",
+          "start": 27,
+          "url": "https://t.co/urBUpXOfTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088662008480837992",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088662005133783040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088637126149804074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咪🥺 https://t.co/IyQ2s4sXLQ https://t.co/urBUpXOfTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2088662005133783040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxrBwfasAAY68h.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088637117249507328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxUZF5aUAAjch9.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088662005133783040"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088662008480837992",
+        "created_at": "2026-08-15T16:20:02.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088662008480837992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyQ2s4sXLQ",
+              "end": 26,
+              "expanded_url": "https://x.com/qianxunchan/status/2088662008480837992/photo/1",
+              "media_key": "3_2088662005133783040",
+              "start": 3,
+              "url": "https://t.co/IyQ2s4sXLQ"
+            },
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sorcerer1311/status/2088637126149804074",
+              "start": 27,
+              "url": "https://t.co/urBUpXOfTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088662008480837992",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088662005133783040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088637126149804074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咪🥺 https://t.co/IyQ2s4sXLQ https://t.co/urBUpXOfTL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088637117249507328"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088637126149804074",
+        "created_at": "2026-08-15T14:41:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088637126149804074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOOgY6OnM9",
+              "end": 23,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2088637126149804074/photo/1",
+              "media_key": "3_2088637117249507328",
+              "start": 0,
+              "url": "https://t.co/rOOgY6OnM9"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aoim33/status/2088622246546100232",
+              "start": 24,
+              "url": "https://t.co/Ld0h1YbTK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088637126149804074",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088637117249507328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088622246546100232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/rOOgY6OnM9 https://t.co/Ld0h1YbTK9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2088662008480837992",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 1193,
+          "like_count": 8295,
+          "listed_count": 9,
+          "media_count": 989,
+          "tweet_count": 3732
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088649743782285553",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1011,
+          "like_count": 2411,
+          "listed_count": 4,
+          "media_count": 525,
+          "tweet_count": 3715
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

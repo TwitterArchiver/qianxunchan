@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087623742549791178",
+    "created_at": "2026-08-12T23:57:27.000Z",
+    "display_text_range": [
+      29,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T00:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087689954889711920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 28,
+          "id": "2041449281677045760",
+          "start": 15,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087689954889711920",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087623742549791178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 @Sorcerer1311 左边呆呆的😆😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2087623733955731456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPi6ua8bIAAxRGz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087623742549791178",
+        "created_at": "2026-08-12T23:57:27.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087689954889711920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 28,
+              "id": "2041449281677045760",
+              "start": 15,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087689954889711920",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087623742549791178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 @Sorcerer1311 左边呆呆的😆😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087623733955731456"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2087623742549791178",
+        "created_at": "2026-08-12T19:34:21.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087623742549791178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2041449281677045760",
+              "start": 19,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9iPVux39f",
+              "end": 56,
+              "expanded_url": "https://x.com/Goldwater8964/status/2087623742549791178/photo/1",
+              "media_key": "3_2087623733955731456",
+              "start": 33,
+              "url": "https://t.co/i9iPVux39f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087623742549791178",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087623733955731456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前拍的\n索瑟尔和腓特烈举行历史会晤\n@Sorcerer1311 https://t.co/i9iPVux39f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087689954889711920",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1194,
+          "like_count": 8187,
+          "listed_count": 9,
+          "media_count": 976,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "is_identity_verified": true,
+        "location": "Auckland Region, New Zealand",
+        "most_recent_tweet_id": "2087623742549791178",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916817753635426304/1781200822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 1069,
+          "like_count": 9038,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087604641412567383",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1007,
+          "like_count": 2317,
+          "listed_count": 4,
+          "media_count": 515,
+          "tweet_count": 3625
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

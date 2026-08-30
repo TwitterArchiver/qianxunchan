@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089274255251050619",
+    "created_at": "2026-08-17T16:42:58.000Z",
+    "display_text_range": [
+      38,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089392555532468550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074472140976599040",
+          "start": 0,
+          "username": "_XanderXander_"
+        },
+        {
+          "end": 26,
+          "id": "1686914633314013184",
+          "start": 16,
+          "username": "KTD593yug"
+        },
+        {
+          "end": 37,
+          "id": "1917261838485708802",
+          "start": 27,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089392555532468550",
+    "in_reply_to_user_id": "2074472140976599040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089358400664801697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XanderXander_ @KTD593yug @qiujiudev 绿猫战队😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2089358390804033537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7kYvRbMAEJAkr.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089274255251050619",
+        "created_at": "2026-08-17T16:42:58.000Z",
+        "display_text_range": [
+          38,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089392555532468550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074472140976599040",
+              "start": 0,
+              "username": "_XanderXander_"
+            },
+            {
+              "end": 26,
+              "id": "1686914633314013184",
+              "start": 16,
+              "username": "KTD593yug"
+            },
+            {
+              "end": 37,
+              "id": "1917261838485708802",
+              "start": 27,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089392555532468550",
+        "in_reply_to_user_id": "2074472140976599040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089358400664801697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XanderXander_ @KTD593yug @qiujiudev 绿猫战队😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089358390804033537"
+          ]
+        },
+        "author_id": "2074472140976599040",
+        "conversation_id": "2089274255251050619",
+        "created_at": "2026-08-17T14:27:15.000Z",
+        "display_text_range": [
+          22,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089358400664801697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            },
+            {
+              "end": 21,
+              "id": "1917261838485708802",
+              "start": 11,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAOD7cCjP4",
+              "end": 50,
+              "expanded_url": "https://x.com/_XanderXander_/status/2089358400664801697/photo/1",
+              "media_key": "3_2089358390804033537",
+              "start": 27,
+              "url": "https://t.co/pAOD7cCjP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089358400664801697",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089358390804033537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089274255251050619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTD593yug @qiujiudev 看到我了 https://t.co/pAOD7cCjP4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089392555532468550",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 1197,
+          "like_count": 8537,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 3891
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T12:35:53.000Z",
+        "description": "16岁，男，好相处， 有什么想问的尽管投NGL，日常在刷推，互fo\n NGL：https://t.co/zQXp62NDGZ\n telegram：https://t.co/5Vrs7C3r98\n\n(｡•̀ᴗ-)✧\n\n不要再把我的信息标记成垃圾信息了！！！TOT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunkakucs",
+                "end": 62,
+                "expanded_url": "https://ngl.link/sunkakucs",
+                "start": 39,
+                "url": "https://t.co/zQXp62NDGZ"
+              },
+              {
+                "display_url": "t.me/XanderMiao",
+                "end": 96,
+                "expanded_url": "http://t.me/XanderMiao",
+                "start": 73,
+                "url": "https://t.co/5Vrs7C3r98"
+              }
+            ]
+          }
+        },
+        "id": "2074472140976599040",
+        "is_identity_verified": false,
+        "location": "你家楼下，不信你打开窗户看一眼",
+        "most_recent_tweet_id": "2089358400664801697",
+        "name": "Xander",
+        "pinned_tweet_id": "2084919523023749460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074472140976599040/1785839576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084920491727572992/HeTGp6mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 70,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "_XanderXander_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | ngl链接放下面了，没事可来骚扰我 | 简介不定期更新喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ktd593yug2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ktd593yug2",
+                "start": 0,
+                "url": "https://t.co/YXjGpG7bQx"
+              }
+            ]
+          }
+        },
+        "id": "1686914633314013184",
+        "is_identity_verified": false,
+        "location": "-13cm",
+        "most_recent_tweet_id": "2089391155628965910",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2082521478667588031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686914633314013184/1779459418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 328,
+          "like_count": 8238,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/YXjGpG7bQx",
+        "username": "KTD593yug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089389172847190273",
+        "name": "秋玖",
+        "pinned_tweet_id": "2088562865368420400",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 566,
+          "like_count": 3349,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

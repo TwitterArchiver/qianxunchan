@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2087031587917513104",
+    "created_at": "2026-08-11T14:39:52.000Z",
+    "display_text_range": [
+      25,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087187245958938884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        },
+        {
+          "end": 24,
+          "id": "1982449259774656512",
+          "start": 14,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087187245958938884",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087186891087221094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj @smiroyama 诶不对那你没说我有病为什么又声音在骂我🥹抱歉我还以为你说的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2087031587917513104",
+        "created_at": "2026-08-11T14:39:52.000Z",
+        "display_text_range": [
+          25,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087187245958938884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            },
+            {
+              "end": 24,
+              "id": "1982449259774656512",
+              "start": 14,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087187245958938884",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087186891087221094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj @smiroyama 诶不对那你没说我有病为什么又声音在骂我🥹抱歉我还以为你说的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2087031587917513104",
+        "created_at": "2026-08-11T14:38:27.000Z",
+        "display_text_range": [
+          24,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087186891087221094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 23,
+              "id": "1982449259774656512",
+              "start": 13,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087186891087221094",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087186783989809512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @smiroyama 不是我啥时候说你有病了🙄🙄🙄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087187245958938884",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1195,
+          "like_count": 8132,
+          "listed_count": 9,
+          "media_count": 967,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2087187164853575805",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1334,
+          "like_count": 800,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n妹妹:@tangeorange @StarryNocts\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tangeorange"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 107,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 84,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087182689262813417",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7700,
+          "following_count": 2718,
+          "like_count": 14762,
+          "listed_count": 16,
+          "media_count": 2547,
+          "tweet_count": 9450
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

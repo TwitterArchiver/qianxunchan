@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087008296301686784"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2086762046214086981",
+    "created_at": "2026-08-11T02:48:48.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087008302341489067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NakFoCcrCr",
+          "end": 44,
+          "expanded_url": "https://x.com/qianxunchan/status/2087008302341489067/photo/1",
+          "media_key": "3_2087008296301686784",
+          "start": 21,
+          "url": "https://t.co/NakFoCcrCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087008302341489067",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087008296301686784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086762046214086981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 我能不能免签 https://t.co/NakFoCcrCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3592,
+        "media_key": "3_2087008296301686784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaK_PBa8AAMKKQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3076,
+        "media_key": "3_2086762039339622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWrBMWboAAogUp.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087008296301686784"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2086762046214086981",
+        "created_at": "2026-08-11T02:48:48.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087008302341489067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NakFoCcrCr",
+              "end": 44,
+              "expanded_url": "https://x.com/qianxunchan/status/2087008302341489067/photo/1",
+              "media_key": "3_2087008296301686784",
+              "start": 21,
+              "url": "https://t.co/NakFoCcrCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087008302341489067",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087008296301686784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086762046214086981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 我能不能免签 https://t.co/NakFoCcrCr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086762039339622400"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2086762046214086981",
+        "created_at": "2026-08-10T10:30:16.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086762046214086981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95fGMgCKSi",
+              "end": 50,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2086762046214086981/photo/1",
+              "media_key": "3_2086762039339622400",
+              "start": 27,
+              "url": "https://t.co/95fGMgCKSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086762046214086981",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086762039339622400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有山姆超市会员卡 星巴克消费记录能给沪签申请加分吗😭 https://t.co/95fGMgCKSi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2087008302341489067",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 1196,
+          "like_count": 8127,
+          "listed_count": 9,
+          "media_count": 964,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086929212347494835",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 1904,
+          "like_count": 84181,
+          "listed_count": 13,
+          "media_count": 1814,
+          "tweet_count": 13433
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

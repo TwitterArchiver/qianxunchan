@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089522559788421446",
+    "created_at": "2026-08-18T05:48:38.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089590274637095397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455905922937614336",
+          "start": 0,
+          "username": "linyishiyefu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089590274637095397",
+    "in_reply_to_user_id": "1455905922937614336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089586879981367344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyishiyefu 肯定是空气炸锅好用啊如果少量食物🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089522559788421446",
+        "created_at": "2026-08-18T05:48:38.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089590274637095397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455905922937614336",
+              "start": 0,
+              "username": "linyishiyefu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089590274637095397",
+        "in_reply_to_user_id": "1455905922937614336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089586879981367344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyishiyefu 肯定是空气炸锅好用啊如果少量食物🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455905922937614336",
+        "conversation_id": "2089522559788421446",
+        "created_at": "2026-08-18T05:35:09.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089586879981367344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089586879981367344",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089522559788421446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 烤箱还是好用很多呢……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089590274637095397",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 1202,
+          "like_count": 8603,
+          "listed_count": 9,
+          "media_count": 1005,
+          "tweet_count": 3923
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T14:33:27.000Z",
+        "description": "Hrt 2026.6.5 || 06年生 || 精神状态良好 || 178 65kg😭 || 可以叫我if || 欢迎互fo喵",
+        "id": "1455905922937614336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089586879981367344",
+        "name": "意孚🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455905922937614336/1785188016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083796873467539456/X0LnX_ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 303,
+          "like_count": 3119,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "linyishiyefu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

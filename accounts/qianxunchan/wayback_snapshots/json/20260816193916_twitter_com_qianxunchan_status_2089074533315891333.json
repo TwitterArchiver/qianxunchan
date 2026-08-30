@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2088897148842811809",
+    "created_at": "2026-08-16T19:39:16.000Z",
+    "display_text_range": [
+      21,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089074533315891333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 20,
+          "id": "1692075579850563584",
+          "start": 11,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089074533315891333",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088922108487512245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@smiroyama @10Lystra 干脆和我一样别写了我怕我惹事不写🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2088897148842811809",
+        "created_at": "2026-08-16T19:39:16.000Z",
+        "display_text_range": [
+          21,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089074533315891333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 20,
+              "id": "1692075579850563584",
+              "start": 11,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089074533315891333",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088922108487512245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@smiroyama @10Lystra 干脆和我一样别写了我怕我惹事不写🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2088897148842811809",
+        "created_at": "2026-08-16T09:33:35.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088922108487512245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088922108487512245",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088921795222966389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@10Lystra 差不多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089074533315891333",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 1194,
+          "like_count": 8418,
+          "listed_count": 9,
+          "media_count": 995,
+          "tweet_count": 3813
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n妹妹:@tangeorange @StarryNocts\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tangeorange"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 107,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 84,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089067205002731758",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7786,
+          "following_count": 2740,
+          "like_count": 14978,
+          "listed_count": 15,
+          "media_count": 2577,
+          "tweet_count": 9640
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2089026254208922001",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1177,
+          "like_count": 2938,
+          "listed_count": 6,
+          "media_count": 390,
+          "tweet_count": 10854
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

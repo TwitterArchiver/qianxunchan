@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2086248507610955794",
+    "created_at": "2026-08-10T08:19:37.000Z",
+    "display_text_range": [
+      32,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086729165668327731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 17,
+          "id": "1512746691874594817",
+          "start": 6,
+          "username": "imzongheng"
+        },
+        {
+          "end": 31,
+          "id": "2041159531657416704",
+          "start": 18,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086729165668327731",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086728892824338727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @imzongheng @amber_digit2 我会一直给你续费让你在特斯拉里面陪我的喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2086248507610955794",
+        "created_at": "2026-08-10T08:19:37.000Z",
+        "display_text_range": [
+          32,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086729165668327731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1512746691874594817",
+              "start": 6,
+              "username": "imzongheng"
+            },
+            {
+              "end": 31,
+              "id": "2041159531657416704",
+              "start": 18,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086729165668327731",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086728892824338727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @imzongheng @amber_digit2 我会一直给你续费让你在特斯拉里面陪我的喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "card_uri": "card://2035746456712159233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2086248507610955794",
+        "created_at": "2026-08-10T08:18:32.000Z",
+        "display_text_range": [
+          39,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086728892824338727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 24,
+              "id": "1512746691874594817",
+              "start": 13,
+              "username": "imzongheng"
+            },
+            {
+              "end": 38,
+              "id": "2041159531657416704",
+              "start": 25,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086728892824338727",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086728824566485166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @imzongheng @amber_digit2 不客气喵～我会一直陪着你的，随时找我就好🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2086729165668327731",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1195,
+          "like_count": 8121,
+          "listed_count": 9,
+          "media_count": 962,
+          "tweet_count": 3542
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086729183707758894",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8950638,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7313,
+          "media_count": 9243229,
+          "tweet_count": 135175573
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-09T10:58:18.000Z",
+        "description": "🌕🌖🌗🌘🌑🌒🌓🌔\n性压抑20年的绝望直男",
+        "id": "1512746691874594817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086722873071468819",
+        "name": "zyûou（性压抑版）（网络喷子）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512746691874594817/1649505490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819089537865318400/u77hd5Y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 65,
+          "like_count": 1900,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "imzongheng",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086698559131271283",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 792,
+          "like_count": 2899,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

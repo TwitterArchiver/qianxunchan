@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088116746695884800",
+        "3_2088116746679173120"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088116753813721251",
+    "created_at": "2026-08-14T04:13:24.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088116753813721251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9OA1RQ1KfK",
+          "end": 30,
+          "expanded_url": "https://x.com/qianxunchan/status/2088116753813721251/photo/1",
+          "media_key": "3_2088116746695884800",
+          "start": 7,
+          "url": "https://t.co/9OA1RQ1KfK"
+        },
+        {
+          "display_url": "pic.x.com/9OA1RQ1KfK",
+          "end": 30,
+          "expanded_url": "https://x.com/qianxunchan/status/2088116753813721251/photo/1",
+          "media_key": "3_2088116746679173120",
+          "start": 7,
+          "url": "https://t.co/9OA1RQ1KfK"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2087997902073512112",
+          "start": 31,
+          "url": "https://t.co/h2cSFqAuO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088116753813721251",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088116746695884800"
+      },
+      {
+        "media_key": "3_2088116746679173120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087997902073512112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃吃和看看😋 https://t.co/9OA1RQ1KfK https://t.co/h2cSFqAuO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088116746695884800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp7HihaQAA8JBB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2088116746679173120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp7HidbQAAChRo.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2087997895941423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoPBg9aAAA7K4S.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2087997895941533696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoPBg9bsAASxqO.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088116746695884800",
+            "3_2088116746679173120"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088116753813721251",
+        "created_at": "2026-08-14T04:13:24.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088116753813721251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OA1RQ1KfK",
+              "end": 30,
+              "expanded_url": "https://x.com/qianxunchan/status/2088116753813721251/photo/1",
+              "media_key": "3_2088116746695884800",
+              "start": 7,
+              "url": "https://t.co/9OA1RQ1KfK"
+            },
+            {
+              "display_url": "pic.x.com/9OA1RQ1KfK",
+              "end": 30,
+              "expanded_url": "https://x.com/qianxunchan/status/2088116753813721251/photo/1",
+              "media_key": "3_2088116746679173120",
+              "start": 7,
+              "url": "https://t.co/9OA1RQ1KfK"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2087997902073512112",
+              "start": 31,
+              "url": "https://t.co/h2cSFqAuO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116753813721251",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088116746695884800"
+          },
+          {
+            "media_key": "3_2088116746679173120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087997902073512112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃吃和看看😋 https://t.co/9OA1RQ1KfK https://t.co/h2cSFqAuO7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087997895941423104",
+            "3_2087997895941533696"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087997902073512112",
+        "created_at": "2026-08-13T20:21:07.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087997902073512112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/butbSD7eLb",
+              "end": 28,
+              "expanded_url": "https://x.com/qianxunchan/status/2087997902073512112/photo/1",
+              "media_key": "3_2087997895941423104",
+              "start": 5,
+              "url": "https://t.co/butbSD7eLb"
+            },
+            {
+              "display_url": "pic.x.com/butbSD7eLb",
+              "end": 28,
+              "expanded_url": "https://x.com/qianxunchan/status/2087997902073512112/photo/1",
+              "media_key": "3_2087997895941533696",
+              "start": 5,
+              "url": "https://t.co/butbSD7eLb"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2087995518232461540",
+              "start": 29,
+              "url": "https://t.co/t1onUvXGBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087997902073512112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087997895941423104"
+          },
+          {
+            "media_key": "3_2087997895941533696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087995518232461540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张嘴喵😋 https://t.co/butbSD7eLb https://t.co/t1onUvXGBO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2088116753813721251",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 1195,
+          "like_count": 8234,
+          "listed_count": 9,
+          "media_count": 982,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

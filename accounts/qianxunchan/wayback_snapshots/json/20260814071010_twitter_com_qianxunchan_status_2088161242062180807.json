@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2088141533363261913",
+    "created_at": "2026-08-14T07:10:10.000Z",
+    "display_text_range": [
+      8,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088161242062180807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088161242062180807",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088141533363261913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 我刚买的火麒麟怎么用不了了😵‍💫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2088141500744142848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqRoaibEAAYkZL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2088141533363261913",
+        "created_at": "2026-08-14T07:10:10.000Z",
+        "display_text_range": [
+          8,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088161242062180807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088161242062180807",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088141533363261913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 我刚买的火麒麟怎么用不了了😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088141500744142848"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088141533363261913",
+        "created_at": "2026-08-14T05:51:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088141533363261913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxHx8DcoCA",
+              "end": 23,
+              "expanded_url": "https://x.com/aoim33/status/2088141533363261913/photo/1",
+              "media_key": "3_2088141500744142848",
+              "start": 0,
+              "url": "https://t.co/YxHx8DcoCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088141533363261913",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088141500744142848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/YxHx8DcoCA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2088161242062180807",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 1194,
+          "like_count": 8241,
+          "listed_count": 9,
+          "media_count": 983,
+          "tweet_count": 3716
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg ID 和推特ID相同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2088155977057255931",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 3222,
+          "like_count": 59662,
+          "listed_count": 22,
+          "media_count": 3859,
+          "tweet_count": 15382
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

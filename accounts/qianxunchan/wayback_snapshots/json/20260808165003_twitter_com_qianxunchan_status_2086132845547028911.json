@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2086132845547028911",
+    "created_at": "2026-08-08T16:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086132845547028911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "我！要！当！上！海！人！, 视频播放量 1205171、弹幕量 431、点赞数 58213、投硬币枚数 4241、收藏人数 13476、转发人数 31976, 视频作者 石库门港督, 作者简介 全网同名，寻开心就好。，相关视频：【上海话】高雅人士去上海，抓小三，但超燃上海话，烤麸宝宝·乡窝宁俱乐部（1），平纪沪语《把上海人送走只需要》，上海话教学，新三企鹅，《百 万 沪 币》，当上海人遇到北京人，当去上海要办签证，上海话版《烤麸宝宝》",
+          "display_url": "b23.tv/SMBoiL2",
+          "end": 70,
+          "expanded_url": "https://b23.tv/SMBoiL2",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2086130296341315584/HJoT4Vzj?format=jpg&name=orig",
+              "width": 1120
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2086130296341315584/HJoT4Vzj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 47,
+          "status": 200,
+          "title": "我！要！当！上！海！人！_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1qU7N6dEBP/?-Arouter=story&buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd70518-1e03-4451-bbdb-416ae0d0554c&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1786137622&unique_k=SMBoiL2&up_id=3493146075859034",
+          "url": "https://t.co/IvTM5PRKHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086132845547028911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁也阻止不了我当上海宁\n我不要当小册老啊(＞﹏＜)\n\n【我！要！当！上！海！人！-哔哩哔哩】 https://t.co/IvTM5PRKHT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2086132845547028911",
+        "created_at": "2026-08-08T16:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086132845547028911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我！要！当！上！海！人！, 视频播放量 1205171、弹幕量 431、点赞数 58213、投硬币枚数 4241、收藏人数 13476、转发人数 31976, 视频作者 石库门港督, 作者简介 全网同名，寻开心就好。，相关视频：【上海话】高雅人士去上海，抓小三，但超燃上海话，烤麸宝宝·乡窝宁俱乐部（1），平纪沪语《把上海人送走只需要》，上海话教学，新三企鹅，《百 万 沪 币》，当上海人遇到北京人，当去上海要办签证，上海话版《烤麸宝宝》",
+              "display_url": "b23.tv/SMBoiL2",
+              "end": 70,
+              "expanded_url": "https://b23.tv/SMBoiL2",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2086130296341315584/HJoT4Vzj?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086130296341315584/HJoT4Vzj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "我！要！当！上！海！人！_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1qU7N6dEBP/?-Arouter=story&buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd70518-1e03-4451-bbdb-416ae0d0554c&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1786137622&unique_k=SMBoiL2&up_id=3493146075859034",
+              "url": "https://t.co/IvTM5PRKHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086132845547028911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁也阻止不了我当上海宁\n我不要当小册老啊(＞﹏＜)\n\n【我！要！当！上！海！人！-哔哩哔哩】 https://t.co/IvTM5PRKHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1187,
+          "like_count": 8072,
+          "listed_count": 9,
+          "media_count": 953,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

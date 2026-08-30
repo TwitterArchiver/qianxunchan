@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2092492840882602473",
+    "created_at": "2026-08-26T06:02:55.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092492971983949907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605093608910381056",
+          "start": 0,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092492971983949907",
+    "in_reply_to_user_id": "1605093608910381056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092492840882602473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suekageseikiyo 🥵🥵🥵🥵🥵🥵🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2092492840882602473",
+        "created_at": "2026-08-26T06:02:55.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092492971983949907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605093608910381056",
+              "start": 0,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092492971983949907",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092492840882602473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suekageseikiyo 🥵🥵🥵🥵🥵🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2092492840882602473",
+        "created_at": "2026-08-26T06:02:24.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092492840882602473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2092473992187941218",
+              "start": 39,
+              "url": "https://t.co/5lvIpMmrtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092492840882602473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092473992187941218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界好奇怪，直发会用卷发棒把自己搞成卷发，自然卷会用直夹板把自己搞成直发 https://t.co/5lvIpMmrtz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2092492971983949907",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1208,
+          "like_count": 8788,
+          "listed_count": 10,
+          "media_count": 1041,
+          "tweet_count": 4134
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092492840882602473",
+        "name": "末末",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 622,
+          "like_count": 10856,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2085466543031525692",
+    "created_at": "2026-08-07T04:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085585142077358446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085585142077358446",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085466543031525692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ hi👋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2085466526396854272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEQwajaMAAVNNS.jpg",
+        "width": 2754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2085466543031525692",
+        "created_at": "2026-08-07T04:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085585142077358446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085585142077358446",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085466543031525692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ hi👋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085466526396854272"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2085466543031525692",
+        "created_at": "2026-08-06T20:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085466543031525692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZqKW4u1pD",
+              "end": 60,
+              "expanded_url": "https://x.com/huahuojiang_/status/2085466543031525692/photo/1",
+              "media_key": "3_2085466526396854272",
+              "start": 37,
+              "url": "https://t.co/ZZqKW4u1pD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085466543031525692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 862,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當我意識到露趾鞋光腿比較好的時候我已經穿好了，所以也就這樣吧反正也沒人看 https://t.co/ZZqKW4u1pD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "Los Angeles, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 1189,
+          "like_count": 8050,
+          "listed_count": 9,
+          "media_count": 950,
+          "tweet_count": 3447
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2085308791428686223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7716,
+          "following_count": 3976,
+          "like_count": 104312,
+          "listed_count": 17,
+          "media_count": 9401,
+          "tweet_count": 103567
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

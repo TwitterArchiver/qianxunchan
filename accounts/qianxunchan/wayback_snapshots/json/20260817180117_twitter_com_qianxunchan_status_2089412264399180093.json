@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2089291151589441845",
+    "created_at": "2026-08-17T18:01:17.000Z",
+    "display_text_range": [
+      18,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089412264399180093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1304953938320306176",
+          "start": 0,
+          "username": "hry_xsu"
+        },
+        {
+          "end": 17,
+          "id": "1962302660541079552",
+          "start": 9,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089412264399180093",
+    "in_reply_to_user_id": "1304953938320306176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089396858271785146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hry_xsu @yuerQwQ 啊咧摸你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2089291151589441845",
+        "created_at": "2026-08-17T18:01:17.000Z",
+        "display_text_range": [
+          18,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089412264399180093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            },
+            {
+              "end": 17,
+              "id": "1962302660541079552",
+              "start": 9,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089412264399180093",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089396858271785146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu @yuerQwQ 啊咧摸你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304953938320306176",
+        "conversation_id": "2089291151589441845",
+        "created_at": "2026-08-17T17:00:04.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089396858271785146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 21,
+              "id": "1962302660541079552",
+              "start": 13,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089396858271785146",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089393856865595619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @yuerQwQ 那让我用用😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2089412264399180093",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 1197,
+          "like_count": 8539,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 3893
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry \nen&zh | 💻笔电爱好者 |  女装 | 地雷系 | 🏳️‍🌈LGBTQ+friendly | 大腿夹魔爪拍照开创者（x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUOPgi"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "is_identity_verified": false,
+        "location": "Lunar,Galaxy,Universe",
+        "most_recent_tweet_id": "2089396858271785146",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304953938320306176/1769611376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 435,
+          "like_count": 61104,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/ZmiJZUOPgi",
+        "username": "hry_xsu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨我可爱的老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wu31878"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "picxis63594"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2089409299823075509",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1565,
+          "like_count": 17236,
+          "listed_count": 4,
+          "media_count": 1334,
+          "tweet_count": 5050
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

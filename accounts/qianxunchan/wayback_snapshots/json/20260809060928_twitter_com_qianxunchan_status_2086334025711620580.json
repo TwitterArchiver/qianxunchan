@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2086237585563898131",
+    "created_at": "2026-08-09T06:09:28.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086334025711620580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086334025711620580",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086237585563898131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 凉拌🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086237576432947200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPOBbxbkAAK1JC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086237576466444289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPOBb5asAEwhWT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2086237585563898131",
+        "created_at": "2026-08-09T06:09:28.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086334025711620580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086334025711620580",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086237585563898131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 凉拌🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086237576432947200",
+            "3_2086237576466444289"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2086237585563898131",
+        "created_at": "2026-08-08T23:46:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T00:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086237585563898131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXnrjs5YEB",
+              "end": 28,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2086237585563898131/photo/1",
+              "media_key": "3_2086237576432947200",
+              "start": 5,
+              "url": "https://t.co/iXnrjs5YEB"
+            },
+            {
+              "display_url": "pic.x.com/iXnrjs5YEB",
+              "end": 28,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2086237585563898131/photo/1",
+              "media_key": "3_2086237576466444289",
+              "start": 5,
+              "url": "https://t.co/iXnrjs5YEB"
+            },
+            {
+              "display_url": "x.com/fufu1367612/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/fufu1367612/status/2085887651748741254",
+              "start": 29,
+              "url": "https://t.co/QoDZmfbi5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086237585563898131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086237576432947200"
+          },
+          {
+            "media_key": "3_2086237576466444289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1113,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085887651748741254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "點算吶🥹 https://t.co/iXnrjs5YEB https://t.co/QoDZmfbi5d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2086334025711620580",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 1188,
+          "like_count": 8086,
+          "listed_count": 9,
+          "media_count": 958,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜貨｜疑似鍵政｜破壞分子｜痛苦大學生｜高齡人士｜🇹🇼🇭🇰🇨🇳｜詭異行蹤｜學術失敗者｜Baptist U｜健全逼｜落魄合約交易員｜經濟困難｜歡迎聊天｜同類互fo｜前世@franciswwwww （已徹底死亡）｜玩具@fe_ions 寵物@wwwalce4｜偶人@qiouyuebai520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "fe_ions"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "wwwalce4"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "qiouyuebai520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/franciswwwww1",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/franciswwwww1",
+                "start": 0,
+                "url": "https://t.co/Tx5FLFWP3X"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2086306901575512144",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005261732751802368/1770155162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 2102,
+          "like_count": 11567,
+          "listed_count": 5,
+          "media_count": 576,
+          "tweet_count": 7082
+        },
+        "url": "https://t.co/Tx5FLFWP3X",
+        "username": "HappyHejsDay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
