@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2095527202716848476",
+    "created_at": "2026-09-04T05:13:20.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095741982182400060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544561699373854720",
+          "start": 0,
+          "username": "Misaka13548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095741982182400060",
+    "in_reply_to_user_id": "1544561699373854720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095527202716848476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka13548 厉害厉害👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1610,
+        "media_key": "3_2095527058835423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTOwecawAAh2VM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2095527202716848476",
+        "created_at": "2026-09-04T05:13:20.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095741982182400060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544561699373854720",
+              "start": 0,
+              "username": "Misaka13548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095741982182400060",
+        "in_reply_to_user_id": "1544561699373854720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095527202716848476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka13548 厉害厉害👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095527058835423232"
+          ]
+        },
+        "author_id": "1544561699373854720",
+        "conversation_id": "2095527202716848476",
+        "created_at": "2026-09-03T14:59:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095527202716848476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jTqSpmSXo",
+              "end": 27,
+              "expanded_url": "https://x.com/Misaka13548/status/2095527202716848476/photo/1",
+              "media_key": "3_2095527058835423232",
+              "start": 4,
+              "url": "https://t.co/9jTqSpmSXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095527202716848476",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095527058835423232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要似了 https://t.co/9jTqSpmSXo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2095741982182400060",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 1241,
+          "like_count": 9005,
+          "listed_count": 10,
+          "media_count": 1113,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-06T05:59:52.000Z",
+        "description": "承认自己的缺点比避之不谈更难",
+        "id": "1544561699373854720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095528967184978374",
+        "name": "Misaka☆",
+        "pinned_tweet_id": "1955592905789469167",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544561699373854720/1787718883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978416705727844352/Rt2GYuR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 394,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Misaka13548",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

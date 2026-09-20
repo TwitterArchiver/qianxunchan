@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094624358564245504",
+        "3_2094624358585233409"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2094624368060137569",
+    "created_at": "2026-09-01T03:12:20.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094624368060137569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a2kwbtRGYP",
+          "end": 30,
+          "expanded_url": "https://x.com/qianxunchan/status/2094624368060137569/photo/1",
+          "media_key": "3_2094624358564245504",
+          "start": 7,
+          "url": "https://t.co/a2kwbtRGYP"
+        },
+        {
+          "display_url": "pic.x.com/a2kwbtRGYP",
+          "end": 30,
+          "expanded_url": "https://x.com/qianxunchan/status/2094624368060137569/photo/1",
+          "media_key": "3_2094624358585233409",
+          "start": 7,
+          "url": "https://t.co/a2kwbtRGYP"
+        },
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2094622726782906579",
+          "start": 31,
+          "url": "https://t.co/7hcjY2aqKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094624368060137569",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094624358564245504"
+      },
+      {
+        "media_key": "3_2094624358585233409"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094622726782906579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是啊吃什么😋 https://t.co/a2kwbtRGYP https://t.co/7hcjY2aqKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2094624358564245504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGZwZ4aMAA8Zrw.jpg",
+        "width": 1320
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094624358585233409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGZwZ9acAEFdQb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094624358564245504",
+            "3_2094624358585233409"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2094624368060137569",
+        "created_at": "2026-09-01T03:12:20.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094624368060137569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2kwbtRGYP",
+              "end": 30,
+              "expanded_url": "https://x.com/qianxunchan/status/2094624368060137569/photo/1",
+              "media_key": "3_2094624358564245504",
+              "start": 7,
+              "url": "https://t.co/a2kwbtRGYP"
+            },
+            {
+              "display_url": "pic.x.com/a2kwbtRGYP",
+              "end": 30,
+              "expanded_url": "https://x.com/qianxunchan/status/2094624368060137569/photo/1",
+              "media_key": "3_2094624358585233409",
+              "start": 7,
+              "url": "https://t.co/a2kwbtRGYP"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2094622726782906579",
+              "start": 31,
+              "url": "https://t.co/7hcjY2aqKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094624368060137569",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094624358564245504"
+          },
+          {
+            "media_key": "3_2094624358585233409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094622726782906579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊吃什么😋 https://t.co/a2kwbtRGYP https://t.co/7hcjY2aqKG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2094505890561048808",
+        "created_at": "2026-09-01T03:05:48.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094622726782906579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 24,
+              "id": "1815053369003720704",
+              "start": 17,
+              "username": "gsmdxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094622726782906579",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094622632230416504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @gsmdxy 我不装大家吃什么🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2094624368060137569",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 1213,
+          "like_count": 8902,
+          "listed_count": 10,
+          "media_count": 1076,
+          "tweet_count": 4277
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️ 16yo.\n\n原名 TechnologyMatrix科技矩阵 现已改名 Momo'sLensSpace 不要认错啊啊啊啊啊啊\n\n小号：@tinyspacefomomo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "tinyspacefomomo"
+              }
+            ]
+          }
+        },
+        "id": "1676572709742944259",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2094622632230416504",
+        "name": "Momo'sLensSpace",
+        "pinned_tweet_id": "2089245629172318340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676572709742944259/1702811698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089238065797890048/TaQF2_EP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 3385,
+          "like_count": 95847,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 8853
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

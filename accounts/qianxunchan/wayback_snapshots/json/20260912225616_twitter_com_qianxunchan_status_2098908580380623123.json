@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2098874074009088344",
+    "created_at": "2026-09-12T22:56:16.000Z",
+    "display_text_range": [
+      21,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T23:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098908580380623123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        },
+        {
+          "end": 20,
+          "id": "732062385695940609",
+          "start": 9,
+          "username": "Takaranoao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098908580380623123",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098878513889562974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl @Takaranoao 哇哦😋本地人🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2098874074009088344",
+        "created_at": "2026-09-12T22:56:16.000Z",
+        "display_text_range": [
+          21,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T23:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098908580380623123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            },
+            {
+              "end": 20,
+              "id": "732062385695940609",
+              "start": 9,
+              "username": "Takaranoao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098908580380623123",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098878513889562974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl @Takaranoao 哇哦😋本地人🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718796360250691585",
+        "conversation_id": "2098874074009088344",
+        "created_at": "2026-09-12T20:56:47.000Z",
+        "display_text_range": [
+          12,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098878513889562974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "732062385695940609",
+              "start": 0,
+              "username": "Takaranoao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098878513889562974",
+        "in_reply_to_user_id": "732062385695940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098876488187777100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takaranoao 这路我可太熟悉了（\n这里下去左转有个星巴克\n前面皮卡下去的地方lagrange是去costco的路\n（本地人来了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2098908580380623123",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 1255,
+          "like_count": 9188,
+          "listed_count": 9,
+          "media_count": 1152,
+          "tweet_count": 4615
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "老号已死不用找了\n#FUCKNVIDIA\ni love my #shitbox\nwelcome to DM me tecnical issue（有tg群）\nNSFW：@pinkeye404\nFacebook marketplace :",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 9,
+                "tag": "FUCKNVIDIA"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "shitbox"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "pinkeye404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/",
+                "start": 0,
+                "url": "https://t.co/6wJ7IW09A5"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "is_identity_verified": false,
+        "location": "AL - Blacksburg, VA - nyc",
+        "most_recent_tweet_id": "2098878807188942887",
+        "name": "粉眼睛（没有可爱小男娘和我贴😭）",
+        "pinned_tweet_id": "2098228648046219360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718796360250691585/1788385966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 839,
+          "like_count": 4648,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/6wJ7IW09A5",
+        "username": "lpngpkl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-16T04:17:28.000Z",
+        "description": "国家级退堂鼓大湿🥁/老要凉🏳️‍⚧️/jvav中级糕手☕️/全沾工程师💩/ display:none🥬/计蒜鸽学爱好者🕊️/赛博臭要饭的🐱/日本語本当锤子🔨/乌蒙吃🐻",
+        "id": "732062385695940609",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098884709355012468",
+        "name": "宝蓝 🐺 @发电bot",
+        "pinned_tweet_id": "1014288784874065922",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391300852204269574/w0mDSk-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806,
+          "following_count": 574,
+          "like_count": 11661,
+          "listed_count": 16,
+          "media_count": 129,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "Takaranoao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

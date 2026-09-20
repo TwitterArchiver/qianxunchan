@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2101160053856506360",
+    "created_at": "2026-09-19T19:42:41.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T20:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101396581291634772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003301347760963586",
+          "start": 0,
+          "username": "odoooobo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101396581291634772",
+    "in_reply_to_user_id": "2003301347760963586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101248103722393890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odoooobo 我学生优惠😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2101160053856506360",
+        "created_at": "2026-09-19T19:42:41.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101396581291634772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003301347760963586",
+              "start": 0,
+              "username": "odoooobo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101396581291634772",
+        "in_reply_to_user_id": "2003301347760963586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101248103722393890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odoooobo 我学生优惠😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003301347760963586",
+        "conversation_id": "2101160053856506360",
+        "created_at": "2026-09-19T09:52:41.000Z",
+        "display_text_range": [
+          13,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101248103722393890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101248103722393890",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101160053856506360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 國內的抵价還比🇺🇸少了 100 還是 400 人民幣之間，都讓你用一年了，你現在在美國開始 lease，也是一年 430 多刀，我指我的 ultra3 升級的 ultra4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2101396581291634772",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 1253,
+          "like_count": 9285,
+          "listed_count": 9,
+          "media_count": 1185,
+          "tweet_count": 4752
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-23T03:08:13.000Z",
+        "description": "藤本タツキ×小島秀夫×魚韻x 三浦大知,演出・リズム・叙事のメモ 🇯🇵の同好歓迎`最近Marathonに超ハマってて`ずっとナイフで走り回ってるんだよね`個人でニコンZFを持っており`3つの異なる焦点距離のレンズがあります`AMAZE`mm`🛀`😭 BLUE BOT",
+        "id": "2003301347760963586",
+        "is_identity_verified": true,
+        "location": "道路の中央にある分離帯",
+        "most_recent_tweet_id": "2101392124105138447",
+        "name": "オド",
+        "pinned_tweet_id": "2100691274026074567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003301347760963586/1784253420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991599948214272/ONlu8YmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 282,
+          "like_count": 40852,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 6093
+        },
+        "url": "",
+        "username": "odoooobo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

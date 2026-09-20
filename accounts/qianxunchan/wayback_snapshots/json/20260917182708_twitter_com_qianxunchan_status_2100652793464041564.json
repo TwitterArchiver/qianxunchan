@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2100535609987391527",
+    "created_at": "2026-09-17T18:27:08.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T19:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100652793464041564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100652793464041564",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100535609987391527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao 果味桌子😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100535402650296320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaZ0dEaYAA8nd-.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100535593323360257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaZ_jYacAEPuVI.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100535593323421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaZ_jYbYAA0Ax6.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2100535609987391527",
+        "created_at": "2026-09-17T18:27:08.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T19:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100652793464041564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100652793464041564",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100535609987391527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao 果味桌子😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100535402650296320",
+            "3_2100535593323360257",
+            "3_2100535593323421696"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "conversation_id": "2100535609987391527",
+        "created_at": "2026-09-17T10:41:30.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:40:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100535422292295858",
+          "2100535609987391527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jruGl1lcYN",
+              "end": 39,
+              "expanded_url": "https://x.com/BaitangToubao/status/2100535609987391527/photo/1",
+              "media_key": "3_2100535402650296320",
+              "start": 16,
+              "url": "https://t.co/jruGl1lcYN"
+            },
+            {
+              "display_url": "pic.x.com/jruGl1lcYN",
+              "end": 39,
+              "expanded_url": "https://x.com/BaitangToubao/status/2100535609987391527/photo/1",
+              "media_key": "3_2100535593323360257",
+              "start": 16,
+              "url": "https://t.co/jruGl1lcYN"
+            },
+            {
+              "display_url": "pic.x.com/jruGl1lcYN",
+              "end": 39,
+              "expanded_url": "https://x.com/BaitangToubao/status/2100535609987391527/photo/1",
+              "media_key": "3_2100535593323421696",
+              "start": 16,
+              "url": "https://t.co/jruGl1lcYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100535609987391527",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100535402650296320"
+          },
+          {
+            "media_key": "3_2100535593323360257"
+          },
+          {
+            "media_key": "3_2100535593323421696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Store风橡木桌 https://t.co/jruGl1lcYN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2100652793464041564",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 1255,
+          "like_count": 9260,
+          "listed_count": 9,
+          "media_count": 1175,
+          "tweet_count": 4714
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "BPD AuDHD积极治疗｜瑾瑾@K66cheng｜暖男、良人、正人君子@Leaf_Fallfield｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100573065860313356",
+        "name": "白糖豆包🍥🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919628976208752640/1772584867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 679,
+          "like_count": 38899,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 8909
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2098244092773666996",
+    "created_at": "2026-09-11T03:47:36.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098257123125960709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098257123125960709",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098244092773666996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl 找我拍🤭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098244021403758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR510gvbsAAEJLm.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2098244092773666996",
+        "created_at": "2026-09-11T03:47:36.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098257123125960709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098257123125960709",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098244092773666996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl 找我拍🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098244021403758592"
+          ]
+        },
+        "author_id": "718796360250691585",
+        "conversation_id": "2098244092773666996",
+        "created_at": "2026-09-11T02:55:49.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098244092773666996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X028OwQJ2o",
+              "end": 69,
+              "expanded_url": "https://x.com/lpngpkl/status/2098244092773666996/photo/1",
+              "media_key": "3_2098244021403758592",
+              "start": 46,
+              "url": "https://t.co/X028OwQJ2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098244092773666996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098244021403758592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有拍色图的愿望😔\n但是我的老图很多🤓\n\n把老推的冷饭全部都搬过来再archive一遍！😋 https://t.co/X028OwQJ2o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2098257123125960709",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 1258,
+          "like_count": 9166,
+          "listed_count": 9,
+          "media_count": 1145,
+          "tweet_count": 4577
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "老号已死不用找了\n#FUCKNVIDIA\ni love my #shitbox\nwelcome to DM me tecnical issue（有tg群）\n二次元：@pinkeye404\nFacebook marketplace :",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 9,
+                "tag": "FUCKNVIDIA"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "shitbox"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "pinkeye404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/",
+                "start": 0,
+                "url": "https://t.co/6wJ7IW09A5"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "is_identity_verified": false,
+        "location": "AL - Blacksburg, VA - nyc",
+        "most_recent_tweet_id": "2098250725910298676",
+        "name": "粉眼睛（没有可爱小男娘和我贴😭）",
+        "pinned_tweet_id": "2098228648046219360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718796360250691585/1788385966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 840,
+          "like_count": 4613,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/6wJ7IW09A5",
+        "username": "lpngpkl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2099511981594247332",
+    "created_at": "2026-09-14T19:04:39.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T20:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099575069785911747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1404733302607581184",
+          "start": 0,
+          "username": "0x_dcgbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099575069785911747",
+    "in_reply_to_user_id": "1404733302607581184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099511981594247332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x_dcgbb 这他妈的不是孙笑川吗😵‍💫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2099511975487451136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL3BJybsAAsNv3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2099511981594247332",
+        "created_at": "2026-09-14T19:04:39.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099575069785911747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1404733302607581184",
+              "start": 0,
+              "username": "0x_dcgbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099575069785911747",
+        "in_reply_to_user_id": "1404733302607581184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099511981594247332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x_dcgbb 这他妈的不是孙笑川吗😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099511975487451136"
+          ]
+        },
+        "author_id": "1404733302607581184",
+        "conversation_id": "2099511981594247332",
+        "created_at": "2026-09-14T14:53:58.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099511981594247332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fh90BShkHY",
+              "end": 51,
+              "expanded_url": "https://x.com/0x_dcgbb/status/2099511981594247332/photo/1",
+              "media_key": "3_2099511975487451136",
+              "start": 28,
+              "url": "https://t.co/fh90BShkHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099511981594247332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099511975487451136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 136350,
+          "like_count": 240,
+          "quote_count": 3,
+          "reply_count": 116,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "广州gogo无差别杀人，听说是这四个畜生，大家记住他们 https://t.co/fh90BShkHY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2099575069785911747",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 1257,
+          "like_count": 9230,
+          "listed_count": 9,
+          "media_count": 1159,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-15T09:31:47.000Z",
+        "description": "Web3交易员｜X创作者｜#lovetesla",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "lovetesla"
+              }
+            ]
+          }
+        },
+        "id": "1404733302607581184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099517491026534795",
+        "name": "曾经是个赌神",
+        "pinned_tweet_id": "1962183240015647003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404733302607581184/1788963643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014648747712708608/ir5pOkBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16843,
+          "following_count": 6318,
+          "like_count": 117932,
+          "listed_count": 50,
+          "media_count": 290,
+          "tweet_count": 123107
+        },
+        "url": "",
+        "username": "0x_dcgbb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

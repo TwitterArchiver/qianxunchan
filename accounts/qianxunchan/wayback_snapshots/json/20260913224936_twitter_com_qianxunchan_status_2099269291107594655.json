@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099269288016384000"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2099269291107594655",
+    "created_at": "2026-09-13T22:49:36.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T23:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099269291107594655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cArZyILBtn",
+          "end": 30,
+          "expanded_url": "https://x.com/qianxunchan/status/2099269291107594655/photo/1",
+          "media_key": "3_2099269288016384000",
+          "start": 7,
+          "url": "https://t.co/cArZyILBtn"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2099053217522786806",
+          "start": 31,
+          "url": "https://t.co/Q0X0ZNjuQj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099269291107594655",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099269288016384000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099053217522786806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拉出来鞭尸🥱 https://t.co/cArZyILBtn https://t.co/Q0X0ZNjuQj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2644,
+        "media_key": "3_2099269288016384000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSIaS4gakAAZQLk.jpg",
+        "width": 1188
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099046962205171712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFQF0UaIAAdmh4.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099269288016384000"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2099269291107594655",
+        "created_at": "2026-09-13T22:49:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T23:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099269291107594655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cArZyILBtn",
+              "end": 30,
+              "expanded_url": "https://x.com/qianxunchan/status/2099269291107594655/photo/1",
+              "media_key": "3_2099269288016384000",
+              "start": 7,
+              "url": "https://t.co/cArZyILBtn"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2099053217522786806",
+              "start": 31,
+              "url": "https://t.co/Q0X0ZNjuQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099269291107594655",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099269288016384000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099053217522786806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拉出来鞭尸🥱 https://t.co/cArZyILBtn https://t.co/Q0X0ZNjuQj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099046962205171712"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2099053217522786806",
+        "created_at": "2026-09-13T08:31:00.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099053217522786806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Something big is coming",
+              "display_url": "freedom.gov",
+              "end": 36,
+              "expanded_url": "https://freedom.gov",
+              "start": 13,
+              "status": 200,
+              "title": "Freedom",
+              "unwound_url": "https://freedom.gov",
+              "url": "https://t.co/IOu9RUCop6"
+            },
+            {
+              "display_url": "pic.x.com/vSZueuThJa",
+              "end": 84,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2099053217522786806/photo/1",
+              "media_key": "3_2099046962205171712",
+              "start": 61,
+              "url": "https://t.co/vSZueuThJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099053217522786806",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099046962205171712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 27866,
+          "like_count": 216,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "已经半年没有在推特上见到 https://t.co/IOu9RUCop6 这个词了。\n\n所以这个计划现在已经烂尾了吗？🤨 https://t.co/vSZueuThJa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2099269291107594655",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 1256,
+          "like_count": 9214,
+          "listed_count": 9,
+          "media_count": 1157,
+          "tweet_count": 4638
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099222425359601965",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20050,
+          "following_count": 893,
+          "like_count": 35968,
+          "listed_count": 32,
+          "media_count": 3094,
+          "tweet_count": 13700
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100028995266134016",
+        "3_2100028995379286016",
+        "3_2100029147200606208",
+        "3_2100029147171127296"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2100029178817200587",
+    "created_at": "2026-09-16T01:09:07.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100029178817200587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cfqbceodov",
+          "end": 70,
+          "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+          "media_key": "3_2100028995266134016",
+          "start": 47,
+          "url": "https://t.co/Cfqbceodov"
+        },
+        {
+          "display_url": "pic.x.com/Cfqbceodov",
+          "end": 70,
+          "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+          "media_key": "3_2100028995379286016",
+          "start": 47,
+          "url": "https://t.co/Cfqbceodov"
+        },
+        {
+          "display_url": "pic.x.com/Cfqbceodov",
+          "end": 70,
+          "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+          "media_key": "3_2100029147200606208",
+          "start": 47,
+          "url": "https://t.co/Cfqbceodov"
+        },
+        {
+          "display_url": "pic.x.com/Cfqbceodov",
+          "end": 70,
+          "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+          "media_key": "3_2100029147171127296",
+          "start": 47,
+          "url": "https://t.co/Cfqbceodov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100029178817200587",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100028995266134016"
+      },
+      {
+        "media_key": "3_2100028995379286016"
+      },
+      {
+        "media_key": "3_2100029147200606208"
+      },
+      {
+        "media_key": "3_2100029147171127296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "枪店跑了一趟今天和朋友🥺\n好想要p226🥺\n店里没有 226 看😭\n还有雷霆 9mm Ak🫪 https://t.co/Cfqbceodov"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100028995266134016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTNPqjbwAAWUJp.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100028995379286016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTNPq-aUAAkUaz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100029147200606208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTNYgjb0AAsL-J.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100029147171127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTNYgcaAAAZmFC.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100028995266134016",
+            "3_2100028995379286016",
+            "3_2100029147200606208",
+            "3_2100029147171127296"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2100029178817200587",
+        "created_at": "2026-09-16T01:09:07.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100029178817200587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cfqbceodov",
+              "end": 70,
+              "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+              "media_key": "3_2100028995266134016",
+              "start": 47,
+              "url": "https://t.co/Cfqbceodov"
+            },
+            {
+              "display_url": "pic.x.com/Cfqbceodov",
+              "end": 70,
+              "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+              "media_key": "3_2100028995379286016",
+              "start": 47,
+              "url": "https://t.co/Cfqbceodov"
+            },
+            {
+              "display_url": "pic.x.com/Cfqbceodov",
+              "end": 70,
+              "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+              "media_key": "3_2100029147200606208",
+              "start": 47,
+              "url": "https://t.co/Cfqbceodov"
+            },
+            {
+              "display_url": "pic.x.com/Cfqbceodov",
+              "end": 70,
+              "expanded_url": "https://x.com/qianxunchan/status/2100029178817200587/photo/1",
+              "media_key": "3_2100029147171127296",
+              "start": 47,
+              "url": "https://t.co/Cfqbceodov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100029178817200587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100028995266134016"
+          },
+          {
+            "media_key": "3_2100028995379286016"
+          },
+          {
+            "media_key": "3_2100029147200606208"
+          },
+          {
+            "media_key": "3_2100029147171127296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枪店跑了一趟今天和朋友🥺\n好想要p226🥺\n店里没有 226 看😭\n还有雷霆 9mm Ak🫪 https://t.co/Cfqbceodov"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2100029178817200587",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 1257,
+          "like_count": 9236,
+          "listed_count": 9,
+          "media_count": 1166,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

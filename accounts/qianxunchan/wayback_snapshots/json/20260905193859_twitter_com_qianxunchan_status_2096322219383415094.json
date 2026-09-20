@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2096322219383415094",
+    "created_at": "2026-09-05T19:38:59.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096322219383415094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unitedly_37400…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/unitedly_37400/status/2096151597302890731",
+          "start": 25,
+          "url": "https://t.co/aX3ufJvtHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096322219383415094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096151597302890731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特引用都可以九层了吗👋😆\n我直接来个九层妖塔😋 https://t.co/aX3ufJvtHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2096151588905922560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcGw6QbsAAkKxK.jpg",
+        "width": 1179
+      },
+      {
+        "height": 981,
+        "media_key": "3_2096151588876558336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcGw6JboAA6sZs.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2096322219383415094",
+        "created_at": "2026-09-05T19:38:59.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096322219383415094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unitedly_37400…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/unitedly_37400/status/2096151597302890731",
+              "start": 25,
+              "url": "https://t.co/aX3ufJvtHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096322219383415094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096151597302890731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特引用都可以九层了吗👋😆\n我直接来个九层妖塔😋 https://t.co/aX3ufJvtHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096151588905922560",
+            "3_2096151588876558336"
+          ]
+        },
+        "author_id": "1688792465292374016",
+        "conversation_id": "2096151597302890731",
+        "created_at": "2026-09-05T08:21:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096151597302890731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjZaKkWd9f",
+              "end": 41,
+              "expanded_url": "https://x.com/unitedly_37400/status/2096151597302890731/photo/1",
+              "media_key": "3_2096151588905922560",
+              "start": 18,
+              "url": "https://t.co/xjZaKkWd9f"
+            },
+            {
+              "display_url": "pic.x.com/xjZaKkWd9f",
+              "end": 41,
+              "expanded_url": "https://x.com/unitedly_37400/status/2096151597302890731/photo/1",
+              "media_key": "3_2096151588876558336",
+              "start": 18,
+              "url": "https://t.co/xjZaKkWd9f"
+            },
+            {
+              "display_url": "x.com/wesley10032/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/wesley10032/status/2096085263906914668",
+              "start": 42,
+              "url": "https://t.co/RXYGWarDaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096151597302890731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096151588905922560"
+          },
+          {
+            "media_key": "3_2096151588876558336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1228,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096085263906914668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘推特12个♻️点进去显示不出来 https://t.co/xjZaKkWd9f https://t.co/RXYGWarDaA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2096322219383415094",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 1248,
+          "like_count": 9052,
+          "listed_count": 10,
+          "media_count": 1120,
+          "tweet_count": 4454
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰滋賀県民？｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微啦拜托fo我嘛)🥺｜防失联@tsurumi_37400 （会回！）｜魔裁/Mu/Go/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜bsky同名同ID｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=o_5SCtHE-hZNEHsw",
+                "start": 0,
+                "url": "https://t.co/BKC1Hgo8gG"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "is_identity_verified": false,
+        "location": "君が代",
+        "most_recent_tweet_id": "2096302332707475655",
+        "name": "中井鶴見",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688792465292374016/1784302086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 634,
+          "like_count": 89515,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/BKC1Hgo8gG",
+        "username": "unitedly_37400",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

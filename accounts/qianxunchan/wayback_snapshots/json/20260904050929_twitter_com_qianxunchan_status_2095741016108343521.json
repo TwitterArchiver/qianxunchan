@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2095707493565612151",
+    "created_at": "2026-09-04T05:09:29.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095741016108343521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "886829423755800576",
+          "start": 0,
+          "username": "ORaNGEMINT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095741016108343521",
+    "in_reply_to_user_id": "886829423755800576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095707493565612151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ORaNGEMINT 老师我学到了（以后模仿嘻嘻）😝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095707486976409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVy2xpbAAARDHF.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2095707493565612151",
+        "created_at": "2026-09-04T05:09:29.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095741016108343521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "886829423755800576",
+              "start": 0,
+              "username": "ORaNGEMINT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095741016108343521",
+        "in_reply_to_user_id": "886829423755800576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095707493565612151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ORaNGEMINT 老师我学到了（以后模仿嘻嘻）😝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095707486976409600"
+          ]
+        },
+        "author_id": "886829423755800576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095707493565612151",
+        "created_at": "2026-09-04T02:56:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095707493565612151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxjsBokT6R",
+              "end": 23,
+              "expanded_url": "https://x.com/ORaNGEMINT/status/2095707493565612151/photo/1",
+              "media_key": "3_2095707486976409600",
+              "start": 0,
+              "url": "https://t.co/vxjsBokT6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095707493565612151",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095707486976409600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 535,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vxjsBokT6R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2095741016108343521",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 1240,
+          "like_count": 9004,
+          "listed_count": 10,
+          "media_count": 1113,
+          "tweet_count": 4402
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-17T06:06:25.000Z",
+        "description": "An embodiment of pure motion. 如果有任何投诉，请直接向👉@HIBIKI_GN提出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "HIBIKI_GN"
+              }
+            ]
+          }
+        },
+        "id": "886829423755800576",
+        "is_identity_verified": false,
+        "location": "ショートランド泊地",
+        "most_recent_tweet_id": "2095707493565612151",
+        "name": "オレンジ_Mint",
+        "pinned_tweet_id": "2025099112920875123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886829423755800576/1763103535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989226518451826688/9sv6fyzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 841,
+          "like_count": 4979,
+          "listed_count": 29,
+          "media_count": 451,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "ORaNGEMINT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

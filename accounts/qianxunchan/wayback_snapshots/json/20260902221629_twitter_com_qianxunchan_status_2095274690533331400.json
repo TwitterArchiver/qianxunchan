@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2095218813184967133",
+    "created_at": "2026-09-02T22:16:29.000Z",
+    "display_text_range": [
+      13,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T23:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095274690533331400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1133660809274376194",
+          "start": 0,
+          "username": "Mcc35503135"
+        },
+        {
+          "end": 26,
+          "id": "156219202",
+          "start": 13,
+          "username": "ToshinoAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095274690533331400",
+    "in_reply_to_user_id": "1133660809274376194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095218813184967133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcc35503135 @ToshinoAyano 这里有雪糕！😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2095218809988931584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRO2aCAbYAAm1sn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2095218813184967133",
+        "created_at": "2026-09-02T22:16:29.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095274690533331400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1133660809274376194",
+              "start": 0,
+              "username": "Mcc35503135"
+            },
+            {
+              "end": 26,
+              "id": "156219202",
+              "start": 13,
+              "username": "ToshinoAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095274690533331400",
+        "in_reply_to_user_id": "1133660809274376194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095218813184967133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcc35503135 @ToshinoAyano 这里有雪糕！😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095218809988931584"
+          ]
+        },
+        "author_id": "1133660809274376194",
+        "conversation_id": "2095218813184967133",
+        "created_at": "2026-09-02T18:34:27.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095218813184967133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qd1K9ibUrT",
+              "end": 27,
+              "expanded_url": "https://x.com/Mcc35503135/status/2095218813184967133/photo/1",
+              "media_key": "3_2095218809988931584",
+              "start": 4,
+              "url": "https://t.co/qd1K9ibUrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095218813184967133",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095218809988931584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 138,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雪糕🍦 https://t.co/qd1K9ibUrT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2095274690533331400",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 1230,
+          "like_count": 8962,
+          "listed_count": 10,
+          "media_count": 1102,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-29T09:06:14.000Z",
+        "description": "摄影&kig｜🍥神楽mea的财布｜目前玩NIKKE、鸣潮、碧蓝航线。社恐😨，清水😸现在是芙兰朵露",
+        "id": "1133660809274376194",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095218813184967133",
+        "name": "被寄寄子干碎",
+        "pinned_tweet_id": "2015980241693622674",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055350554046672896/w2suOXs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 319,
+          "like_count": 1062,
+          "listed_count": 20,
+          "media_count": 61,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "Mcc35503135",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "椰子味的Potong，抓住雪糕吃掉雪糕～\n欢迎加入雪糕频道，钟意您来😋\n日常/树洞号小蛋糕@SweetCream37012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SweetCream37012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Potong_Coconut",
+                "end": 23,
+                "expanded_url": "http://t.me/Potong_Coconut",
+                "start": 0,
+                "url": "https://t.co/lfSkDpx1tg"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2095144143538602195",
+        "name": "雪糕Potong🍦",
+        "pinned_tweet_id": "2094050875165790713",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156219202/1758810265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047558886518112257/RWFVWo6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 1795,
+          "like_count": 25080,
+          "listed_count": 18,
+          "media_count": 145,
+          "tweet_count": 12259
+        },
+        "url": "https://t.co/lfSkDpx1tg",
+        "username": "ToshinoAyano",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097836757643591680"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2097836764396401092",
+    "created_at": "2026-09-09T23:57:15.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T00:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097836764396401092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIZoB5rX5T",
+          "end": 45,
+          "expanded_url": "https://x.com/qianxunchan/status/2097836764396401092/photo/1",
+          "media_key": "3_2097836757643591680",
+          "start": 22,
+          "url": "https://t.co/lIZoB5rX5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097836764396401092",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097836757643591680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没流量这一块😭\n推特我真的白给你冲p+了😣 https://t.co/lIZoB5rX5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2097836757643591680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0DapAagAAB0GY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097836757643591680"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2097836764396401092",
+        "created_at": "2026-09-09T23:57:15.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097836764396401092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIZoB5rX5T",
+              "end": 45,
+              "expanded_url": "https://x.com/qianxunchan/status/2097836764396401092/photo/1",
+              "media_key": "3_2097836757643591680",
+              "start": 22,
+              "url": "https://t.co/lIZoB5rX5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097836764396401092",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097836757643591680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没流量这一块😭\n推特我真的白给你冲p+了😣 https://t.co/lIZoB5rX5T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2097836764396401092",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 1257,
+          "like_count": 9141,
+          "listed_count": 9,
+          "media_count": 1137,
+          "tweet_count": 4539
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

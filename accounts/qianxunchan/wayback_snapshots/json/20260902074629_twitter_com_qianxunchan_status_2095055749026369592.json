@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095055746304233472"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2094906376384663919",
+    "created_at": "2026-09-02T07:46:29.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095055749026369592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090443724266536960",
+          "start": 0,
+          "username": "MingShixsq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6TPpopEKn",
+          "end": 51,
+          "expanded_url": "https://x.com/qianxunchan/status/2095055749026369592/photo/1",
+          "media_key": "3_2095055746304233472",
+          "start": 28,
+          "url": "https://t.co/f6TPpopEKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095055749026369592",
+    "in_reply_to_user_id": "2090443724266536960",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095055746304233472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094988030524465526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MingShixsq 我都聊一天了🥵\n才干到 30% https://t.co/f6TPpopEKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2095055746304233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMiGeca0AAQRES.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095055746304233472"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2094906376384663919",
+        "created_at": "2026-09-02T07:46:29.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095055749026369592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090443724266536960",
+              "start": 0,
+              "username": "MingShixsq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6TPpopEKn",
+              "end": 51,
+              "expanded_url": "https://x.com/qianxunchan/status/2095055749026369592/photo/1",
+              "media_key": "3_2095055746304233472",
+              "start": 28,
+              "url": "https://t.co/f6TPpopEKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095055749026369592",
+        "in_reply_to_user_id": "2090443724266536960",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095055746304233472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094988030524465526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MingShixsq 我都聊一天了🥵\n才干到 30% https://t.co/f6TPpopEKn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090443724266536960",
+        "conversation_id": "2094906376384663919",
+        "created_at": "2026-09-02T03:17:24.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094988030524465526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094988030524465526",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094906376384663919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 在嗑点进去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2095055749026369592",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 1224,
+          "like_count": 8940,
+          "listed_count": 10,
+          "media_count": 1095,
+          "tweet_count": 4342
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T14:20:34.000Z",
+        "description": "The fox loves me,I like it  狐 が 私 を 愛し 、 私 は 狐 を 愛する",
+        "id": "2090443724266536960",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2094988229825204438",
+        "name": "Ming Shi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090443724266536960/1787273210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090443961823551488/R8Asq8z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 189,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "MingShixsq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

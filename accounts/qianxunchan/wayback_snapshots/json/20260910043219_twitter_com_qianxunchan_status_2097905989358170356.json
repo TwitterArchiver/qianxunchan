@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2097905989358170356",
+    "created_at": "2026-09-10T04:32:19.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097905989358170356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangcai_nya/s…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/xiangcai_nya/status/2097885176328245700",
+          "start": 64,
+          "url": "https://t.co/lIsCG7cb6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097905989358170356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097885176328245700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刚刚好相反😂\n我玩推特是想让一堆人围着我🥺\n当片姐想（未来）🥵\n这种只馋不卖的感觉太爽了😋\n以至于现在一堆人通缉我（嘻嘻）😝 https://t.co/lIsCG7cb6K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2097905989358170356",
+        "created_at": "2026-09-10T04:32:19.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097905989358170356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangcai_nya/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/xiangcai_nya/status/2097885176328245700",
+              "start": 64,
+              "url": "https://t.co/lIsCG7cb6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097905989358170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097885176328245700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚刚好相反😂\n我玩推特是想让一堆人围着我🥺\n当片姐想（未来）🥵\n这种只馋不卖的感觉太爽了😋\n以至于现在一堆人通缉我（嘻嘻）😝 https://t.co/lIsCG7cb6K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2097885176328245700",
+        "created_at": "2026-09-10T03:09:37.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097885176328245700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097885176328245700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不装了我摊牌了，其实我就是个臭顺直男，混跨圈只是想草小药娘而已"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2097905989358170356",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 1256,
+          "like_count": 9143,
+          "listed_count": 9,
+          "media_count": 1138,
+          "tweet_count": 4549
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo\n第一人格@Wrin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "Wrin520"
+              }
+            ]
+          }
+        },
+        "id": "1153430387504373764",
+        "is_identity_verified": false,
+        "location": "Archangel, Russia",
+        "most_recent_tweet_id": "2097885176328245700",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2096183201689715032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153430387504373764/1781704040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087441813909217280/uKEPeOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 450,
+          "like_count": 887,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2315
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2095187843459215837",
+    "created_at": "2026-09-02T17:22:52.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095200801983709368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009099899003170816",
+          "start": 0,
+          "username": "Ningqian6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095200801983709368",
+    "in_reply_to_user_id": "2009099899003170816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095187843459215837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ningqian6688 ！？帅帅？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095187834609324032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROaPBub0AAMqBt.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2095187843459215837",
+        "created_at": "2026-09-02T17:22:52.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095200801983709368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009099899003170816",
+              "start": 0,
+              "username": "Ningqian6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095200801983709368",
+        "in_reply_to_user_id": "2009099899003170816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095187843459215837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ningqian6688 ！？帅帅？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095187834609324032"
+          ]
+        },
+        "author_id": "2009099899003170816",
+        "conversation_id": "2095187843459215837",
+        "created_at": "2026-09-02T16:31:23.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095187843459215837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4Z4TKBRiq",
+              "end": 40,
+              "expanded_url": "https://x.com/Ningqian6688/status/2095187843459215837/photo/1",
+              "media_key": "3_2095187834609324032",
+              "start": 17,
+              "url": "https://t.co/i4Z4TKBRiq"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2095187843459215837",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095187834609324032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄肌版Tony（果照）\n\n还行吧 https://t.co/i4Z4TKBRiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2095200801983709368",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 1228,
+          "like_count": 8954,
+          "listed_count": 10,
+          "media_count": 1101,
+          "tweet_count": 4361
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-08T03:08:50.000Z",
+        "description": "MAcc | PreHKICPA｜CISA | CFI 美国注册审计师 🇺🇸🇭🇰协会员\n纳斯达克金融科技集团港办总助+CIO Tony社区创始人\n18岁炒股 10年A股+美股+港股+期权交易员10-20%+\nINTJ｜成功研判美股从涨到跌的男人✈️：@TonyLoveyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "TonyLoveyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iu37RG0Nau0zY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iu37RG0Nau0zYzg9",
+                "start": 0,
+                "url": "https://t.co/bQRO3qoZQM"
+              }
+            ]
+          }
+        },
+        "id": "2009099899003170816",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2095189800404021642",
+        "name": "Tony HK🇭🇰（薄肌版）",
+        "pinned_tweet_id": "2079743013023363125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009099899003170816/1776256386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975583125037057/yqyPjF6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18712,
+          "following_count": 2551,
+          "like_count": 21691,
+          "listed_count": 68,
+          "media_count": 1197,
+          "tweet_count": 13558
+        },
+        "url": "https://t.co/bQRO3qoZQM",
+        "username": "Ningqian6688",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

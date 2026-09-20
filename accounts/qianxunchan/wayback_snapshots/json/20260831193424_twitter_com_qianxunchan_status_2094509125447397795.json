@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Movie franchise.",
+          "id": "1435646444011069453",
+          "name": "John Wick"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movie franchise.",
+          "id": "1435646444011069453",
+          "name": "John Wick"
+        }
+      }
+    ],
+    "conversation_id": "2094472055404044490",
+    "created_at": "2026-08-31T19:34:24.000Z",
+    "display_text_range": [
+      9,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094509125447397795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094509125447397795",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094472055404044490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl 你这个行头和John Wick一样，我怕死你下一秒拿枪出来给我两枪身体一枪头🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2094471103611625472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREOXysXYAAPXvK.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2094471597956489216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREO0kRXYAAakk4.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2094471631921922049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREO2izWwAEpCB3.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2094471732148998144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREO8YLWkAA6AS7.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Movie franchise.",
+              "id": "1435646444011069453",
+              "name": "John Wick"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movie franchise.",
+              "id": "1435646444011069453",
+              "name": "John Wick"
+            }
+          }
+        ],
+        "conversation_id": "2094472055404044490",
+        "created_at": "2026-08-31T19:34:24.000Z",
+        "display_text_range": [
+          9,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094509125447397795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094509125447397795",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094472055404044490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl 你这个行头和John Wick一样，我怕死你下一秒拿枪出来给我两枪身体一枪头🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094471103611625472",
+            "3_2094471597956489216",
+            "3_2094471631921922049",
+            "3_2094471732148998144"
+          ]
+        },
+        "author_id": "718796360250691585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094472055404044490",
+        "created_at": "2026-08-31T17:07:06.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094472055404044490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPc2jKfjz6",
+              "end": 146,
+              "expanded_url": "https://x.com/lpngpkl/status/2094472055404044490/photo/1",
+              "media_key": "3_2094471103611625472",
+              "start": 123,
+              "url": "https://t.co/sPc2jKfjz6"
+            },
+            {
+              "display_url": "pic.x.com/sPc2jKfjz6",
+              "end": 146,
+              "expanded_url": "https://x.com/lpngpkl/status/2094472055404044490/photo/1",
+              "media_key": "3_2094471597956489216",
+              "start": 123,
+              "url": "https://t.co/sPc2jKfjz6"
+            },
+            {
+              "display_url": "pic.x.com/sPc2jKfjz6",
+              "end": 146,
+              "expanded_url": "https://x.com/lpngpkl/status/2094472055404044490/photo/1",
+              "media_key": "3_2094471631921922049",
+              "start": 123,
+              "url": "https://t.co/sPc2jKfjz6"
+            },
+            {
+              "display_url": "pic.x.com/sPc2jKfjz6",
+              "end": 146,
+              "expanded_url": "https://x.com/lpngpkl/status/2094472055404044490/photo/1",
+              "media_key": "3_2094471732148998144",
+              "start": 123,
+              "url": "https://t.co/sPc2jKfjz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094472055404044490",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094471103611625472"
+          },
+          {
+            "media_key": "3_2094471597956489216"
+          },
+          {
+            "media_key": "3_2094471631921922049"
+          },
+          {
+            "media_key": "3_2094471732148998144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们劳粉早上10点还躺在床上呢手机爹说11点有carrer fair\n然后楞是花了30分钟改完了简历，然后找个皮带找了快15分钟\n俺真牛逼一个半小时内把吃喝拉撒全解决了进厂子里开始到处投简历了（\n\n所以手机爹你为什么不昨天告诉我今天有fair😭 https://t.co/sPc2jKfjz6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2094509125447397795",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1213,
+          "like_count": 8892,
+          "listed_count": 10,
+          "media_count": 1070,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "老号已死不用找了\nwelcome to DM me tecnical issue\n二次元：@pinkeye404\nFacebook marketplace https://t.co/6wJ7IW09A5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "pinkeye404"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 101,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/",
+                "start": 78,
+                "url": "https://t.co/6wJ7IW09A5"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "is_identity_verified": false,
+        "location": "Auburn, AL - Blacksburg, VA",
+        "most_recent_tweet_id": "2094506011012878409",
+        "name": "粉眼睛不写代码（有没有人来弗吉尼亚看看孤寡老人）",
+        "pinned_tweet_id": "2093894654500524165",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718796360250691585/1761752613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 760,
+          "like_count": 4312,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "lpngpkl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
