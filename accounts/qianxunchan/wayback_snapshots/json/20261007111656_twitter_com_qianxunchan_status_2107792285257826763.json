@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2107752627652157738",
+    "created_at": "2026-10-07T11:16:56.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T12:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107792285257826763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567670093550858242",
+          "start": 0,
+          "username": "ATRI_5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107792285257826763",
+    "in_reply_to_user_id": "1567670093550858242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107791850711265759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRI_5201314 这也能截图？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2107791842985349120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBhg32bkAA0Z_Q.jpg",
+        "width": 314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2107752627652157738",
+        "created_at": "2026-10-07T11:16:56.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107792285257826763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567670093550858242",
+              "start": 0,
+              "username": "ATRI_5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107792285257826763",
+        "in_reply_to_user_id": "1567670093550858242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107791850711265759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRI_5201314 这也能截图？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107791842985349120"
+          ]
+        },
+        "author_id": "1567670093550858242",
+        "conversation_id": "2107752627652157738",
+        "created_at": "2026-10-07T11:15:12.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107791850711265759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/12tXbkwtmc",
+              "end": 40,
+              "expanded_url": "https://x.com/ATRI_5201314/status/2107791850711265759/photo/1",
+              "media_key": "3_2107791842985349120",
+              "start": 17,
+              "url": "https://t.co/12tXbkwtmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107791850711265759",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107791842985349120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107761292228645219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 😋😋😋 https://t.co/12tXbkwtmc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2107792285257826763",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1265,
+          "like_count": 9386,
+          "listed_count": 8,
+          "media_count": 1213,
+          "tweet_count": 4943
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T00:24:28.000Z",
+        "description": "破產 IDC 老闆/二次元阿宅/小藥娘\nMandarin/Cantonese/English/ 歡迎向我投喂IT問題\n關注咗咁多小男娘同小藥娘，結果自己就變成小藥娘喇\n你睇嗰個通天嘅巨塔，每時每刻都有人往下跳。 我細個時唔明，以為嗰個係雪花。",
+        "id": "1567670093550858242",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2107791850711265759",
+        "name": "往生堂贵宾一位",
+        "pinned_tweet_id": "2104579127248634319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567670093550858242/1763626338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991419441511559171/3RprTY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 92,
+          "like_count": 7298,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "ATRI_5201314",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

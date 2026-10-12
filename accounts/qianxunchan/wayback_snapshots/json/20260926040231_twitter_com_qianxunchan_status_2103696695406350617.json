@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103696695406350617",
+    "created_at": "2026-09-26T04:02:31.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103696695406350617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103696695406350617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我天天都给你们发屎😡\n我自己都不舍得吃\n你不吃真的是浪费我一片好心😡\n白生你个杂种\n不想吃还对我发火\n真的是狼心狗肺的家伙\n你看看隔壁的嘉豪\n多豪😡😡😡\n你什么时候学学人家的努力\n人家嘉豪下大雨都在雨里练习跳舞\n我都不想说你了😡\n不说你又不做也不知道自己学习别人\n我要是不生你这种白眼狼就好了\n真的是好心给狗吃了😡"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我天天都给你们发屎😡\n我自己都不舍得吃\n你不吃真的是浪费我一片好心😡\n白生你个杂种\n不想吃还对我发火\n真的是狼心狗肺的家伙\n你看看隔壁的嘉豪\n多豪😡😡😡\n你什么时候学学人家的努力\n人家嘉豪下大雨都在雨里练习跳舞\n我都不想说你了😡\n不说你又不做也不知道自己学习别人\n我要是不生你这种白眼狼就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103696695406350617",
+        "created_at": "2026-09-26T04:02:31.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103696695406350617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103696695406350617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我天天都给你们发屎😡\n我自己都不舍得吃\n你不吃真的是浪费我一片好心😡\n白生你个杂种\n不想吃还对我发火\n真的是狼心狗肺的家伙\n你看看隔壁的嘉豪\n多豪😡😡😡\n你什么时候学学人家的努力\n人家嘉豪下大雨都在雨里练习跳舞\n我都不想说你了😡\n不说你又不做也不知道自己学习别人\n我要是不生你这种白眼狼就好了\n真的是好心给狗吃了😡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我天天都给你们发屎😡\n我自己都不舍得吃\n你不吃真的是浪费我一片好心😡\n白生你个杂种\n不想吃还对我发火\n真的是狼心狗肺的家伙\n你看看隔壁的嘉豪\n多豪😡😡😡\n你什么时候学学人家的努力\n人家嘉豪下大雨都在雨里练习跳舞\n我都不想说你了😡\n不说你又不做也不知道自己学习别人\n我要是不生你这种白眼狼就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103696695406350617",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 1256,
+          "like_count": 9328,
+          "listed_count": 9,
+          "media_count": 1198,
+          "tweet_count": 4847
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

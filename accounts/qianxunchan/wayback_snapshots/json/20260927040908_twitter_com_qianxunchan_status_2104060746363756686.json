@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103883097347629517",
+    "created_at": "2026-09-27T04:09:08.000Z",
+    "display_text_range": [
+      31,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104060746363756686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236513840008962048",
+          "start": 0,
+          "username": "ColdBerry223"
+        },
+        {
+          "end": 30,
+          "id": "1124924918607409152",
+          "start": 14,
+          "username": "Fb3QYZj3wZBTEkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104060746363756686",
+    "in_reply_to_user_id": "1236513840008962048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104059857657856264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColdBerry223 @Fb3QYZj3wZBTEkd 谁家m4 掉了🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103883097347629517",
+        "created_at": "2026-09-27T04:09:08.000Z",
+        "display_text_range": [
+          31,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104060746363756686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236513840008962048",
+              "start": 0,
+              "username": "ColdBerry223"
+            },
+            {
+              "end": 30,
+              "id": "1124924918607409152",
+              "start": 14,
+              "username": "Fb3QYZj3wZBTEkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104060746363756686",
+        "in_reply_to_user_id": "1236513840008962048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104059857657856264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColdBerry223 @Fb3QYZj3wZBTEkd 谁家m4 掉了🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236513840008962048",
+        "conversation_id": "2103883097347629517",
+        "created_at": "2026-09-27T04:05:36.000Z",
+        "display_text_range": [
+          30,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104059857657856264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 29,
+              "id": "1124924918607409152",
+              "start": 13,
+              "username": "Fb3QYZj3wZBTEkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104059857657856264",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103895864788091045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @Fb3QYZj3wZBTEkd 你用过M4吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2104060746363756686",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 1257,
+          "like_count": 9337,
+          "listed_count": 9,
+          "media_count": 1203,
+          "tweet_count": 4865
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T04:47:39.000Z",
+        "description": "创始人@QWQINC with @xubai_01\n太平洋上的莓君，\n在汪洋中求索。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "QWQINC"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "xubai_01"
+              }
+            ]
+          }
+        },
+        "id": "1236513840008962048",
+        "is_identity_verified": true,
+        "location": "🇺🇸LA / From 🌍",
+        "most_recent_tweet_id": "2104059857657856264",
+        "name": "寒莓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236513840008962048/1782613425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078148615017816064/MoA4o5cL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 369,
+          "like_count": 6716,
+          "listed_count": 0,
+          "media_count": 1998,
+          "tweet_count": 5865
+        },
+        "url": "",
+        "username": "ColdBerry223",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-05T06:32:55.000Z",
+        "description": "來自台灣 airsoft玩家 軍事愛好者",
+        "id": "1124924918607409152",
+        "is_identity_verified": false,
+        "location": "台中市, 台灣",
+        "most_recent_tweet_id": "2103883097347629517",
+        "name": "WEI51D",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124924918607409152/1701041063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993635416684265472/_vHnAIbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 691,
+          "like_count": 1856,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "Fb3QYZj3wZBTEkd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

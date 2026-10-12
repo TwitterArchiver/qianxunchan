@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2104926083883901388",
+    "created_at": "2026-09-29T15:10:18.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T16:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104951913498497455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104951913498497455",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104926083883901388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@_Genshin_Ganyu_ 正！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2104926069845524481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYzG6-aAAEsAml.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2104926069816197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYzG63agAA2Eo1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2104926083883901388",
+        "created_at": "2026-09-29T15:10:18.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104951913498497455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104951913498497455",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104926083883901388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_Genshin_Ganyu_ 正！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104926069845524481",
+            "3_2104926069816197120"
+          ]
+        },
+        "author_id": "1511574513967722505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104926083883901388",
+        "created_at": "2026-09-29T13:27:40.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104926083883901388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZkemFZ37F",
+              "end": 34,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2104926083883901388/photo/1",
+              "media_key": "3_2104926069845524481",
+              "start": 11,
+              "url": "https://t.co/JZkemFZ37F"
+            },
+            {
+              "display_url": "pic.x.com/JZkemFZ37F",
+              "end": 34,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2104926083883901388/photo/1",
+              "media_key": "3_2104926069816197120",
+              "start": 11,
+              "url": "https://t.co/JZkemFZ37F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104926083883901388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104926069845524481"
+          },
+          {
+            "media_key": "3_2104926069816197120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "回广州，就好这一口！ https://t.co/JZkemFZ37F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2104951913498497455",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 1249,
+          "like_count": 9357,
+          "listed_count": 8,
+          "media_count": 1207,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "18岁，是文盲\n椰羊老师 ｜ 业余电台BD7PVQ\n一般业务请发件 i@ganyu.rocks\n特殊业务🚪50",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApycSp"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "is_identity_verified": false,
+        "location": "我於萬物之中",
+        "most_recent_tweet_id": "2104926083883901388",
+        "name": "研究员王小美🥥🐑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511574513967722505/1787747535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 1627,
+          "like_count": 5688,
+          "listed_count": 10,
+          "media_count": 454,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/aXUuApycSp",
+        "username": "_Genshin_Ganyu_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

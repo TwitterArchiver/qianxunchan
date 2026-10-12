@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103067160503574710",
+    "created_at": "2026-09-24T17:52:20.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103180748736156044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1465763077530734592",
+          "start": 0,
+          "username": "zerah_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103180748736156044",
+    "in_reply_to_user_id": "1465763077530734592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103067160503574710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerah_eth 感谢大佬！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8183,
+        "height": 1718,
+        "media_key": "13_2103065665745952768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103065665745952768/img/3hAy3h4TKySzmLxf.jpg",
+        "public_metrics": {
+          "view_count": 13527
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/pl/i8r-mToTOPkF9J5g.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/vid/avc1/1266x720/ot5k5nxtLEz2Kgdr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/vid/avc1/474x270/x5nA8LQPYqrq2SeS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/vid/avc1/1900x1080/0RTbIVnc_yxCALl5.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/vid/avc1/3024x1718/Izj9bfo3u9oVPp4E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103065665745952768/vid/avc1/632x360/yEs5Cx4edibNN5D2.mp4"
+          }
+        ],
+        "width": 3024
+      },
+      {
+        "height": 2120,
+        "media_key": "3_2103066387950493696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-XvMDaYAA23dk.jpg",
+        "width": 2864
+      },
+      {
+        "height": 2464,
+        "media_key": "3_2103066614837174272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-X8ZRaYAAp1D1.jpg",
+        "width": 3232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103067160503574710",
+        "created_at": "2026-09-24T17:52:20.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103180748736156044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1465763077530734592",
+              "start": 0,
+              "username": "zerah_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103180748736156044",
+        "in_reply_to_user_id": "1465763077530734592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103067160503574710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerah_eth 感谢大佬！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103065665745952768",
+            "3_2103066387950493696",
+            "3_2103066614837174272"
+          ]
+        },
+        "author_id": "1465763077530734592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2103067160503574710",
+        "created_at": "2026-09-24T10:20:58.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103067160503574710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhhQR2gomf",
+              "end": 86,
+              "expanded_url": "https://x.com/zerah_eth/status/2103067160503574710/video/1",
+              "media_key": "13_2103065665745952768",
+              "start": 63,
+              "url": "https://t.co/zhhQR2gomf"
+            },
+            {
+              "display_url": "pic.x.com/zhhQR2gomf",
+              "end": 86,
+              "expanded_url": "https://x.com/zerah_eth/status/2103067160503574710/video/1",
+              "media_key": "3_2103066387950493696",
+              "start": 63,
+              "url": "https://t.co/zhhQR2gomf"
+            },
+            {
+              "display_url": "pic.x.com/zhhQR2gomf",
+              "end": 86,
+              "expanded_url": "https://x.com/zerah_eth/status/2103067160503574710/video/1",
+              "media_key": "3_2103066614837174272",
+              "start": 63,
+              "url": "https://t.co/zhhQR2gomf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103067160503574710",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103065665745952768"
+          },
+          {
+            "media_key": "3_2103066387950493696"
+          },
+          {
+            "media_key": "3_2103066614837174272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 41687,
+          "like_count": 439,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "感谢 AirCard ，iPhone 终于卡面自由了\n两天 vibe 了个卡面分享平台，现在你可以来制作和上传你的传奇卡面了 https://t.co/zhhQR2gomf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103180748736156044",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 1255,
+          "like_count": 9304,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T19:22:17.000Z",
+        "description": "Member of @cryptochasersco\n\nBuilding on @SolbackApp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "cryptochasersco"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "SolbackApp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zerah.cc",
+                "end": 23,
+                "expanded_url": "https://zerah.cc",
+                "start": 0,
+                "url": "https://t.co/7UduyWM2Sw"
+              }
+            ]
+          }
+        },
+        "id": "1465763077530734592",
+        "is_identity_verified": false,
+        "location": "🌏",
+        "most_recent_tweet_id": "2103067404557553799",
+        "name": "zerah.eth (⏱,💰)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465763077530734592/1692994267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681686229472149504/DyO8XSCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 4314,
+          "like_count": 6135,
+          "listed_count": 70,
+          "media_count": 97,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/7UduyWM2Sw",
+        "username": "zerah_eth",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

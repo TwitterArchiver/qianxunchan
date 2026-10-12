@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2105191286072562108",
+    "created_at": "2026-09-30T07:18:41.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105195614216888624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105195614216888624",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105191286072562108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 经典琶洲🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2105191229638295552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTckRQLbwAAvT3b.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2105191286072562108",
+        "created_at": "2026-09-30T07:18:41.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105195614216888624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105195614216888624",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105191286072562108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 经典琶洲🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105191229638295552"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "2105191286072562108",
+        "created_at": "2026-09-30T07:01:29.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105191286072562108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZPhNIBYh1",
+              "end": 38,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2105191286072562108/photo/1",
+              "media_key": "3_2105191229638295552",
+              "start": 15,
+              "url": "https://t.co/CZPhNIBYh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105191286072562108",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105191229638295552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草 发现了2022神秘照片（ https://t.co/CZPhNIBYh1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2105195614216888624",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 1253,
+          "like_count": 9365,
+          "listed_count": 8,
+          "media_count": 1208,
+          "tweet_count": 4896
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g1990033159623422010/i28K3XoY5L",
+                "start": 0,
+                "url": "https://t.co/Jtngzd0IB3"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "is_identity_verified": false,
+        "location": "USC, Los Angeles",
+        "most_recent_tweet_id": "2105192826862739954",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993886755878191104/1704530910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28625,
+          "following_count": 14971,
+          "like_count": 3573,
+          "listed_count": 81,
+          "media_count": 3242,
+          "tweet_count": 10465
+        },
+        "url": "https://t.co/Jtngzd0IB3",
+        "username": "tokiseki_kurumi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

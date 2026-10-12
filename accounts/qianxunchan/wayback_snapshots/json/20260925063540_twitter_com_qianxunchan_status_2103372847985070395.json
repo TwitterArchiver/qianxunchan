@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103372845103603712"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103364105000075370",
+    "created_at": "2026-09-25T06:35:40.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103372847985070395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866716899616460800",
+          "start": 0,
+          "username": "youwmaoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RkXsxeOsd",
+          "end": 44,
+          "expanded_url": "https://x.com/qianxunchan/status/2103372847985070395/photo/1",
+          "media_key": "3_2103372845103603712",
+          "start": 21,
+          "url": "https://t.co/7RkXsxeOsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103372847985070395",
+    "in_reply_to_user_id": "1866716899616460800",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103372845103603712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103364105000075370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youwmaoo 送你点礼物别介意喵🥺 https://t.co/7RkXsxeOsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2103372845103603712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCudV6aYAAt6x7.jpg",
+        "width": 1260
+      },
+      {
+        "height": 614,
+        "media_key": "3_2103364084225757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCmfZGXUAAoWkC.jpg",
+        "width": 1068
+      },
+      {
+        "height": 865,
+        "media_key": "3_2103364095281885184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCmgCSWcAATUYz.jpg",
+        "width": 1397
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103372845103603712"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103364105000075370",
+        "created_at": "2026-09-25T06:35:40.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103372847985070395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866716899616460800",
+              "start": 0,
+              "username": "youwmaoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RkXsxeOsd",
+              "end": 44,
+              "expanded_url": "https://x.com/qianxunchan/status/2103372847985070395/photo/1",
+              "media_key": "3_2103372845103603712",
+              "start": 21,
+              "url": "https://t.co/7RkXsxeOsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103372847985070395",
+        "in_reply_to_user_id": "1866716899616460800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103372845103603712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103364105000075370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youwmaoo 送你点礼物别介意喵🥺 https://t.co/7RkXsxeOsd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103364084225757184",
+            "3_2103364095281885184"
+          ]
+        },
+        "author_id": "1866716899616460800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103364105000075370",
+        "created_at": "2026-09-25T06:00:55.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103364105000075370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vqfdftoxk",
+              "end": 172,
+              "expanded_url": "https://x.com/youwmaoo/status/2103364105000075370/photo/1",
+              "media_key": "3_2103364084225757184",
+              "start": 149,
+              "url": "https://t.co/4vqfdftoxk"
+            },
+            {
+              "display_url": "pic.x.com/4vqfdftoxk",
+              "end": 172,
+              "expanded_url": "https://x.com/youwmaoo/status/2103364105000075370/photo/1",
+              "media_key": "3_2103364095281885184",
+              "start": 149,
+              "url": "https://t.co/4vqfdftoxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103364105000075370",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103364084225757184"
+          },
+          {
+            "media_key": "3_2103364095281885184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 225,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek蓝色大肥鱼的Galgame，是的你没有听错\n今天群友刚刚发给我的， 故事主要描述了你家电脑里面的大肥鱼突然穿越出电脑来找你了\n然后你每天好吃懒做，什么事都让 DeepSeek做\n然后DeepSeek删掉了你价值连城的学习资料\n然后兽性大发的你居然。。\n【用户，用户说要把我给配了】 https://t.co/4vqfdftoxk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103372847985070395",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 1256,
+          "like_count": 9318,
+          "listed_count": 9,
+          "media_count": 1195,
+          "tweet_count": 4834
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-11T05:29:37.000Z",
+        "description": "你好，我是谷雨奇点\nye｜211大三在读｜web3+ai\n慈善家｜贡献者丨理想主义者｜乐观主义者\n匿名提问⬇️ 蓝v互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhxs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhhhxs",
+                "start": 0,
+                "url": "https://t.co/KZCmVFLpZc"
+              }
+            ]
+          }
+        },
+        "id": "1866716899616460800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103371640658702497",
+        "name": "谷雨奇点 (♡𖥦)♥ᵒᵏᵎᵎᵎᵎeth",
+        "pinned_tweet_id": "2102084941672796405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866716899616460800/1789361079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099042645050097664/UY9QxRLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 2646,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/KZCmVFLpZc",
+        "username": "youwmaoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

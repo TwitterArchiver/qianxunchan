@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2108435088367357952"
+      ],
+      "media_source_tweet_id": [
+        "2108435167291564411"
+      ]
+    },
+    "author_id": "1758508742780567552",
+    "conversation_id": "2108732116733464932",
+    "created_at": "2026-10-10T01:31:29.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T02:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108732116733464932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YhaD9HPBeg",
+          "end": 50,
+          "expanded_url": "https://x.com/Rococo90933671/status/2108435167291564411/video/1",
+          "media_key": "13_2108435088367357952",
+          "start": 27,
+          "url": "https://t.co/YhaD9HPBeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108732116733464932",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2108435088367357952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108435167291564411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 真正的讲解石 https://t.co/YhaD9HPBeg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11075,
+        "height": 1920,
+        "media_key": "13_2108435088367357952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108435088367357952/img/7pRu2pKcewfRm-vZ.jpg",
+        "public_metrics": {
+          "view_count": 13135
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108435088367357952/vid/avc1/480x852/_VovxuOPlE7A-1m4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108435088367357952/pl/2jYOYkfNTQoWQJpM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108435088367357952/vid/avc1/320x568/jg23JaQkVCYMe6yH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108435088367357952/vid/avc1/1080x1920/znnRYanT3QnTAEp2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108435088367357952/vid/avc1/720x1280/0_Zd-Fq-hgdM4HYZ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108435088367357952"
+          ],
+          "media_source_tweet_id": [
+            "2108435167291564411"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2108732116733464932",
+        "created_at": "2026-10-10T01:31:29.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T02:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108732116733464932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhaD9HPBeg",
+              "end": 50,
+              "expanded_url": "https://x.com/Rococo90933671/status/2108435167291564411/video/1",
+              "media_key": "13_2108435088367357952",
+              "start": 27,
+              "url": "https://t.co/YhaD9HPBeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108732116733464932",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108435088367357952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108435167291564411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 真正的讲解石 https://t.co/YhaD9HPBeg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108435088367357952"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2108435167291564411",
+        "created_at": "2026-10-09T05:51:31.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108435167291564411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhaD9HPBeg",
+              "end": 30,
+              "expanded_url": "https://x.com/Rococo90933671/status/2108435167291564411/video/1",
+              "media_key": "13_2108435088367357952",
+              "start": 7,
+              "url": "https://t.co/YhaD9HPBeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108435167291564411",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108435088367357952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 24716,
+          "like_count": 443,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "真正的讲解石 https://t.co/YhaD9HPBeg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2108732116733464932",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1274,
+          "like_count": 9362,
+          "listed_count": 8,
+          "media_count": 1219,
+          "tweet_count": 4978
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2108722728295653609",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15279,
+          "following_count": 3306,
+          "like_count": 53968,
+          "listed_count": 50,
+          "media_count": 5793,
+          "tweet_count": 28411
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

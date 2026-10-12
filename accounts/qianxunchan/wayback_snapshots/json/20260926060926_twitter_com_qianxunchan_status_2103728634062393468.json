@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103541542241886707",
+    "created_at": "2026-09-26T06:09:26.000Z",
+    "display_text_range": [
+      20,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103728634062393468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823636080345931782",
+          "start": 0,
+          "username": "luoaowoo"
+        },
+        {
+          "end": 19,
+          "id": "1545277694325116928",
+          "start": 10,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103728634062393468",
+    "in_reply_to_user_id": "1823636080345931782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103667109914128536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoaowoo @YongQuan 我看成拉舍尔是豆腐🥱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103541542241886707",
+        "created_at": "2026-09-26T06:09:26.000Z",
+        "display_text_range": [
+          20,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103728634062393468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823636080345931782",
+              "start": 0,
+              "username": "luoaowoo"
+            },
+            {
+              "end": 19,
+              "id": "1545277694325116928",
+              "start": 10,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103728634062393468",
+        "in_reply_to_user_id": "1823636080345931782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103667109914128536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoaowoo @YongQuan 我看成拉舍尔是豆腐🥱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823636080345931782",
+        "conversation_id": "2103541542241886707",
+        "created_at": "2026-09-26T02:04:57.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103667109914128536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103667109914128536",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103541542241886707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 在床上拉稀骗舍友是臭豆腐（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103728634062393468",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 1256,
+          "like_count": 9332,
+          "listed_count": 9,
+          "media_count": 1199,
+          "tweet_count": 4853
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T08:21:45.000Z",
+        "description": "介绍看置顶帖哦～\n坐标河南郑州，欢迎面基，一个不太健康的xyn哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luoaowoo.cn",
+                "end": 23,
+                "expanded_url": "https://luoaowoo.cn",
+                "start": 0,
+                "url": "https://t.co/pqxLKTOWl5"
+              }
+            ]
+          }
+        },
+        "id": "1823636080345931782",
+        "is_identity_verified": false,
+        "location": "🌏🇨🇳",
+        "most_recent_tweet_id": "2103728279001891315",
+        "name": "洛嗷呜luoaowoo",
+        "pinned_tweet_id": "2083162479627243539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823636080345931782/1779607027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929490251443224576/085L7RI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 161,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/pqxLKTOWl5",
+        "username": "luoaowoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2103728272563486830",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12363,
+          "following_count": 4893,
+          "like_count": 54498,
+          "listed_count": 42,
+          "media_count": 6875,
+          "tweet_count": 18170
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

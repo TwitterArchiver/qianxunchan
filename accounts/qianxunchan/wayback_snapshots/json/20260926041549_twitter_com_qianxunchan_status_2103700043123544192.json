@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103516592051298580",
+    "created_at": "2026-09-26T04:15:49.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103700043123544192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103700043123544192",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103516592051298580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 我还以为是什么腐肉的截面呢😵‍💫这是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2103516576381304832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTExLmpagAAyLcE.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103516592051298580",
+        "created_at": "2026-09-26T04:15:49.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103700043123544192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103700043123544192",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103516592051298580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 我还以为是什么腐肉的截面呢😵‍💫这是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103516576381304832"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2103516592051298580",
+        "created_at": "2026-09-25T16:06:51.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103516592051298580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYUM7zwbbJ",
+              "end": 28,
+              "expanded_url": "https://x.com/akihiro_0313/status/2103516592051298580/photo/1",
+              "media_key": "3_2103516576381304832",
+              "start": 5,
+              "url": "https://t.co/rYUM7zwbbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103516592051298580",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103516576381304832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂你意思 https://t.co/rYUM7zwbbJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103700043123544192",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 1256,
+          "like_count": 9331,
+          "listed_count": 9,
+          "media_count": 1198,
+          "tweet_count": 4849
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "☄️ あきひろ｜個人勢VTuber\n🇨🇳｜15\n🎮 ゲーム・雑談\n🌌 アニメ・二次元が大好き！\n💻 プログラミング\n✏️ 日本語勉強中\n気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@akihiro.0313",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@akihiro.0313",
+                "start": 0,
+                "url": "https://t.co/TJSD4LP3Ow"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "is_identity_verified": true,
+        "location": "A happy world...",
+        "most_recent_tweet_id": "2103664638219219129",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781893716183060480/1786076592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 3046,
+          "like_count": 16775,
+          "listed_count": 2,
+          "media_count": 1811,
+          "tweet_count": 12453
+        },
+        "url": "https://t.co/TJSD4LP3Ow",
+        "username": "akihiro_0313",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

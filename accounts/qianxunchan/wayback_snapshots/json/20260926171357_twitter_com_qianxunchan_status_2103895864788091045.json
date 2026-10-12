@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2103883097347629517",
+    "created_at": "2026-09-26T17:13:57.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103895864788091045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124924918607409152",
+          "start": 0,
+          "username": "Fb3QYZj3wZBTEkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103895864788091045",
+    "in_reply_to_user_id": "1124924918607409152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103883097347629517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fb3QYZj3wZBTEkd 精准+5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103883089294524416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ-hdpaAAADteh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2103883089273573376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ-hdkaUAA_9Ph.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2103883097347629517",
+        "created_at": "2026-09-26T17:13:57.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103895864788091045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124924918607409152",
+              "start": 0,
+              "username": "Fb3QYZj3wZBTEkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103895864788091045",
+        "in_reply_to_user_id": "1124924918607409152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103883097347629517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fb3QYZj3wZBTEkd 精准+5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103883089294524416",
+            "3_2103883089273573376"
+          ]
+        },
+        "author_id": "1124924918607409152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103883097347629517",
+        "created_at": "2026-09-26T16:23:13.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103883097347629517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnQgFOI3up",
+              "end": 33,
+              "expanded_url": "https://x.com/Fb3QYZj3wZBTEkd/status/2103883097347629517/photo/1",
+              "media_key": "3_2103883089294524416",
+              "start": 10,
+              "url": "https://t.co/UnQgFOI3up"
+            },
+            {
+              "display_url": "pic.x.com/UnQgFOI3up",
+              "end": 33,
+              "expanded_url": "https://x.com/Fb3QYZj3wZBTEkd/status/2103883097347629517/photo/1",
+              "media_key": "3_2103883089273573376",
+              "start": 10,
+              "url": "https://t.co/UnQgFOI3up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103883097347629517",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103883089294524416"
+          },
+          {
+            "media_key": "3_2103883089273573376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新增垂直扳機～～～ https://t.co/UnQgFOI3up"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2103895864788091045",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 1257,
+          "like_count": 9334,
+          "listed_count": 9,
+          "media_count": 1201,
+          "tweet_count": 4859
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-05T06:32:55.000Z",
+        "description": "來自台灣 airsoft玩家 軍事愛好者",
+        "id": "1124924918607409152",
+        "is_identity_verified": false,
+        "location": "Taichung City, Taiwan",
+        "most_recent_tweet_id": "2103883097347629517",
+        "name": "WEI51D",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124924918607409152/1701041063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993635416684265472/_vHnAIbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 691,
+          "like_count": 1856,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "Fb3QYZj3wZBTEkd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

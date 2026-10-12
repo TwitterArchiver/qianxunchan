@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2108500304853696725",
+    "created_at": "2026-10-09T11:03:54.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108513781114638432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003301347760963586",
+          "start": 0,
+          "username": "odoooobo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108513781114638432",
+    "in_reply_to_user_id": "2003301347760963586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108502414483755066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odoooobo 我要开长途😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2108500304853696725",
+        "created_at": "2026-10-09T11:03:54.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108513781114638432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003301347760963586",
+              "start": 0,
+              "username": "odoooobo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108513781114638432",
+        "in_reply_to_user_id": "2003301347760963586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108502414483755066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odoooobo 我要开长途😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003301347760963586",
+        "conversation_id": "2108500304853696725",
+        "created_at": "2026-10-09T10:18:44.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108502414483755066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108502414483755066",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108500304853696725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 我睡了 5 個小時而已"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2108513781114638432",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 1274,
+          "like_count": 9362,
+          "listed_count": 8,
+          "media_count": 1216,
+          "tweet_count": 4969
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-23T03:08:13.000Z",
+        "description": "藤本タツキ×小島秀夫×魚韻x 三浦大知,演出・リズム・叙事のメモ 🇯🇵の同好歓迎`最近Marathonに超ハマってて`ずっとナイフで走り回ってるんだよね`個人でニコンZFを持っており`3つの異なる焦点距離のレンズがあります`AMAZE`mm`🛀`😭 BLUE BOT",
+        "id": "2003301347760963586",
+        "is_identity_verified": true,
+        "location": "岩場の泡立て板の上で",
+        "most_recent_tweet_id": "2108512847835664603",
+        "name": "オド",
+        "pinned_tweet_id": "2108393410553913646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003301347760963586/1784253420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991599948214272/ONlu8YmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 262,
+          "like_count": 44714,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 7527
+        },
+        "url": "",
+        "username": "odoooobo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

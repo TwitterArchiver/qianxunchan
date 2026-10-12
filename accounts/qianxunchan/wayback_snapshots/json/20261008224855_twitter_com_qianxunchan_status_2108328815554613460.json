@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758508742780567552",
+    "conversation_id": "2108328815554613460",
+    "created_at": "2026-10-08T22:48:55.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T23:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108328815554613460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108328815554613460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 210,
+            "id": "13298072",
+            "start": 204,
+            "username": "Tesla"
+          },
+          {
+            "end": 219,
+            "id": "1659653864138612761",
+            "start": 211,
+            "username": "TeslaSI"
+          }
+        ]
+      },
+      "text": "傻逼特斯拉为什么人家每次fsd更新都很快\n\n虽说你更新有先后是为了防止大范围趴窝\n\n但是他妈的你一次更新一个月来一次😡\n\n他妈的老子收更新要起码比别人落后两周😡\n\n老子收到更新他妈的万圣节都过完了好吗😭\n\n同年份的hw3 车型都比我早更新完v14.3lite\n\n每次新功能都落后于人家明明我们都花了一样的钱购买fsd车机芯片甚至是一样的\n这是否有点太区别对待了\n\n每一次热情被水浇灭慢慢折磨的感觉真的不好😭\n@Tesla @TeslaSI"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼特斯拉为什么人家每次fsd更新都很快\n\n虽说你更新有先后是为了防止大范围趴窝\n\n但是他妈的你一次更新一个月来一次😡\n\n他妈的老子收更新要起码比别人落后两周😡\n\n老子收到更新他妈的万圣节都过完了好吗😭\n\n同年份的hw3 车型都比我早更新完v14.3lite"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [13298072].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "13298072",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "13298072"
+    },
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1659653864138612761].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1659653864138612761",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1659653864138612761"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2108328815554613460",
+        "created_at": "2026-10-08T22:48:55.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T23:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108328815554613460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108328815554613460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 210,
+                "id": "13298072",
+                "start": 204,
+                "username": "Tesla"
+              },
+              {
+                "end": 219,
+                "id": "1659653864138612761",
+                "start": 211,
+                "username": "TeslaSI"
+              }
+            ]
+          },
+          "text": "傻逼特斯拉为什么人家每次fsd更新都很快\n\n虽说你更新有先后是为了防止大范围趴窝\n\n但是他妈的你一次更新一个月来一次😡\n\n他妈的老子收更新要起码比别人落后两周😡\n\n老子收到更新他妈的万圣节都过完了好吗😭\n\n同年份的hw3 车型都比我早更新完v14.3lite\n\n每次新功能都落后于人家明明我们都花了一样的钱购买fsd车机芯片甚至是一样的\n这是否有点太区别对待了\n\n每一次热情被水浇灭慢慢折磨的感觉真的不好😭\n@Tesla @TeslaSI"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼特斯拉为什么人家每次fsd更新都很快\n\n虽说你更新有先后是为了防止大范围趴窝\n\n但是他妈的你一次更新一个月来一次😡\n\n他妈的老子收更新要起码比别人落后两周😡\n\n老子收到更新他妈的万圣节都过完了好吗😭\n\n同年份的hw3 车型都比我早更新完v14.3lite"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\ntg在推特下方网站 | Q群667335570(不建议加)\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yansuichan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FZD6ERhlXIkzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FZD6ERhlXIkzZDU5",
+                "start": 0,
+                "url": "https://t.co/bijLbFvBou"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2108328815554613460",
+        "name": "绿色杯子千尋醬喵～😦😨😰🥵♻️",
+        "pinned_tweet_id": "2100364937591955834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100364095753244672/dRBRYISL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 1271,
+          "like_count": 9360,
+          "listed_count": 8,
+          "media_count": 1216,
+          "tweet_count": 4955
+        },
+        "url": "https://t.co/bijLbFvBou",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
